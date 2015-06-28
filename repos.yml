@@ -1,12 +1,12 @@
 ######
 # Github repos
 
-geraldb:
+geraldb:  ##  ?? repos
+  - backup
   - talks
   - catalog
   - geraldb.github.io
   - auto
-  - backup
   - austria
   - web-proxy-win
   - polymer
@@ -17,10 +17,206 @@ geraldb:
   - sandbox
   - hellohoe
 
-planetopendata:
+planetopendata:  ## 6 repos
+  - austria
   - awesome-sqlite
   - awesome-football
   - awesome-world
   - planetopendata.github.io
   - planet
+
+planetbeer:  ## 3 repos
+  - planetbeer.github.io
+  - books
+  - planet
+
+planetruby:   ## 14 repos
+  - awesome-events
+  - awesome-activerecord
+  - awesome-rubies
+  - awesome-webframeworks
+  - awesome-staticgen
+  - awesome-blogs
+  - planetruby.github.io
+  - monthly
+  - apps
+  - books
+  - links
+  - gems
+  - planet
+  - quickrefs
+
+planetjekyll:    ## 10 repos
+  - awesome-jekyll
+  - planetjekyll.github.io
+  - themes
+  - snippets
+  - quickrefs
+  - links
+  - planet
+  - sandbox
+  - jekyll-bootstrap-theme
+  - jekyll-minimal-theme
+
+book-templates:   ## 5 repos
+  - bookfile
+  - football
+  - beer
+  - world
+  - schema
+
+slideshow-templates:   ## 11 repos
+  - slideshow-s6-syntax-highlighter
+  - slideshow-google-html5-slides
+  - slideshow-impress.js
+  - slideshow-s5-themes
+  - slideshow-s5-blank
+  - slideshow-slidy
+  - slideshow-deck.js
+  - slideshow-csss
+  - slideshow-s6-blank
+  - slideshow-templates.github.io
+  - slideshow-shower
+
+planet-templates:   ## 11 repos
+  - planet-templates.github.io
+  - planet-top
+  - planet-paper
+  - planet-news
+  - planet-hacker
+  - planet-forty
+  - planet-digest
+  - planet-blank
+  - planet-classic
+  - planet-feeds
+  - planet-zen
+
+mokkalibs:   ## 2 repos
+  - mokka
+  - faster_xml_simple_reader
+
+slidekit:   ## 4 repos
+  - s6
+  - s6-samples
+  - s6-minimalistic
+  - slidekit.github.io
+
+writekit:   ## 12 repos
+  - awesome-markdown
+  - awesome-books
+  - markdown
+  - markdown-tools
+  - markdown-service
+  - markdown.note.starter
+  - markdown.api.js
+  - markdown.themes
+  - markdown.lib.js
+  - markdown.note
+  - classics--dr-jekyll-and-mr-hyde
+  - classics--the-trial
+
+sportkit:  ## 3 repos (+1 fork)
+  - sport.db.starter.node.js
+  - sport.db.starter.go
+  - sport.db.starter.ruby
+
+beercsv:  ## 7 repos
+  - us-united-states
+  - be-belgium
+  - de-deutschland
+  - world
+  - build
+  - ca-canada
+  - statistics
+
+footballcsv:  ## 12 repos
+  - en-england
+  - de-deutschland
+  - build
+  - fr-france
+  - it-italy
+  - es-espana
+  - gr-greece
+  - be-belgium
+  - sco-scotland
+  - nl-netherlands
+  - tr-turkey
+  - pt-portugal
+
+persondb:   ## 1 repo
+  - person.db.models
+
+worlddb:   ## 13 repos
+  - world.db.models
+  - world.db.tools
+  - world.db.compat
+  - world.db.service
+  - factbook
+  - world.db.codes
+  - factbook.starter
+  - world.db.places
+  - world.db.cities
+  - world.db.admin
+  - world.lite
+  - world.db.flags
+  - world.db.service.rack
+
+sportdb:  ## 13 repos
+  - sport.db.service
+  - sport.db.models
+  - sport.db.tools
+  - sport.db.update
+  - sport.db.compat
+  - major-league-soccer
+  - sport.db.admin
+  - racing.db.models
+  - sport.db.web
+  - sport.db.service.rack
+  - sport.db.keys
+  - football.db.models
+  - ojogo
+
+wikiscript:  ## 4 repos
+  - beer.ruby
+  - wikiscript.ruby
+  - football.squads.ruby
+  - football.players.ruby
+
+rsssf:  ## 5 repos
+  - de-deutschland
+  - rsssf.github.io
+  - es-espana
+  - en-england
+  - br-brazil
+
+beerkit:   ## 11 repos
+  - beer.db.service
+  - beer.db.models
+  - beer.db.day
+  - beer.db.tools
+  - beer.db.admin
+  - beerbook
+  - beer.db.service.rack
+  - beer.db.note
+  - beer.db.mobile
+  - beer.js
+  - beer.api.js
+
+footballjs:   ## 4 repos
+  - football.html
+  - football.js
+  - football.api.js
+  - starter
+
+beerlabels:   ## 2 repos
+  - beer.db.labels.ruby
+  - beer.db.labels
+
+hybook:   ## 3 repos
+  - bookfile
+  - hybook
+  - bookman
+
+
+
 
