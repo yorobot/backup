@@ -217,6 +217,216 @@ hybook:   ## 3 repos
   - hybook
   - bookman
 
+openwine:    ## 2 repos
+  - build
+  - at-austria
 
+textkit:  ## 10 repos
+  - event.db
+  - whatson
+  - textutils
+  - datafile
+  - datapak
+  - dataman
+  - textutils-more
+  - notes
+  - preproc
+  - csv2
+
+libsjs:    ## 3 repos
+  - jquery.table.js
+  - jquery.tabs.js
+  - jquery.debug.js
+
+sportlogos:  ## 6 repos
+  - sport.db.logos.ruby
+  - sport.db.logos
+  - football.db.logos.ruby
+  - sportlogos.github.io
+  - hockey.db.logos
+  - football.db.logos
+
+rubylibs:   ## 18 repos
+  - webservice
+  - fetcher
+  - logutils-activerecord
+  - schemadoc
+  - dbbrowser
+  - activerecord-utils
+  - logutils-admin
+  - tagutils
+  - logutils
+  - props
+  - props-activerecord
+  - linkto
+  - activityutils
+  - about
+  - ostructer
+  - pakman
+  - activerecord-importer
+  - hoe-manifest
+
+feedreader:  ## 17 repos
+  - feedreader.github.io
+  - pluto.models
+  - feed.parser
+  - planets
+  - pluto.live
+  - pluto.tasks
+  - pluto.admin
+  - pluto
+  - pluto.update
+  - feed.filter
+  - planet-web
+  - notes
+  - pluto.feed.fetcher
+  - jekyll-planet
+  - pluto.tools
+  - pluto.merge
+  - pluto.live.starter
+
+opensport:  ## 6 repos
+  - american-football.db
+  - opensport.github.io
+  - build
+  - ski.db
+  - formula1.db
+  - hockey.db
+
+openmundi: ## 16 repos
+  - austria.db
+  - deutschland.db
+  - datafile
+  - openmundi.github.io
+  - auto
+  - book
+  - build
+  - world.db
+  - factbook.json
+  - world.csv
+  - world-heritage
+  - notes
+  - wien.db
+  - langs
+  - welt-de
+  - mundo-es
+
+openbookie:  ## 8 repos
+  - sportbook
+  - sport.db.play
+  - market.europe-champions-league
+  - sport.db.market
+  - notes
+  - market.at-austria
+  - market.euro-cup
+  - market.world-cup
+
+webstart:   ## 12 repos
+  - upman-win
+  - upman
+  - webstart-notifier
+  - master
+  - webstart.github.io
+  - webstart-browser
+  - webstart-utils
+  - server
+  - sandbox
+  - links-sinatra
+  - links-rails
+  - manman
+
+openfootball:   ## 43 repos
+  - calendar
+  - es-espana
+  - at-austria
+  - it-italy
+  - de-deutschland
+  - eng-england
+  - openfootball.github.io
+  - women-world-cup
+  - datafile
+  - build
+  - build-shell
+  - club-world-cup
+  - mx-mexico
+  - europe-champions-league
+  - ch-confoederatio-helvetica
+  - clubs
+  - confed-cup
+  - assocs
+  - copa-sudamericana
+  - br-brazil
+  - north-america-champions-league
+  - stadiums
+  - book
+  - auto
+  - fr-france
+  - schema
+  - players
+  - national-teams
+  - major-league-soccer
+  - euro-cup
+  - fussball-de
+  - api
+  - docs
+  - schema.sql
+  - talks
+  - world-cup
+  - lang
+  - africa-cup
+  - north-america-gold-cup
+  - copa-america
+  - futbol-es
+  - copa-libertadores
+  - sandbox
+
+slideshow-s9:    ## 10 repos
+  - demos
+  - slideshow-s9.github.io
+  - slideshow-models
+  - slideshow
+  - slideshow-templates
+  - registry
+  - slideshow-plugins
+  - notes
+  - samples
+  - formatting
+
+openbeer:   ## 35 repos
+  - calendar
+  - by-bayern
+  - oberfranken
+  - oberbayern
+  - book
+  - auto
+  - build
+  - datafile
+  - collections
+  - quiz
+  - notes
+  - openbeer.github.io
+  - schema
+  - at-austria
+  - images
+  - maps
+  - cz-czech-republic
+  - be-belgium
+  - market
+  - world
+  - co-colorado
+  - wa-washington
+  - or-oregon
+  - us-united-states
+  - menus
+  - ca-canada
+  - mx-mexico
+  - ie-ireland
+  - de-deutschland
+  - schema.sql
+  - talks
+  - api
+  - ch-confoederatio-helvetica
+  - nl-netherlands
+  - jp-japan
 
 
