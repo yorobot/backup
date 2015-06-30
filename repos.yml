@@ -30,7 +30,7 @@ planetbeer:  ## 3 repos
   - books
   - planet
 
-planetruby:   ## 14 repos
+planetruby:   ## 15 repos
   - awesome-events
   - awesome-activerecord
   - awesome-rubies
@@ -45,6 +45,7 @@ planetruby:   ## 14 repos
   - gems
   - planet
   - quickrefs
+  - catalog
 
 planetjekyll:    ## 10 repos
   - awesome-jekyll
@@ -221,7 +222,9 @@ openwine:    ## 2 repos
   - build
   - at-austria
 
-textkit:  ## 10 repos
+textkit:  ## 12 repos
+  - catalog.db
+  - rubycat
   - event.db
   - whatson
   - textutils
