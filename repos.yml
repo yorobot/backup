@@ -17,6 +17,12 @@ geraldb:  ##  ?? repos
   - sandbox
   - hellohoe
 
+rubyref:  ## 4 repos
+  - regexp
+  - net-http
+  - sandbox
+  - activerecord
+
 planetopendata:  ## 6 repos
   - austria
   - awesome-sqlite
@@ -30,34 +36,51 @@ planetbeer:  ## 3 repos
   - books
   - planet
 
-planetruby:   ## 15 repos
+planetruby:   ## 18 repos
   - awesome-events
+  - awesome-webservers
   - awesome-activerecord
-  - awesome-rubies
-  - awesome-webframeworks
-  - awesome-staticgen
+  - awesome
   - awesome-blogs
+  - awesome-webframeworks
+  - awesome-rack
+  - awesome-stdlib
+  - awesome-staticgen
+  - awesome-rubies
   - planetruby.github.io
+  - catalog
   - monthly
   - apps
   - books
   - links
   - gems
   - planet
-  - quickrefs
-  - catalog
 
-planetjekyll:    ## 10 repos
+viennahtml:  ## 1 repo
+  - viennahtml.github.io
+
+planetjekyll:    ## 9 repos
+  - jekyll-starter-theme
+  - jekyll-starter-theme-v2
+  - showcase
   - awesome-jekyll
   - planetjekyll.github.io
-  - themes
   - snippets
   - quickrefs
-  - links
   - planet
   - sandbox
-  - jekyll-bootstrap-theme
+
+drjekyllthemes:  ## 6 repos
+  - drjekyllthemes.github.io
+  - themes
+  - build
+  - jekyll-book-theme
   - jekyll-minimal-theme
+  - jekyll-bootstrap-theme
+
+worldclassics:   ## 2 repos
+  - the-trial
+  - dr-jekyll-and-mr-hyde
 
 book-templates:   ## 5 repos
   - bookfile
@@ -103,6 +126,8 @@ slidekit:   ## 4 repos
   - slidekit.github.io
 
 writekit:   ## 12 repos
+  - writekit.github.io
+  - quickrefs
   - awesome-markdown
   - awesome-books
   - markdown
@@ -113,8 +138,6 @@ writekit:   ## 12 repos
   - markdown.themes
   - markdown.lib.js
   - markdown.note
-  - classics--dr-jekyll-and-mr-hyde
-  - classics--the-trial
 
 sportkit:  ## 3 repos (+1 fork)
   - sport.db.starter.node.js
@@ -183,12 +206,14 @@ wikiscript:  ## 4 repos
   - football.squads.ruby
   - football.players.ruby
 
-rsssf:  ## 5 repos
+rsssf:  ## 7 repos
   - de-deutschland
+  - build
   - rsssf.github.io
   - es-espana
-  - en-england
+  - eng-england
   - br-brazil
+  - at-austria
 
 beerkit:   ## 11 repos
   - beer.db.service
