@@ -17,7 +17,11 @@ geraldb:  ##  ?? repos
   - sandbox
   - hellohoe
 
-rubyref:  ## 4 repos
+rubyref:  ## ?? repos
+  - sinatra-starter-template
+  - gem-starter-template-hoe
+  - gem-starter-template
+  - scripts
   - regexp
   - net-http
   - sandbox
@@ -56,8 +60,9 @@ planetruby:   ## 18 repos
   - gems
   - planet
 
-viennahtml:  ## 1 repo
+viennahtml:  ## 2 repos
   - viennahtml.github.io
+  - members
 
 planetjekyll:    ## 9 repos
   - jekyll-starter-theme
@@ -70,13 +75,19 @@ planetjekyll:    ## 9 repos
   - planet
   - sandbox
 
-drjekyllthemes:  ## 6 repos
+drjekyllthemes:  ## 7 repos
+  - drjekyll
   - drjekyllthemes.github.io
   - themes
   - build
   - jekyll-book-theme
   - jekyll-minimal-theme
   - jekyll-bootstrap-theme
+
+mrhydescripts:  ## 3 repos
+  - mrhyde
+  - scripts
+  - jekylldoc
 
 worldclassics:   ## 2 repos
   - the-trial
@@ -139,10 +150,11 @@ writekit:   ## 12 repos
   - markdown.lib.js
   - markdown.note
 
-sportkit:  ## 3 repos (+1 fork)
+sportkit:  ## 4 repos
+  - mu-mauritius
+  - sport.db.starter.ruby
   - sport.db.starter.node.js
   - sport.db.starter.go
-  - sport.db.starter.ruby
 
 beercsv:  ## 7 repos
   - us-united-states
@@ -274,7 +286,8 @@ sportlogos:  ## 6 repos
   - hockey.db.logos
   - football.db.logos
 
-rubylibs:   ## 18 repos
+rubylibs:   ## 19 repos
+  - quik
   - webservice
   - fetcher
   - logutils-activerecord
