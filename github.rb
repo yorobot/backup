@@ -68,16 +68,18 @@ end  # methdo get
 
 end  # class GitHub
 
-
+=begin
 def save_orgs
   gh = GitHub.new
   json = gh.user_orgs('geraldb')
   
   orgs = []
-  json.each |org|     ## note: assume array gets returned
+  json.each do |org|     ## note: assume array gets returned
     orgs << org['login']
   end
 end
+=end
+
 
 def save_json( name, data )    ## data - hash or array
   File.open( "./o/#{name}", "w" ) do |f|
