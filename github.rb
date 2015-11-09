@@ -8,7 +8,34 @@ require 'pp'
 require 'json'
 
 
-class GitHub       ## rename to GitHubClient or GitHubApi or GitHubWeb - why? why not??
+class GitHubCache    ## lets you work with  GitHub api "offline" using just a local cache of stored json
+
+  MAPPINGS = {
+    '/users/geraldb'         => 'geraldb',
+    '/users/geraldb/repos'   => 'geraldb.repos',
+    '/users/geraldb/orgs'    => 'geraldb.orgs'
+  }
+
+  def initialize( dir: './cache' )
+    @dir = dir
+  end
+
+  def get( request_uri )
+    ## check if request_uri exists in local cache
+    basename = MAPPINGS[ request_uri ]
+    if basename
+      path = "#{@dir}/#{basename}.json"
+      text = File.read( path )   ## todo/fix:  use File.read_utf8
+      json = JSON.parse( text )
+    else
+      nil   ## raise exception - why? why not??
+    end    
+  end  # method get
+  
+end  ## GitHubCache
+
+
+class GitHubClient
 
 def initialize
   uri = URI.parse( "https://api.github.com" )
@@ -17,27 +44,6 @@ def initialize
   @http.verify_mode = OpenSSL::SSL::VERIFY_NONE
 end # method initialize
 
-
-def user( name )
-  get( "/users/#{name}")
-end
-
-def user_repos( name )
-  get( "/users/#{name}/repos")
-end
-
-def user_orgs( name )
-  get( "/users/#{name}/orgs" )
-end
-
-
-def org( name )
-  get( "/orgs/#{name}" )
-end
-
-
-
-private
 def get( request_uri )
   puts "GET #{request_uri}"
 
@@ -66,7 +72,49 @@ def get( request_uri )
   json
 end  # methdo get
 
+end  ## GitHubClient
+
+
+class GitHub       ## rename to GitHubClient or GitHubApi or GitHubWeb - why? why not??
+
+def initialize
+   @client = GitHubClient.new
+   @cache  = GitHubCache.new
+   
+   @offline = false
+end
+
+def offline!()  @offline = true;  end   ## switch to offline  - todo: find a "better" way - why? why not?
+def offline?()  @offline; end
+
+def user( name )
+  get( "/users/#{name}")
+end
+
+def user_repos( name )
+  get( "/users/#{name}/repos")
+end
+
+def user_orgs( name )
+  get( "/users/#{name}/orgs" )
+end
+
+
+def org( name )
+  get( "/orgs/#{name}" )
+end
+
+private
+def get( request_uri )
+  if offline?
+    @cache.get( request_uri )
+  else
+    @client.get( request_uri )
+  end
+end
+
 end  # class GitHub
+
 
 =begin
 def save_orgs
@@ -79,24 +127,4 @@ def save_orgs
   end
 end
 =end
-
-
-def save_json( name, data )    ## data - hash or array
-  File.open( "./o/#{name}", "w" ) do |f|
-    f.write JSON.pretty_generate( data )
-  end
-end
-
-
-gh = GitHub.new
-
-save_json 'geraldb.json',       gh.user('geraldb')
-save_json 'geraldb.repos.json', gh.user_repos('geraldb')
-save_json 'geraldb.orgs.json',  gh.user_orgs('geraldb')
-
-save_json 'skriptbot.json',       gh.user('skriptbot')
-save_json 'skriptbot.repos.json', gh.user_repos('skriptbot')
-
-## gh.org('planetjekyll')
-
 
