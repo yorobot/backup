@@ -6,14 +6,18 @@ require 'uri'
 
 require 'pp'
 require 'json'
+require 'yaml'
 
 
 class GitHubCache    ## lets you work with  GitHub api "offline" using just a local cache of stored json
 
   MAPPINGS = {
-    '/users/geraldb'         => 'geraldb',
-    '/users/geraldb/repos'   => 'geraldb.repos',
-    '/users/geraldb/orgs'    => 'geraldb.orgs'
+    '/users/geraldb'           => 'geraldb',
+    '/users/geraldb/repos'     => 'geraldb.repos',
+    '/users/geraldb/orgs'      => 'geraldb.orgs',
+    '/orgs/wikiscript/repos'   => 'wikiscript.repos',
+    '/orgs/planetjekyll/repos' => 'planetjekyll.repos',
+    '/orgs/vienna-rb/repos'    => 'vienna-rb.repos',
   }
 
   def initialize( dir: './cache' )
@@ -95,14 +99,41 @@ def user_repos( name )
   get( "/users/#{name}/repos")
 end
 
+class Response
+  attr_reader :data
+  def initialize( data )
+    @data = data
+  end
+end
+
+class UserOrgs < Response
+  def logins
+    ## sort by name
+    data.map { |item| item['login'] }.sort
+  end
+end
+
+
 def user_orgs( name )
-  get( "/users/#{name}/orgs" )
+  UserOrgs.new( get "/users/#{name}/orgs" )
 end
 
 
 def org( name )
   get( "/orgs/#{name}" )
 end
+
+class OrgRepos < Response
+  def names
+    ## sort by name
+    data.map { |item| item['name'] }.sort
+  end
+end
+
+def org_repos( name )
+  OrgRepos.new( get "/orgs/#{name}/repos" )
+end
+
 
 private
 def get( request_uri )

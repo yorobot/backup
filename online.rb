@@ -12,14 +12,21 @@ end
 
 gh = GitHub.new
 
-save_json 'geraldb.json',       gh.user('geraldb')
-save_json 'geraldb.repos.json', gh.user_repos('geraldb')
-save_json 'geraldb.orgs.json',  gh.user_orgs('geraldb')
+## save_json 'geraldb.json',       gh.user('geraldb')
+## save_json 'geraldb.repos.json', gh.user_repos('geraldb')
+## save_json 'geraldb.orgs.json',  gh.user_orgs('geraldb')
 
-save_json 'skriptbot.json',       gh.user('skriptbot')
-save_json 'skriptbot.repos.json', gh.user_repos('skriptbot')
+## save_json 'skriptbot.json',       gh.user('skriptbot')
+## save_json 'skriptbot.repos.json', gh.user_repos('skriptbot')
 
-## gh.org('planetjekyll')
+## save_json 'wikiscript.repos.json', gh.org_repos('wikiscript').data
+## save_json 'vienna-rb.repos.json', gh.org_repos('vienna-rb').data
+
+## save_json 'wikiscript.json', gh.org('wikiscript')
+## save_json 'vienna-rb.json', gh.org('vienna-rb')
+
+save_json 'planetjekyll.json',        gh.org('planetjekyll')
+save_json 'planetjekyll.repos.json',  gh.org_repos('planetjekyll').data
 
 
 puts "Done."
