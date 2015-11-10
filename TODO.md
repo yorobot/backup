@@ -1,18 +1,26 @@
 # Todos
 
+##  double check org membership (must be public)
 
-move o folder to cache - why, why not??
+check if set to public (otherwise org will NOT get included in api call)
 
-change gerald.json  to users.geraldb.json  - e.g. 1:1  - change / to . or use -I- or --I--
-e.g. users-I-geraldb-I-repos.json
-     users.geraldb.repos.json
+
+## add auto-save to github client
+
+add auto-save;  what to do with query parameters (e.g.?per-page=100):
+- strip ??  or
+- include - why? why not??
+
+
+## more
+
+change gerald.json  to users~geraldb.json  - e.g. 1:1
 
 keeps it generic e.g. no url/uri mapping required
 
 
+## config
 
-##  move cache to its own repo
-
-just use /cache   or /gh-cache or something ??
+use a /config folder for   repos.yml, org.yml etc.  - why? why not??
 
 

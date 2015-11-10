@@ -65,23 +65,26 @@ end  ## method save_repos
 ## save_repos()
 save_orgs()
 
-## gh = GitHub.new
 
-## save_json 'geraldb.json',       gh.user('geraldb')
-## save_json 'geraldb.repos.json', gh.user_repos('geraldb')
-## save_json 'geraldb.orgs.json',  gh.user_orgs('geraldb')
+# gh = GitHub.new
+# save_json 'orgs~openfootball~repos', gh.org_repos('openfootball').data
+# save_json 'orgs~openbeer~repos',     gh.org_repos('openbeer').data
 
-## save_json 'skriptbot.json',       gh.user('skriptbot')
-## save_json 'skriptbot.repos.json', gh.user_repos('skriptbot')
+## save_json 'geraldb',       gh.user('geraldb')
+## save_json 'geraldb.repos', gh.user_repos('geraldb')
+## save_json 'geraldb.orgs',  gh.user_orgs('geraldb')
 
-## save_json 'wikiscript.repos.json', gh.org_repos('wikiscript').data
-## save_json 'vienna-rb.repos.json', gh.org_repos('vienna-rb').data
+## save_json 'skriptbot',       gh.user('skriptbot')
+## save_json 'skriptbot.repos', gh.user_repos('skriptbot')
 
-## save_json 'wikiscript.json', gh.org('wikiscript')
-## save_json 'vienna-rb.json', gh.org('vienna-rb')
+## save_json 'wikiscript.repos', gh.org_repos('wikiscript').data
+## save_json 'vienna-rb.repos', gh.org_repos('vienna-rb').data
 
-## save_json 'planetjekyll.json',        gh.org('planetjekyll')
-## save_json 'planetjekyll.repos.json',  gh.org_repos('planetjekyll').data
+## save_json 'wikiscript', gh.org('wikiscript')
+## save_json 'vienna-rb', gh.org('vienna-rb')
+
+## save_json 'planetjekyll',        gh.org('planetjekyll')
+## save_json 'planetjekyll.repos',  gh.org_repos('planetjekyll').data
 
 
 puts "Done."

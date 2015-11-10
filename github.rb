@@ -24,6 +24,8 @@ class GitHubCache    ## lets you work with  GitHub api "offline" using just a lo
     @dir = dir
   end
 
+  ##  fix/todo:  cut of query string e.g. ?per_page=100  why? why not?
+
   def get( request_uri )
     ## check if request_uri exists in local cache
     basename = MAPPINGS[ request_uri ]
@@ -111,7 +113,7 @@ class UserRepos < Response
 end
 
 def user_repos( name )
-  UserRepos.new( get "/users/#{name}/repos" )
+  UserRepos.new( get "/users/#{name}/repos" )   ## add ?per_page=100 - why? why not?
 end
 
 class UserOrgs < Response
@@ -122,8 +124,16 @@ class UserOrgs < Response
 end
 
 
+##
+# note: pagination
+#  requests that return multiple items will be paginated to 30 items by default.
+#   You can specify further pages with the ?page parameter.
+# For some resources, you can also set a custom page size up to 100
+#  with the ?per_page=100 parameter
+
+
 def user_orgs( name )
-  UserOrgs.new( get "/users/#{name}/orgs" )
+  UserOrgs.new( get "/users/#{name}/orgs?per_page=100" )
 end
 
 
@@ -139,7 +149,7 @@ class OrgRepos < Response
 end
 
 def org_repos( name )
-  OrgRepos.new( get "/orgs/#{name}/repos" )
+  OrgRepos.new( get "/orgs/#{name}/repos?per_page=100" )
 end
 
 
