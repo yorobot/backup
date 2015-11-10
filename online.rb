@@ -21,29 +21,49 @@ def save_repos
   gh = GitHub.new
   
   h = {}
-  users = %w( gerald skriptbot )
+  users = %w(geraldb skriptbot)
   users.each do |user|
     res = gh.user_repos( user )
-    save_json( "#{user}~repos", res.data )
+    save_json( "users~#{user}~repos", res.data )
 
     repos = res.names    
     h[ "#{user} (#{repos.size})" ] = repos
-    save_yaml( "repos", h )
   end
-end
 
-save_repos
+  ## all repos from orgs
+  user = 'geraldb'
+  res = gh.user_orgs( user )
+  save_json( "users~#{user}~orgs", res.data )
+
+  logins = res.logins.each do |login|
+    next if ['vienna-rb'].include?( login )      ## skip vienna-rb for now
+    res = gh.org_repos( login )
+    save_json( "orgs~#{login}~repos", res.data )
+
+    repos = res.names    
+    h[ "#{login} (#{repos.size})" ] = repos
+  end  
+
+  save_yaml( "repos", h )
+end  ## method save_repos
 
 
-#  json = gh.user_orgs('geraldb')
-#  
-#  orgs = []
-#  json.each do |org|     ## note: assume array gets returned
-#    orgs << org['login']
-#  end
-end
+def save_orgs
+  gh = GitHub.new
+  
+  h = {}
+  user = 'geraldb'
+  res = gh.user_orgs( user )
+  save_json( "users~#{user}~orgs", res.data )
+  orgs = res.logins
 
+  h[ "#{user} (#{orgs.size})" ] = orgs 
 
+  save_yaml( "orgs", h )
+end  ## method save_repos
+
+## save_repos()
+save_orgs()
 
 ## gh = GitHub.new
 

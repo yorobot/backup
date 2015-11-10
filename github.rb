@@ -72,7 +72,7 @@ def get( request_uri )
   # ...
 
   json = JSON.parse( res.body )
-  pp json
+  ## pp json
   json
 end  # methdo get
 
@@ -91,6 +91,14 @@ end
 def offline!()  @offline = true;  end   ## switch to offline  - todo: find a "better" way - why? why not?
 def offline?()  @offline; end
 
+class Response
+  attr_reader :data
+  def initialize( data )
+    @data = data
+  end
+end
+
+
 def user( name )
   get( "/users/#{name}")
 end
@@ -104,13 +112,6 @@ end
 
 def user_repos( name )
   UserRepos.new( get "/users/#{name}/repos" )
-end
-
-class Response
-  attr_reader :data
-  def initialize( data )
-    @data = data
-  end
 end
 
 class UserOrgs < Response
@@ -153,16 +154,4 @@ end
 
 end  # class GitHub
 
-
-=begin
-def save_orgs
-  gh = GitHub.new
-  json = gh.user_orgs('geraldb')
-  
-  orgs = []
-  json.each do |org|     ## note: assume array gets returned
-    orgs << org['login']
-  end
-end
-=end
 
