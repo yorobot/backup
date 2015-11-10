@@ -95,8 +95,15 @@ def user( name )
   get( "/users/#{name}")
 end
 
+class UserRepos < Response
+  def names
+    ## sort by name
+    data.map { |item| item['name'] }.sort
+  end
+end
+
 def user_repos( name )
-  get( "/users/#{name}/repos")
+  UserRepos.new( get "/users/#{name}/repos" )
 end
 
 class Response
