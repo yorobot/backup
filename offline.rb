@@ -1,9 +1,9 @@
 # encoding: utf-8
 
-require './github'
+require 'githubi'
 
 
-gh = GitHub.new
+gh = Githubi::Github.new( cache_dir: '../cache' )
 gh.offline!   # switch to offline (mode)
 
 pp gh.user('geraldb')

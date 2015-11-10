@@ -1,10 +1,12 @@
 # encoding: utf-8
 
-require './github'
+require 'githubi'
 
+
+CACHE_DIR = '../cache'
 
 def save_json( name, data )    ## data - hash or array
-  File.open( "../cache/#{name}.json", "w" ) do |f|
+  File.open( "#{CACHE_DIR}/#{name}.json", "w" ) do |f|
     f.write JSON.pretty_generate( data )
   end
 end
@@ -18,7 +20,7 @@ end
 
 
 def save_repos
-  gh = GitHub.new
+  gh = Githubi::Github.new( cache_dir: CACHE_DIR )
   
   h = {}
   users = %w(geraldb skriptbot)
@@ -49,8 +51,8 @@ end  ## method save_repos
 
 
 def save_orgs
-  gh = GitHub.new
-  
+  gh = Githubi::Github.new( cache_dir: CACHE_DIR )
+
   h = {}
   user = 'geraldb'
   res = gh.user_orgs( user )
@@ -66,27 +68,26 @@ end  ## method save_repos
 save_orgs()
 
 
-# gh = GitHub.new
+# gh = Githubi::Github.new( cache_dir: CACHE_DIR )
 # save_json 'orgs~openfootball~repos', gh.org_repos('openfootball').data
 # save_json 'orgs~openbeer~repos',     gh.org_repos('openbeer').data
 
-## save_json 'geraldb',       gh.user('geraldb')
-## save_json 'geraldb.repos', gh.user_repos('geraldb')
-## save_json 'geraldb.orgs',  gh.user_orgs('geraldb')
+## save_json 'geraldb',       gh.user('geraldb').data
+## save_json 'geraldb.repos', gh.user_repos('geraldb').data
+## save_json 'geraldb.orgs',  gh.user_orgs('geraldb').data
 
-## save_json 'skriptbot',       gh.user('skriptbot')
-## save_json 'skriptbot.repos', gh.user_repos('skriptbot')
+## save_json 'skriptbot',       gh.user('skriptbot').data
+## save_json 'skriptbot.repos', gh.user_repos('skriptbot').data
 
 ## save_json 'wikiscript.repos', gh.org_repos('wikiscript').data
 ## save_json 'vienna-rb.repos', gh.org_repos('vienna-rb').data
 
-## save_json 'wikiscript', gh.org('wikiscript')
-## save_json 'vienna-rb', gh.org('vienna-rb')
+## save_json 'wikiscript', gh.org('wikiscript').data
+## save_json 'vienna-rb', gh.org('vienna-rb').data
 
-## save_json 'planetjekyll',        gh.org('planetjekyll')
+## save_json 'planetjekyll',        gh.org('planetjekyll').data
 ## save_json 'planetjekyll.repos',  gh.org_repos('planetjekyll').data
 
 
 puts "Done."
-
 
