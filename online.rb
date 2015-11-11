@@ -64,7 +64,7 @@ def save_orgs
   save_yaml( "orgs", h )
 end  ## method save_repos
 
-## save_repos()
+save_repos()
 save_orgs()
 
 
