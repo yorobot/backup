@@ -1,12 +1,5 @@
 # encoding: utf-8
 
-
-###
-# todo/future:
-#   use github api to double check repos (anything missing?)
-#
-
-
 require 'yaml'
 require 'pp'
 require 'fileutils'
@@ -21,7 +14,12 @@ def backup( repo, dest_dir )
   #  - false for non zero exit status.
   #  - nil if command execution fails. An error status is available in $?.
 
-  cmdline = "git clone http://github.com/#{repo}"
+  ###
+  ##  use --mirror
+  ##  use -n  (--no-checkout)
+  ##  check: use https: as default? for github - http:// still supported? or redirected?
+
+  cmdline = "git clone --mirror -n http://github.com/#{repo}"
 
   result = nil
 
@@ -63,9 +61,16 @@ repos = YAML.load_file( './repos.yml')
 org_count   = 0
 repo_count  = 0
 
-repos.each do |key,values|
+repos.each do |key_with_counter,values|
 
-  puts "  -- #{key} --"
+  ## remove optional number from key e.g.
+  ##   mrhydescripts (3)    =>  mrhydescripts
+  ##   footballjs (4)       =>  footballjs
+  ##   etc.
+  
+  key = key_with_counter.sub( /\s+\([0-9]+\)/, '' )
+
+  puts "  -- #{key_with_counter} [#{key}] --"
 
   dest_dir = "#{backup_dir}/#{key}"
   FileUtils.mkdir_p( dest_dir )   ## make sure path exists
