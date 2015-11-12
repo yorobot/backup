@@ -4,45 +4,68 @@ require 'yaml'
 require 'pp'
 require 'fileutils'
 
-
-
-def backup( repo, dest_dir )
-
-  ##
-  # system returns
-  #  - true if the command gives zero exit status,
-  #  - false for non zero exit status.
-  #  - nil if command execution fails. An error status is available in $?.
-
-  ###
-  ##  use --mirror
-  ##  use -n  (--no-checkout)
-  ##  check: use https: as default? for github - http:// still supported? or redirected?
-
-  cmdline = "git clone --mirror -n http://github.com/#{repo}"
-
-  result = nil
-
-  Dir.chdir( dest_dir ) do
-    puts "try >#{cmdline}< in (#{Dir.pwd})..."
-    result = system( cmdline )
-    ## result = true
+class Repo
+  def initialize( owner, name )
+    @owner = owner    ## use/rename to login or something - why? why not??
+    @name  = name     #  e.g. "rubylibs/webservice"
   end
 
-  pp result
-
-  if result.nil?
-    puts "*** error was #{$?}"
-    fail "[Kernel.system] command execution failed - #{$?}"
-  elsif result   ## true == zero exit code
-    puts 'OK'  ## zero exit; assume OK
-  else  ## false == non-zero exit code
-    puts "*** error: non-zero exit!!"   ## non-zero exit (e.g. 1,2,3,etc.); assume error
-    fail "[Kernel.system] command execution failed - non-zero exit code"
+  def clone_url
+     ##  check: use https: as default? for github - http:// still supported? or redirected?
+    "http://github.com/#{@owner}/#{@name}"
   end
-  true  ## assume ok
-end
 
+  def git_dir
+     ## todo: rename to use bare_git_dir or mirror_dir  or something ??
+     "#{@name}.git"
+  end
+
+
+  def backup( dest_dir )
+    ##
+    # system returns
+    #  - true if the command gives zero exit status,
+    #  - false for non zero exit status.
+    #  - nil if command execution fails. An error status is available in $?.
+
+    ###
+    ##  use --mirror
+    ##  use -n  (--no-checkout)   -- needed - why? why not?
+
+
+    result = nil
+
+    sh.cd( dest_dir ) do
+      if sh.exists?( git_dir )
+        sh.cd( git_dir ) do
+          cmdline = "git remote update" 
+          puts "  try updating >#{cmdline}< in (#{sh.pwd})..."
+          result = sh.system( cmdline )    ### use sh.run instead - why? why not?
+        end
+      else
+        cmdline = "git clone --mirror #{clone_url}"
+        puts "  try cloning >#{cmdline}< in (#{sh.pwd})..."
+        result = sh.system( cmdline )    ### use sh.run instead - why? why not?
+      end
+    end
+
+    pp result
+
+    if result.nil?
+      puts "*** error was #{$?}"
+      fail "[Kernel.system] command execution failed - #{$?}"
+    elsif result   ## true => zero exit code (OK)
+      puts 'OK'  ## zero exit; assume OK
+    else  ## false => non-zero exit code (ERR/NOK)       ###  todo/fix: log error and continue ??
+      puts "*** error: non-zero exit!!"   ## non-zero exit (e.g. 1,2,3,etc.); assume error
+      fail "[Kernel.system] command execution failed - non-zero exit code"
+    end
+    true  ## assume ok
+  end ## method backup
+
+private
+  def sh()  @shell ||= Shell.new;  end
+end   ## class Repo
 
 
 
@@ -77,10 +100,10 @@ repos.each do |key_with_counter,values|
 
   values.each_with_index do |value,i|
     puts " \##{repo_count+1} [#{i+1}/#{values.size}] #{value}"
-    path = "#{key}/#{value}"
 
-    puts "     #{path}"
-    backup( path, dest_dir )
+    puts "     #{key}/#{value}"
+    repo = Repo.new( key, value )  ## owner, name e.g. rubylibs/webservice
+    repo.backup( dest_dir )
 
     repo_count += 1
 
