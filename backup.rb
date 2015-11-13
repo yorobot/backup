@@ -3,7 +3,6 @@
 require 'yaml'
 require 'pp'
 require 'fileutils'
-require 'shell'
 
 
 class Repo
@@ -116,7 +115,7 @@ repos.each do |key_with_counter,values|
 
     repo_count += 1
 
-    exit if repo_count > 3
+    ## exit if repo_count > 3
   end
 
   org_count += 1  

@@ -6,6 +6,8 @@
 #      in `find_system_command': Command not found(git).
 #   (Shell::Error::CommandNotFound)
 
+require 'shell'
+
 
   def sh()  @shell ||= Shell.new;  end
 
