@@ -65,7 +65,7 @@ class Repo
       
       ## log error for now
       File.open( './errors.log', 'a' ) do |f|
-        f.write "#{Time.now} -- repo #{owner}/#{name} - command execution failed - non-zero exit\n"
+        f.write "#{Time.now} -- repo #{@owner}/#{@name} - command execution failed - non-zero exit\n"
       end
       
       ## todo/fix: return false - for allow retry or something - why? why not??
