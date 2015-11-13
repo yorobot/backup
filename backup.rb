@@ -3,6 +3,8 @@
 require 'yaml'
 require 'pp'
 require 'fileutils'
+require 'shell'
+
 
 class Repo
   def initialize( owner, name )
@@ -58,7 +60,14 @@ class Repo
       puts 'OK'  ## zero exit; assume OK
     else  ## false => non-zero exit code (ERR/NOK)       ###  todo/fix: log error and continue ??
       puts "*** error: non-zero exit!!"   ## non-zero exit (e.g. 1,2,3,etc.); assume error
-      fail "[Kernel.system] command execution failed - non-zero exit code"
+      ## fail "[Kernel.system] command execution failed - non-zero exit code"
+      
+      ## log error for now
+      File.open( './errors.log', 'a' ) do |f|
+        f.write "#{Time.now} -- repo #{owner}/#{name} - command execution failed - non-zero exit\n"
+      end
+      
+      ## todo/fix: return false - for allow retry or something - why? why not??
     end
     true  ## assume ok
   end ## method backup
@@ -107,7 +116,7 @@ repos.each do |key_with_counter,values|
 
     repo_count += 1
 
-    ## exit if repo_count > 1
+    exit if repo_count > 3
   end
 
   org_count += 1  
