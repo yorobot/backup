@@ -22,7 +22,6 @@ class Repo
      "#{@name}.git"
   end
 
-
   def backup( dest_dir )
     ##
     # system returns
@@ -34,24 +33,27 @@ class Repo
     ##  use --mirror
     ##  use -n  (--no-checkout)   -- needed - why? why not?
 
-
     result = nil
 
-    sh.cd( dest_dir ) do
-      if sh.exists?( git_dir )
-        sh.cd( git_dir ) do
+    Dir.chdir( dest_dir ) do
+      if Dir.exist?( git_dir )
+        Dir.chdir( git_dir ) do
           cmdline = "git remote update" 
-          puts "  try updating >#{cmdline}< in (#{sh.pwd})..."
-          result = sh.system( cmdline )    ### use sh.run instead - why? why not?
+          puts "  try updating >#{cmdline}< in (#{Dir.pwd})..."
+          result = system( cmdline )
         end
       else
         cmdline = "git clone --mirror #{clone_url}"
-        puts "  try cloning >#{cmdline}< in (#{sh.pwd})..."
-        result = sh.system( cmdline )    ### use sh.run instead - why? why not?
+        puts "  try cloning >#{cmdline}< in (#{Dir.pwd})..."
+        result = system( cmdline )
       end
     end
 
     pp result
+
+    ## note: system returns true if the command gives zero exit status,
+    ##  false for non zero exit status.
+    ## Returns nil if command execution fails. An error status is available in $?.
 
     if result.nil?
       puts "*** error was #{$?}"
@@ -72,8 +74,6 @@ class Repo
     true  ## assume ok
   end ## method backup
 
-private
-  def sh()  @shell ||= Shell.new;  end
 end   ## class Repo
 
 
