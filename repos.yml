@@ -1,9 +1,6 @@
 ---
-geraldb (17):
+geraldb (13):
 - austria
-- auto
-- backup
-- cache
 - catalog
 - chelitas
 - epub-reader
@@ -12,12 +9,14 @@ geraldb (17):
 - polymer
 - sandbox
 - talks
-- vienna-rb.github.com
 - viennarb
 - web-proxy-win
 - webcomponents
 - wine.db.ruby
-skriptbot (5):
+skriptbot (8):
+- auto
+- backup
+- cache
 - factbook.json
 - football.csv
 - football.db
