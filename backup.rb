@@ -21,6 +21,17 @@ class Repo
      "#{@name}.git"
   end
 
+
+  def backup_with_retries( dest_dir, retries: 2 )
+    retries_count = 0
+    success = false
+    begin
+      success = backup( dest_dir )
+      retries_count += 1
+    end until success || retries_count >= retries
+    success   ## return if success or not  (true/false)
+  end
+
   def backup( dest_dir )
     ##
     # system returns
@@ -56,9 +67,10 @@ class Repo
 
     if result.nil?
       puts "*** error was #{$?}"
-      fail "[Kernel.system] command execution failed - #{$?}"
+      fail "[Kernel.system] command execution failed - #{$?}"   
     elsif result   ## true => zero exit code (OK)
       puts 'OK'  ## zero exit; assume OK
+      true   ## assume ok
     else  ## false => non-zero exit code (ERR/NOK)       ###  todo/fix: log error and continue ??
       puts "*** error: non-zero exit!!"   ## non-zero exit (e.g. 1,2,3,etc.); assume error
       ## fail "[Kernel.system] command execution failed - non-zero exit code"
@@ -68,9 +80,8 @@ class Repo
         f.write "#{Time.now} -- repo #{@owner}/#{@name} - command execution failed - non-zero exit\n"
       end
       
-      ## todo/fix: return false - for allow retry or something - why? why not??
+      false   ## return false - for allow retry or something - why? why not??
     end
-    true  ## assume ok
   end ## method backup
 
 end   ## class Repo
@@ -110,12 +121,14 @@ repos.each do |key_with_counter,values|
     puts " \##{repo_count+1} [#{i+1}/#{values.size}] #{value}"
 
     puts "     #{key}/#{value}"
-    repo = Repo.new( key, value )  ## owner, name e.g. rubylibs/webservice
-    repo.backup( dest_dir )
+
+    repo    = Repo.new( key, value )  ## owner, name e.g. rubylibs/webservice
+    success = repo.backup_with_retries( dest_dir )   ## note: defaults to two tries   
+    ## todo/check:  fail if success still false after x retries? -- why? why not?
 
     repo_count += 1
 
-    ## exit if repo_count > 3
+    ##  exit if repo_count > 2
   end
 
   org_count += 1  
