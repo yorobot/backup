@@ -5,13 +5,18 @@ require 'pp'
 require 'fileutils'
 
 
-class Repo
+## 3rd party gems/libs
+require 'gitta'
+include Gitta    ## lets you use Git, GitError, etc.
+
+
+class GitHubBareRepo    ## use/rename to GitHubServerRepo - why? why not?
   def initialize( owner, name )
     @owner = owner    ## use/rename to login or something - why? why not??
     @name  = name     #  e.g. "rubylibs/webservice"
   end
 
-  def clone_url
+  def http_clone_url   ## use clone_url( http: true )  -- why? why not?
      ##  check: use https: as default? for github - http:// still supported? or redirected?
     "http://github.com/#{@owner}/#{@name}"
   end
@@ -33,55 +38,27 @@ class Repo
   end
 
   def backup( dest_dir )
-    ##
-    # system returns
-    #  - true if the command gives zero exit status,
-    #  - false for non zero exit status.
-    #  - nil if command execution fails. An error status is available in $?.
-
     ###
     ##  use --mirror
     ##  use -n  (--no-checkout)   -- needed - why? why not?
 
-    result = nil
-
     Dir.chdir( dest_dir ) do
       if Dir.exist?( git_dir )
         Dir.chdir( git_dir ) do
-          cmdline = "git remote update" 
-          puts "  try updating >#{cmdline}< in (#{Dir.pwd})..."
-          result = system( cmdline )
+          Git.remote_update
         end
       else
-        cmdline = "git clone --mirror #{clone_url}"
-        puts "  try cloning >#{cmdline}< in (#{Dir.pwd})..."
-        result = system( cmdline )
+        Git.mirror( http_clone_url )
       end
     end
-
-    pp result
-
-    ## note: system returns true if the command gives zero exit status,
-    ##  false for non zero exit status.
-    ## Returns nil if command execution fails. An error status is available in $?.
-
-    if result.nil?
-      puts "*** error was #{$?}"
-      fail "[Kernel.system] command execution failed - #{$?}"   
-    elsif result   ## true => zero exit code (OK)
-      puts 'OK'  ## zero exit; assume OK
-      true   ## assume ok
-    else  ## false => non-zero exit code (ERR/NOK)       ###  todo/fix: log error and continue ??
-      puts "*** error: non-zero exit!!"   ## non-zero exit (e.g. 1,2,3,etc.); assume error
-      ## fail "[Kernel.system] command execution failed - non-zero exit code"
-      
-      ## log error for now
-      File.open( './errors.log', 'a' ) do |f|
-        f.write "#{Time.now} -- repo #{@owner}/#{@name} - command execution failed - non-zero exit\n"
-      end
-      
-      false   ## return false - for allow retry or something - why? why not??
+    true  ## return true  ## success/ok
+  rescue GitError => ex
+    puts "*** error: #{ex.message}"
+    
+    File.open( './errors.log', 'a' ) do |f|
+      f.write "#{Time.now} -- repo #{@owner}/#{@name} - #{ex.message}\n"
     end
+    false ## return false  ## error/nok
   end ## method backup
 
 end   ## class Repo
@@ -122,13 +99,13 @@ repos.each do |key_with_counter,values|
 
     puts "     #{key}/#{value}"
 
-    repo    = Repo.new( key, value )  ## owner, name e.g. rubylibs/webservice
+    repo    = GitHubBareRepo.new( key, value )  ## owner, name e.g. rubylibs/webservice
     success = repo.backup_with_retries( dest_dir )   ## note: defaults to two tries   
     ## todo/check:  fail if success still false after x retries? -- why? why not?
 
     repo_count += 1
 
-    ##  exit if repo_count > 2
+    ###  exit if repo_count > 2
   end
 
   org_count += 1  
