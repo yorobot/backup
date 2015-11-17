@@ -13,7 +13,7 @@ geraldb (13):
 - web-proxy-win
 - webcomponents
 - wine.db.ruby
-skriptbot (8):
+skriptbot (9):
 - auto
 - backup
 - cache
@@ -22,6 +22,7 @@ skriptbot (8):
 - football.db
 - football.db.rsssf
 - football.json
+- setup
 beercsv (7):
 - be-belgium
 - build
@@ -294,15 +295,16 @@ rsssf (6):
 - eng-england
 - es-espana
 - rsssf.github.io
-rubylibs (20):
+rubylibs (21):
 - about
 - activerecord-importer
 - activerecord-utils
 - activityutils
 - dbbrowser
 - fetcher
-- githubi
+- gitta
 - hoe-manifest
+- hubba
 - linkto
 - logutils
 - logutils-activerecord

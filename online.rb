@@ -1,6 +1,6 @@
 # encoding: utf-8
 
-require 'githubi'
+require 'hubba'
 
 
 ##  todo/fix:
@@ -25,7 +25,7 @@ end
 
 
 def save_repos
-  gh = Githubi::Github.new( cache_dir: CACHE_DIR )
+  gh = Hubba::Github.new( cache_dir: CACHE_DIR )
   
   h = {}
   users = %w(geraldb skriptbot)
@@ -56,7 +56,7 @@ end  ## method save_repos
 
 
 def save_orgs
-  gh = Githubi::Github.new( cache_dir: CACHE_DIR )
+  gh = Hubba::Github.new( cache_dir: CACHE_DIR )
 
   h = {}
   user = 'geraldb'
