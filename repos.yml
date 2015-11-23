@@ -1,5 +1,5 @@
 ---
-geraldb (13):
+geraldb (14):
 - austria
 - catalog
 - chelitas
@@ -9,6 +9,7 @@ geraldb (13):
 - polymer
 - sandbox
 - talks
+- test
 - viennarb
 - web-proxy-win
 - webcomponents
@@ -295,24 +296,22 @@ rsssf (6):
 - eng-england
 - es-espana
 - rsssf.github.io
-rubylibs (21):
+rubylibs (19):
 - about
 - activerecord-importer
 - activerecord-utils
 - activityutils
 - dbbrowser
 - fetcher
-- gitta
+- fotos
+- gitti
 - hoe-manifest
 - hubba
 - linkto
 - logutils
-- logutils-activerecord
-- logutils-admin
 - ostructer
 - pakman
 - props
-- props-activerecord
 - quik
 - schemadoc
 - tagutils
