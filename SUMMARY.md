@@ -1,12 +1,12 @@
-# 44 orgs, 405 repos
+# 44 orgs, 402 repos
 
-### geraldb _(13)_
+### geraldb _(14)_
 
-austria • catalog • chelitas • epub-reader • geraldb.github.io • hellohoe • polymer • sandbox • talks • viennarb • web-proxy-win • webcomponents • wine.db.ruby
+austria • catalog • chelitas • epub-reader • geraldb.github.io • hellohoe • polymer • sandbox • talks • test • viennarb • web-proxy-win • webcomponents • wine.db.ruby
 
-### skriptbot _(9)_
+### skriptbot _(8)_
 
-auto • backup • cache • factbook.json • football.csv • football.db • football.db.rsssf • football.json • setup
+auto • backup • cache • factbook.json • football.csv • football.db • football.db.rsssf • setup
 
 ### beercsv _(7)_
 
@@ -112,9 +112,9 @@ apps • awesome • awesome-activerecord • awesome-blogs • awesome-events �
 
 at-austria • br-brazil • de-deutschland • eng-england • es-espana • rsssf.github.io
 
-### rubylibs _(21)_
+### rubylibs _(19)_
 
-about • activerecord-importer • activerecord-utils • activityutils • dbbrowser • fetcher • gitta • hoe-manifest • hubba • linkto • logutils • logutils-activerecord • logutils-admin • ostructer • pakman • props • props-activerecord • quik • schemadoc • tagutils • webservice
+about • activerecord-importer • activerecord-utils • activityutils • dbbrowser • fetcher • fotos • gitti • hoe-manifest • hubba • linkto • logutils • ostructer • pakman • props • quik • schemadoc • tagutils • webservice
 
 ### rubyref _(8)_
 
@@ -148,9 +148,9 @@ major-league-soccer
 
 football.db.logos • football.db.logos.ruby • hockey.db.logos • sport.db.logos • sport.db.logos.ruby • sportlogos.github.io
 
-### textkit _(12)_
+### textkit _(11)_
 
-catalog.db • csv2 • datafile • dataman • datapak • event.db • notes • preproc • rubycat • textutils • textutils-more • whatson
+catalog.db • csv2 • datafile • dataman • datapak • event.db • notes • preproc • rubycat • textutils • whatson
 
 ### viennahtml _(2)_
 
