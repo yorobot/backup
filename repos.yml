@@ -14,7 +14,7 @@ geraldb (14):
 - web-proxy-win
 - webcomponents
 - wine.db.ruby
-skriptbot (9):
+skriptbot (8):
 - auto
 - backup
 - cache
@@ -22,7 +22,6 @@ skriptbot (9):
 - football.csv
 - football.db
 - football.db.rsssf
-- football.json
 - setup
 beercsv (7):
 - be-belgium
@@ -383,7 +382,7 @@ sportlogos (6):
 - sport.db.logos
 - sport.db.logos.ruby
 - sportlogos.github.io
-textkit (12):
+textkit (11):
 - catalog.db
 - csv2
 - datafile
@@ -394,7 +393,6 @@ textkit (12):
 - preproc
 - rubycat
 - textutils
-- textutils-more
 - whatson
 viennahtml (2):
 - members
