@@ -14,7 +14,7 @@ geraldb (14):
 - web-proxy-win
 - webcomponents
 - wine.db.ruby
-skriptbot (8):
+skriptbot (9):
 - auto
 - backup
 - cache
@@ -22,6 +22,7 @@ skriptbot (8):
 - football.csv
 - football.db
 - football.db.rsssf
+- rubyconf
 - setup
 beercsv (7):
 - be-belgium
@@ -288,13 +289,14 @@ planetruby (19):
 - planet
 - planetruby.github.io
 - rubyconf.json
-rsssf (6):
+rsssf (7):
 - at-austria
 - br-brazil
 - de-deutschland
 - eng-england
 - es-espana
 - rsssf.github.io
+- spec
 rubylibs (19):
 - about
 - activerecord-importer
