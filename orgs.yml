@@ -1,5 +1,5 @@
 ---
-geraldb (43):
+geraldb (46):
 - beercsv
 - beerkit
 - beerlabels
@@ -9,6 +9,7 @@ geraldb (43):
 - feedreader
 - footballcsv
 - footballjs
+- henrythemes
 - hybook
 - libsjs
 - mokkalibs
@@ -35,6 +36,8 @@ geraldb (43):
 - sportkit
 - sportlabs
 - sportlogos
+- statictimes
+- staystatic
 - textkit
 - vienna-rb
 - viennahtml

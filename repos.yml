@@ -1,5 +1,5 @@
 ---
-geraldb (14):
+geraldb (15):
 - austria
 - catalog
 - chelitas
@@ -8,6 +8,7 @@ geraldb (14):
 - hellohoe
 - polymer
 - sandbox
+- slideshow
 - talks
 - test
 - viennarb
@@ -53,13 +54,10 @@ book-templates (5):
 - football
 - schema
 - world
-drjekyllthemes (7):
+drjekyllthemes (4):
 - build
 - drjekyll
 - drjekyllthemes.github.io
-- jekyll-book-theme
-- jekyll-bootstrap-theme
-- jekyll-minimal-theme
 - themes
 factbook (4):
 - factbook.csv
@@ -101,6 +99,12 @@ footballjs (4):
 - football.html
 - football.js
 - starter
+henrythemes (5):
+- jekyll-book-theme
+- jekyll-bootstrap-theme
+- jekyll-minimal-theme
+- jekyll-starter-theme
+- jekyll-starter-theme-v2
 hybook (3):
 - bookfile
 - bookman
@@ -252,10 +256,11 @@ planetbeer (3):
 - books
 - planet
 - planetbeer.github.io
-planetjekyll (9):
+planetjekyll (10):
 - awesome-jekyll
-- jekyll-starter-theme
-- jekyll-starter-theme-v2
+- book-jekyll
+- book-jekyll-plugins
+- book-octopress
 - planet
 - planetjekyll.github.io
 - quickrefs
@@ -384,6 +389,19 @@ sportlogos (6):
 - sport.db.logos
 - sport.db.logos.ruby
 - sportlogos.github.io
+statictimes (4):
+- awesome-static
+- quickrefs
+- showcase
+- statictimes.github.io
+staystatic (7):
+- hugo
+- jekyll
+- metalsmith
+- middleman
+- sites
+- staystatic.github.io
+- webgen
 textkit (11):
 - catalog.db
 - csv2

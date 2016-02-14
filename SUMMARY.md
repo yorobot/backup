@@ -1,12 +1,12 @@
-# 44 orgs, 402 repos
+# 47 orgs, 419 repos
 
-### geraldb _(14)_
+### geraldb _(15)_
 
-austria • catalog • chelitas • epub-reader • geraldb.github.io • hellohoe • polymer • sandbox • talks • test • viennarb • web-proxy-win • webcomponents • wine.db.ruby
+austria • catalog • chelitas • epub-reader • geraldb.github.io • hellohoe • polymer • sandbox • slideshow • talks • test • viennarb • web-proxy-win • webcomponents • wine.db.ruby
 
-### skriptbot _(8)_
+### skriptbot _(9)_
 
-auto • backup • cache • factbook.json • football.csv • football.db • football.db.rsssf • setup
+auto • backup • cache • factbook.json • football.csv • football.db • football.db.rsssf • rubyconf • setup
 
 ### beercsv _(7)_
 
@@ -24,9 +24,9 @@ beer.db.labels • beer.db.labels.ruby
 
 beer • bookfile • football • schema • world
 
-### drjekyllthemes _(7)_
+### drjekyllthemes _(4)_
 
-build • drjekyll • drjekyllthemes.github.io • jekyll-book-theme • jekyll-bootstrap-theme • jekyll-minimal-theme • themes
+build • drjekyll • drjekyllthemes.github.io • themes
 
 ### factbook _(4)_
 
@@ -43,6 +43,10 @@ be-belgium • de-deutschland • eng-england • es-espana • fr-france • gr
 ### footballjs _(4)_
 
 football.api.js • football.html • football.js • starter
+
+### henrythemes _(5)_
+
+jekyll-book-theme • jekyll-bootstrap-theme • jekyll-minimal-theme • jekyll-starter-theme • jekyll-starter-theme-v2
 
 ### hybook _(3)_
 
@@ -96,9 +100,9 @@ planet-blank • planet-classic • planet-digest • planet-feeds • planet-fo
 
 books • planet • planetbeer.github.io
 
-### planetjekyll _(9)_
+### planetjekyll _(10)_
 
-awesome-jekyll • jekyll-starter-theme • jekyll-starter-theme-v2 • planet • planetjekyll.github.io • quickrefs • sandbox • showcase • snippets
+awesome-jekyll • book-jekyll • book-jekyll-plugins • book-octopress • planet • planetjekyll.github.io • quickrefs • sandbox • showcase • snippets
 
 ### planetopendata _(6)_
 
@@ -108,9 +112,9 @@ austria • awesome-football • awesome-sqlite • awesome-world • planet •
 
 apps • awesome • awesome-activerecord • awesome-blogs • awesome-events • awesome-rack • awesome-rubies • awesome-staticgen • awesome-stdlib • awesome-webframeworks • awesome-webservers • books • catalog • gems • links • monthly • planet • planetruby.github.io • rubyconf.json
 
-### rsssf _(6)_
+### rsssf _(7)_
 
-at-austria • br-brazil • de-deutschland • eng-england • es-espana • rsssf.github.io
+at-austria • br-brazil • de-deutschland • eng-england • es-espana • rsssf.github.io • spec
 
 ### rubylibs _(19)_
 
@@ -147,6 +151,14 @@ major-league-soccer
 ### sportlogos _(6)_
 
 football.db.logos • football.db.logos.ruby • hockey.db.logos • sport.db.logos • sport.db.logos.ruby • sportlogos.github.io
+
+### statictimes _(4)_
+
+awesome-static • quickrefs • showcase • statictimes.github.io
+
+### staystatic _(7)_
+
+hugo • jekyll • metalsmith • middleman • sites • staystatic.github.io • webgen
 
 ### textkit _(11)_
 
