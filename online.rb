@@ -28,7 +28,7 @@ def save_repos
   gh = Hubba::Github.new( cache_dir: CACHE_DIR )
   
   h = {}
-  users = %w(geraldb skriptbot)
+  users = %w(geraldb yorobot)
   users.each do |user|
     res = gh.user_repos( user )
     save_json( "users~#{user}~repos", res.data )
