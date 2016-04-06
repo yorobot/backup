@@ -1,17 +1,22 @@
 ---
-geraldb (46):
+geraldb (55):
 - beercsv
 - beerkit
 - beerlabels
+- bibtxt
 - book-templates
+- bookdesigns
 - drjekyllthemes
 - factbook
 - feedreader
 - footballcsv
 - footballjs
+- funpress
 - henrythemes
 - hybook
+- hydepress
 - libsjs
+- manuscripts
 - mokkalibs
 - mrhydescripts
 - openbeer
@@ -20,12 +25,15 @@ geraldb (46):
 - openmundi
 - opensport
 - openwine
+- pagedesigns
 - persondb
 - planet-templates
 - planetbeer
 - planetjekyll
 - planetopendata
 - planetruby
+- printhtml
+- quikstart
 - rsssf
 - rubylibs
 - rubyref
@@ -46,3 +54,4 @@ geraldb (46):
 - worldclassics
 - worlddb
 - writekit
+- yukipress

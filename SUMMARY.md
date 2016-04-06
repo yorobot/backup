@@ -1,10 +1,10 @@
-# 47 orgs, 419 repos
+# 56 orgs, 461 repos
 
-### geraldb _(15)_
+### geraldb _(14)_
 
-austria • catalog • chelitas • epub-reader • geraldb.github.io • hellohoe • polymer • sandbox • slideshow • talks • test • viennarb • web-proxy-win • webcomponents • wine.db.ruby
+austria • catalog • chelitas • epub-reader • geraldb.github.io • hellohoe • polymer • sandbox • talks • test • viennarb • web-proxy-win • webcomponents • wine.db.ruby
 
-### skriptbot _(9)_
+### yorobot _(9)_
 
 auto • backup • cache • factbook.json • football.csv • football.db • football.db.rsssf • rubyconf • setup
 
@@ -20,9 +20,17 @@ beer.api.js • beer.db.admin • beer.db.day • beer.db.mobile • beer.db.mod
 
 beer.db.labels • beer.db.labels.ruby
 
+### bibtxt _(1)_
+
+bibtxt.github.io
+
 ### book-templates _(5)_
 
 beer • bookfile • football • schema • world
+
+### bookdesigns _(5)_
+
+book-epsilon • book-git • book-hamilton • book-rust • designs
 
 ### drjekyllthemes _(4)_
 
@@ -44,17 +52,29 @@ be-belgium • de-deutschland • eng-england • es-espana • fr-france • gr
 
 football.api.js • football.html • football.js • starter
 
-### henrythemes _(5)_
+### funpress _(0)_
 
-jekyll-book-theme • jekyll-bootstrap-theme • jekyll-minimal-theme • jekyll-starter-theme • jekyll-starter-theme-v2
+
+
+### henrythemes _(10)_
+
+jekyll-book-theme • jekyll-boom-theme • jekyll-boom-theme-v2 • jekyll-bootstrap-theme • jekyll-epub-theme • jekyll-gutenberg-theme • jekyll-minimal-theme • jekyll-print-theme • jekyll-starter-theme • jekyll-starter-theme-v2
 
 ### hybook _(3)_
 
 bookfile • bookman • hybook
 
+### hydepress _(11)_
+
+hydepress.github.io • jekyll • jekyll-deploy • jekyll-dev • jekyll-import • jekyll-install • jekyll-plugins • jekyll-style • jekyll-themes • liquid • octopress
+
 ### libsjs _(3)_
 
 jquery.debug.js • jquery.table.js • jquery.tabs.js
+
+### manuscripts _(8)_
+
+book-starter • dr-jekyll-and-mr-hyde • manuscripts • manuscripts.github.io • markdown-can-i-use • markdown-lint • raspberrypi • why-markdown
 
 ### mokkalibs _(2)_
 
@@ -88,6 +108,10 @@ american-football.db • build • formula1.db • hockey.db • opensport.githu
 
 at-austria • build
 
+### pagedesigns _(2)_
+
+jasonm23-dark • markedapp-byword
+
 ### persondb _(1)_
 
 person.db.models
@@ -102,7 +126,7 @@ books • planet • planetbeer.github.io
 
 ### planetjekyll _(10)_
 
-awesome-jekyll • book-jekyll • book-jekyll-plugins • book-octopress • planet • planetjekyll.github.io • quickrefs • sandbox • showcase • snippets
+awesome-jekyll • planet • planetjekyll.github.io • quickrefs • sandbox • sandbox-collections • sandbox-github-pages • sandbox-syntax-highlighter • showcase • snippets
 
 ### planetopendata _(6)_
 
@@ -112,25 +136,33 @@ austria • awesome-football • awesome-sqlite • awesome-world • planet •
 
 apps • awesome • awesome-activerecord • awesome-blogs • awesome-events • awesome-rack • awesome-rubies • awesome-staticgen • awesome-stdlib • awesome-webframeworks • awesome-webservers • books • catalog • gems • links • monthly • planet • planetruby.github.io • rubyconf.json
 
+### printhtml _(3)_
+
+awesome-print • quickrefs • sandbox
+
+### quikstart _(5)_
+
+gem-starter-template • gem-starter-template-hoe • quik • scripts • sinatra-starter-template
+
 ### rsssf _(7)_
 
 at-austria • br-brazil • de-deutschland • eng-england • es-espana • rsssf.github.io • spec
 
 ### rubylibs _(19)_
 
-about • activerecord-importer • activerecord-utils • activityutils • dbbrowser • fetcher • fotos • gitti • hoe-manifest • hubba • linkto • logutils • ostructer • pakman • props • quik • schemadoc • tagutils • webservice
+about • activerecord-importer • activerecord-utils • activityutils • dbbrowser • fetcher • fotos • gitti • gutenberg • hoe-manifest • hubba • linkto • logutils • ostructer • pakman • props • schemadoc • tagutils • webservice
 
-### rubyref _(8)_
+### rubyref _(4)_
 
-activerecord • gem-starter-template • gem-starter-template-hoe • net-http • regexp • sandbox • scripts • sinatra-starter-template
+activerecord • net-http • regexp • sandbox
 
 ### slidekit _(4)_
 
 s6 • s6-minimalistic • s6-samples • slidekit.github.io
 
-### slideshow-s9 _(10)_
+### slideshow-s9 _(11)_
 
-demos • formatting • notes • registry • samples • slideshow • slideshow-models • slideshow-plugins • slideshow-s9.github.io • slideshow-templates
+awesome-slideshows • demos • formatting • notes • registry • samples • slideshow • slideshow-models • slideshow-plugins • slideshow-s9.github.io • slideshow-templates
 
 ### slideshow-templates _(11)_
 
@@ -152,13 +184,13 @@ major-league-soccer
 
 football.db.logos • football.db.logos.ruby • hockey.db.logos • sport.db.logos • sport.db.logos.ruby • sportlogos.github.io
 
-### statictimes _(4)_
+### statictimes _(6)_
 
-awesome-static • quickrefs • showcase • statictimes.github.io
+awesome-static • newsletter • questions • quickrefs • showcase • statictimes.github.io
 
-### staystatic _(7)_
+### staystatic _(8)_
 
-hugo • jekyll • metalsmith • middleman • sites • staystatic.github.io • webgen
+hugo • jekyll • metalsmith-handlebars • metalsmith-nunjucks • middleman • sites • staystatic.github.io • webgen
 
 ### textkit _(11)_
 
@@ -184,7 +216,11 @@ dr-jekyll-and-mr-hyde • the-trial
 
 factbook • factbook.starter • world.db.admin • world.db.cities • world.db.codes • world.db.compat • world.db.flags • world.db.models • world.db.places • world.db.service • world.db.service.rack • world.db.tools • world.lite
 
-### writekit _(12)_
+### writekit _(15)_
 
-awesome-books • awesome-markdown • markdown • markdown-service • markdown-tools • markdown.api.js • markdown.lib.js • markdown.note • markdown.note.starter • markdown.themes • quickrefs • writekit.github.io
+awesome-books • awesome-markdown • awesome-markdown-alternatives • awesome-markdown-editors • markdown • markdown-service • markdown-tools • markdown-vs-latex • markdown.api.js • markdown.lib.js • markdown.note • markdown.note.starter • markdown.themes • quickrefs • writekit.github.io
+
+### yukipress _(0)_
+
+
 
