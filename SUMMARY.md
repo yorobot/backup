@@ -1,4 +1,4 @@
-# 56 orgs, 461 repos
+# 61 orgs, 489 repos
 
 ### geraldb _(14)_
 
@@ -52,9 +52,9 @@ be-belgium • de-deutschland • eng-england • es-espana • fr-france • gr
 
 football.api.js • football.html • football.js • starter
 
-### funpress _(0)_
+### funpress _(6)_
 
-
+babel • elm-by-example • es6-features • funpress.github.io • mostly-adequate-guide-to-fp • up-n-going
 
 ### henrythemes _(10)_
 
@@ -64,17 +64,21 @@ jekyll-book-theme • jekyll-boom-theme • jekyll-boom-theme-v2 • jekyll-boot
 
 bookfile • bookman • hybook
 
-### hydepress _(11)_
+### hydepress _(12)_
 
-hydepress.github.io • jekyll • jekyll-deploy • jekyll-dev • jekyll-import • jekyll-install • jekyll-plugins • jekyll-style • jekyll-themes • liquid • octopress
+hydepress.github.io • jekyll • jekyll-deploy • jekyll-dev • jekyll-import • jekyll-install • jekyll-plugins • jekyll-style • jekyll-themes • liquid • octopod • octopress
+
+### jekyll-octopod _(4)_
+
+jekyll-octopod • jekyll-octopod.github.io • jekyll-octopod.github.io.source • staging
 
 ### libsjs _(3)_
 
 jquery.debug.js • jquery.table.js • jquery.tabs.js
 
-### manuscripts _(8)_
+### manuscripts _(3)_
 
-book-starter • dr-jekyll-and-mr-hyde • manuscripts • manuscripts.github.io • markdown-can-i-use • markdown-lint • raspberrypi • why-markdown
+book-starter • manuscripts • manuscripts.github.io
 
 ### mokkalibs _(2)_
 
@@ -83,6 +87,14 @@ faster_xml_simple_reader • mokka
 ### mrhydescripts _(3)_
 
 jekylldoc • mrhyde • scripts
+
+### mundimark _(11)_
+
+awesome-books • awesome-markdown • awesome-markdown-alternatives • awesome-markdown-editors • markdown-can-i-use • markdown-tools • markdown-tools-books • markdown-vs-latex • mundimark.github.io • quickrefs • why-markdown
+
+### octobook _(5)_
+
+awesome-typography • book-blank-theme • book-classics-theme • book-git-theme • octobook
 
 ### openbeer _(35)_
 
@@ -124,9 +136,9 @@ planet-blank • planet-classic • planet-digest • planet-feeds • planet-fo
 
 books • planet • planetbeer.github.io
 
-### planetjekyll _(10)_
+### planetjekyll _(13)_
 
-awesome-jekyll • planet • planetjekyll.github.io • quickrefs • sandbox • sandbox-collections • sandbox-github-pages • sandbox-syntax-highlighter • showcase • snippets
+awesome-jekyll • awesome-jekyll-editors • awesome-jekyll-plugins • awesome-jekyll-themes • planet • planetjekyll.github.io • quickrefs • sandbox • sandbox-collections • sandbox-github-pages • sandbox-syntax-highlighter • showcase • snippets
 
 ### planetopendata _(6)_
 
@@ -156,17 +168,21 @@ about • activerecord-importer • activerecord-utils • activityutils • dbb
 
 activerecord • net-http • regexp • sandbox
 
+### shellpress _(1)_
+
+raspberrypi
+
 ### slidekit _(4)_
 
 s6 • s6-minimalistic • s6-samples • slidekit.github.io
 
-### slideshow-s9 _(11)_
+### slideshow-s9 _(12)_
 
-awesome-slideshows • demos • formatting • notes • registry • samples • slideshow • slideshow-models • slideshow-plugins • slideshow-s9.github.io • slideshow-templates
+awesome-slideshows • demos • notes • registry • samples • slideshow • slideshow-models • slideshow-plugins • slideshow-s9.github.io • slideshow-service • slideshow-starter • slideshow-templates
 
-### slideshow-templates _(11)_
+### slideshow-templates _(14)_
 
-slideshow-csss • slideshow-deck.js • slideshow-google-html5-slides • slideshow-impress.js • slideshow-s5-blank • slideshow-s5-themes • slideshow-s6-blank • slideshow-s6-syntax-highlighter • slideshow-shower • slideshow-slidy • slideshow-templates.github.io
+media • slideshow-csss • slideshow-deck.js • slideshow-google-html5-slides • slideshow-google-io-2011-slides • slideshow-impress.js • slideshow-reveal.js • slideshow-s5-blank • slideshow-s5-themes • slideshow-s6-blank • slideshow-s6-syntax-highlighter • slideshow-shower • slideshow-slidy • slideshow-templates.github.io
 
 ### sportdb _(15)_
 
@@ -188,17 +204,21 @@ football.db.logos • football.db.logos.ruby • hockey.db.logos • sport.db.lo
 
 awesome-static • newsletter • questions • quickrefs • showcase • statictimes.github.io
 
-### staystatic _(8)_
+### staystatic _(3)_
 
-hugo • jekyll • metalsmith-handlebars • metalsmith-nunjucks • middleman • sites • staystatic.github.io • webgen
+sites • staystatic • staystatic.github.io
 
 ### textkit _(11)_
 
 catalog.db • csv2 • datafile • dataman • datapak • event.db • notes • preproc • rubycat • textutils • whatson
 
-### viennahtml _(2)_
+### updownpress _(2)_
 
-members • viennahtml.github.io
+markdown-lint • updownpress.github.io
+
+### viennahtml _(4)_
+
+awesome-austria • awesome-kramdown • members • viennahtml.github.io
 
 ### webstart _(12)_
 
@@ -208,19 +228,19 @@ links-rails • links-sinatra • manman • master • sandbox • server • u
 
 beer.ruby • football.players.ruby • football.squads.ruby • wikiscript.ruby
 
-### worldclassics _(2)_
+### worldclassics _(3)_
 
-dr-jekyll-and-mr-hyde • the-trial
+dr-jekyll-and-mr-hyde • the-trial • worldclassics.github.io
 
 ### worlddb _(13)_
 
 factbook • factbook.starter • world.db.admin • world.db.cities • world.db.codes • world.db.compat • world.db.flags • world.db.models • world.db.places • world.db.service • world.db.service.rack • world.db.tools • world.lite
 
-### writekit _(15)_
+### writekit _(10)_
 
-awesome-books • awesome-markdown • awesome-markdown-alternatives • awesome-markdown-editors • markdown • markdown-service • markdown-tools • markdown-vs-latex • markdown.api.js • markdown.lib.js • markdown.note • markdown.note.starter • markdown.themes • quickrefs • writekit.github.io
+kramdown-service • markdown • markdown-service • markdown-tools • markdown.api.js • markdown.lib.js • markdown.note • markdown.note.starter • markdown.themes • writekit.github.io
 
-### yukipress _(0)_
+### yukimotopress _(3)_
 
-
+gem-dev • sinatra-intro • yukimotopress.github.io
 

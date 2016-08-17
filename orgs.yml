@@ -1,5 +1,5 @@
 ---
-geraldb (55):
+geraldb (60):
 - beercsv
 - beerkit
 - beerlabels
@@ -15,10 +15,13 @@ geraldb (55):
 - henrythemes
 - hybook
 - hydepress
+- jekyll-octopod
 - libsjs
 - manuscripts
 - mokkalibs
 - mrhydescripts
+- mundimark
+- octobook
 - openbeer
 - openbookie
 - openfootball
@@ -37,6 +40,7 @@ geraldb (55):
 - rsssf
 - rubylibs
 - rubyref
+- shellpress
 - slidekit
 - slideshow-s9
 - slideshow-templates
@@ -47,6 +51,7 @@ geraldb (55):
 - statictimes
 - staystatic
 - textkit
+- updownpress
 - vienna-rb
 - viennahtml
 - webstart
@@ -54,4 +59,4 @@ geraldb (55):
 - worldclassics
 - worlddb
 - writekit
-- yukipress
+- yukimotopress
