@@ -1,5 +1,5 @@
 ---
-geraldb (14):
+geraldb (16):
 - austria
 - catalog
 - chelitas
@@ -11,10 +11,12 @@ geraldb (14):
 - talks
 - test
 - viennarb
+- viennarb.v01
+- viennarb.v11
 - web-proxy-win
 - webcomponents
 - wine.db.ruby
-yorobot (9):
+yorobot (11):
 - auto
 - backup
 - cache
@@ -22,6 +24,8 @@ yorobot (9):
 - football.csv
 - football.db
 - football.db.rsssf
+- logs
+- planetjekyll
 - rubyconf
 - setup
 beercsv (7):
@@ -61,8 +65,7 @@ bookdesigns (5):
 - book-hamilton
 - book-rust
 - designs
-drjekyllthemes (4):
-- build
+drjekyllthemes (3):
 - drjekyll
 - drjekyllthemes.github.io
 - themes
@@ -113,7 +116,9 @@ funpress (6):
 - funpress.github.io
 - mostly-adequate-guide-to-fp
 - up-n-going
-henrythemes (10):
+henrythemes (12):
+- hello-jekyll-theme
+- hello-minima-theme
 - jekyll-book-theme
 - jekyll-boom-theme
 - jekyll-boom-theme-v2
@@ -157,8 +162,7 @@ manuscripts (3):
 mokkalibs (2):
 - faster_xml_simple_reader
 - mokka
-mrhydescripts (3):
-- jekylldoc
+mrhydescripts (2):
 - mrhyde
 - scripts
 mundimark (11):
@@ -179,7 +183,7 @@ octobook (5):
 - book-classics-theme
 - book-git-theme
 - octobook
-openbeer (35):
+openbeer (34):
 - api
 - at-austria
 - auto
@@ -208,7 +212,6 @@ openbeer (35):
 - oberfranken
 - openbeer.github.io
 - or-oregon
-- quiz
 - schema
 - schema.sql
 - talks
@@ -363,9 +366,10 @@ printhtml (3):
 - awesome-print
 - quickrefs
 - sandbox
-quikstart (5):
+quikstart (6):
 - gem-starter-template
 - gem-starter-template-hoe
+- jekyll-starter-theme
 - quik
 - scripts
 - sinatra-starter-template
@@ -377,7 +381,7 @@ rsssf (7):
 - es-espana
 - rsssf.github.io
 - spec
-rubylibs (19):
+rubylibs (20):
 - about
 - activerecord-importer
 - activerecord-utils
@@ -389,6 +393,7 @@ rubylibs (19):
 - gutenberg
 - hoe-manifest
 - hubba
+- jekylldoc
 - linkto
 - logutils
 - ostructer
@@ -475,8 +480,8 @@ statictimes (6):
 - showcase
 - statictimes.github.io
 staystatic (3):
-- sites
 - staystatic
+- staystatic-starter
 - staystatic.github.io
 textkit (11):
 - catalog.db
