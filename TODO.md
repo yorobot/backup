@@ -4,6 +4,15 @@
 
 check if set to public (otherwise org will NOT get included in api call)
 
+add excludes / skip (for too large repos e.g. bootstrap or w/ media files etc.) e.g.:
+
+```
+jekyll-octopod (4):
+- jekyll-octopod
+- jekyll-octopod.github.io
+- jekyll-octopod.github.io.source
+- staging
+```
 
 ## add auto-save to github client
 
@@ -42,6 +51,3 @@ false
         from ./backup.rb:64:in `each'
         from ./backup.rb:64:in `<main>'
 ~~~
-
-
-

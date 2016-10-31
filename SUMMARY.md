@@ -1,4 +1,4 @@
-# 61 orgs, 491 repos
+# 60 orgs, 486 repos
 
 ### geraldb _(13)_
 
@@ -56,9 +56,9 @@ football.api.js • football.html • football.js • starter
 
 babel • elm-by-example • es6-features • funpress.github.io • mostly-adequate-guide-to-fp • up-n-going
 
-### henrythemes _(12)_
+### henrythemes _(11)_
 
-hello-jekyll-theme • hello-minima-theme • jekyll-book-theme • jekyll-boom-theme • jekyll-boom-theme-v2 • jekyll-bootstrap-theme • jekyll-epub-theme • jekyll-gutenberg-theme • jekyll-minimal-theme • jekyll-print-theme • jekyll-starter-theme • jekyll-starter-theme-v2
+hello-jekyll-theme • hello-minima-theme • jekyll-book-theme • jekyll-boom-theme • jekyll-boom-theme-v2 • jekyll-epub-theme • jekyll-gutenberg-theme • jekyll-minimal-theme • jekyll-print-theme • jekyll-starter-theme • jekyll-starter-theme-v2
 
 ### hybook _(3)_
 
@@ -67,10 +67,6 @@ bookfile • bookman • hybook
 ### hydepress _(12)_
 
 hydepress.github.io • jekyll • jekyll-deploy • jekyll-dev • jekyll-import • jekyll-install • jekyll-plugins • jekyll-style • jekyll-themes • liquid • octopod • octopress
-
-### jekyll-octopod _(4)_
-
-jekyll-octopod • jekyll-octopod.github.io • jekyll-octopod.github.io.source • staging
 
 ### libsjs _(3)_
 

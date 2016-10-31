@@ -119,7 +119,7 @@ henrythemes (12):
 - jekyll-book-theme
 - jekyll-boom-theme
 - jekyll-boom-theme-v2
-- jekyll-bootstrap-theme
+### - jekyll-bootstrap-theme
 - jekyll-epub-theme
 - jekyll-gutenberg-theme
 - jekyll-minimal-theme
@@ -143,11 +143,11 @@ hydepress (12):
 - liquid
 - octopod
 - octopress
-jekyll-octopod (4):
-- jekyll-octopod
-- jekyll-octopod.github.io
-- jekyll-octopod.github.io.source
-- staging
+## jekyll-octopod (4):
+## - jekyll-octopod
+## - jekyll-octopod.github.io
+## - jekyll-octopod.github.io.source
+## - staging
 libsjs (3):
 - jquery.debug.js
 - jquery.table.js
