@@ -1,8 +1,8 @@
-# 61 orgs, 494 repos
+# 61 orgs, 491 repos
 
-### geraldb _(16)_
+### geraldb _(13)_
 
-austria • catalog • chelitas • epub-reader • geraldb.github.io • hellohoe • polymer • sandbox • talks • test • viennarb • viennarb.v01 • viennarb.v11 • web-proxy-win • webcomponents • wine.db.ruby
+austria • catalog • chelitas • epub-reader • geraldb.github.io • hellohoe • polymer • sandbox • talks • test • web-proxy-win • webcomponents • wine.db.ruby
 
 ### yorobot _(11)_
 
