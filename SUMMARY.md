@@ -1,8 +1,8 @@
-# 66 orgs, 490 repos
+# 65 orgs, 481 repos
 
-### geraldb _(16)_
+### geraldb _(13)_
 
-austria • catalog • chelitas • epub-reader • geraldb.github.io • hellohoe • polymer • sandbox • talks • test • viennarb • viennarb.v01 • viennarb.v11 • web-proxy-win • webcomponents • wine.db.ruby
+austria • catalog • chelitas • epub-reader • geraldb.github.io • hellohoe • polymer • sandbox • talks • test • web-proxy-win • webcomponents • wine.db.ruby
 
 ### yorobot _(14)_
 
@@ -75,10 +75,6 @@ bookfile • bookman • hybook
 ### hydepress _(12)_
 
 hydepress.github.io • jekyll • jekyll-deploy • jekyll-dev • jekyll-import • jekyll-install • jekyll-plugins • jekyll-style • jekyll-themes • liquid • octopod • octopress
-
-### jekyll-octopod _(6)_
-
-jekyll-bootflat • jekyll-octopod • jekyll-octopod.github.io • jekyll-octopod.github.io.source • jekyllthemes • staging
 
 ### libsjs _(3)_
 
