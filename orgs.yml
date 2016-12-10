@@ -1,5 +1,6 @@
 ---
-geraldb (60):
+geraldb (65):
+- beerbook
 - beercsv
 - beerkit
 - beerlabels
@@ -9,6 +10,7 @@ geraldb (60):
 - drjekyllthemes
 - factbook
 - feedreader
+- footballbook
 - footballcsv
 - footballjs
 - funpress
@@ -24,6 +26,7 @@ geraldb (60):
 - octobook
 - openbeer
 - openbookie
+- opendatajson
 - openfootball
 - openmundi
 - opensport
@@ -36,6 +39,7 @@ geraldb (60):
 - planetopendata
 - planetruby
 - printhtml
+- publicdomainworks
 - quikstart
 - rsssf
 - rubylibs
@@ -56,6 +60,7 @@ geraldb (60):
 - viennahtml
 - webstart
 - wikiscript
+- worldbook
 - worldclassics
 - worlddb
 - writekit

@@ -10,21 +10,31 @@ geraldb (16):
 - sandbox
 - talks
 - test
+- viennarb
+- viennarb.v01
+- viennarb.v11
 - web-proxy-win
 - webcomponents
 - wine.db.ruby
-yorobot (11):
+yorobot (14):
 - auto
 - backup
+- beer.db
 - cache
-- factbook.json
+- factbook
 - football.csv
 - football.db
 - football.db.rsssf
+- football.db.up
 - logs
 - planetjekyll
 - rubyconf
 - setup
+- world.db
+beerbook (3):
+- beerbook.github.io
+- calendar
+- maps
 beercsv (7):
 - be-belgium
 - build
@@ -67,10 +77,10 @@ drjekyllthemes (3):
 - drjekyllthemes.github.io
 - themes
 factbook (4):
-- factbook.csv
+- factbook
 - factbook.github.io
-- factbook.json
 - factbook.sql
+- factbook.starter
 feedreader (17):
 - feed.filter
 - feed.parser
@@ -89,6 +99,9 @@ feedreader (17):
 - pluto.tasks
 - pluto.tools
 - pluto.update
+footballbook (2):
+- calendar
+- footballbook.github.io
 footballcsv (11):
 - be-belgium
 - de-deutschland
@@ -119,7 +132,7 @@ henrythemes (12):
 - jekyll-book-theme
 - jekyll-boom-theme
 - jekyll-boom-theme-v2
-### - jekyll-bootstrap-theme
+- jekyll-bootstrap-theme
 - jekyll-epub-theme
 - jekyll-gutenberg-theme
 - jekyll-minimal-theme
@@ -143,11 +156,13 @@ hydepress (12):
 - liquid
 - octopod
 - octopress
-## jekyll-octopod (4):
-## - jekyll-octopod
-## - jekyll-octopod.github.io
-## - jekyll-octopod.github.io.source
-## - staging
+jekyll-octopod (6):
+- jekyll-bootflat
+- jekyll-octopod
+- jekyll-octopod.github.io
+- jekyll-octopod.github.io.source
+- jekyllthemes
+- staging
 libsjs (3):
 - jquery.debug.js
 - jquery.table.js
@@ -180,16 +195,12 @@ octobook (5):
 - book-classics-theme
 - book-git-theme
 - octobook
-openbeer (34):
+openbeer (28):
 - api
 - at-austria
-- auto
 - be-belgium
-- book
-- build
 - by-bayern
 - ca-canada
-- calendar
 - ch-confoederatio-helvetica
 - co-colorado
 - collections
@@ -199,7 +210,6 @@ openbeer (34):
 - ie-ireland
 - images
 - jp-japan
-- maps
 - market
 - menus
 - mx-mexico
@@ -211,7 +221,6 @@ openbeer (34):
 - or-oregon
 - schema
 - schema.sql
-- talks
 - us-united-states
 - wa-washington
 - world
@@ -224,17 +233,14 @@ openbookie (8):
 - sport.db.market
 - sport.db.play
 - sportbook
-openfootball (45):
+opendatajson (2):
+- factbook.json
+- football.json
+openfootball (37):
 - africa-cup
-- api
 - assocs
 - at-austria
-- auto
-- book
 - br-brazil
-- build
-- build-shell
-- calendar
 - ch-confoederatio-helvetica
 - club-world-cup
 - clubs
@@ -249,7 +255,6 @@ openfootball (45):
 - es-espana
 - euro-cup
 - europe-champions-league
-- football.json
 - fr-france
 - fussball-de
 - futbol-es
@@ -267,14 +272,10 @@ openfootball (45):
 - schema
 - schema.sql
 - stadiums
-- talks
 - women-world-cup
 - world-cup
-openmundi (15):
+openmundi (12):
 - austria.db
-- auto
-- book
-- build
 - datafile
 - deutschland.db
 - langs
@@ -333,7 +334,7 @@ planetjekyll (13):
 - showcase
 - snippets
 planetopendata (6):
-- austria
+- awesome-austria
 - awesome-football
 - awesome-sqlite
 - awesome-world
@@ -363,6 +364,8 @@ printhtml (3):
 - awesome-print
 - quickrefs
 - sandbox
+publicdomainworks (1):
+- publicdomainworks.github.io
 quikstart (6):
 - gem-starter-template
 - gem-starter-template-hoe
@@ -495,10 +498,11 @@ textkit (11):
 updownpress (2):
 - markdown-lint
 - updownpress.github.io
-viennahtml (4):
+viennahtml (5):
 - awesome-austria
 - awesome-kramdown
 - members
+- sample-course
 - viennahtml.github.io
 webstart (12):
 - links-rails
@@ -518,13 +522,13 @@ wikiscript (4):
 - football.players.ruby
 - football.squads.ruby
 - wikiscript.ruby
+worldbook (1):
+- worldbook.github.io
 worldclassics (3):
 - dr-jekyll-and-mr-hyde
 - the-trial
 - worldclassics.github.io
-worlddb (13):
-- factbook
-- factbook.starter
+worlddb (11):
 - world.db.admin
 - world.db.cities
 - world.db.codes
