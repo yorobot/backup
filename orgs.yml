@@ -1,5 +1,6 @@
 ---
-geraldb (65):
+geraldb (69):
+### - RubyHabits
 - beerbook
 - beercsv
 - beerkit
@@ -9,6 +10,7 @@ geraldb (65):
 - bookdesigns
 - drjekyllthemes
 - factbook
+- feedparser
 - feedreader
 - footballbook
 - footballcsv
@@ -17,7 +19,7 @@ geraldb (65):
 - henrythemes
 - hybook
 - hydepress
-- jekyll-octopod
+### - jekyll-octopod
 - libsjs
 - manuscripts
 - mokkalibs
@@ -38,12 +40,14 @@ geraldb (65):
 - planetjekyll
 - planetopendata
 - planetruby
+- plutolive
 - printhtml
 - publicdomainworks
 - quikstart
 - rsssf
 - rubylibs
 - rubyref
+- schemadoc
 - shellpress
 - slidekit
 - slideshow-s9
@@ -56,7 +60,7 @@ geraldb (65):
 - staystatic
 - textkit
 - updownpress
-- vienna-rb
+### - vienna-rb
 - viennahtml
 - webstart
 - wikiscript
