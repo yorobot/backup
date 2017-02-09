@@ -1,8 +1,8 @@
-# 65 orgs, 481 repos
+# 68 orgs, 471 repos
 
 ### geraldb _(13)_
 
-austria • catalog • chelitas • epub-reader • geraldb.github.io • hellohoe • polymer • sandbox • talks • test • web-proxy-win • webcomponents • wine.db.ruby
+austria • catalog • chelitas • epub-reader • geraldb.github.io • hellohoe • polymer • sandbox • talks • test • web-proxy-win • webcomponents • wine.db.tools
 
 ### yorobot _(14)_
 
@@ -28,9 +28,9 @@ beer.db.labels • beer.db.labels.ruby
 
 bibtxt.github.io
 
-### book-templates _(5)_
+### book-templates _(4)_
 
-beer • bookfile • football • schema • world
+beer • bookfile • football • world
 
 ### bookdesigns _(5)_
 
@@ -40,13 +40,17 @@ book-epsilon • book-git • book-hamilton • book-rust • designs
 
 drjekyll • drjekyllthemes.github.io • themes
 
-### factbook _(4)_
+### factbook _(3)_
 
-factbook • factbook.github.io • factbook.sql • factbook.starter
+factbook • factbook.github.io • factbook.sql
 
-### feedreader _(17)_
+### feedparser _(2)_
 
-feed.filter • feed.parser • feedreader.github.io • jekyll-planet • notes • planet-web • planets • pluto • pluto.admin • pluto.feed.fetcher • pluto.live • pluto.live.starter • pluto.merge • pluto.models • pluto.tasks • pluto.tools • pluto.update
+feedfilter • feedparser
+
+### feedreader _(6)_
+
+feedreader.github.io • jekyll-planet • notes • planets • pluto • pluto.tools
 
 ### footballbook _(2)_
 
@@ -66,7 +70,7 @@ babel • elm-by-example • es6-features • funpress.github.io • mostly-adeq
 
 ### henrythemes _(12)_
 
-hello-jekyll-theme • hello-minima-theme • jekyll-book-theme • jekyll-boom-theme • jekyll-boom-theme-v2 • jekyll-bootstrap-theme • jekyll-epub-theme • jekyll-gutenberg-theme • jekyll-minimal-theme • jekyll-print-theme • jekyll-starter-theme • jekyll-starter-theme-v2
+hello-jekyll-theme • hello-minima-theme • hello-pages-theme • hello-pages-theme-v2 • jekyll-book-theme • jekyll-boom-theme • jekyll-boom-theme-v2 • jekyll-gutenberg-theme • jekyll-minimal-theme • jekyll-starter-theme • jekyll-starter-theme-v2 • jekyll-talks-theme
 
 ### hybook _(3)_
 
@@ -152,9 +156,13 @@ awesome-jekyll • awesome-jekyll-editors • awesome-jekyll-plugins • awesome
 
 awesome-austria • awesome-football • awesome-sqlite • awesome-world • planet • planetopendata.github.io
 
-### planetruby _(19)_
+### planetruby _(17)_
 
-apps • awesome • awesome-activerecord • awesome-blogs • awesome-events • awesome-rack • awesome-rubies • awesome-staticgen • awesome-stdlib • awesome-webframeworks • awesome-webservers • books • catalog • gems • links • monthly • planet • planetruby.github.io • rubyconf.json
+apps • awesome • awesome-activerecord • awesome-blogs • awesome-events • awesome-rack • awesome-rubies • awesome-staticgen • awesome-stdlib • awesome-webframeworks • awesome-webservers • books • gems • links • planet • planetruby.github.io • rubyconf.json
+
+### plutolive _(3)_
+
+pluto.admin • pluto.live • pluto.live.starter
 
 ### printhtml _(3)_
 
@@ -172,13 +180,17 @@ gem-starter-template • gem-starter-template-hoe • jekyll-starter-theme • q
 
 at-austria • br-brazil • de-deutschland • eng-england • es-espana • rsssf.github.io • spec
 
-### rubylibs _(20)_
+### rubylibs _(19)_
 
-about • activerecord-importer • activerecord-utils • activityutils • dbbrowser • fetcher • fotos • gitti • gutenberg • hoe-manifest • hubba • jekylldoc • linkto • logutils • ostructer • pakman • props • schemadoc • tagutils • webservice
+about • activerecord-importer • activerecord-utils • activityutils • dbbrowser • fetcher • fotos • gitti • gutenberg • hoe-manifest • hubba • jekylldoc • linkto • logutils • ostructer • pakman • props • tagutils • webservice
 
 ### rubyref _(4)_
 
 activerecord • net-http • regexp • sandbox
+
+### schemadoc _(2)_
+
+schemadoc • schemadoc-theme
 
 ### shellpress _(1)_
 
@@ -228,9 +240,9 @@ catalog.db • csv2 • datafile • dataman • datapak • event.db • notes 
 
 markdown-lint • updownpress.github.io
 
-### viennahtml _(5)_
+### viennahtml _(4)_
 
-awesome-austria • awesome-kramdown • members • sample-course • viennahtml.github.io
+awesome-austria • awesome-kramdown • members • viennahtml.github.io
 
 ### webstart _(12)_
 
@@ -238,7 +250,7 @@ links-rails • links-sinatra • manman • master • sandbox • server • u
 
 ### wikiscript _(4)_
 
-beer.ruby • football.players.ruby • football.squads.ruby • wikiscript.ruby
+beer • football.players • football.squads • wikiscript
 
 ### worldbook _(1)_
 

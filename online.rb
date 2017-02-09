@@ -26,14 +26,14 @@ end
 
 def save_repos
   gh = Hubba::Github.new( cache_dir: CACHE_DIR )
-  
+
   h = {}
   users = %w(geraldb yorobot)
   users.each do |user|
     res = gh.user_repos( user )
     save_json( "users~#{user}~repos", res.data )
 
-    repos = res.names    
+    repos = res.names
     h[ "#{user} (#{repos.size})" ] = repos
   end
 
@@ -42,14 +42,15 @@ def save_repos
   res = gh.user_orgs( user )
   save_json( "users~#{user}~orgs", res.data )
 
+
   logins = res.logins.each do |login|
-    next if ['vienna-rb'].include?( login )      ## skip vienna-rb for now
+    next if ['vienna-rb', 'RubyHabits', 'jekyll-octopod'].include?( login )      ## skip vienna-rb for now
     res = gh.org_repos( login )
     save_json( "orgs~#{login}~repos", res.data )
 
-    repos = res.names    
+    repos = res.names
     h[ "#{login} (#{repos.size})" ] = repos
-  end  
+  end
 
   save_yaml( "repos", h )
 end  ## method save_repos
@@ -64,7 +65,7 @@ def save_orgs
   save_json( "users~#{user}~orgs", res.data )
   orgs = res.logins
 
-  h[ "#{user} (#{orgs.size})" ] = orgs 
+  h[ "#{user} (#{orgs.size})" ] = orgs
 
   save_yaml( "orgs", h )
 end  ## method save_repos
@@ -74,4 +75,3 @@ save_orgs()
 
 
 puts "Done."
-

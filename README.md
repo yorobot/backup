@@ -38,21 +38,9 @@ set HUBBA_USER=you
 set HUBBA_PASSWORD=topsecret
 ```
 
-For now exclude (comment out) these org memberships in orgs.yml:
+Note: For now these repos get auto-excluded in repos.yml:
 
 ```
-### - RubyHabits
-### - jekyll-octopod
-### - vienna-rb
-```
-
-For now exclude (comment out) these repos in repos.yml:
-
-```
-geraldb (16):
-- viennarb
-- viennarb.v01
-- viennarb.v11
 RubyHabits (9):
 - Graphics
 - Slides
@@ -63,8 +51,6 @@ RubyHabits (9):
 - rubyhabits.github.io
 - secret-collect
 - webpage
-henrythemes (13):
-- jekyll-bootstrap-theme     ## download to big - all of bootstrap ???
 jekyll-octopod (6):
 - jekyll-bootflat
 - jekyll-octopod
@@ -72,10 +58,28 @@ jekyll-octopod (6):
 - jekyll-octopod.github.io.source
 - jekyllthemes
 - staging
+vienna-rb (5):
+- ....
+```
+
+And exclude (comment out) these by-hand:
+
+```
+geraldb (16):
+- viennarb
+- viennarb.v01
+- viennarb.v11
+henrythemes (13):
+- jekyll-bootstrap-theme     ## download to big - all of bootstrap ???
 ```
 
 ##### Update Summary
 
+To update the summary (SUMMARY.md) use the repos script e.g.
+
+```
+$ ruby ./repos.rb
+```
 
 
 
