@@ -1,0 +1,18 @@
+{
+  "full_name": "openfootball/euro-cup",
+  "created_at": "2013-05-21T21:41:51Z",
+  "history": {
+    "2017-02-11": {
+      "stargazers_count": 27
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-07-13T01:47:13Z",
+        "name": "GitHub"
+      },
+      "message": "Portugal win Euro 2016 in extra time"
+    }
+  ]
+}

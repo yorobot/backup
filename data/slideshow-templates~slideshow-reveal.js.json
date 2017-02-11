@@ -1,0 +1,18 @@
+{
+  "full_name": "slideshow-templates/slideshow-reveal.js",
+  "created_at": "2016-05-15T09:39:49Z",
+  "history": {
+    "2017-02-11": {
+      "stargazers_count": 5
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-12-06T14:49:18Z",
+        "name": "GitHub"
+      },
+      "message": "Update NOTES.md"
+    }
+  ]
+}

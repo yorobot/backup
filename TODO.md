@@ -1,5 +1,26 @@
 # Todos
 
+## add stars / starcount to SUMMARY.md
+
+
+## fix - check http status in githubba response e.g. 301 (Moved Permanently) etc.
+
+```
+add record 2017-02-11 to history...
+GET /repos/slideshow-s9/slideshow-models/commits
+  using basic auth - user: testdada, password: ***
+"server => GitHub.com"
+"date => Sat, 11 Feb 2017 18:45:49 GMT"
+"content-type => application/json; charset=utf-8"
+"content-length => 160"
+"connection => close"
+"status => 301 Moved Permanently"
+"x-ratelimit-limit => 5000"
+"x-ratelimit-remaining => 4288"
+```
+
+
+
 ##  double check org membership (must be public)
 
 check if set to public (otherwise org will NOT get included in api call)

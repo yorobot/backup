@@ -1,0 +1,18 @@
+{
+  "full_name": "henrythemes/jekyll-boom-theme",
+  "created_at": "2016-02-17T18:25:50Z",
+  "history": {
+    "2017-02-11": {
+      "stargazers_count": 1
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-02-18T16:21:21Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "Update _titlepage.scss"
+    }
+  ]
+}

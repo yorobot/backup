@@ -1,0 +1,18 @@
+{
+  "full_name": "openbeer/at-austria",
+  "created_at": "2013-05-18T11:13:13Z",
+  "history": {
+    "2017-02-11": {
+      "stargazers_count": 6
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-11-13T20:38:21Z",
+        "name": "GitHub"
+      },
+      "message": "Update beers--waldviertel.txt"
+    }
+  ]
+}

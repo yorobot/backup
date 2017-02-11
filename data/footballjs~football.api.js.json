@@ -1,0 +1,18 @@
+{
+  "full_name": "footballjs/football.api.js",
+  "created_at": "2014-05-06T14:35:06Z",
+  "history": {
+    "2017-02-11": {
+      "stargazers_count": 3
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2014-05-06T16:42:51Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "try bower componentify"
+    }
+  ]
+}

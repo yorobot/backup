@@ -1,0 +1,18 @@
+{
+  "full_name": "planetopendata/awesome-austria",
+  "created_at": "2015-06-27T17:28:04Z",
+  "history": {
+    "2017-02-11": {
+      "stargazers_count": 2
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-11-15T19:48:57Z",
+        "name": "GitHub"
+      },
+      "message": "up data.tirol"
+    }
+  ]
+}

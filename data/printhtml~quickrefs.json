@@ -1,0 +1,18 @@
+{
+  "full_name": "printhtml/quickrefs",
+  "created_at": "2016-02-19T10:57:11Z",
+  "history": {
+    "2017-02-11": {
+      "stargazers_count": 1
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-02-19T11:29:32Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "Update BOOK.md"
+    }
+  ]
+}

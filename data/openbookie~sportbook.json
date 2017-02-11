@@ -1,0 +1,18 @@
+{
+  "full_name": "openbookie/sportbook",
+  "created_at": "2012-03-05T23:40:45Z",
+  "history": {
+    "2017-02-11": {
+      "stargazers_count": 85
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2014-09-29T07:29:05Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "up demo setup"
+    }
+  ]
+}

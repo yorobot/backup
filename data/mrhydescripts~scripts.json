@@ -1,0 +1,18 @@
+{
+  "full_name": "mrhydescripts/scripts",
+  "created_at": "2015-08-12T14:17:42Z",
+  "history": {
+    "2017-02-11": {
+      "stargazers_count": 6
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-11-14T18:34:34Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "Update sz-flex.rb\n\nEdit `install_theme` same as `keys:` in [drjekyllthemes/themes/themes.yml](https://github.com/StartZeroGnu/themes/blob/master/themes.yml#L1423)"
+    }
+  ]
+}

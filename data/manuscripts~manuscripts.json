@@ -1,0 +1,18 @@
+{
+  "full_name": "manuscripts/manuscripts",
+  "created_at": "2016-03-01T21:00:50Z",
+  "history": {
+    "2017-02-11": {
+      "stargazers_count": 1
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2017-01-04T03:57:23Z",
+        "name": "GitHub"
+      },
+      "message": "Update README.md"
+    }
+  ]
+}

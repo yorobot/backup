@@ -1,0 +1,18 @@
+{
+  "full_name": "mundimark/awesome-books",
+  "created_at": "2015-05-05T08:54:22Z",
+  "history": {
+    "2017-02-11": {
+      "stargazers_count": 23
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2015-07-19T16:04:22Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "use new worldclassics org"
+    }
+  ]
+}

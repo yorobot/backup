@@ -1,0 +1,18 @@
+{
+  "full_name": "planetopendata/awesome-football",
+  "created_at": "2015-04-24T21:39:54Z",
+  "history": {
+    "2017-02-11": {
+      "stargazers_count": 54
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-05-16T08:42:10Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "Update README.md (#2)\n\nRemove two football apps whose repositories are no longer available."
+    }
+  ]
+}

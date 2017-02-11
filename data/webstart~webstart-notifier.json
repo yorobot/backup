@@ -1,0 +1,18 @@
+{
+  "full_name": "webstart/webstart-notifier",
+  "created_at": "2013-10-24T09:48:06Z",
+  "history": {
+    "2017-02-11": {
+      "stargazers_count": 1
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2013-10-28T11:26:51Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "add gradle build script"
+    }
+  ]
+}

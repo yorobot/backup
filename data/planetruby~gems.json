@@ -1,0 +1,18 @@
+{
+  "full_name": "planetruby/gems",
+  "created_at": "2014-12-26T15:54:40Z",
+  "history": {
+    "2017-02-11": {
+      "stargazers_count": 15
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2015-12-18T09:09:45Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "Merge pull request #15 from calonso/add_ruby_push_notifications\n\nadded ruby push notifications entry"
+    }
+  ]
+}

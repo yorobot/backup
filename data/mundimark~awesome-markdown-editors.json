@@ -1,0 +1,18 @@
+{
+  "full_name": "mundimark/awesome-markdown-editors",
+  "created_at": "2016-03-15T23:55:06Z",
+  "history": {
+    "2017-02-11": {
+      "stargazers_count": 14
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2017-01-08T05:44:12Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "added Typora to Universal section in markdown desktop editors"
+    }
+  ]
+}

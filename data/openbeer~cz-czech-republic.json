@@ -1,0 +1,18 @@
+{
+  "full_name": "openbeer/cz-czech-republic",
+  "created_at": "2013-05-18T17:21:06Z",
+  "history": {
+    "2017-02-11": {
+      "stargazers_count": 2
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2014-11-02T18:06:38Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "add map"
+    }
+  ]
+}

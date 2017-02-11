@@ -1,0 +1,18 @@
+{
+  "full_name": "sportlogos/football.db.logos",
+  "created_at": "2013-08-12T07:02:59Z",
+  "history": {
+    "2017-02-11": {
+      "stargazers_count": 2
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2013-09-14T09:55:56Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "move national teams to sport.db.logos"
+    }
+  ]
+}

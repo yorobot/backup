@@ -1,0 +1,18 @@
+{
+  "full_name": "openfootball/fr-france",
+  "created_at": "2014-06-29T21:14:33Z",
+  "history": {
+    "2017-02-11": {
+      "stargazers_count": 2
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-11-24T18:01:33Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "Update clubs.txt\n\nchange \"ajacciofc\" to \"ajacciogfc\" in accordance with the rest of the repo"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "full_name": "textkit/textutils",
+  "created_at": "2012-06-09T10:07:00Z",
+  "history": {
+    "2017-02-11": {
+      "stargazers_count": 2
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2015-12-04T21:17:45Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "move attic to its own folder"
+    }
+  ]
+}

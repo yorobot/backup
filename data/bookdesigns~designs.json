@@ -1,0 +1,18 @@
+{
+  "full_name": "bookdesigns/designs",
+  "created_at": "2016-03-03T14:09:46Z",
+  "history": {
+    "2017-02-11": {
+      "stargazers_count": 2
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-03-03T14:10:15Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "Update README.md"
+    }
+  ]
+}

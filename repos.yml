@@ -121,7 +121,7 @@ henrythemes (13):
 - jekyll-book-theme
 - jekyll-boom-theme
 - jekyll-boom-theme-v2
-## - jekyll-bootstrap-theme
+- jekyll-bootstrap-theme
 - jekyll-gutenberg-theme
 - jekyll-minimal-theme
 - jekyll-starter-theme
@@ -399,19 +399,17 @@ slidekit (4):
 - s6-minimalistic
 - s6-samples
 - slidekit.github.io
-slideshow-s9 (12):
+slideshow-s9 (10):
 - awesome-slideshows
 - demos
 - notes
 - registry
 - samples
 - slideshow
-- slideshow-models
 - slideshow-plugins
 - slideshow-s9.github.io
 - slideshow-service
 - slideshow-starter
-- slideshow-templates
 slideshow-templates (14):
 - media
 - slideshow-csss

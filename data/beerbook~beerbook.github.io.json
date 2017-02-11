@@ -1,0 +1,18 @@
+{
+  "full_name": "beerbook/beerbook.github.io",
+  "created_at": "2014-01-29T18:54:47Z",
+  "history": {
+    "2017-02-11": {
+      "stargazers_count": 6
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-11-04T07:37:10Z",
+        "name": "GitHub"
+      },
+      "message": "Update README.md"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 ---
 geraldb (69):
-### - RubyHabits
+- RubyHabits
 - beerbook
 - beercsv
 - beerkit
@@ -19,7 +19,7 @@ geraldb (69):
 - henrythemes
 - hybook
 - hydepress
-### - jekyll-octopod
+- jekyll-octopod
 - libsjs
 - manuscripts
 - mokkalibs
@@ -60,7 +60,7 @@ geraldb (69):
 - staystatic
 - textkit
 - updownpress
-### - vienna-rb
+- vienna-rb
 - viennahtml
 - webstart
 - wikiscript

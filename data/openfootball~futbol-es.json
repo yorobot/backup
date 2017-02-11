@@ -1,0 +1,18 @@
+{
+  "full_name": "openfootball/futbol-es",
+  "created_at": "2014-02-23T18:28:07Z",
+  "history": {
+    "2017-02-11": {
+      "stargazers_count": 2
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2014-04-16T17:20:26Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "flatten folders"
+    }
+  ]
+}
