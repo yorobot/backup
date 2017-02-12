@@ -4,15 +4,19 @@
   "history": {
     "2017-02-11": {
       "stargazers_count": 28
+    },
+    "2017-02-12": {
+      "stargazers_count": 28
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-02-11T09:53:53Z",
+        "date": "2017-02-12T07:54:05Z",
         "name": "GitHub"
       },
       "message": "Update liga-ii.txt"
     }
-  ]
+  ],
+  "size": 267
 }

@@ -4,6 +4,9 @@
   "history": {
     "2017-02-11": {
       "stargazers_count": 13
+    },
+    "2017-02-12": {
+      "stargazers_count": 13
     }
   },
   "commits": [
@@ -14,5 +17,6 @@
       },
       "message": "Merge pull request #1 from tapalilov/refactor_method_aliasing\n\nRefactor method aliasing"
     }
-  ]
+  ],
+  "size": 160
 }

@@ -4,6 +4,9 @@
   "history": {
     "2017-02-11": {
       "stargazers_count": 10
+    },
+    "2017-02-12": {
+      "stargazers_count": 10
     }
   },
   "commits": [
@@ -14,5 +17,6 @@
       },
       "message": "Merge pull request #1 from walterdavis/master\n\nfixed a typo"
     }
-  ]
+  ],
+  "size": 289
 }

@@ -4,6 +4,9 @@
   "history": {
     "2017-02-11": {
       "stargazers_count": 100
+    },
+    "2017-02-12": {
+      "stargazers_count": 100
     }
   },
   "commits": [
@@ -14,5 +17,6 @@
       },
       "message": "Add jekyll-gitlab-letsencrypt\n\nAdd a plugin I just pushed up that does the letsencrypt dance for you.  \r\n \r\nPut under commands since you run `jekyll letsencrypt`, but might fit better elsewhere?"
     }
-  ]
+  ],
+  "size": 60
 }

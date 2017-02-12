@@ -4,6 +4,9 @@
   "history": {
     "2017-02-11": {
       "stargazers_count": 37
+    },
+    "2017-02-12": {
+      "stargazers_count": 37
     }
   },
   "commits": [
@@ -14,5 +17,6 @@
       },
       "message": "prep 1.0.1"
     }
-  ]
+  ],
+  "size": 25
 }

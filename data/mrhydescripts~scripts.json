@@ -4,6 +4,9 @@
   "history": {
     "2017-02-11": {
       "stargazers_count": 6
+    },
+    "2017-02-12": {
+      "stargazers_count": 6
     }
   },
   "commits": [
@@ -14,5 +17,6 @@
       },
       "message": "Update sz-flex.rb\n\nEdit `install_theme` same as `keys:` in [drjekyllthemes/themes/themes.yml](https://github.com/StartZeroGnu/themes/blob/master/themes.yml#L1423)"
     }
-  ]
+  ],
+  "size": 8
 }

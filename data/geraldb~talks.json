@@ -4,6 +4,9 @@
   "history": {
     "2017-02-11": {
       "stargazers_count": 63
+    },
+    "2017-02-12": {
+      "stargazers_count": 63
     }
   },
   "commits": [
@@ -14,5 +17,6 @@
       },
       "message": "Delete vienna3.md"
     }
-  ]
+  ],
+  "size": 7821
 }

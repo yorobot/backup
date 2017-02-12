@@ -4,6 +4,9 @@
   "history": {
     "2017-02-11": {
       "stargazers_count": 15
+    },
+    "2017-02-12": {
+      "stargazers_count": 15
     }
   },
   "commits": [
@@ -14,5 +17,6 @@
       },
       "message": "Merge pull request #1 from adambro/cors_support\n\nEnable CORS for all responses"
     }
-  ]
+  ],
+  "size": 13
 }

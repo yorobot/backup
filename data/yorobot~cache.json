@@ -4,15 +4,19 @@
   "history": {
     "2017-02-11": {
       "stargazers_count": 2
+    },
+    "2017-02-12": {
+      "stargazers_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-02-09T20:43:56Z",
+        "date": "2017-02-11T19:38:25Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
     }
-  ]
+  ],
+  "size": 763
 }

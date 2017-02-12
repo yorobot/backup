@@ -4,6 +4,9 @@
   "history": {
     "2017-02-11": {
       "stargazers_count": 2
+    },
+    "2017-02-12": {
+      "stargazers_count": 2
     }
   },
   "commits": [
@@ -14,5 +17,6 @@
       },
       "message": "Create 2016-03-24-issue-3.md"
     }
-  ]
+  ],
+  "size": 2
 }

@@ -4,6 +4,9 @@
   "history": {
     "2017-02-11": {
       "stargazers_count": 9
+    },
+    "2017-02-12": {
+      "stargazers_count": 9
     }
   },
   "commits": [
@@ -14,5 +17,6 @@
       },
       "message": "Merge pull request #3 from AutoSponge/master\n\nadding tree house"
     }
-  ]
+  ],
+  "size": 339
 }

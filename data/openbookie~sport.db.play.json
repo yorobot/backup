@@ -4,6 +4,9 @@
   "history": {
     "2017-02-11": {
       "stargazers_count": 2
+    },
+    "2017-02-12": {
+      "stargazers_count": 2
     }
   },
   "commits": [
@@ -14,5 +17,6 @@
       },
       "message": "up calc formula"
     }
-  ]
+  ],
+  "size": 204
 }
