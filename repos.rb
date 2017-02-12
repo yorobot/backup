@@ -1,7 +1,6 @@
 # encoding: utf-8
 
-require 'yaml'
-require 'pp'
+require 'hubba'    ## used in "offline" mode (e.g. reads stats from ./data folder)
 
 
 ## create a (summary report)
@@ -45,7 +44,20 @@ repos.each do |key_with_counter,values|
   key = key_with_counter.sub( /\s+\([0-9]+\)/, '' )
   buf << "### #{key} _(#{values.size})_\n"
   buf << "\n"
-  buf << values.join( ' • ' ) 
+
+  entries = []
+
+  ### add stats for repos
+  values.each do |value|
+    full_name = "#{key}/#{value}"
+    puts full_name
+    stats = Hubba::Stats.new( full_name )
+    stats.read( data_dir: './data' )
+
+    entries << "**#{value}** ★#{stats.stars} (#{stats.size} kb)"
+  end
+
+  buf << entries.join( ' • ' )
   buf << "\n"
   buf << "\n"
 end
