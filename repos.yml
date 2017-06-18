@@ -11,9 +11,6 @@ geraldb (17):
 - sandbox
 - talks
 - test
-- viennarb
-- viennarb.v01
-- viennarb.v11
 - web-proxy-win
 - webcomponents
 - wine.db.tools
@@ -134,7 +131,6 @@ henrythemes (13):
 - jekyll-book-theme
 - jekyll-boom-theme
 - jekyll-boom-theme-v2
-- jekyll-bootstrap-theme
 - jekyll-gutenberg-theme
 - jekyll-minimal-theme
 - jekyll-starter-theme
