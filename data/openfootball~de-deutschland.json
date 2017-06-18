@@ -7,16 +7,19 @@
     },
     "2017-02-12": {
       "stargazers_count": 26
+    },
+    "2017-06-18": {
+      "stargazers_count": 31
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-02-12T07:52:29Z",
+        "date": "2017-06-09T11:58:57Z",
         "name": "GitHub"
       },
-      "message": "Update 3-liga3-ii.txt"
+      "message": "Create 3-liga3-ii.txt"
     }
   ],
-  "size": 822
+  "size": 891
 }

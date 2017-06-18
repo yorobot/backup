@@ -7,16 +7,19 @@
     },
     "2017-02-12": {
       "stargazers_count": 2
+    },
+    "2017-06-18": {
+      "stargazers_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-01-17T03:07:40Z",
-        "name": "GitHub"
+        "date": "2017-02-25T15:30:34Z",
+        "name": "Gerald Bauer"
       },
-      "message": "Create LICENSE.md"
+      "message": "Adding 2017, fixing some issues with 2015"
     }
   ],
-  "size": 10
+  "size": 11
 }

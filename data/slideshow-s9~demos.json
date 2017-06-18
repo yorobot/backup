@@ -7,16 +7,19 @@
     },
     "2017-02-12": {
       "stargazers_count": 1
+    },
+    "2017-06-18": {
+      "stargazers_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-09-22T15:39:30Z",
-        "name": "GitHub"
+        "date": "2017-06-08T16:45:26Z",
+        "name": "Gerald Bauer"
       },
-      "message": "Add files via upload"
+      "message": "add webfeed2"
     }
   ],
-  "size": 7036
+  "size": 9742
 }

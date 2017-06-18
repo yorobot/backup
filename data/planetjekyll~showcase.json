@@ -7,16 +7,19 @@
     },
     "2017-02-12": {
       "stargazers_count": 2
+    },
+    "2017-06-18": {
+      "stargazers_count": 3
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-12-08T17:07:25Z",
-        "name": "GitHub"
+        "date": "2017-04-07T08:25:02Z",
+        "name": "Gerald Bauer"
       },
-      "message": "add babeljs.io"
+      "message": "Add gowebmasters.png to thumbnails dir"
     }
   ],
-  "size": 1838
+  "size": 2019
 }

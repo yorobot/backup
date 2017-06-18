@@ -7,16 +7,19 @@
     },
     "2017-02-12": {
       "stargazers_count": 2
+    },
+    "2017-06-18": {
+      "stargazers_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2015-05-05T22:01:23Z",
+        "date": "2017-04-04T11:12:26Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update questions.md"
+      "message": "cleanup; move to attic"
     }
   ],
-  "size": 352
+  "size": 367
 }

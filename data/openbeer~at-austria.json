@@ -7,16 +7,19 @@
     },
     "2017-02-12": {
       "stargazers_count": 6
+    },
+    "2017-06-18": {
+      "stargazers_count": 6
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-11-13T20:38:21Z",
-        "name": "GitHub"
+        "date": "2017-06-14T14:46:31Z",
+        "name": "Gerald Bauer"
       },
-      "message": "Update beers--waldviertel.txt"
+      "message": "Create breweries.txt"
     }
   ],
-  "size": 352
+  "size": 353
 }

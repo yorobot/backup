@@ -7,16 +7,19 @@
     },
     "2017-02-12": {
       "stargazers_count": 71
+    },
+    "2017-06-18": {
+      "stargazers_count": 76
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-02-10T09:33:13Z",
+        "date": "2017-06-18T16:04:01Z",
         "name": "Gerald Bauer"
       },
-      "message": "Add whiteglass theme"
+      "message": "up"
     }
   ],
-  "size": 6352
+  "size": 7770
 }

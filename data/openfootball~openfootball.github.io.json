@@ -7,16 +7,19 @@
     },
     "2017-02-12": {
       "stargazers_count": 118
+    },
+    "2017-06-18": {
+      "stargazers_count": 122
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-01-08T04:57:57Z",
-        "name": "Gerald Bauer"
+        "date": "2017-06-06T08:55:13Z",
+        "name": "GitHub"
       },
-      "message": "up nav"
+      "message": "Delete feed.md"
     }
   ],
-  "size": 1610
+  "size": 1615
 }

@@ -7,16 +7,19 @@
     },
     "2017-02-12": {
       "stargazers_count": 203
+    },
+    "2017-06-18": {
+      "stargazers_count": 202
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-04-18T16:21:20Z",
+        "date": "2017-03-07T14:15:20Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update README.md"
+      "message": "Add TruffleRuby"
     }
   ],
-  "size": 19
+  "size": 21
 }

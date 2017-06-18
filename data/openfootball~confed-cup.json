@@ -7,16 +7,19 @@
     },
     "2017-02-12": {
       "stargazers_count": 2
+    },
+    "2017-06-18": {
+      "stargazers_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2015-04-14T15:57:23Z",
-        "name": "Gerald Bauer"
+        "date": "2017-06-18T18:41:07Z",
+        "name": "GitHub"
       },
-      "message": "add setups"
+      "message": "add por v mex"
     }
   ],
-  "size": 121
+  "size": 15
 }

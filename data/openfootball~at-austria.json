@@ -7,16 +7,19 @@
     },
     "2017-02-12": {
       "stargazers_count": 8
+    },
+    "2017-06-18": {
+      "stargazers_count": 8
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-02-12T08:00:24Z",
+        "date": "2017-05-29T05:34:21Z",
         "name": "GitHub"
       },
       "message": "Update 1-bundesliga-ii.txt"
     }
   ],
-  "size": 365
+  "size": 393
 }

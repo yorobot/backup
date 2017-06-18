@@ -7,16 +7,19 @@
     },
     "2017-02-12": {
       "stargazers_count": 134
+    },
+    "2017-06-18": {
+      "stargazers_count": 135
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2015-07-19T09:17:52Z",
+        "date": "2017-06-12T08:29:57Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update README.md"
+      "message": "Add the Iodine server + Websocket support feature\n\nI'm the author of [iodine](https://github.com/boazsegev/iodine) and I love using it in my apps, especially with it's native Websocket support.\r\n\r\nI thought I'd share the joy.\r\n\r\nI also added a suggestion for the Static File server feature. Both iodine and passenger support this (iodine supports pre-compressed `gzip` detection as well). It's something people sometimes look for, so I think it would be helpful to mention.\r\n\r\nWhile I was editing the file, I also added the Websocket support column.\r\n\r\nIt might be a bit early to add it, but iodine supports native Websockets and I was [discussing it a while back](https://github.com/boazsegev/iodine/issues/6) both with the Puma and the Passenger teams and we came up with an [outline for the Websocket Rack Specification](https://github.com/boazsegev/iodine/blob/master/SPEC-Websocket-Draft.md)...\r\n\r\nI guess each server will probably implement variations on the theme proposed, but it might take a bit of time before some [road blocks related to the C10K issue](https://github.com/puma/puma/pull/1056) are cleared.\r\n\r\nAnyway, I was hoping that adding the feature to the list will push things forward.\r\n\r\nThanks for a great listing and all the details.\r\n\r\nB."
     }
   ],
-  "size": 425
+  "size": 40
 }

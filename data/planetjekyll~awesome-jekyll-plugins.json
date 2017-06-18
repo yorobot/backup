@@ -7,16 +7,19 @@
     },
     "2017-02-12": {
       "stargazers_count": 100
+    },
+    "2017-06-18": {
+      "stargazers_count": 156
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-02-08T08:31:38Z",
+        "date": "2017-06-16T12:10:41Z",
         "name": "Gerald Bauer"
       },
-      "message": "Add jekyll-gitlab-letsencrypt\n\nAdd a plugin I just pushed up that does the letsencrypt dance for you.  \r\n \r\nPut under commands since you run `jekyll letsencrypt`, but might fit better elsewhere?"
+      "message": "+added BibSonomy Jekyll Plugin"
     }
   ],
-  "size": 60
+  "size": 72
 }

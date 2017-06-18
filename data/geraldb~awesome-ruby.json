@@ -1,0 +1,19 @@
+{
+  "full_name": "geraldb/awesome-ruby",
+  "created_at": "2017-05-27T11:03:19Z",
+  "size": 2015,
+  "history": {
+    "2017-06-18": {
+      "stargazers_count": 0
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2017-05-27T11:07:39Z",
+        "name": "GitHub"
+      },
+      "message": "add feedparser (atom, rss, json, etc.) library"
+    }
+  ]
+}

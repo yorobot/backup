@@ -1,5 +1,5 @@
 ---
-geraldb (69):
+geraldb (72):
 - RubyHabits
 - beerbook
 - beercsv
@@ -10,8 +10,10 @@ geraldb (69):
 - bookdesigns
 - drjekyllthemes
 - factbook
+- feedhtml
 - feedparser
 - feedreader
+- feedtxt
 - footballbook
 - footballcsv
 - footballjs
@@ -40,6 +42,7 @@ geraldb (69):
 - planetjekyll
 - planetopendata
 - planetruby
+- playhtml
 - plutolive
 - printhtml
 - publicdomainworks

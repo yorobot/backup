@@ -7,16 +7,19 @@
     },
     "2017-02-12": {
       "stargazers_count": 1
+    },
+    "2017-06-18": {
+      "stargazers_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-11-11T21:12:29Z",
-        "name": "GitHub"
+        "date": "2017-03-28T07:34:50Z",
+        "name": "Gerald Bauer"
       },
-      "message": "Update style.scss"
+      "message": "up mar/28"
     }
   ],
-  "size": 21641
+  "size": 22715
 }

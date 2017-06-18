@@ -7,16 +7,19 @@
     },
     "2017-02-12": {
       "stargazers_count": 15
+    },
+    "2017-06-18": {
+      "stargazers_count": 19
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-02-06T19:58:51Z",
+        "date": "2017-06-17T16:25:57Z",
         "name": "GitHub"
       },
-      "message": "Create cl.rb"
+      "message": "Create confed.rb"
     }
   ],
-  "size": 14
+  "size": 15
 }

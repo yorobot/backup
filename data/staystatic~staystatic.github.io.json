@@ -7,16 +7,19 @@
     },
     "2017-02-12": {
       "stargazers_count": 7
+    },
+    "2017-06-18": {
+      "stargazers_count": 7
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-08-20T16:38:37Z",
+        "date": "2017-05-08T11:17:34Z",
         "name": "GitHub"
       },
-      "message": "Update sites.html"
+      "message": "add jigsaw+blade"
     }
   ],
-  "size": 682
+  "size": 685
 }

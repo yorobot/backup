@@ -1,0 +1,19 @@
+{
+  "full_name": "playhtml/tictactoe",
+  "created_at": "2017-03-27T10:32:24Z",
+  "size": 183,
+  "history": {
+    "2017-06-18": {
+      "stargazers_count": 1
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2017-05-15T20:21:54Z",
+        "name": "GitHub"
+      },
+      "message": "add reason notes"
+    }
+  ]
+}

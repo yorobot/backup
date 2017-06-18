@@ -7,16 +7,19 @@
     },
     "2017-02-12": {
       "stargazers_count": 457
+    },
+    "2017-06-18": {
+      "stargazers_count": 505
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-11-26T09:33:11Z",
+        "date": "2017-03-29T17:23:29Z",
         "name": "GitHub"
       },
-      "message": "Update README.md"
+      "message": "Update MONGO.md"
     }
   ],
-  "size": 7134
+  "size": 7355
 }

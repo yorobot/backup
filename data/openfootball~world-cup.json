@@ -7,16 +7,19 @@
     },
     "2017-02-12": {
       "stargazers_count": 232
+    },
+    "2017-06-18": {
+      "stargazers_count": 232
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2014-07-27T17:31:41Z",
-        "name": "Gerald Bauer"
+        "date": "2017-05-12T10:11:08Z",
+        "name": "GitHub"
       },
-      "message": "Rename IDEAS.md to NOTES.md"
+      "message": "Create LICENSE.md"
     }
   ],
-  "size": 1525
+  "size": 525
 }

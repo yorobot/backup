@@ -7,16 +7,19 @@
     },
     "2017-02-12": {
       "stargazers_count": 115
+    },
+    "2017-06-18": {
+      "stargazers_count": 137
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-10-04T14:21:13Z",
+        "date": "2017-05-18T13:09:30Z",
         "name": "Gerald Bauer"
       },
-      "message": "Added the web app"
+      "message": "include DITA\n\npopular format for technical documentation"
     }
   ],
-  "size": 35
+  "size": 56
 }

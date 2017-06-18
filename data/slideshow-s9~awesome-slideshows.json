@@ -7,16 +7,19 @@
     },
     "2017-02-12": {
       "stargazers_count": 10
+    },
+    "2017-06-18": {
+      "stargazers_count": 13
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-01-17T18:05:29Z",
-        "name": "GitHub"
+        "date": "2017-02-23T14:51:12Z",
+        "name": "Gerald Bauer"
       },
-      "message": "add webslides by José Luis Antúnez"
+      "message": "Added missing brackets."
     }
   ],
-  "size": 2
+  "size": 3
 }

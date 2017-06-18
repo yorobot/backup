@@ -7,16 +7,19 @@
     },
     "2017-02-12": {
       "stargazers_count": 9
+    },
+    "2017-06-18": {
+      "stargazers_count": 10
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-12-06T21:08:17Z",
+        "date": "2017-05-26T17:39:06Z",
         "name": "GitHub"
       },
-      "message": "Update 2016-12-06-plugin-jemoji.md"
+      "message": "Create feed.json"
     }
   ],
-  "size": 103
+  "size": 99
 }

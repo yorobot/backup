@@ -7,15 +7,18 @@
     },
     "2017-02-12": {
       "stargazers_count": 65
+    },
+    "2017-06-18": {
+      "stargazers_count": 105
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-02-10T09:48:06Z",
+        "date": "2017-05-30T12:32:04Z",
         "name": "Gerald Bauer"
       },
-      "message": "Fix a typo of whiteglass description"
+      "message": "Add Simple Texture theme"
     }
   ],
   "size": 12
