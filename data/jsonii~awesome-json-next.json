@@ -1,0 +1,19 @@
+{
+  "full_name": "jsonii/awesome-json-next",
+  "created_at": "2017-06-28T22:53:13Z",
+  "size": 14,
+  "history": {
+    "2017-07-28": {
+      "stargazers_count": 5
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2017-07-25T15:36:42Z",
+        "name": "GitHub"
+      },
+      "message": "Update README.md"
+    }
+  ]
+}

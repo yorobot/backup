@@ -10,16 +10,19 @@
     },
     "2017-06-18": {
       "stargazers_count": 9
+    },
+    "2017-07-28": {
+      "stargazers_count": 9
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-06-18T16:11:56Z",
+        "date": "2017-06-26T17:25:23Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
     }
   ],
-  "size": 3818
+  "size": 3926
 }

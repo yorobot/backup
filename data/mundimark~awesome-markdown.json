@@ -10,16 +10,19 @@
     },
     "2017-06-18": {
       "stargazers_count": 137
+    },
+    "2017-07-28": {
+      "stargazers_count": 144
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-05-18T13:09:30Z",
+        "date": "2017-07-26T07:11:07Z",
         "name": "Gerald Bauer"
       },
-      "message": "include DITA\n\npopular format for technical documentation"
+      "message": "Add link to Markdown Guide, a free docs site"
     }
   ],
-  "size": 56
+  "size": 50
 }

@@ -1,7 +1,6 @@
 ---
-geraldb (17):
+geraldb (16):
 - austria
-- awesome-ruby
 - catalog
 - chelitas
 - epub-reader
@@ -67,6 +66,15 @@ bookdesigns (5):
 - book-hamilton
 - book-rust
 - designs
+csvalues (4):
+- awesome-csv
+- csv-next
+- csvalues
+- csvalues.github.io
+datatxt (3):
+- awseome-yaml
+- datatxt.github.io
+- iniparser
 drjekyllthemes (3):
 - drjekyll
 - drjekyllthemes.github.io
@@ -131,6 +139,7 @@ henrythemes (13):
 - jekyll-book-theme
 - jekyll-boom-theme
 - jekyll-boom-theme-v2
+## - jekyll-bootstrap-theme
 - jekyll-gutenberg-theme
 - jekyll-minimal-theme
 - jekyll-starter-theme
@@ -153,6 +162,16 @@ hydepress (12):
 - liquid
 - octopod
 - octopress
+journaltxt (3):
+- blog
+- journaltxt
+- journaltxt.github.io
+jsonii (5):
+- awesome-json-next
+- json-feed
+- json-next
+- json-next-tests
+- jsonii.github.io
 libsjs (3):
 - jquery.debug.js
 - jquery.table.js
@@ -161,6 +180,9 @@ manuscripts (3):
 - book-starter
 - manuscripts
 - manuscripts.github.io
+markupmadness (2):
+- markupmadness
+- markupmadness.github.io
 mokkalibs (2):
 - faster_xml_simple_reader
 - mokka
@@ -186,6 +208,10 @@ octobook (5):
 - book-classics-theme
 - book-git-theme
 - octobook
+officetxt (3):
+- awesome-txt
+- officetxt
+- officetxt.github.io
 openbeer (28):
 - api
 - at-austria
@@ -227,7 +253,7 @@ openbookie (8):
 opendatajson (2):
 - factbook.json
 - football.json
-openfootball (37):
+openfootball (38):
 - africa-cup
 - assocs
 - at-austria
@@ -263,6 +289,7 @@ openfootball (37):
 - schema
 - schema.sql
 - stadiums
+- women-euro-cup
 - women-world-cup
 - world-cup
 openmundi (12):
@@ -444,6 +471,8 @@ slideshow-templates (15):
 - slideshow-shower
 - slideshow-slidy
 - slideshow-templates.github.io
+smalldatabook (1):
+- smalldatabook.github.io
 sportdb (11):
 - football.db.models
 - footty
@@ -480,9 +509,11 @@ staystatic (3):
 - staystatic
 - staystatic-starter
 - staystatic.github.io
-textkit (11):
+texti (2):
+- texti
+- texti.github.io
+textkit (10):
 - catalog.db
-- csv2
 - datafile
 - dataman
 - datapak

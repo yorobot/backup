@@ -10,16 +10,19 @@
     },
     "2017-06-18": {
       "stargazers_count": 38
+    },
+    "2017-07-28": {
+      "stargazers_count": 38
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-11-07T08:57:39Z",
-        "name": "Gerald Bauer"
+        "date": "2017-06-23T14:22:54Z",
+        "name": "GitHub"
       },
-      "message": "prep 1.0.1"
+      "message": "Create LICENSE.md"
     }
   ],
-  "size": 25
+  "size": 28
 }

@@ -1,5 +1,5 @@
 ---
-geraldb (72):
+geraldb (80):
 - RubyHabits
 - beerbook
 - beercsv
@@ -8,6 +8,8 @@ geraldb (72):
 - bibtxt
 - book-templates
 - bookdesigns
+- csvalues
+- datatxt
 - drjekyllthemes
 - factbook
 - feedhtml
@@ -22,12 +24,16 @@ geraldb (72):
 - hybook
 - hydepress
 - jekyll-octopod
+- journaltxt
+- jsonii
 - libsjs
 - manuscripts
+- markupmadness
 - mokkalibs
 - mrhydescripts
 - mundimark
 - octobook
+- officetxt
 - openbeer
 - openbookie
 - opendatajson
@@ -55,12 +61,14 @@ geraldb (72):
 - slidekit
 - slideshow-s9
 - slideshow-templates
+- smalldatabook
 - sportdb
 - sportkit
 - sportlabs
 - sportlogos
 - statictimes
 - staystatic
+- texti
 - textkit
 - updownpress
 - vienna-rb

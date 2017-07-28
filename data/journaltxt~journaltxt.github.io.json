@@ -1,0 +1,19 @@
+{
+  "full_name": "journaltxt/journaltxt.github.io",
+  "created_at": "2017-07-19T22:48:45Z",
+  "size": 22,
+  "history": {
+    "2017-07-28": {
+      "stargazers_count": 1
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2017-07-20T16:23:29Z",
+        "name": "GitHub"
+      },
+      "message": "Create LICENSE.md"
+    }
+  ]
+}

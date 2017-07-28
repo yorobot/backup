@@ -10,16 +10,19 @@
     },
     "2017-06-18": {
       "stargazers_count": 13
+    },
+    "2017-07-28": {
+      "stargazers_count": 15
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-02-23T14:51:12Z",
-        "name": "Gerald Bauer"
+        "date": "2017-07-03T01:21:48Z",
+        "name": "GitHub"
       },
-      "message": "Added missing brackets."
+      "message": "add talkie"
     }
   ],
-  "size": 3
+  "size": 4
 }

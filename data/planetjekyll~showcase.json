@@ -10,16 +10,19 @@
     },
     "2017-06-18": {
       "stargazers_count": 3
+    },
+    "2017-07-28": {
+      "stargazers_count": 3
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-04-07T08:25:02Z",
+        "date": "2017-07-14T14:18:58Z",
         "name": "Gerald Bauer"
       },
-      "message": "Add gowebmasters.png to thumbnails dir"
+      "message": "Add open.gsa.gov thumbnail"
     }
   ],
-  "size": 2019
+  "size": 2080
 }

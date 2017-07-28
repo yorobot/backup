@@ -10,16 +10,19 @@
     },
     "2017-06-18": {
       "stargazers_count": 156
+    },
+    "2017-07-28": {
+      "stargazers_count": 172
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-06-16T12:10:41Z",
+        "date": "2017-07-06T17:12:03Z",
         "name": "Gerald Bauer"
       },
-      "message": "+added BibSonomy Jekyll Plugin"
+      "message": "Fix: Typo"
     }
   ],
-  "size": 72
+  "size": 80
 }

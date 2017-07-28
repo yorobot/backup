@@ -10,16 +10,19 @@
     },
     "2017-06-18": {
       "stargazers_count": 19
+    },
+    "2017-07-28": {
+      "stargazers_count": 22
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-06-12T02:31:58Z",
+        "date": "2017-06-28T02:32:00Z",
         "name": "Rafael Pereira"
       },
-      "message": "weekend results for brasil leagues"
+      "message": "brazilian results"
     }
   ],
-  "size": 200
+  "size": 204
 }
