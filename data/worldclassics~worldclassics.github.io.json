@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 1
+    },
+    "2017-12-10": {
+      "stargazers_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-06-12T14:06:06Z",
-        "name": "GitHub"
+        "date": "2017-11-28T17:36:57Z",
+        "name": "Gerald Bauer"
       },
-      "message": "Update _settings.scss"
+      "message": "up"
     }
   ],
-  "size": 8
+  "size": 12
 }

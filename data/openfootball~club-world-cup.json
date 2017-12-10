@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 3
+    },
+    "2017-12-10": {
+      "stargazers_count": 3
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2015-04-14T21:07:52Z",
-        "name": "Gerald Bauer"
+        "date": "2017-07-29T14:47:28Z",
+        "name": "GitHub"
       },
-      "message": "up setups"
+      "message": "Update README.md"
     }
   ],
-  "size": 139
+  "size": 7
 }

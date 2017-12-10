@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 1
+    },
+    "2017-12-10": {
+      "stargazers_count": 6
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2015-04-21T07:09:20Z",
+        "date": "2017-09-10T15:34:19Z",
         "name": "Gerald Bauer"
       },
-      "message": "up test"
+      "message": "up metal"
     }
   ],
-  "size": 144
+  "size": 48
 }

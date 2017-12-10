@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 19
+    },
+    "2017-12-10": {
+      "stargazers_count": 21
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-09-06T06:17:52Z",
+        "date": "2017-11-03T18:09:28Z",
         "name": "GitHub"
       },
       "message": "Update README.md"
     }
   ],
-  "size": 220
+  "size": 300
 }

@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 21
+    },
+    "2017-12-10": {
+      "stargazers_count": 29
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-06-17T16:25:57Z",
-        "name": "GitHub"
+        "date": "2017-12-05T19:30:52Z",
+        "name": "Gerald Bauer"
       },
-      "message": "Create confed.rb"
+      "message": "up 2017-18 seasons"
     }
   ],
-  "size": 15
+  "size": 20
 }

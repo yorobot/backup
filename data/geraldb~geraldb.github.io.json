@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 1
+    },
+    "2017-12-10": {
+      "stargazers_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2015-09-30T14:24:17Z",
+        "date": "2017-10-26T19:04:48Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update anchor.html"
+      "message": "add slideshow notes"
     }
   ],
-  "size": 832
+  "size": 520
 }

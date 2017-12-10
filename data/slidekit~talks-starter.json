@@ -1,0 +1,19 @@
+{
+  "full_name": "slidekit/talks-starter",
+  "created_at": "2017-11-14T11:50:42Z",
+  "size": 167,
+  "history": {
+    "2017-12-10": {
+      "stargazers_count": 4
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2017-11-17T15:11:10Z",
+        "name": "GitHub"
+      },
+      "message": "Delete sangria.md"
+    }
+  ]
+}

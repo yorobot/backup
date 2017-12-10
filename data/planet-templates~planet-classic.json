@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 1
+    },
+    "2017-12-10": {
+      "stargazers_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2014-12-13T16:37:35Z",
-        "name": "Gerald Bauer"
+        "date": "2017-10-28T08:40:30Z",
+        "name": "GitHub"
       },
-      "message": "add npm"
+      "message": "Update README.md"
     }
   ],
-  "size": 240
+  "size": 98
 }

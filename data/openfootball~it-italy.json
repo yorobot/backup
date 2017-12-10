@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 13
+    },
+    "2017-12-10": {
+      "stargazers_count": 15
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-07-27T19:11:26Z",
+        "date": "2017-12-10T08:04:03Z",
         "name": "GitHub"
       },
-      "message": "Create seriea-ii.txt"
+      "message": "Update seriea-i.txt"
     }
   ],
-  "size": 249
+  "size": 320
 }

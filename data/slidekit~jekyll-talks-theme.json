@@ -1,0 +1,19 @@
+{
+  "full_name": "slidekit/jekyll-talks-theme",
+  "created_at": "2017-11-14T11:43:07Z",
+  "size": 9,
+  "history": {
+    "2017-12-10": {
+      "stargazers_count": 1
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2017-11-14T15:19:05Z",
+        "name": "GitHub"
+      },
+      "message": "Update slides.html"
+    }
+  ]
+}

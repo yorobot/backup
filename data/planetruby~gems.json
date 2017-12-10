@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 15
+    },
+    "2017-12-10": {
+      "stargazers_count": 15
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2015-12-18T09:09:45Z",
-        "name": "Gerald Bauer"
+        "date": "2017-11-22T12:05:48Z",
+        "name": "GitHub"
       },
-      "message": "Merge pull request #15 from calonso/add_ruby_push_notifications\n\nadded ruby push notifications entry"
+      "message": "Update 2015-01-08-hoe.md"
     }
   ],
-  "size": 512
+  "size": 517
 }

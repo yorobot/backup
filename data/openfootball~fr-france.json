@@ -13,15 +13,18 @@
     },
     "2017-07-28": {
       "stargazers_count": 3
+    },
+    "2017-12-10": {
+      "stargazers_count": 3
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-11-24T18:01:33Z",
-        "name": "Gerald Bauer"
+        "date": "2017-07-29T14:44:47Z",
+        "name": "GitHub"
       },
-      "message": "Update clubs.txt\n\nchange \"ajacciofc\" to \"ajacciogfc\" in accordance with the rest of the repo"
+      "message": "Update README.md"
     }
   ],
   "size": 62

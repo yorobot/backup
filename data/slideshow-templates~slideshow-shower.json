@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 10
+    },
+    "2017-12-10": {
+      "stargazers_count": 10
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-05-25T19:50:47Z",
-        "name": "Gerald Bauer"
+        "date": "2017-11-03T17:41:33Z",
+        "name": "GitHub"
       },
-      "message": "Rename 4-thank-you.md to 04-thank-you.md"
+      "message": "Update README.md"
     }
   ],
-  "size": 4979
+  "size": 5085
 }

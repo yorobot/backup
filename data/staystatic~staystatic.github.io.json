@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 8
+    },
+    "2017-12-10": {
+      "stargazers_count": 8
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-05-08T11:17:34Z",
+        "date": "2017-09-04T18:06:34Z",
         "name": "GitHub"
       },
-      "message": "add jigsaw+blade"
+      "message": "up gatsbyjs.org"
     }
   ],
-  "size": 685
+  "size": 1459
 }

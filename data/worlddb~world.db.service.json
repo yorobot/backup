@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 1
+    },
+    "2017-12-10": {
+      "stargazers_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2015-04-20T15:22:12Z",
-        "name": "Gerald Bauer"
+        "date": "2017-08-31T18:17:02Z",
+        "name": "GitHub"
       },
-      "message": "Initial commit"
+      "message": "Create service.rb"
     }
   ],
-  "size": 120
+  "size": 1
 }

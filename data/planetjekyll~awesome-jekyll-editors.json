@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 111
+    },
+    "2017-12-10": {
+      "stargazers_count": 136
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-02-06T19:53:13Z",
+        "date": "2017-11-21T15:26:21Z",
         "name": "Gerald Bauer"
       },
-      "message": "Added Visual Studio Code\n\n- added Visual Studio Code to classic Editors\r\n- added Jekyll Snippet for VSCode."
+      "message": "adding MrHyde Android app"
     }
   ],
-  "size": 8
+  "size": 13
 }

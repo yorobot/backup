@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 31
+    },
+    "2017-12-10": {
+      "stargazers_count": 36
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-07-27T20:09:48Z",
+        "date": "2017-12-10T08:09:06Z",
         "name": "GitHub"
       },
-      "message": "Create 3-liga3-ii.txt"
+      "message": "Update 1-bundesliga-i.txt"
     }
   ],
-  "size": 898
+  "size": 1132
 }

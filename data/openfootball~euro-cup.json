@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 26
+    },
+    "2017-12-10": {
+      "stargazers_count": 26
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-07-13T01:47:13Z",
+        "date": "2017-07-29T14:45:17Z",
         "name": "GitHub"
       },
-      "message": "Portugal win Euro 2016 in extra time"
+      "message": "Update README.md"
     }
   ],
-  "size": 36
+  "size": 33
 }

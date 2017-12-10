@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 2
+    },
+    "2017-12-10": {
+      "stargazers_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2014-12-13T16:34:04Z",
-        "name": "Gerald Bauer"
+        "date": "2017-10-28T08:41:50Z",
+        "name": "GitHub"
       },
-      "message": "add npm"
+      "message": "add conversion cheat sheet"
     }
   ],
-  "size": 120
+  "size": 7
 }

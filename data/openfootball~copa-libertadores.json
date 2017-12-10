@@ -13,15 +13,18 @@
     },
     "2017-07-28": {
       "stargazers_count": 4
+    },
+    "2017-12-10": {
+      "stargazers_count": 4
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-04-26T21:50:51Z",
-        "name": "Rafael Pereira"
+        "date": "2017-07-29T14:45:50Z",
+        "name": "GitHub"
       },
-      "message": "results for 19/04"
+      "message": "Update README.md"
     }
   ],
   "size": 22

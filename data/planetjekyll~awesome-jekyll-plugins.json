@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 172
+    },
+    "2017-12-10": {
+      "stargazers_count": 235
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-07-06T17:12:03Z",
-        "name": "Gerald Bauer"
+        "date": "2017-11-13T19:48:41Z",
+        "name": "GitHub"
       },
-      "message": "Fix: Typo"
+      "message": "add pug gem"
     }
   ],
-  "size": 80
+  "size": 102
 }

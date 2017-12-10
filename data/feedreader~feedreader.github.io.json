@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 2
+    },
+    "2017-12-10": {
+      "stargazers_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-04-04T11:12:26Z",
+        "date": "2017-11-30T18:58:39Z",
         "name": "Gerald Bauer"
       },
-      "message": "cleanup; move to attic"
+      "message": "use remote theme - octobook/books-twentyeighteen-theme"
     }
   ],
-  "size": 367
+  "size": 365
 }

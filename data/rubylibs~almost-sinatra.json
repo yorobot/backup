@@ -1,0 +1,19 @@
+{
+  "full_name": "rubylibs/almost-sinatra",
+  "created_at": "2017-12-05T20:19:31Z",
+  "size": 16,
+  "history": {
+    "2017-12-10": {
+      "stargazers_count": 2
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2017-12-06T08:56:48Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "up"
+    }
+  ]
+}

@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 124
+    },
+    "2017-12-10": {
+      "stargazers_count": 126
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-06-06T08:55:13Z",
+        "date": "2017-07-31T07:54:23Z",
         "name": "GitHub"
       },
-      "message": "Delete feed.md"
+      "message": "Update announce.html"
     }
   ],
-  "size": 1615
+  "size": 1614
 }

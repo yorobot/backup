@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 5
+    },
+    "2017-12-10": {
+      "stargazers_count": 5
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-09-13T18:42:07Z",
-        "name": "GitHub"
+        "date": "2017-11-13T15:59:29Z",
+        "name": "Gerald Bauer"
       },
-      "message": "Add files via upload"
+      "message": "up s6"
     }
   ],
-  "size": 141
+  "size": 215
 }

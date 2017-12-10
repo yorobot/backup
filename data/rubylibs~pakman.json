@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 2
+    },
+    "2017-12-10": {
+      "stargazers_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-09-06T10:03:44Z",
+        "date": "2017-11-27T15:15:02Z",
         "name": "Gerald Bauer"
       },
-      "message": "check for ext for liquid merge"
+      "message": "add logger.info"
     }
   ],
-  "size": 51
+  "size": 55
 }

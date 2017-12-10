@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 1
+    },
+    "2017-12-10": {
+      "stargazers_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2015-01-06T22:22:39Z",
-        "name": "Gerald Bauer"
+        "date": "2017-10-28T08:33:09Z",
+        "name": "GitHub"
       },
-      "message": "add cards preview"
+      "message": "fix wwwmake forum link"
     }
   ],
-  "size": 652
+  "size": 449
 }

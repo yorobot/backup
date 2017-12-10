@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 1
+    },
+    "2017-12-10": {
+      "stargazers_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2015-06-08T07:56:12Z",
-        "name": "Gerald Bauer"
+        "date": "2017-08-18T15:04:18Z",
+        "name": "GitHub"
       },
-      "message": "up at,de"
+      "message": "Create europe.rb"
     }
   ],
-  "size": 136
+  "size": 2
 }

@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 2
+    },
+    "2017-12-10": {
+      "stargazers_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-06-14T09:44:22Z",
+        "date": "2017-11-28T17:14:22Z",
         "name": "GitHub"
       },
-      "message": "typo"
+      "message": "Update _config.yml"
     }
   ],
-  "size": 16
+  "size": 17
 }

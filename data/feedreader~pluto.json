@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 52
+    },
+    "2017-12-10": {
+      "stargazers_count": 55
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-02-09T09:50:49Z",
+        "date": "2017-11-27T16:13:17Z",
         "name": "Gerald Bauer"
       },
-      "message": "add pluto feedfetcher"
+      "message": "up quiet n quieter"
     }
   ],
-  "size": 250
+  "size": 273
 }

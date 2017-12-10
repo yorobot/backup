@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 1
+    },
+    "2017-12-10": {
+      "stargazers_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-07-04T12:44:15Z",
+        "date": "2017-12-07T16:38:36Z",
         "name": "GitHub"
       },
-      "message": "fix typos"
+      "message": "Update blockchain_ruby.html"
     }
   ],
-  "size": 9741
+  "size": 10665
 }

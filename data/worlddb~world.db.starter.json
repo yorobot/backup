@@ -1,0 +1,19 @@
+{
+  "full_name": "worlddb/world.db.starter",
+  "created_at": "2013-03-02T20:25:26Z",
+  "size": 12,
+  "history": {
+    "2017-12-10": {
+      "stargazers_count": 12
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2017-08-31T18:37:09Z",
+        "name": "GitHub"
+      },
+      "message": "Update README.md"
+    }
+  ]
+}

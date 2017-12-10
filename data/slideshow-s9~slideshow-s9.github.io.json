@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 14
+    },
+    "2017-12-10": {
+      "stargazers_count": 14
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-05-11T12:46:35Z",
+        "date": "2017-11-28T17:49:12Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update announce.html"
+      "message": "use octobook twentyeighteen theme"
     }
   ],
-  "size": 3724
+  "size": 3739
 }

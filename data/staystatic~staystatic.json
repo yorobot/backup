@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 31
+    },
+    "2017-12-10": {
+      "stargazers_count": 36
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-05-07T19:34:25Z",
+        "date": "2017-09-04T16:57:54Z",
         "name": "Gerald Bauer"
       },
-      "message": "up"
+      "message": "add gatsby (+graphql) v1"
     }
   ],
-  "size": 95
+  "size": 102
 }

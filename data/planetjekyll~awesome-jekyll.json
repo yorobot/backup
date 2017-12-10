@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 384
+    },
+    "2017-12-10": {
+      "stargazers_count": 414
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-02-06T12:42:50Z",
-        "name": "Gerald Bauer"
+        "date": "2017-11-04T20:36:24Z",
+        "name": "GitHub"
       },
-      "message": "Add Jekyll Stater Kit"
+      "message": "rm announcement block"
     }
   ],
-  "size": 60
+  "size": 77
 }

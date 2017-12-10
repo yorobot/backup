@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 75
+    },
+    "2017-12-10": {
+      "stargazers_count": 148
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-07-04T12:42:59Z",
+        "date": "2017-12-08T09:24:51Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #2 from lujanfernaud/patch-1\n\nFix typos"
+      "message": "up blockchain-lite"
     }
   ],
-  "size": 10427
+  "size": 11711
 }

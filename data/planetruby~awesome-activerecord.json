@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 248
+    },
+    "2017-12-10": {
+      "stargazers_count": 262
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-05-31T06:27:38Z",
+        "date": "2017-08-27T10:18:23Z",
         "name": "Gerald Bauer"
       },
-      "message": "Add BabySqueel and BulkInsert"
+      "message": "add Dynamic Attributes category and gems\n\nPlease accept if you think it's worth :)"
     }
   ],
-  "size": 36
+  "size": 37
 }

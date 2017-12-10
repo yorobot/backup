@@ -13,15 +13,18 @@
     },
     "2017-07-28": {
       "stargazers_count": 19
+    },
+    "2017-12-10": {
+      "stargazers_count": 19
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-02-06T19:57:24Z",
+        "date": "2017-07-29T14:42:18Z",
         "name": "GitHub"
       },
-      "message": "up sparta praha key"
+      "message": "Update README.md"
     }
   ],
   "size": 87

@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 110
+    },
+    "2017-12-10": {
+      "stargazers_count": 161
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-05-30T12:32:04Z",
+        "date": "2017-11-30T08:54:25Z",
         "name": "Gerald Bauer"
       },
-      "message": "Add Simple Texture theme"
+      "message": "Update instructions for GitHub Pages themes\n\nGitHub pages supports using any public, gem-based theme on GitHub now! :party:"
     }
   ],
-  "size": 12
+  "size": 15
 }

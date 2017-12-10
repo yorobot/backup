@@ -13,16 +13,19 @@
     },
     "2017-07-28": {
       "stargazers_count": 161
+    },
+    "2017-12-10": {
+      "stargazers_count": 179
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-07-26T17:48:03Z",
+        "date": "2017-12-10T08:00:21Z",
         "name": "GitHub"
       },
-      "message": "Create 1-premierleague-ii.txt"
+      "message": "Update 1-premierleague-i.txt"
     }
   ],
-  "size": 586
+  "size": 659
 }

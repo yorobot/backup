@@ -1,11 +1,13 @@
 ---
-geraldb (80):
+geraldb (82):
 - RubyHabits
+- awesomeaustria
 - beerbook
 - beercsv
 - beerkit
 - beerlabels
 - bibtxt
+- blockchainaustria
 - book-templates
 - bookdesigns
 - csvalues
@@ -35,6 +37,7 @@ geraldb (80):
 - octobook
 - officetxt
 - openbeer
+- openblockchains
 - openbookie
 - opendatajson
 - openfootball
@@ -72,7 +75,6 @@ geraldb (80):
 - textkit
 - updownpress
 - vienna-rb
-- viennahtml
 - webstart
 - wikiscript
 - worldbook

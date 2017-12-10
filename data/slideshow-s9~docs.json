@@ -1,0 +1,19 @@
+{
+  "full_name": "slideshow-s9/docs",
+  "created_at": "2017-10-26T12:02:26Z",
+  "size": 156,
+  "history": {
+    "2017-12-10": {
+      "stargazers_count": 1
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2017-10-30T19:39:48Z",
+        "name": "GitHub"
+      },
+      "message": "Update plugins.md"
+    }
+  ]
+}
