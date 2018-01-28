@@ -1,0 +1,19 @@
+{
+  "full_name": "yukimotopress/gem-tasks",
+  "created_at": "2018-01-16T10:40:32Z",
+  "size": 64,
+  "history": {
+    "2018-01-28": {
+      "stargazers_count": 13
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2018-01-18T19:57:50Z",
+        "name": "GitHub"
+      },
+      "message": "Update README.md"
+    }
+  ]
+}

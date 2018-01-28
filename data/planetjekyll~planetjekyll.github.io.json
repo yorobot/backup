@@ -16,16 +16,19 @@
     },
     "2017-12-10": {
       "stargazers_count": 10
+    },
+    "2018-01-28": {
+      "stargazers_count": 10
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-05-26T17:39:06Z",
+        "date": "2018-01-06T11:55:32Z",
         "name": "GitHub"
       },
-      "message": "Create feed.json"
+      "message": "Update announce.html"
     }
   ],
-  "size": 99
+  "size": 100
 }

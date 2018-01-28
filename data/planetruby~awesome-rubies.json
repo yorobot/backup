@@ -16,16 +16,19 @@
     },
     "2017-12-10": {
       "stargazers_count": 200
+    },
+    "2018-01-28": {
+      "stargazers_count": 214
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-03-07T14:15:20Z",
-        "name": "Gerald Bauer"
+        "date": "2018-01-03T20:59:03Z",
+        "name": "GitHub"
       },
-      "message": "Add TruffleRuby"
+      "message": "add new what are rubies section"
     }
   ],
-  "size": 21
+  "size": 173
 }

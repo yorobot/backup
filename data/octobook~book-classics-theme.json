@@ -16,16 +16,19 @@
     },
     "2017-12-10": {
       "stargazers_count": 6
+    },
+    "2018-01-28": {
+      "stargazers_count": 6
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-06-08T19:46:19Z",
+        "date": "2018-01-05T11:29:18Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update README.md"
+      "message": "up"
     }
   ],
-  "size": 128
+  "size": 145
 }

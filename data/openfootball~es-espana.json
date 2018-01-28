@@ -16,16 +16,19 @@
     },
     "2017-12-10": {
       "stargazers_count": 36
+    },
+    "2018-01-28": {
+      "stargazers_count": 38
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-12-10T08:05:37Z",
+        "date": "2018-01-28T09:01:34Z",
         "name": "GitHub"
       },
-      "message": "Update liga-i.txt"
+      "message": "Update liga-ii.txt"
     }
   ],
-  "size": 364
+  "size": 388
 }

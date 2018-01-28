@@ -16,16 +16,19 @@
     },
     "2017-12-10": {
       "stargazers_count": 15
+    },
+    "2018-01-28": {
+      "stargazers_count": 16
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-11-22T12:05:48Z",
-        "name": "GitHub"
+        "date": "2018-01-13T19:54:56Z",
+        "name": "Gerald Bauer"
       },
-      "message": "Update 2015-01-08-hoe.md"
+      "message": "up"
     }
   ],
-  "size": 517
+  "size": 551
 }

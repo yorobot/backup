@@ -1,0 +1,19 @@
+{
+  "full_name": "bitshilling/bitshilling",
+  "created_at": "2017-09-19T09:01:07Z",
+  "size": 10,
+  "history": {
+    "2018-01-28": {
+      "stargazers_count": 10
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2017-12-26T15:34:37Z",
+        "name": "GitHub"
+      },
+      "message": "rename schilling to shilling"
+    }
+  ]
+}

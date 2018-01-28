@@ -16,16 +16,19 @@
     },
     "2017-12-10": {
       "stargazers_count": 2
+    },
+    "2018-01-28": {
+      "stargazers_count": 5
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-11-28T17:14:22Z",
-        "name": "GitHub"
+        "date": "2018-01-28T13:00:02Z",
+        "name": "Gerald Bauer"
       },
-      "message": "Update _config.yml"
+      "message": "add fizzbuzz"
     }
   ],
-  "size": 17
+  "size": 820
 }

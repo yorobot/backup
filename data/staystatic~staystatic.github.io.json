@@ -16,16 +16,19 @@
     },
     "2017-12-10": {
       "stargazers_count": 8
+    },
+    "2018-01-28": {
+      "stargazers_count": 8
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-09-04T18:06:34Z",
+        "date": "2018-01-06T16:02:38Z",
         "name": "GitHub"
       },
-      "message": "up gatsbyjs.org"
+      "message": "Update index.md"
     }
   ],
-  "size": 1459
+  "size": 1480
 }

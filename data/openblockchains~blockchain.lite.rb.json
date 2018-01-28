@@ -1,19 +1,22 @@
 {
   "full_name": "openblockchains/blockchain.lite.rb",
   "created_at": "2017-09-16T09:35:49Z",
-  "size": 29,
+  "size": 48,
   "history": {
     "2017-12-10": {
       "stargazers_count": 45
+    },
+    "2018-01-28": {
+      "stargazers_count": 64
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-10-01T23:17:49Z",
-        "name": "GitHub"
+        "date": "2018-01-09T12:14:37Z",
+        "name": "Gerald Bauer"
       },
-      "message": "Create bitcoin_block_parser.rb"
+      "message": "rm attic"
     }
   ]
 }

@@ -16,16 +16,19 @@
     },
     "2017-12-10": {
       "stargazers_count": 262
+    },
+    "2018-01-28": {
+      "stargazers_count": 270
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-08-27T10:18:23Z",
+        "date": "2018-01-06T09:31:49Z",
         "name": "Gerald Bauer"
       },
-      "message": "add Dynamic Attributes category and gems\n\nPlease accept if you think it's worth :)"
+      "message": "Update README.md"
     }
   ],
-  "size": 37
+  "size": 40
 }

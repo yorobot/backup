@@ -16,16 +16,19 @@
     },
     "2017-12-10": {
       "stargazers_count": 13
+    },
+    "2018-01-28": {
+      "stargazers_count": 13
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-06-26T17:25:23Z",
-        "name": "Gerald Bauer"
+        "date": "2018-01-06T11:53:12Z",
+        "name": "GitHub"
       },
-      "message": "up"
+      "message": "Update announce.html"
     }
   ],
-  "size": 3926
+  "size": 3910
 }

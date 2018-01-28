@@ -16,16 +16,19 @@
     },
     "2017-12-10": {
       "stargazers_count": 161
+    },
+    "2018-01-28": {
+      "stargazers_count": 183
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-11-30T08:54:25Z",
+        "date": "2017-12-18T18:40:00Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update instructions for GitHub Pages themes\n\nGitHub pages supports using any public, gem-based theme on GitHub now! :party:"
+      "message": "Add Help Center Theme"
     }
   ],
-  "size": 15
+  "size": 18
 }

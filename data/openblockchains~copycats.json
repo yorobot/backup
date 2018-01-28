@@ -1,0 +1,19 @@
+{
+  "full_name": "openblockchains/copycats",
+  "created_at": "2018-01-10T20:57:54Z",
+  "size": 7,
+  "history": {
+    "2018-01-28": {
+      "stargazers_count": 4
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2018-01-17T20:11:35Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "up"
+    }
+  ]
+}

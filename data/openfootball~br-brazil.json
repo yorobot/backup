@@ -16,16 +16,19 @@
     },
     "2017-12-10": {
       "stargazers_count": 30
+    },
+    "2018-01-28": {
+      "stargazers_count": 30
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-06-28T02:32:00Z",
-        "name": "Rafael Pereira"
+        "date": "2018-01-27T17:59:19Z",
+        "name": "Gerald Bauer"
       },
-      "message": "brazilian results"
+      "message": "Updating Série A 2017  data"
     }
   ],
-  "size": 204
+  "size": 205
 }

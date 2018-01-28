@@ -1,0 +1,19 @@
+{
+  "full_name": "json-next/json-next.github.io",
+  "created_at": "2017-07-09T20:01:00Z",
+  "size": 25,
+  "history": {
+    "2018-01-28": {
+      "stargazers_count": 6
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2017-12-16T09:14:51Z",
+        "name": "GitHub"
+      },
+      "message": "Update README.md"
+    }
+  ]
+}

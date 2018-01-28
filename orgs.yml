@@ -1,12 +1,13 @@
 ---
-geraldb (82):
-- awesomeaustria
+geraldb (80):
+- RubyHabits
+- austriacodes
 - beerbook
 - beercsv
 - beerkit
 - beerlabels
 - bibtxt
-- blockchainaustria
+- bitshilling
 - book-templates
 - bookdesigns
 - csvalues
@@ -26,7 +27,7 @@ geraldb (82):
 - hydepress
 - jekyll-octopod
 - journaltxt
-- jsonii
+- json-next
 - libsjs
 - manuscripts
 - markupmadness
@@ -63,12 +64,10 @@ geraldb (82):
 - slidekit
 - slideshow-s9
 - slideshow-templates
-- smalldatabook
 - sportdb
 - sportkit
 - sportlabs
 - sportlogos
-- statictimes
 - staystatic
 - texti
 - textkit

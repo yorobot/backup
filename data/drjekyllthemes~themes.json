@@ -16,16 +16,19 @@
     },
     "2017-12-10": {
       "stargazers_count": 80
+    },
+    "2018-01-28": {
+      "stargazers_count": 82
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-11-13T12:29:10Z",
+        "date": "2018-01-24T14:10:23Z",
         "name": "Gerald Bauer"
       },
-      "message": "Uploaded massively"
+      "message": "Add files via upload"
     }
   ],
-  "size": 8190
+  "size": 8348
 }

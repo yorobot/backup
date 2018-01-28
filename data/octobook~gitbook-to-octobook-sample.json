@@ -1,0 +1,19 @@
+{
+  "full_name": "octobook/gitbook-to-octobook-sample",
+  "created_at": "2018-01-04T20:36:26Z",
+  "size": 366,
+  "history": {
+    "2018-01-28": {
+      "stargazers_count": 1
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2018-01-05T12:49:20Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "up"
+    }
+  ]
+}

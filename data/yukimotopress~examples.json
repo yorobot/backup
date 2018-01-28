@@ -1,0 +1,19 @@
+{
+  "full_name": "yukimotopress/examples",
+  "created_at": "2018-01-15T16:45:13Z",
+  "size": 28,
+  "history": {
+    "2018-01-28": {
+      "stargazers_count": 1
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2018-01-15T19:29:35Z",
+        "name": "GitHub"
+      },
+      "message": "Create contents.yml"
+    }
+  ]
+}

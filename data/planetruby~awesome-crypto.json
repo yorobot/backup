@@ -1,0 +1,19 @@
+{
+  "full_name": "planetruby/awesome-crypto",
+  "created_at": "2017-12-23T10:24:19Z",
+  "size": 42,
+  "history": {
+    "2018-01-28": {
+      "stargazers_count": 13
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2018-01-01T17:32:41Z",
+        "name": "GitHub"
+      },
+      "message": "Update README.md"
+    }
+  ]
+}
