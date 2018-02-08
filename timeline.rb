@@ -99,7 +99,7 @@ entries.each_with_index do |rec,i|
   last_year  = year
   last_month = month
 
-  buf << "#{created_at.strftime('%Y-%m-%d')} ★#{rec[:stars]} **#{rec[:name]}** (#{rec[:size]} kb)\n"
+  buf << "- #{created_at.strftime('%Y-%m-%d')} ★#{rec[:stars]} **#{rec[:name]}** (#{rec[:size]} kb)\n"
 end
 
 
