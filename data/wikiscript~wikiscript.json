@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 3
+    },
+    "2018-02-08": {
+      "stargazers_count": 3
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "fix manifest"
     }
   ],
-  "size": 160
+  "size": 160,
+  "updated_at": "2017-02-09T18:29:09Z",
+  "pushed_at": "2014-07-07T07:41:17Z"
 }

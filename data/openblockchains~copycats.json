@@ -5,6 +5,9 @@
   "history": {
     "2018-01-28": {
       "stargazers_count": 4
+    },
+    "2018-02-08": {
+      "stargazers_count": 4
     }
   },
   "commits": [
@@ -15,5 +18,7 @@
       },
       "message": "up"
     }
-  ]
+  ],
+  "updated_at": "2018-01-18T13:41:57Z",
+  "pushed_at": "2018-01-17T20:11:45Z"
 }

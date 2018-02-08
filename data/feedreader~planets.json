@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 17
+    },
+    "2018-02-08": {
+      "stargazers_count": 17
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "add planet web"
     }
   ],
-  "size": 45
+  "size": 45,
+  "updated_at": "2017-02-09T08:56:24Z",
+  "pushed_at": "2017-02-08T09:39:20Z"
 }

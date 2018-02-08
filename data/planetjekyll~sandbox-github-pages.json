@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 2
+    },
+    "2018-02-08": {
+      "stargazers_count": 2
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Update emoji-cheat-sheet.md"
     }
   ],
-  "size": 30
+  "size": 30,
+  "updated_at": "2017-12-29T23:53:46Z",
+  "pushed_at": "2016-12-06T08:40:17Z"
 }

@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "add netidee; update linuxwochen"
     }
   ],
-  "size": 206
+  "size": 206,
+  "updated_at": "2015-05-11T22:24:44Z",
+  "pushed_at": "2015-01-22T18:54:30Z"
 }

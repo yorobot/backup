@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "add server"
     }
   ],
-  "size": 144
+  "size": 144,
+  "updated_at": "2015-04-20T14:46:12Z",
+  "pushed_at": "2014-08-15T18:28:23Z"
 }

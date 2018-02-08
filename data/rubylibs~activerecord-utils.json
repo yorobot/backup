@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 2
+    },
+    "2018-02-08": {
+      "stargazers_count": 2
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "add browser\""
     }
   ],
-  "size": 164
+  "size": 164,
+  "updated_at": "2015-10-31T11:35:23Z",
+  "pushed_at": "2015-02-04T08:59:42Z"
 }

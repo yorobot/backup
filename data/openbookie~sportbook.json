@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 92
+    },
+    "2018-02-08": {
+      "stargazers_count": 92
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "up demo setup"
     }
   ],
-  "size": 2929
+  "size": 2929,
+  "updated_at": "2018-01-14T20:13:26Z",
+  "pushed_at": "2014-09-29T07:29:11Z"
 }

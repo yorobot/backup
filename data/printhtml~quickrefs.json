@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Update BOOK.md"
     }
   ],
-  "size": 2
+  "size": 2,
+  "updated_at": "2016-02-19T10:58:59Z",
+  "pushed_at": "2016-02-19T11:29:32Z"
 }

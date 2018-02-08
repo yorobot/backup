@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "use ::Model singular ns"
     }
   ],
-  "size": 172
+  "size": 172,
+  "updated_at": "2014-02-18T02:30:21Z",
+  "pushed_at": "2014-02-18T02:30:21Z"
 }

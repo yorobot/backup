@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 214
+    },
+    "2018-02-08": {
+      "stargazers_count": 218
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "add new what are rubies section"
     }
   ],
-  "size": 173
+  "size": 173,
+  "updated_at": "2018-02-04T06:27:21Z",
+  "pushed_at": "2018-01-03T20:59:05Z"
 }

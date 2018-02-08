@@ -19,16 +19,21 @@
     },
     "2018-01-28": {
       "stargazers_count": 183
+    },
+    "2018-02-08": {
+      "stargazers_count": 188
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-12-18T18:40:00Z",
+        "date": "2018-02-01T13:44:54Z",
         "name": "Gerald Bauer"
       },
-      "message": "Add Help Center Theme"
+      "message": "Add pixyll theme"
     }
   ],
-  "size": 18
+  "size": 16,
+  "updated_at": "2018-02-07T01:26:39Z",
+  "pushed_at": "2018-02-01T13:44:55Z"
 }

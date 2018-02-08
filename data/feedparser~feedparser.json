@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 126
+    },
+    "2018-02-08": {
+      "stargazers_count": 126
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "up attachments / enclosures"
     }
   ],
-  "size": 842
+  "size": 842,
+  "updated_at": "2018-01-10T01:14:43Z",
+  "pushed_at": "2017-10-03T08:57:03Z"
 }

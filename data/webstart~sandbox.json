@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "flatten file structure"
     }
   ],
-  "size": 252
+  "size": 252,
+  "updated_at": "2013-10-24T13:28:07Z",
+  "pushed_at": "2013-05-27T16:52:18Z"
 }

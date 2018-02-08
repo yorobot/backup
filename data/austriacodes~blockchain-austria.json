@@ -5,6 +5,9 @@
   "history": {
     "2018-01-28": {
       "stargazers_count": 2
+    },
+    "2018-02-08": {
+      "stargazers_count": 2
     }
   },
   "commits": [
@@ -15,5 +18,7 @@
       },
       "message": "Update _config.yml"
     }
-  ]
+  ],
+  "updated_at": "2017-12-31T20:51:38Z",
+  "pushed_at": "2018-01-06T23:25:23Z"
 }

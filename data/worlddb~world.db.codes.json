@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 6
+    },
+    "2018-02-08": {
+      "stargazers_count": 6
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "use Datafile"
     }
   ],
-  "size": 161
+  "size": 161,
+  "updated_at": "2017-07-30T05:09:03Z",
+  "pushed_at": "2014-11-29T13:24:51Z"
 }

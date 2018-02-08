@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Merge pull request #1 from kleinfreund/patch-1\n\nChanging URL to hey.kleinfreund.de (subdomain)"
     }
   ],
-  "size": 170
+  "size": 170,
+  "updated_at": "2015-05-11T22:24:16Z",
+  "pushed_at": "2015-02-22T14:07:07Z"
 }

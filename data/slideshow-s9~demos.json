@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Update blockchain_ruby.html"
     }
   ],
-  "size": 10665
+  "size": 10665,
+  "updated_at": "2016-02-25T16:38:22Z",
+  "pushed_at": "2017-12-07T16:38:37Z"
 }

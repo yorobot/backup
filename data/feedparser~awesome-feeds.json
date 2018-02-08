@@ -14,6 +14,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 10
+    },
+    "2018-02-08": {
+      "stargazers_count": 10
     }
   },
   "commits": [
@@ -24,5 +27,7 @@
       },
       "message": "Create FORMATS.md"
     }
-  ]
+  ],
+  "updated_at": "2018-01-06T20:47:32Z",
+  "pushed_at": "2017-06-10T16:30:03Z"
 }

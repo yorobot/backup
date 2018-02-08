@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "add javadoc"
     }
   ],
-  "size": 148
+  "size": 148,
+  "updated_at": "2013-10-26T12:37:43Z",
+  "pushed_at": "2013-10-26T12:37:43Z"
 }

@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 65
+    },
+    "2018-02-08": {
+      "stargazers_count": 65
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "add bc"
     }
   ],
-  "size": 1235
+  "size": 1235,
+  "updated_at": "2017-09-12T15:31:59Z",
+  "pushed_at": "2014-10-25T21:17:49Z"
 }

@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 14
+    },
+    "2018-02-08": {
+      "stargazers_count": 14
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "use octobook twentyeighteen theme"
     }
   ],
-  "size": 3739
+  "size": 3739,
+  "updated_at": "2017-10-26T19:08:52Z",
+  "pushed_at": "2017-11-28T17:49:21Z"
 }

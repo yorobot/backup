@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 2
+    },
+    "2018-02-08": {
+      "stargazers_count": 2
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "add logger.info"
     }
   ],
-  "size": 55
+  "size": 55,
+  "updated_at": "2017-10-25T18:16:55Z",
+  "pushed_at": "2017-11-27T15:15:11Z"
 }

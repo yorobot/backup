@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 554
+    },
+    "2018-02-08": {
+      "stargazers_count": 555
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Create LICENSE.md"
     }
   ],
-  "size": 1088
+  "size": 1088,
+  "updated_at": "2018-01-29T06:04:01Z",
+  "pushed_at": "2017-08-31T18:19:59Z"
 }

@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "move from sportdb"
     }
   ],
-  "size": 164
+  "size": 164,
+  "updated_at": "2015-04-20T15:02:46Z",
+  "pushed_at": "2014-08-18T08:39:57Z"
 }

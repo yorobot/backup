@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Create europe.rb"
     }
   ],
-  "size": 2
+  "size": 2,
+  "updated_at": "2017-08-18T15:04:19Z",
+  "pushed_at": "2017-08-18T15:04:18Z"
 }

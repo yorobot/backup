@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 2
+    },
+    "2018-02-08": {
+      "stargazers_count": 2
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "use remote theme - octobook/books-twentyeighteen-theme"
     }
   ],
-  "size": 365
+  "size": 365,
+  "updated_at": "2017-11-30T18:58:48Z",
+  "pushed_at": "2017-11-30T18:58:48Z"
 }

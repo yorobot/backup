@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 2
+    },
+    "2018-02-08": {
+      "stargazers_count": 2
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "add copa del rey"
     }
   ],
-  "size": 264
+  "size": 264,
+  "updated_at": "2015-09-05T18:24:42Z",
+  "pushed_at": "2015-07-26T10:34:53Z"
 }

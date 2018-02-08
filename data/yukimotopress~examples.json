@@ -5,6 +5,9 @@
   "history": {
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -15,5 +18,7 @@
       },
       "message": "Create contents.yml"
     }
-  ]
+  ],
+  "updated_at": "2018-01-15T16:45:22Z",
+  "pushed_at": "2018-01-15T19:29:36Z"
 }

@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Update MARKET.md"
     }
   ],
-  "size": 204
+  "size": 204,
+  "updated_at": "2015-02-16T15:07:53Z",
+  "pushed_at": "2015-02-16T17:19:22Z"
 }

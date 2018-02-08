@@ -1,22 +1,27 @@
 {
   "full_name": "openblockchains/awesome-cryptokitties",
   "created_at": "2017-12-09T19:12:04Z",
-  "size": 3976,
+  "size": 3633,
   "history": {
     "2017-12-10": {
       "stargazers_count": 2
     },
     "2018-01-28": {
       "stargazers_count": 103
+    },
+    "2018-02-08": {
+      "stargazers_count": 124
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-01-07T12:49:17Z",
-        "name": "GitHub"
+        "date": "2018-02-04T16:33:18Z",
+        "name": "Gerald Bauer"
       },
-      "message": "Update README.md"
+      "message": "Update README.md\n\nAdd CryptoHeroes (Hero Tavern)"
     }
-  ]
+  ],
+  "updated_at": "2018-02-08T15:35:32Z",
+  "pushed_at": "2018-02-04T16:33:19Z"
 }

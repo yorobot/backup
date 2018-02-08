@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 9
+    },
+    "2018-02-08": {
+      "stargazers_count": 9
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Merge pull request #3 from AutoSponge/master\n\nadding tree house"
     }
   ],
-  "size": 339
+  "size": 339,
+  "updated_at": "2016-03-28T17:34:04Z",
+  "pushed_at": "2015-08-07T11:57:08Z"
 }

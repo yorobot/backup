@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 32
+    },
+    "2018-02-08": {
+      "stargazers_count": 32
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Fix typo"
     }
   ],
-  "size": 455
+  "size": 455,
+  "updated_at": "2017-06-17T20:38:47Z",
+  "pushed_at": "2017-08-06T11:27:48Z"
 }

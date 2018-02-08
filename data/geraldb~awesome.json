@@ -1,0 +1,21 @@
+{
+  "full_name": "geraldb/awesome",
+  "created_at": "2018-01-30T20:34:17Z",
+  "updated_at": "2018-01-31T14:49:22Z",
+  "pushed_at": "2018-01-30T20:36:29Z",
+  "size": 1,
+  "history": {
+    "2018-02-08": {
+      "stargazers_count": 2
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2018-01-30T20:36:29Z",
+        "name": "GitHub"
+      },
+      "message": "Update README.md"
+    }
+  ]
+}

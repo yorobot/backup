@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Create service.rb"
     }
   ],
-  "size": 1
+  "size": 1,
+  "updated_at": "2017-08-31T15:57:04Z",
+  "pushed_at": "2017-08-31T18:17:03Z"
 }

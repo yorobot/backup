@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 3
+    },
+    "2018-02-08": {
+      "stargazers_count": 3
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "use more sections e.g. ruby core, style, rails more etc."
     }
   ],
-  "size": 661
+  "size": 661,
+  "updated_at": "2017-01-16T10:32:38Z",
+  "pushed_at": "2015-05-10T12:06:07Z"
 }

@@ -5,6 +5,9 @@
   "history": {
     "2018-01-28": {
       "stargazers_count": 9
+    },
+    "2018-02-08": {
+      "stargazers_count": 9
     }
   },
   "commits": [
@@ -15,5 +18,7 @@
       },
       "message": "👋 Adding myself to members\n\nHope I can catch a meetup at some point in 2018! Life keeps me busy~"
     }
-  ]
+  ],
+  "updated_at": "2018-01-17T14:53:44Z",
+  "pushed_at": "2018-01-06T23:03:42Z"
 }

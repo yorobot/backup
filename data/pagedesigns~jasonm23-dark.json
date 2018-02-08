@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 3
+    },
+    "2018-02-08": {
+      "stargazers_count": 3
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "add layout"
     }
   ],
-  "size": 6
+  "size": 6,
+  "updated_at": "2017-08-12T11:43:33Z",
+  "pushed_at": "2016-03-13T18:43:58Z"
 }

@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 164
+    },
+    "2018-02-08": {
+      "stargazers_count": 170
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "adding MrHyde Android app"
     }
   ],
-  "size": 13
+  "size": 13,
+  "updated_at": "2018-02-05T20:26:32Z",
+  "pushed_at": "2017-11-21T15:26:22Z"
 }

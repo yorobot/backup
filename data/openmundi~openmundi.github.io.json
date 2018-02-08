@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 5
+    },
+    "2018-02-08": {
+      "stargazers_count": 5
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Update build.md"
     }
   ],
-  "size": 329
+  "size": 329,
+  "updated_at": "2016-01-25T02:21:41Z",
+  "pushed_at": "2015-08-14T13:30:41Z"
 }

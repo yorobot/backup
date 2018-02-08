@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 21
+    },
+    "2018-02-08": {
+      "stargazers_count": 21
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "move polymer sample to its own repo�"
     }
   ],
-  "size": 536
+  "size": 536,
+  "updated_at": "2016-08-16T14:46:51Z",
+  "pushed_at": "2014-05-06T17:37:48Z"
 }

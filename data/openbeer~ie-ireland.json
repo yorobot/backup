@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Create beercup.txt"
     }
   ],
-  "size": 180
+  "size": 180,
+  "updated_at": "2014-01-18T00:03:10Z",
+  "pushed_at": "2014-10-22T14:15:42Z"
 }

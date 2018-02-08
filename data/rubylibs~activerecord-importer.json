@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "fix gemspec"
     }
   ],
-  "size": 144
+  "size": 144,
+  "updated_at": "2013-11-03T04:10:15Z",
+  "pushed_at": "2012-12-05T07:17:39Z"
 }

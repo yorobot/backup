@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 7
+    },
+    "2018-02-08": {
+      "stargazers_count": 7
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "up metal"
     }
   ],
-  "size": 48
+  "size": 48,
+  "updated_at": "2017-12-13T19:37:17Z",
+  "pushed_at": "2017-09-10T15:34:25Z"
 }

@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 48
+    },
+    "2018-02-08": {
+      "stargazers_count": 48
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Merge pull request #7 from step1profit/patch-1\n\nUpdate Rakefile (spelling)"
     }
   ],
-  "size": 349
+  "size": 349,
+  "updated_at": "2017-11-13T22:43:37Z",
+  "pushed_at": "2015-04-01T15:59:26Z"
 }

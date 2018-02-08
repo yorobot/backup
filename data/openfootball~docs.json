@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 6
+    },
+    "2018-02-08": {
+      "stargazers_count": 7
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Update python.md with more details"
     }
   ],
-  "size": 698
+  "size": 698,
+  "updated_at": "2018-01-30T14:00:28Z",
+  "pushed_at": "2017-02-20T08:21:26Z"
 }

@@ -5,6 +5,9 @@
   "history": {
     "2018-01-28": {
       "stargazers_count": 2
+    },
+    "2018-02-08": {
+      "stargazers_count": 2
     }
   },
   "commits": [
@@ -15,5 +18,7 @@
       },
       "message": "up prefix-paths"
     }
-  ]
+  ],
+  "updated_at": "2018-01-06T13:00:40Z",
+  "pushed_at": "2017-09-01T16:02:21Z"
 }

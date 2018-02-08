@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 3
+    },
+    "2018-02-08": {
+      "stargazers_count": 3
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "add book.yml n contents.yml"
     }
   ],
-  "size": 37
+  "size": 37,
+  "updated_at": "2016-02-27T12:36:27Z",
+  "pushed_at": "2016-02-27T12:36:26Z"
 }

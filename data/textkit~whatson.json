@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 12
+    },
+    "2018-02-08": {
+      "stargazers_count": 12
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Create NEWS.md"
     }
   ],
-  "size": 148
+  "size": 148,
+  "updated_at": "2016-12-13T11:32:46Z",
+  "pushed_at": "2015-11-01T09:23:26Z"
 }

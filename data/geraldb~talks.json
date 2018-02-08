@@ -19,16 +19,21 @@
     },
     "2018-01-28": {
       "stargazers_count": 160
+    },
+    "2018-02-08": {
+      "stargazers_count": 161
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-12-08T09:24:51Z",
+        "date": "2018-01-30T20:35:10Z",
         "name": "GitHub"
       },
-      "message": "up blockchain-lite"
+      "message": "Update almost_sinatra.md"
     }
   ],
-  "size": 11711
+  "size": 11674,
+  "updated_at": "2018-01-30T08:47:41Z",
+  "pushed_at": "2018-01-30T20:35:10Z"
 }

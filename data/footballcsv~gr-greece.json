@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 3
+    },
+    "2018-02-08": {
+      "stargazers_count": 3
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "fix; add missing teams"
     }
   ],
-  "size": 200
+  "size": 200,
+  "updated_at": "2016-10-14T00:51:11Z",
+  "pushed_at": "2014-07-30T12:47:42Z"
 }

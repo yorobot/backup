@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 2
+    },
+    "2018-02-08": {
+      "stargazers_count": 2
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Update _titlepage.scss"
     }
   ],
-  "size": 137
+  "size": 137,
+  "updated_at": "2017-06-09T23:55:23Z",
+  "pushed_at": "2016-09-04T12:56:41Z"
 }

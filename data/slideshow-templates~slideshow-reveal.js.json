@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 13
+    },
+    "2018-02-08": {
+      "stargazers_count": 13
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Update NOTES.md"
     }
   ],
-  "size": 1536
+  "size": 1536,
+  "updated_at": "2018-01-20T15:19:29Z",
+  "pushed_at": "2016-12-06T14:49:18Z"
 }

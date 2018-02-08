@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 141
+    },
+    "2018-02-08": {
+      "stargazers_count": 141
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "up s6blank defaults"
     }
   ],
-  "size": 1333
+  "size": 1333,
+  "updated_at": "2018-01-20T15:17:33Z",
+  "pushed_at": "2017-10-28T19:45:14Z"
 }

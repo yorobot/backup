@@ -5,6 +5,9 @@
   "history": {
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -15,5 +18,7 @@
       },
       "message": "Update 02-stefan-haslinger-octopod.md"
     }
-  ]
+  ],
+  "updated_at": "2018-01-06T12:07:07Z",
+  "pushed_at": "2018-01-06T12:13:23Z"
 }

@@ -5,6 +5,9 @@
   "history": {
     "2018-01-28": {
       "stargazers_count": 21
+    },
+    "2018-02-08": {
+      "stargazers_count": 22
     }
   },
   "commits": [
@@ -15,5 +18,7 @@
       },
       "message": "add ruby tuesday newsletter"
     }
-  ]
+  ],
+  "updated_at": "2018-01-31T19:05:02Z",
+  "pushed_at": "2018-01-17T07:32:29Z"
 }

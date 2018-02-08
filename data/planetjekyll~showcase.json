@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 3
+    },
+    "2018-02-08": {
+      "stargazers_count": 3
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Add open.gsa.gov thumbnail"
     }
   ],
-  "size": 2080
+  "size": 2080,
+  "updated_at": "2017-02-23T09:57:32Z",
+  "pushed_at": "2017-07-14T14:18:59Z"
 }

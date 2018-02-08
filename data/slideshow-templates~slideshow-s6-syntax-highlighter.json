@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 3
+    },
+    "2018-02-08": {
+      "stargazers_count": 3
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "up npm"
     }
   ],
-  "size": 194
+  "size": 194,
+  "updated_at": "2017-04-19T06:58:58Z",
+  "pushed_at": "2014-12-11T22:18:53Z"
 }

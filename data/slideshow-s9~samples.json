@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Rename superbike.text to superbike.md"
     }
   ],
-  "size": 122
+  "size": 122,
+  "updated_at": "2016-07-18T12:47:44Z",
+  "pushed_at": "2016-07-19T17:40:43Z"
 }

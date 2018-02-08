@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 9
+    },
+    "2018-02-08": {
+      "stargazers_count": 9
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "up wwwmake"
     }
   ],
-  "size": 142
+  "size": 142,
+  "updated_at": "2018-01-11T13:39:50Z",
+  "pushed_at": "2015-09-21T14:29:41Z"
 }

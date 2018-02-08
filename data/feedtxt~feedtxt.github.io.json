@@ -14,6 +14,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 2
+    },
+    "2018-02-08": {
+      "stargazers_count": 2
     }
   },
   "commits": [
@@ -24,5 +27,7 @@
       },
       "message": "Create README.md"
     }
-  ]
+  ],
+  "updated_at": "2017-06-06T08:03:14Z",
+  "pushed_at": "2017-06-10T20:16:28Z"
 }

@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 2
+    },
+    "2018-02-08": {
+      "stargazers_count": 2
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "use require text"
     }
   ],
-  "size": 370
+  "size": 370,
+  "updated_at": "2014-12-13T08:53:59Z",
+  "pushed_at": "2014-05-07T15:52:09Z"
 }

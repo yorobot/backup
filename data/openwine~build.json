@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "add read builtin"
     }
   ],
-  "size": 132
+  "size": 132,
+  "updated_at": "2014-03-07T18:15:59Z",
+  "pushed_at": "2014-03-07T18:15:59Z"
 }

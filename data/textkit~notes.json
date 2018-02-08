@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Create ALTERNATIVES.md"
     }
   ],
-  "size": 120
+  "size": 120,
+  "updated_at": "2015-01-11T10:33:59Z",
+  "pushed_at": "2015-01-11T10:35:11Z"
 }

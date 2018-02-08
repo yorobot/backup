@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 2
+    },
+    "2018-02-08": {
+      "stargazers_count": 2
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Update all.txt"
     }
   ],
-  "size": 89
+  "size": 89,
+  "updated_at": "2017-09-12T15:31:42Z",
+  "pushed_at": "2017-08-18T14:30:50Z"
 }

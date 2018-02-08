@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 12
+    },
+    "2018-02-08": {
+      "stargazers_count": 12
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Merge pull request #1 from walterdavis/master\n\nfixed a typo"
     }
   ],
-  "size": 289
+  "size": 289,
+  "updated_at": "2018-01-01T12:05:15Z",
+  "pushed_at": "2015-08-07T15:14:54Z"
 }

@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 59
+    },
+    "2018-02-08": {
+      "stargazers_count": 60
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "up quiet n quieter"
     }
   ],
-  "size": 273
+  "size": 273,
+  "updated_at": "2018-02-05T16:10:49Z",
+  "pushed_at": "2017-11-27T16:13:25Z"
 }

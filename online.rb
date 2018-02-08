@@ -46,7 +46,7 @@ def save_repos
 
 
   logins = res.logins.each do |login|
-    next if ['vienna-rb', 'RubyHabits', 'jekyll-octopod'].include?( login )      ## skip vienna-rb for now
+    next if ['vienna-rb', 'RubyHabits', 'rugl-at', 'jekyll-octopod'].include?( login )      ## skip vienna-rb for now
     res = gh.org_repos( login )
     save_json( "orgs~#{login}~repos", res.data )
 

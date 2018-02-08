@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Create README.md"
     }
   ],
-  "size": 108
+  "size": 108,
+  "updated_at": "2015-08-01T08:15:29Z",
+  "pushed_at": "2015-08-01T08:15:22Z"
 }

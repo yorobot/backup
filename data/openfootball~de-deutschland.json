@@ -19,16 +19,21 @@
     },
     "2018-01-28": {
       "stargazers_count": 35
+    },
+    "2018-02-08": {
+      "stargazers_count": 35
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-01-28T08:58:34Z",
+        "date": "2018-02-06T14:05:15Z",
         "name": "GitHub"
       },
       "message": "Update 3-liga3-ii.txt"
     }
   ],
-  "size": 1109
+  "size": 1178,
+  "updated_at": "2018-01-12T11:08:51Z",
+  "pushed_at": "2018-02-06T14:05:15Z"
 }

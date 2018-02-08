@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 26
+    },
+    "2018-02-08": {
+      "stargazers_count": 26
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Create IDEAS.md"
     }
   ],
-  "size": 26
+  "size": 26,
+  "updated_at": "2018-01-08T09:29:12Z",
+  "pushed_at": "2016-10-20T12:51:42Z"
 }

@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 30
+    },
+    "2018-02-08": {
+      "stargazers_count": 30
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Updating Série A 2017  data"
     }
   ],
-  "size": 205
+  "size": 205,
+  "updated_at": "2017-11-29T13:08:30Z",
+  "pushed_at": "2018-01-27T17:59:21Z"
 }

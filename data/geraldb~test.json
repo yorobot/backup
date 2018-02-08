@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Create franzzz.md"
     }
   ],
-  "size": 2
+  "size": 2,
+  "updated_at": "2015-11-22T21:39:05Z",
+  "pushed_at": "2015-11-22T21:40:58Z"
 }

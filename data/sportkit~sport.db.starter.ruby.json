@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 13
+    },
+    "2018-02-08": {
+      "stargazers_count": 13
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Merge pull request #1 from adambro/cors_support\n\nEnable CORS for all responses"
     }
   ],
-  "size": 13
+  "size": 13,
+  "updated_at": "2017-09-03T12:30:03Z",
+  "pushed_at": "2016-03-09T15:57:26Z"
 }

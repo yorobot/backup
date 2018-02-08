@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 32
+    },
+    "2018-02-08": {
+      "stargazers_count": 32
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "use new worldclassics org"
     }
   ],
-  "size": 204
+  "size": 204,
+  "updated_at": "2017-11-26T21:18:15Z",
+  "pushed_at": "2015-07-19T16:04:22Z"
 }

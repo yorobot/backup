@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 2
+    },
+    "2018-02-08": {
+      "stargazers_count": 2
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "use manuscripts"
     }
   ],
-  "size": 135
+  "size": 135,
+  "updated_at": "2016-06-08T07:23:09Z",
+  "pushed_at": "2016-06-08T07:23:08Z"
 }

@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Update themes.html"
     }
   ],
-  "size": 81
+  "size": 81,
+  "updated_at": "2016-11-24T18:42:56Z",
+  "pushed_at": "2017-06-21T16:17:42Z"
 }

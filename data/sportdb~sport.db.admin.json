@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 15
+    },
+    "2018-02-08": {
+      "stargazers_count": 15
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "up find assets"
     }
   ],
-  "size": 1703
+  "size": 1703,
+  "updated_at": "2017-08-14T07:54:42Z",
+  "pushed_at": "2016-10-12T08:42:24Z"
 }

@@ -5,6 +5,9 @@
   "history": {
     "2018-01-28": {
       "stargazers_count": 3
+    },
+    "2018-02-08": {
+      "stargazers_count": 3
     }
   },
   "commits": [
@@ -15,5 +18,7 @@
       },
       "message": "Update with the few things I can add \n\nSadly I do not know any other companies or meetups but I am sure the node community is growing in the near future :)"
     }
-  ]
+  ],
+  "updated_at": "2018-01-18T10:43:11Z",
+  "pushed_at": "2018-01-17T18:38:57Z"
 }

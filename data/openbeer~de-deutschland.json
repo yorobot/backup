@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 2
+    },
+    "2018-02-08": {
+      "stargazers_count": 2
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "move bayern to its own repo"
     }
   ],
-  "size": 493
+  "size": 493,
+  "updated_at": "2014-05-19T21:46:23Z",
+  "pushed_at": "2014-10-20T20:27:44Z"
 }

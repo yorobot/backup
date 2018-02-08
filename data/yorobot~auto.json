@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 2
+    },
+    "2018-02-08": {
+      "stargazers_count": 2
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Create build_world_de.sh"
     }
   ],
-  "size": 47
+  "size": 47,
+  "updated_at": "2016-10-31T08:23:39Z",
+  "pushed_at": "2016-11-13T21:47:58Z"
 }

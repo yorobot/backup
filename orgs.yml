@@ -1,5 +1,5 @@
 ---
-geraldb (80):
+geraldb (82):
 - RubyHabits
 - austriacodes
 - beerbook
@@ -22,6 +22,7 @@ geraldb (80):
 - footballcsv
 - footballjs
 - funpress
+- gittiscripts
 - henrythemes
 - hybook
 - hydepress
@@ -59,6 +60,7 @@ geraldb (80):
 - rsssf
 - rubylibs
 - rubyref
+- rugl-at
 - schemadoc
 - shellpress
 - slidekit

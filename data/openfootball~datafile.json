@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 32
+    },
+    "2018-02-08": {
+      "stargazers_count": 33
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "up 2017-18 seasons"
     }
   ],
-  "size": 20
+  "size": 20,
+  "updated_at": "2018-01-31T14:43:40Z",
+  "pushed_at": "2017-12-05T19:31:00Z"
 }

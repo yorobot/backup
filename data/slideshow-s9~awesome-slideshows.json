@@ -19,16 +19,21 @@
     },
     "2018-01-28": {
       "stargazers_count": 20
+    },
+    "2018-02-08": {
+      "stargazers_count": 20
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-07-03T01:21:48Z",
-        "name": "GitHub"
+        "date": "2018-02-06T09:02:37Z",
+        "name": "Gerald Bauer"
       },
-      "message": "add talkie"
+      "message": "Added GitPitch and GitPitch Pro to the list."
     }
   ],
-  "size": 4
+  "size": 4,
+  "updated_at": "2018-01-03T09:49:10Z",
+  "pushed_at": "2018-02-06T09:02:38Z"
 }

@@ -14,6 +14,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 2
+    },
+    "2018-02-08": {
+      "stargazers_count": 2
     }
   },
   "commits": [
@@ -24,5 +27,7 @@
       },
       "message": "Update starter.html"
     }
-  ]
+  ],
+  "updated_at": "2017-04-05T16:11:53Z",
+  "pushed_at": "2017-03-26T19:09:49Z"
 }

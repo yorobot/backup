@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "add some first info pages"
     }
   ],
-  "size": 112
+  "size": 112,
+  "updated_at": "2013-10-12T18:15:55Z",
+  "pushed_at": "2013-10-12T18:15:52Z"
 }

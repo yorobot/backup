@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 4
+    },
+    "2018-02-08": {
+      "stargazers_count": 4
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "add teams"
     }
   ],
-  "size": 752
+  "size": 752,
+  "updated_at": "2017-05-10T15:21:28Z",
+  "pushed_at": "2014-08-03T21:09:57Z"
 }

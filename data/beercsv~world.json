@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "up world"
     }
   ],
-  "size": 172
+  "size": 172,
+  "updated_at": "2017-06-04T16:00:09Z",
+  "pushed_at": "2014-10-19T18:23:48Z"
 }

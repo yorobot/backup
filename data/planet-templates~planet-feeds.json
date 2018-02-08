@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 2
+    },
+    "2018-02-08": {
+      "stargazers_count": 2
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "add conversion cheat sheet"
     }
   ],
-  "size": 7
+  "size": 7,
+  "updated_at": "2017-10-28T08:29:04Z",
+  "pushed_at": "2017-10-28T08:41:51Z"
 }

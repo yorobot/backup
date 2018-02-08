@@ -1,6 +1,7 @@
 ---
-geraldb (12):
+geraldb (13):
 - austria
+- awesome
 - catalog
 - chelitas
 - geraldb.github.io
@@ -140,6 +141,9 @@ funpress (6):
 - funpress.github.io
 - mostly-adequate-guide-to-fp
 - up-n-going
+gittiscripts (2):
+- gitti
+- hubba
 henrythemes (13):
 - hello-jekyll-theme
 - hello-minima-theme
@@ -148,7 +152,7 @@ henrythemes (13):
 - jekyll-book-theme
 - jekyll-boom-theme
 - jekyll-boom-theme-v2
-### - jekyll-bootstrap-theme
+- jekyll-bootstrap-theme
 - jekyll-gutenberg-theme
 - jekyll-minimal-theme
 - jekyll-starter-theme
@@ -436,7 +440,7 @@ rsssf (7):
 - es-espana
 - rsssf.github.io
 - spec
-rubylibs (21):
+rubylibs (19):
 - about
 - activerecord-importer
 - activerecord-utils
@@ -446,10 +450,8 @@ rubylibs (21):
 - fetcher
 - fizzbuzzer
 - fotos
-- gitti
 - gutenberg
 - hoe-manifest
-- hubba
 - jekylldoc
 - linkto
 - logutils

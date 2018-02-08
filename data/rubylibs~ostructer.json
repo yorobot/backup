@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "add json tests"
     }
   ],
-  "size": 112
+  "size": 112,
+  "updated_at": "2013-09-19T22:09:20Z",
+  "pushed_at": "2013-09-16T09:44:19Z"
 }

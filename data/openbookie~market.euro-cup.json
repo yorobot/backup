@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "move euro data to its own repo"
     }
   ],
-  "size": 108
+  "size": 108,
+  "updated_at": "2013-12-25T17:02:42Z",
+  "pushed_at": "2013-12-10T19:00:04Z"
 }

@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 3
+    },
+    "2018-02-08": {
+      "stargazers_count": 3
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "add tests; use fetcher"
     }
   ],
-  "size": 168
+  "size": 168,
+  "updated_at": "2015-04-20T15:08:36Z",
+  "pushed_at": "2014-07-07T14:37:18Z"
 }

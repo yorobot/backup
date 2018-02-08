@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 11
+    },
+    "2018-02-08": {
+      "stargazers_count": 11
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Create SPORTS.md"
     }
   ],
-  "size": 136
+  "size": 136,
+  "updated_at": "2017-07-16T09:15:09Z",
+  "pushed_at": "2015-07-11T12:22:58Z"
 }

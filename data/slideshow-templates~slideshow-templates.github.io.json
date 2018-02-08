@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Update slideshow.css"
     }
   ],
-  "size": 31
+  "size": 31,
+  "updated_at": "2017-11-20T17:25:07Z",
+  "pushed_at": "2017-11-20T17:28:04Z"
 }

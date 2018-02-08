@@ -14,6 +14,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 4
+    },
+    "2018-02-08": {
+      "stargazers_count": 4
     }
   },
   "commits": [
@@ -24,5 +27,7 @@
       },
       "message": "up gemfile"
     }
-  ]
+  ],
+  "updated_at": "2017-04-10T21:42:05Z",
+  "pushed_at": "2017-10-23T19:17:17Z"
 }

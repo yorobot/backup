@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "prep for gem release 0.2.0"
     }
   ],
-  "size": 132
+  "size": 132,
+  "updated_at": "2014-03-31T06:00:58Z",
+  "pushed_at": "2012-10-25T13:51:21Z"
 }

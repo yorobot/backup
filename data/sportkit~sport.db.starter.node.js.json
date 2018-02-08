@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 7
+    },
+    "2018-02-08": {
+      "stargazers_count": 7
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Update test.js"
     }
   ],
-  "size": 164
+  "size": 164,
+  "updated_at": "2017-12-31T17:57:20Z",
+  "pushed_at": "2014-09-28T18:38:24Z"
 }

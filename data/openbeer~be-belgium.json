@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 4
+    },
+    "2018-02-08": {
+      "stargazers_count": 4
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "add lindemans"
     }
   ],
-  "size": 34
+  "size": 34,
+  "updated_at": "2017-07-28T15:18:52Z",
+  "pushed_at": "2016-08-21T10:52:14Z"
 }

@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 2
+    },
+    "2018-02-08": {
+      "stargazers_count": 2
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "add adam sanderson"
     }
   ],
-  "size": 232
+  "size": 232,
+  "updated_at": "2015-07-30T22:00:18Z",
+  "pushed_at": "2015-04-09T13:16:06Z"
 }

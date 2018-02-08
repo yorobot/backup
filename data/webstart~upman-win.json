@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "add delete option"
     }
   ],
-  "size": 160
+  "size": 160,
+  "updated_at": "2014-05-12T12:35:36Z",
+  "pushed_at": "2014-05-12T12:35:37Z"
 }

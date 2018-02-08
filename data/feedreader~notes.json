@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Update FORMATS.md"
     }
   ],
-  "size": 196
+  "size": 196,
+  "updated_at": "2014-12-22T18:04:15Z",
+  "pushed_at": "2015-01-15T15:01:25Z"
 }

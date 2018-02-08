@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 2
+    },
+    "2018-02-08": {
+      "stargazers_count": 2
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Delete .gitkeep"
     }
   ],
-  "size": 2
+  "size": 2,
+  "updated_at": "2017-08-31T14:51:38Z",
+  "pushed_at": "2016-11-15T08:21:54Z"
 }

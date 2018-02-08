@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 13
+    },
+    "2018-02-08": {
+      "stargazers_count": 13
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "Update index.md"
     }
   ],
-  "size": 16
+  "size": 16,
+  "updated_at": "2018-01-13T23:52:20Z",
+  "pushed_at": "2017-01-11T05:36:08Z"
 }

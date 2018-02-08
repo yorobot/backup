@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 2
+    },
+    "2018-02-08": {
+      "stargazers_count": 2
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "start w/ player_stat_reader"
     }
   ],
-  "size": 204
+  "size": 204,
+  "updated_at": "2017-09-03T12:28:56Z",
+  "pushed_at": "2014-08-01T18:09:04Z"
 }

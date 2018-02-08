@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 1
+    },
+    "2018-02-08": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "make into a gem"
     }
   ],
-  "size": 104
+  "size": 104,
+  "updated_at": "2014-09-27T16:50:43Z",
+  "pushed_at": "2013-09-16T09:47:35Z"
 }

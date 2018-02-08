@@ -8,6 +8,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 10
+    },
+    "2018-02-08": {
+      "stargazers_count": 10
     }
   },
   "commits": [
@@ -18,5 +21,7 @@
       },
       "message": "Update BEERS.md"
     }
-  ]
+  ],
+  "updated_at": "2018-01-27T17:22:35Z",
+  "pushed_at": "2014-02-08T19:36:38Z"
 }

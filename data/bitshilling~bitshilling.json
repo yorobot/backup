@@ -5,6 +5,9 @@
   "history": {
     "2018-01-28": {
       "stargazers_count": 10
+    },
+    "2018-02-08": {
+      "stargazers_count": 10
     }
   },
   "commits": [
@@ -15,5 +18,7 @@
       },
       "message": "rename schilling to shilling"
     }
-  ]
+  ],
+  "updated_at": "2018-01-10T11:04:04Z",
+  "pushed_at": "2017-12-26T15:34:37Z"
 }

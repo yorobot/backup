@@ -19,6 +19,9 @@
     },
     "2018-01-28": {
       "stargazers_count": 10
+    },
+    "2018-02-08": {
+      "stargazers_count": 10
     }
   },
   "commits": [
@@ -30,5 +33,7 @@
       "message": "add places"
     }
   ],
-  "size": 1840
+  "size": 1840,
+  "updated_at": "2016-07-27T17:33:49Z",
+  "pushed_at": "2014-11-09T21:22:53Z"
 }

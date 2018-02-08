@@ -19,16 +19,21 @@
     },
     "2018-01-28": {
       "stargazers_count": 252
+    },
+    "2018-02-08": {
+      "stargazers_count": 256
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-11-13T19:48:41Z",
-        "name": "GitHub"
+        "date": "2018-02-01T15:28:15Z",
+        "name": "Gerald Bauer"
       },
-      "message": "add pug gem"
+      "message": "Update link to the Algolia plugin\n\nThe Algolia plugin has been renamed and revamped into a newer version"
     }
   ],
-  "size": 102
+  "size": 94,
+  "updated_at": "2018-02-08T07:02:17Z",
+  "pushed_at": "2018-02-01T15:28:16Z"
 }
