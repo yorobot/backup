@@ -3,7 +3,7 @@
 
 ###
 ## todo:
-##   use calc per month !!!
+##   use calc per month (days: 30)
 ##   per week is too optimistic (e.g. less than one star/week e.g. 0.6 or something)
 
 
@@ -38,7 +38,7 @@ entries = entries.sort do |l,r|
 
   res = r.diff <=> l.diff
   res = r.stats.stars <=> l.stats.stars  if res == 0
-  res = r.created_at.to_date.jd <=> l.created_at.to_date.jd  if res == 0
+  res = r.stats.created_at.to_date.jd <=> l.stats.created_at.to_date.jd  if res == 0
   res
 end
 
@@ -50,12 +50,11 @@ entries.each_with_index do |repo,i|
   if repo.diff == 0
     buf << "-  -/- "
   else
-    ##  todo: fix - return float?! - why? why not?
-    buf << "- #{repo.diff.to_f/10}/week "
+    buf << "- #{repo.diff}/month "
   end
 
   buf <<  " ★#{repo.stats.stars} **#{repo.full_name}** (#{repo.stats.size} kb) - "
-  buf <<  "#{repo.show_history} / #{repo.stats.history.inspect}\n"
+  buf <<  "#{repo.stats.history_str}\n"
 end
 
 
