@@ -1,6 +1,6 @@
 # encoding: utf-8
 
-require 'hubba'    ## used in "offline" mode (e.g. reads stats from ./data folder)
+require_relative 'lib/stats'
 
 
 ## create a (summary report)
@@ -11,50 +11,29 @@ require 'hubba'    ## used in "offline" mode (e.g. reads stats from ./data folde
 ##  org description etc??
 
 
-
-h = YAML.load_file( "./repos.yml" )
-pp h
-
-
-##
-# note: vienna-rb org gets skipped, thus
-#   orgs+users e.g. 43+2=45  --   -1 = 44(!)
-
-org_count   = 0
-repo_count  = 0
-
-repos = h
-repos.each do |key_with_counter,values|
-  repo_count += values.size
-  org_count  += 1
-end
+stats = GitHubStats.from_file( "./repos.yml" )
 
 ## print stats
 
-puts "  #{org_count} orgs, #{repo_count} repos"
+puts "  #{stats.orgs.size} orgs, #{stats.repos.size} repos"
 
 
 ## note: orgs is orgs+users e.g. geraldb,skriptbot, etc
 buf = ''
-buf << "# #{org_count} orgs, #{repo_count} repos\n"
+buf << "# #{stats.orgs.size} orgs, #{stats.repos.size} repos\n"
 buf << "\n"
 
 
-repos.each do |key_with_counter,values|
-  key = key_with_counter.sub( /\s+\([0-9]+\)/, '' )
-  buf << "### #{key} _(#{values.size})_\n"
+stats.orgs.each do |values|
+  name  = values[0]
+  repos = values[1]
+  buf << "### #{name} _(#{repos.size})_\n"
   buf << "\n"
 
-  entries = []
-
   ### add stats for repos
-  values.each do |value|
-    full_name = "#{key}/#{value}"
-    puts full_name
-    stats = Hubba::Stats.new( full_name )
-    stats.read( data_dir: './data' )
-
-    entries << "**#{value}** ★#{stats.stars} (#{stats.size} kb)"
+  entries = []
+  repos.each do |repo|
+    entries << "**#{repo.name}** ★#{repo.stats.stars} (#{repo.stats.size} kb)"
   end
 
   buf << entries.join( ' • ' )
