@@ -22,6 +22,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 32
+    },
+    "2018-02-27": {
+      "stargazers_count": 32
     }
   },
   "commits": [
@@ -29,6 +32,10 @@
       "committer": {
         "date": "2017-08-06T11:27:47Z",
         "name": "Gerald Bauer"
+      },
+      "author": {
+        "date": "2017-08-06T05:42:14Z",
+        "name": "Marcos Sánchez"
       },
       "message": "Fix typo"
     }

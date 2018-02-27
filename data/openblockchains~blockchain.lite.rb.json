@@ -11,6 +11,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 67
+    },
+    "2018-02-27": {
+      "stargazers_count": 71
     }
   },
   "commits": [
@@ -19,9 +22,13 @@
         "date": "2018-01-09T12:14:37Z",
         "name": "Gerald Bauer"
       },
+      "author": {
+        "date": "2018-01-09T12:14:37Z",
+        "name": "Gerald Bauer"
+      },
       "message": "rm attic"
     }
   ],
-  "updated_at": "2018-02-05T05:00:07Z",
+  "updated_at": "2018-02-22T08:42:58Z",
   "pushed_at": "2018-01-09T12:15:18Z"
 }

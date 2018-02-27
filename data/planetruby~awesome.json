@@ -22,6 +22,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 11
+    },
+    "2018-02-27": {
+      "stargazers_count": 12
     }
   },
   "commits": [
@@ -30,10 +33,14 @@
         "date": "2015-07-11T12:22:58Z",
         "name": "Gerald Bauer"
       },
+      "author": {
+        "date": "2015-07-11T12:22:58Z",
+        "name": "Gerald Bauer"
+      },
       "message": "Create SPORTS.md"
     }
   ],
   "size": 136,
-  "updated_at": "2017-07-16T09:15:09Z",
+  "updated_at": "2018-02-13T16:45:20Z",
   "pushed_at": "2015-07-11T12:22:58Z"
 }

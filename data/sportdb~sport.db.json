@@ -17,6 +17,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 58
+    },
+    "2018-02-27": {
+      "stargazers_count": 59
     }
   },
   "commits": [
@@ -25,9 +28,13 @@
         "date": "2017-12-01T18:52:13Z",
         "name": "Gerald Bauer"
       },
+      "author": {
+        "date": "2017-12-01T18:52:13Z",
+        "name": "Gerald Bauer"
+      },
       "message": "up schema index"
     }
   ],
-  "updated_at": "2018-02-03T05:25:34Z",
+  "updated_at": "2018-02-24T04:56:33Z",
   "pushed_at": "2017-12-01T18:52:23Z"
 }

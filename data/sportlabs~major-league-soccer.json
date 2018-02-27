@@ -22,11 +22,18 @@
     },
     "2018-02-08": {
       "stargazers_count": 2
+    },
+    "2018-02-27": {
+      "stargazers_count": 2
     }
   },
   "commits": [
     {
       "committer": {
+        "date": "2014-09-16T17:28:50Z",
+        "name": "Carl Svensson"
+      },
+      "author": {
         "date": "2014-09-16T17:28:50Z",
         "name": "Carl Svensson"
       },

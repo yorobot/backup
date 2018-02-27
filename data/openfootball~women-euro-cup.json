@@ -14,6 +14,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 1
+    },
+    "2018-02-27": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -21,6 +24,10 @@
       "committer": {
         "date": "2017-08-17T06:38:30Z",
         "name": "Gerald Bauer"
+      },
+      "author": {
+        "date": "2017-08-16T20:35:07Z",
+        "name": "serenosaur"
       },
       "message": "Semis and Final\n\nAdded semifinals and final info"
     }

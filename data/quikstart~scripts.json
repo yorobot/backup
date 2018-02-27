@@ -22,6 +22,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 5
+    },
+    "2018-02-27": {
+      "stargazers_count": 5
     }
   },
   "commits": [
@@ -29,6 +32,10 @@
       "committer": {
         "date": "2016-10-24T07:42:11Z",
         "name": "Gerald Bauer"
+      },
+      "author": {
+        "date": "2016-10-24T07:20:34Z",
+        "name": "StartZeroGnu"
       },
       "message": "Update sz-jekyll-flex.rb"
     }

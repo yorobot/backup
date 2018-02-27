@@ -22,18 +22,25 @@
     },
     "2018-02-08": {
       "stargazers_count": 82
+    },
+    "2018-02-27": {
+      "stargazers_count": 82
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-01-24T14:10:23Z",
+        "date": "2018-02-23T10:28:48Z",
         "name": "Gerald Bauer"
       },
-      "message": "Add files via upload"
+      "author": {
+        "date": "2018-02-23T09:24:53Z",
+        "name": "vikapitoshka"
+      },
+      "message": "add Future Imperfect thumbnail"
     }
   ],
-  "size": 8348,
-  "updated_at": "2018-01-26T16:52:26Z",
-  "pushed_at": "2018-01-24T14:10:24Z"
+  "size": 8488,
+  "updated_at": "2018-02-23T09:55:43Z",
+  "pushed_at": "2018-02-23T14:02:00Z"
 }

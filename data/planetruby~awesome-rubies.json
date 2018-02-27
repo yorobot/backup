@@ -22,18 +22,25 @@
     },
     "2018-02-08": {
       "stargazers_count": 218
+    },
+    "2018-02-27": {
+      "stargazers_count": 220
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-01-03T20:59:03Z",
+        "date": "2018-02-22T15:39:10Z",
         "name": "GitHub"
       },
-      "message": "add new what are rubies section"
+      "author": {
+        "date": "2018-02-22T15:39:10Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "Update README.md"
     }
   ],
-  "size": 173,
-  "updated_at": "2018-02-04T06:27:21Z",
-  "pushed_at": "2018-01-03T20:59:05Z"
+  "size": 49,
+  "updated_at": "2018-02-27T14:24:41Z",
+  "pushed_at": "2018-02-22T15:39:11Z"
 }

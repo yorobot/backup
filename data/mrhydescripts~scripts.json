@@ -22,6 +22,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 7
+    },
+    "2018-02-27": {
+      "stargazers_count": 6
     }
   },
   "commits": [
@@ -30,10 +33,14 @@
         "date": "2016-11-14T18:34:34Z",
         "name": "Gerald Bauer"
       },
+      "author": {
+        "date": "2016-11-14T18:26:52Z",
+        "name": "StartZeroGnu"
+      },
       "message": "Update sz-flex.rb\n\nEdit `install_theme` same as `keys:` in [drjekyllthemes/themes/themes.yml](https://github.com/StartZeroGnu/themes/blob/master/themes.yml#L1423)"
     }
   ],
   "size": 8,
-  "updated_at": "2017-04-11T13:02:53Z",
+  "updated_at": "2018-02-24T12:22:26Z",
   "pushed_at": "2016-11-14T18:34:35Z"
 }

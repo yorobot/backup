@@ -22,18 +22,25 @@
     },
     "2018-02-08": {
       "stargazers_count": 45
+    },
+    "2018-02-27": {
+      "stargazers_count": 51
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-01-13T20:24:44Z",
-        "name": "GitHub"
+        "date": "2018-02-16T06:43:50Z",
+        "name": "Gerald Bauer"
       },
-      "message": "Update README.md"
+      "author": {
+        "date": "2018-02-16T06:03:42Z",
+        "name": "Osamu Takiya"
+      },
+      "message": "[update] update README.md\n\nadd the description about Active Record and DB Adapter's gem"
     }
   ],
-  "size": 29,
-  "updated_at": "2018-01-08T09:31:25Z",
-  "pushed_at": "2017-01-13T20:24:45Z"
+  "size": 28,
+  "updated_at": "2018-02-19T06:19:51Z",
+  "pushed_at": "2018-02-16T06:43:52Z"
 }

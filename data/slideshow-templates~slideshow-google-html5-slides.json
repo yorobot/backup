@@ -22,6 +22,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 41
+    },
+    "2018-02-27": {
+      "stargazers_count": 41
     }
   },
   "commits": [
@@ -29,6 +32,10 @@
       "committer": {
         "date": "2017-11-03T18:00:46Z",
         "name": "GitHub"
+      },
+      "author": {
+        "date": "2017-11-03T18:00:46Z",
+        "name": "Gerald Bauer"
       },
       "message": "Add files via upload"
     }

@@ -22,6 +22,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 8
+    },
+    "2018-02-27": {
+      "stargazers_count": 8
     }
   },
   "commits": [
@@ -29,6 +32,10 @@
       "committer": {
         "date": "2018-01-06T16:02:38Z",
         "name": "GitHub"
+      },
+      "author": {
+        "date": "2018-01-06T16:02:38Z",
+        "name": "Gerald Bauer"
       },
       "message": "Update index.md"
     }

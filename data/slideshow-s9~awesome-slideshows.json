@@ -22,6 +22,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 20
+    },
+    "2018-02-27": {
+      "stargazers_count": 22
     }
   },
   "commits": [
@@ -30,10 +33,14 @@
         "date": "2018-02-06T09:02:37Z",
         "name": "Gerald Bauer"
       },
+      "author": {
+        "date": "2018-02-06T03:54:35Z",
+        "name": "David Russell"
+      },
       "message": "Added GitPitch and GitPitch Pro to the list."
     }
   ],
   "size": 4,
-  "updated_at": "2018-01-03T09:49:10Z",
+  "updated_at": "2018-02-16T10:22:25Z",
   "pushed_at": "2018-02-06T09:02:38Z"
 }

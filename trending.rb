@@ -38,7 +38,7 @@ entries = entries.sort do |l,r|
 
   res = r.diff <=> l.diff
   res = r.stats.stars <=> l.stats.stars  if res == 0
-  res = r.stats.created_at.to_date.jd <=> l.stats.created_at.to_date.jd  if res == 0
+  res = r.stats.created.jd <=> l.stats.created.jd  if res == 0
   res
 end
 

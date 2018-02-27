@@ -85,9 +85,10 @@ datatxt (3):
 - awseome-yaml
 - datatxt.github.io
 - iniparser
-drjekyllthemes (3):
+drjekyllthemes (4):
 - drjekyll
 - drjekyllthemes.github.io
+- test-theme
 - themes
 factbook (3):
 - factbook
@@ -388,12 +389,13 @@ planetopendata (6):
 - awesome-world
 - planet
 - planetopendata.github.io
-planetruby (19):
+planetruby (21):
 - apps
 - awesome
 - awesome-activerecord
 - awesome-blogs
 - awesome-crypto
+- awesome-functional
 - awesome-news
 - awesome-rack
 - awesome-rubies
@@ -403,6 +405,7 @@ planetruby (19):
 - awesome-webservers
 - books
 - calendar
+- calendar-theme
 - gems
 - hellohoe
 - links

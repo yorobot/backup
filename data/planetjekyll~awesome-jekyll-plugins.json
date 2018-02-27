@@ -22,18 +22,25 @@
     },
     "2018-02-08": {
       "stargazers_count": 256
+    },
+    "2018-02-27": {
+      "stargazers_count": 264
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-02-01T15:28:15Z",
+        "date": "2018-02-20T14:15:58Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update link to the Algolia plugin\n\nThe Algolia plugin has been renamed and revamped into a newer version"
+      "author": {
+        "date": "2018-02-19T23:39:03Z",
+        "name": "Allison Zadrozny"
+      },
+      "message": "Add searchyll gem for search options."
     }
   ],
-  "size": 94,
-  "updated_at": "2018-02-08T07:02:17Z",
-  "pushed_at": "2018-02-01T15:28:16Z"
+  "size": 110,
+  "updated_at": "2018-02-27T11:08:53Z",
+  "pushed_at": "2018-02-20T14:15:59Z"
 }

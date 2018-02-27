@@ -22,6 +22,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 5
+    },
+    "2018-02-27": {
+      "stargazers_count": 5
     }
   },
   "commits": [
@@ -29,6 +32,10 @@
       "committer": {
         "date": "2017-02-23T14:46:30Z",
         "name": "GitHub"
+      },
+      "author": {
+        "date": "2017-02-23T14:46:30Z",
+        "name": "Gerald Bauer"
       },
       "message": "add code example"
     }

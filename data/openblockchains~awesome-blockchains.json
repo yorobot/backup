@@ -11,6 +11,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 1526
+    },
+    "2018-02-27": {
+      "stargazers_count": 1694
     }
   },
   "commits": [
@@ -19,9 +22,13 @@
         "date": "2018-02-08T09:33:28Z",
         "name": "Gerald Bauer"
       },
+      "author": {
+        "date": "2018-02-07T21:55:14Z",
+        "name": "Luis Crespo"
+      },
       "message": "Update README.md\n\nJust a little typo cryto -> crypto."
     }
   ],
-  "updated_at": "2018-02-08T19:26:35Z",
+  "updated_at": "2018-02-27T15:34:54Z",
   "pushed_at": "2018-02-08T09:33:29Z"
 }

@@ -14,6 +14,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 1
+    },
+    "2018-02-27": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -21,6 +24,10 @@
       "committer": {
         "date": "2017-07-18T20:17:35Z",
         "name": "GitHub"
+      },
+      "author": {
+        "date": "2017-07-18T20:17:35Z",
+        "name": "Gerald Bauer"
       },
       "message": "use \"running\" footnotes"
     }

@@ -22,18 +22,25 @@
     },
     "2018-02-08": {
       "stargazers_count": 423
+    },
+    "2018-02-27": {
+      "stargazers_count": 425
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-01-06T11:50:10Z",
-        "name": "GitHub"
+        "date": "2018-02-24T17:18:40Z",
+        "name": "Gerald Bauer"
       },
-      "message": "Update README.md"
+      "author": {
+        "date": "2018-02-24T17:14:31Z",
+        "name": "Jam Risser"
+      },
+      "message": "Credited Generator Jekyll Plugin author"
     }
   ],
-  "size": 70,
-  "updated_at": "2018-02-08T13:46:01Z",
-  "pushed_at": "2018-01-06T11:50:11Z"
+  "size": 78,
+  "updated_at": "2018-02-26T17:00:54Z",
+  "pushed_at": "2018-02-24T17:18:41Z"
 }

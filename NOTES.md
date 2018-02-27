@@ -1,4 +1,10 @@
-# Todos
+# Notes
+## Todos
+
+
+- [ ] check if orgs.yml is used anywhere? remove/delete?
+
+
 
 ## add stars / starcount to SUMMARY.md
 

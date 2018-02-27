@@ -22,6 +22,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 84
+    },
+    "2018-02-27": {
+      "stargazers_count": 86
     }
   },
   "commits": [
@@ -30,10 +33,14 @@
         "date": "2016-05-16T08:42:10Z",
         "name": "Gerald Bauer"
       },
+      "author": {
+        "date": "2016-05-16T08:42:10Z",
+        "name": "Jonathan Barratt"
+      },
       "message": "Update README.md (#2)\n\nRemove two football apps whose repositories are no longer available."
     }
   ],
   "size": 8,
-  "updated_at": "2018-01-30T08:05:27Z",
+  "updated_at": "2018-02-26T16:56:48Z",
   "pushed_at": "2016-05-16T08:42:11Z"
 }

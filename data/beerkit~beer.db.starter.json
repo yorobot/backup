@@ -11,6 +11,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 2
+    },
+    "2018-02-27": {
+      "stargazers_count": 2
     }
   },
   "commits": [
@@ -18,6 +21,10 @@
       "committer": {
         "date": "2017-09-07T13:05:21Z",
         "name": "GitHub"
+      },
+      "author": {
+        "date": "2017-09-07T13:05:21Z",
+        "name": "Gerald Bauer"
       },
       "message": "Update app.rb"
     }

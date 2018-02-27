@@ -22,6 +22,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 3
+    },
+    "2018-02-27": {
+      "stargazers_count": 3
     }
   },
   "commits": [
@@ -29,6 +32,10 @@
       "committer": {
         "date": "2017-07-14T14:18:58Z",
         "name": "Gerald Bauer"
+      },
+      "author": {
+        "date": "2017-07-14T14:00:22Z",
+        "name": "Sara Cope"
       },
       "message": "Add open.gsa.gov thumbnail"
     }

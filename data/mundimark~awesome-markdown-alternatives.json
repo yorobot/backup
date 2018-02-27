@@ -22,18 +22,25 @@
     },
     "2018-02-08": {
       "stargazers_count": 5
+    },
+    "2018-02-27": {
+      "stargazers_count": 9
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-03-16T02:58:37Z",
+        "date": "2018-02-17T16:30:15Z",
         "name": "Gerald Bauer"
       },
-      "message": "Create NOTES.md"
+      "author": {
+        "date": "2018-02-17T11:53:55Z",
+        "name": "pxgm"
+      },
+      "message": "Added samples"
     }
   ],
-  "size": 1,
-  "updated_at": "2018-01-01T18:18:32Z",
-  "pushed_at": "2016-03-16T02:58:37Z"
+  "size": 2,
+  "updated_at": "2018-02-26T01:16:48Z",
+  "pushed_at": "2018-02-17T16:30:16Z"
 }

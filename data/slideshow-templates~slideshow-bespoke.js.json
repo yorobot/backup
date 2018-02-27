@@ -17,6 +17,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 2
+    },
+    "2018-02-27": {
+      "stargazers_count": 3
     }
   },
   "commits": [
@@ -25,9 +28,13 @@
         "date": "2017-10-30T20:09:03Z",
         "name": "GitHub"
       },
+      "author": {
+        "date": "2017-10-30T20:09:03Z",
+        "name": "Gerald Bauer"
+      },
       "message": "Update _config.yml"
     }
   ],
-  "updated_at": "2017-02-28T14:37:03Z",
+  "updated_at": "2018-02-23T01:39:05Z",
   "pushed_at": "2017-10-30T20:09:03Z"
 }

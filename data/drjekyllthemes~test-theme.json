@@ -1,0 +1,25 @@
+{
+  "full_name": "drjekyllthemes/test-theme",
+  "created_at": "2018-02-14T08:21:00Z",
+  "updated_at": "2018-02-14T08:37:11Z",
+  "pushed_at": "2018-02-19T20:18:43Z",
+  "size": 65,
+  "history": {
+    "2018-02-27": {
+      "stargazers_count": 1
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2018-02-19T20:18:36Z",
+        "name": "Gerald Bauer"
+      },
+      "author": {
+        "date": "2018-02-19T20:18:36Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "add default template and scss"
+    }
+  ]
+}

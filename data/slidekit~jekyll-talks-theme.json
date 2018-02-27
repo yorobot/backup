@@ -11,6 +11,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 1
+    },
+    "2018-02-27": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -18,6 +21,10 @@
       "committer": {
         "date": "2017-11-14T15:19:05Z",
         "name": "GitHub"
+      },
+      "author": {
+        "date": "2017-11-14T15:19:05Z",
+        "name": "Gerald Bauer"
       },
       "message": "Update slides.html"
     }

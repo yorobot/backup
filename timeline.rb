@@ -26,7 +26,7 @@ entries = entries.sort do |l,r|
   ## r[:stars] <=> l[:stars]
 
   ## sort by created_at (use julian days)
-  r.stats.created_at.to_date.jd <=> l.stats.created_at.to_date.jd
+  r.stats.created.jd <=> l.stats.created.jd
 end
 
 
@@ -37,8 +37,8 @@ last_year  = -1
 last_month = -1
 
 entries.each_with_index do |repo,i|
-  year       = repo.stats.created_at.year
-  month      = repo.stats.created_at.month
+  year       = repo.stats.created.year
+  month      = repo.stats.created.month
 
   if last_year != year
     buf << "\n## #{year}\n\n"

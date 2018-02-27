@@ -22,6 +22,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 26
+    },
+    "2018-02-27": {
+      "stargazers_count": 26
     }
   },
   "commits": [
@@ -29,6 +32,10 @@
       "committer": {
         "date": "2016-12-14T21:18:37Z",
         "name": "GitHub"
+      },
+      "author": {
+        "date": "2016-12-14T21:18:37Z",
+        "name": "Mike"
       },
       "message": "add 2016"
     }

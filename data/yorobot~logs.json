@@ -22,11 +22,18 @@
     },
     "2018-02-08": {
       "stargazers_count": 1
+    },
+    "2018-02-27": {
+      "stargazers_count": 1
     }
   },
   "commits": [
     {
       "committer": {
+        "date": "2016-09-13T07:43:55Z",
+        "name": "Skriptbot"
+      },
+      "author": {
         "date": "2016-09-13T07:43:55Z",
         "name": "Skriptbot"
       },

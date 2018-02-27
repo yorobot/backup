@@ -22,6 +22,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 271
+    },
+    "2018-02-27": {
+      "stargazers_count": 275
     }
   },
   "commits": [
@@ -30,10 +33,14 @@
         "date": "2018-01-06T09:31:49Z",
         "name": "Gerald Bauer"
       },
+      "author": {
+        "date": "2018-01-05T23:08:45Z",
+        "name": "Igor Kasyanchuk"
+      },
       "message": "Update README.md"
     }
   ],
   "size": 40,
-  "updated_at": "2018-02-06T05:10:30Z",
+  "updated_at": "2018-02-24T09:21:51Z",
   "pushed_at": "2018-01-06T09:31:50Z"
 }

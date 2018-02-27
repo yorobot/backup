@@ -22,6 +22,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 170
+    },
+    "2018-02-27": {
+      "stargazers_count": 175
     }
   },
   "commits": [
@@ -30,10 +33,14 @@
         "date": "2017-11-21T15:26:21Z",
         "name": "Gerald Bauer"
       },
+      "author": {
+        "date": "2017-11-21T14:42:12Z",
+        "name": "nys"
+      },
       "message": "adding MrHyde Android app"
     }
   ],
   "size": 13,
-  "updated_at": "2018-02-05T20:26:32Z",
+  "updated_at": "2018-02-24T21:27:25Z",
   "pushed_at": "2017-11-21T15:26:22Z"
 }

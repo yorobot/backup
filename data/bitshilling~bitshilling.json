@@ -8,6 +8,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 10
+    },
+    "2018-02-27": {
+      "stargazers_count": 11
     }
   },
   "commits": [
@@ -16,9 +19,13 @@
         "date": "2017-12-26T15:34:37Z",
         "name": "GitHub"
       },
+      "author": {
+        "date": "2017-12-26T15:34:37Z",
+        "name": "Gerald Bauer"
+      },
       "message": "rename schilling to shilling"
     }
   ],
-  "updated_at": "2018-01-10T11:04:04Z",
+  "updated_at": "2018-02-19T12:42:41Z",
   "pushed_at": "2017-12-26T15:34:37Z"
 }

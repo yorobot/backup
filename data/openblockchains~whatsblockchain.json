@@ -11,6 +11,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 4
+    },
+    "2018-02-27": {
+      "stargazers_count": 6
     }
   },
   "commits": [
@@ -19,9 +22,13 @@
         "date": "2017-09-25T06:55:25Z",
         "name": "GitHub"
       },
+      "author": {
+        "date": "2017-09-25T06:55:25Z",
+        "name": "Gerald Bauer"
+      },
       "message": "fix typo"
     }
   ],
-  "updated_at": "2018-02-08T15:35:43Z",
+  "updated_at": "2018-02-26T10:27:09Z",
   "pushed_at": "2017-09-25T06:55:25Z"
 }

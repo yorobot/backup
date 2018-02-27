@@ -22,18 +22,25 @@
     },
     "2018-02-08": {
       "stargazers_count": 3
+    },
+    "2018-02-27": {
+      "stargazers_count": 3
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-06-26T17:41:19Z",
+        "date": "2018-02-21T20:18:12Z",
         "name": "Gerald Bauer"
       },
-      "message": "up2"
+      "author": {
+        "date": "2018-02-21T20:18:12Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "add stars"
     }
   ],
-  "size": 183,
+  "size": 243,
   "updated_at": "2017-07-09T03:12:58Z",
-  "pushed_at": "2017-06-26T18:09:59Z"
+  "pushed_at": "2018-02-21T20:18:20Z"
 }

@@ -22,6 +22,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 38
+    },
+    "2018-02-27": {
+      "stargazers_count": 39
     }
   },
   "commits": [
@@ -30,10 +33,14 @@
         "date": "2018-01-22T15:22:31Z",
         "name": "Gerald Bauer"
       },
+      "author": {
+        "date": "2018-01-22T14:59:53Z",
+        "name": "Emanuil Rusev"
+      },
       "message": "Update README.md"
     }
   ],
   "size": 7,
-  "updated_at": "2018-02-08T13:33:53Z",
+  "updated_at": "2018-02-25T22:22:30Z",
   "pushed_at": "2018-01-22T15:22:32Z"
 }

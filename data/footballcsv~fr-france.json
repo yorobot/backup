@@ -22,18 +22,25 @@
     },
     "2018-02-08": {
       "stargazers_count": 4
+    },
+    "2018-02-27": {
+      "stargazers_count": 5
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2014-08-03T11:32:03Z",
+        "date": "2018-02-18T18:46:59Z",
         "name": "Gerald Bauer"
       },
-      "message": "up standings"
+      "author": {
+        "date": "2018-02-18T16:07:08Z",
+        "name": "Benoist Laforge"
+      },
+      "message": "Corrected error in file"
     }
   ],
-  "size": 296,
-  "updated_at": "2017-12-03T13:20:09Z",
-  "pushed_at": "2014-08-03T11:32:12Z"
+  "size": 148,
+  "updated_at": "2018-02-22T13:42:54Z",
+  "pushed_at": "2018-02-18T18:47:01Z"
 }

@@ -8,6 +8,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 5
+    },
+    "2018-02-27": {
+      "stargazers_count": 6
     }
   },
   "commits": [
@@ -16,9 +19,13 @@
         "date": "2018-01-08T08:21:20Z",
         "name": "GitHub"
       },
+      "author": {
+        "date": "2018-01-08T08:21:20Z",
+        "name": "Gerald Bauer"
+      },
       "message": "Update README.md"
     }
   ],
-  "updated_at": "2018-01-08T16:13:10Z",
+  "updated_at": "2018-02-13T15:28:27Z",
   "pushed_at": "2018-01-08T08:21:21Z"
 }

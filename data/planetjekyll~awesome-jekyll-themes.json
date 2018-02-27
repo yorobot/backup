@@ -22,6 +22,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 188
+    },
+    "2018-02-27": {
+      "stargazers_count": 195
     }
   },
   "commits": [
@@ -30,10 +33,14 @@
         "date": "2018-02-01T13:44:54Z",
         "name": "Gerald Bauer"
       },
+      "author": {
+        "date": "2018-02-01T10:07:54Z",
+        "name": "Grachev Mikhail"
+      },
       "message": "Add pixyll theme"
     }
   ],
   "size": 16,
-  "updated_at": "2018-02-07T01:26:39Z",
+  "updated_at": "2018-02-27T11:07:47Z",
   "pushed_at": "2018-02-01T13:44:55Z"
 }

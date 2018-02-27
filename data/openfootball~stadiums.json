@@ -22,6 +22,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 6
+    },
+    "2018-02-27": {
+      "stargazers_count": 6
     }
   },
   "commits": [
@@ -29,6 +32,10 @@
       "committer": {
         "date": "2017-01-22T23:29:59Z",
         "name": "Gerald Bauer"
+      },
+      "author": {
+        "date": "2017-01-22T21:51:14Z",
+        "name": "Philipp Hirsch"
       },
       "message": "Add missing stadiums for Darmstadt and Heidenheim\n\nBoth teams play in 1. and 2. Bundesliga since some years."
     }

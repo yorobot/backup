@@ -22,6 +22,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 83
+    },
+    "2018-02-27": {
+      "stargazers_count": 83
     }
   },
   "commits": [
@@ -29,6 +32,10 @@
       "committer": {
         "date": "2016-11-12T19:49:23Z",
         "name": "GitHub"
+      },
+      "author": {
+        "date": "2016-11-12T19:49:23Z",
+        "name": "Gerald Bauer"
       },
       "message": "Update IDEAS.md"
     }

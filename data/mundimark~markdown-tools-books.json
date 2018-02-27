@@ -22,6 +22,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 1
+    },
+    "2018-02-27": {
+      "stargazers_count": 1
     }
   },
   "commits": [
@@ -29,6 +32,10 @@
       "committer": {
         "date": "2017-07-01T06:34:00Z",
         "name": "Gerald Bauer"
+      },
+      "author": {
+        "date": "2017-06-30T18:45:19Z",
+        "name": "Élisabeth Henry"
       },
       "message": "Add crowbook to tools.yml"
     }

@@ -22,18 +22,25 @@
     },
     "2018-02-08": {
       "stargazers_count": 35
+    },
+    "2018-02-27": {
+      "stargazers_count": 36
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-02-06T14:05:15Z",
+        "date": "2018-02-27T09:37:19Z",
         "name": "GitHub"
       },
-      "message": "Update 3-liga3-ii.txt"
+      "author": {
+        "date": "2018-02-27T09:37:19Z",
+        "name": "Enrique Lopez Magallon"
+      },
+      "message": "Update 1-bundesliga-ii.txt"
     }
   ],
-  "size": 1178,
-  "updated_at": "2018-01-12T11:08:51Z",
-  "pushed_at": "2018-02-06T14:05:15Z"
+  "size": 1166,
+  "updated_at": "2018-02-14T12:29:48Z",
+  "pushed_at": "2018-02-27T09:37:19Z"
 }

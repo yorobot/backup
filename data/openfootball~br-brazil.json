@@ -22,6 +22,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 30
+    },
+    "2018-02-27": {
+      "stargazers_count": 31
     }
   },
   "commits": [
@@ -30,10 +33,14 @@
         "date": "2018-01-27T17:59:19Z",
         "name": "Gerald Bauer"
       },
+      "author": {
+        "date": "2018-01-27T16:23:07Z",
+        "name": "Geovanny Avelar"
+      },
       "message": "Updating Série A 2017  data"
     }
   ],
   "size": 205,
-  "updated_at": "2017-11-29T13:08:30Z",
+  "updated_at": "2018-02-24T04:04:34Z",
   "pushed_at": "2018-01-27T17:59:21Z"
 }

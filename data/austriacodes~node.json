@@ -8,6 +8,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 3
+    },
+    "2018-02-27": {
+      "stargazers_count": 4
     }
   },
   "commits": [
@@ -16,9 +19,13 @@
         "date": "2018-01-17T18:38:56Z",
         "name": "GitHub"
       },
+      "author": {
+        "date": "2018-01-17T18:38:56Z",
+        "name": "Oliver Harald Jessner"
+      },
       "message": "Update with the few things I can add \n\nSadly I do not know any other companies or meetups but I am sure the node community is growing in the near future :)"
     }
   ],
-  "updated_at": "2018-01-18T10:43:11Z",
+  "updated_at": "2018-02-16T22:15:19Z",
   "pushed_at": "2018-01-17T18:38:57Z"
 }

@@ -22,11 +22,18 @@
     },
     "2018-02-08": {
       "stargazers_count": 114
+    },
+    "2018-02-27": {
+      "stargazers_count": 114
     }
   },
   "commits": [
     {
       "committer": {
+        "date": "2015-07-10T15:15:26Z",
+        "name": "Gerald Bauer"
+      },
+      "author": {
         "date": "2015-07-10T15:15:26Z",
         "name": "Gerald Bauer"
       },

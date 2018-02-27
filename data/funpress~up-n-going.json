@@ -22,6 +22,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 2
+    },
+    "2018-02-27": {
+      "stargazers_count": 3
     }
   },
   "commits": [
@@ -30,10 +33,14 @@
         "date": "2016-06-07T06:53:19Z",
         "name": "Gerald Bauer"
       },
+      "author": {
+        "date": "2016-06-07T06:53:19Z",
+        "name": "Gerald Bauer"
+      },
       "message": "Update contents.yml"
     }
   ],
   "size": 229,
-  "updated_at": "2016-06-09T08:01:36Z",
+  "updated_at": "2018-02-11T22:31:51Z",
   "pushed_at": "2016-06-07T06:53:19Z"
 }

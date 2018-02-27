@@ -22,6 +22,9 @@
     },
     "2018-02-08": {
       "stargazers_count": 3
+    },
+    "2018-02-27": {
+      "stargazers_count": 3
     }
   },
   "commits": [
@@ -29,6 +32,10 @@
       "committer": {
         "date": "2016-12-06T18:14:42Z",
         "name": "Gerald Bauer"
+      },
+      "author": {
+        "date": "2016-12-06T17:58:26Z",
+        "name": "Mike"
       },
       "message": "Change Dynamo Moscow key from \"dynamo\" to \"dinamo\" in 2015-16\n\nIn the rest of the repo, Dynamo Moscow has the key \"dinamo\" except for in the 2015-16 rfpl.yml file. When I build the database and include major-league-soccer, Houston Dynamo is listed as playing in the Russian Premier League in 2015-16 instead of Dynamo Moscow and I think this may be why."
     }
