@@ -31,7 +31,7 @@ austriacodes (10):
 - austriacodes.github.io
 - awesome-austria
 - blockchain-austria
-- blockchain-whitepapers
+## - blockchain-whitepapers
 - node
 - questions
 - ruby
@@ -87,7 +87,7 @@ cryptocopycats (6):
 - base32.kai.rb
 - bitcat
 - copycats
-- kitties
+### - kitties
 csvalues (4):
 - awesome-csv
 - csv-next
@@ -166,7 +166,7 @@ henrythemes (13):
 - jekyll-book-theme
 - jekyll-boom-theme
 - jekyll-boom-theme-v2
-- jekyll-bootstrap-theme
+## - jekyll-bootstrap-theme
 - jekyll-gutenberg-theme
 - jekyll-minimal-theme
 - jekyll-starter-theme
