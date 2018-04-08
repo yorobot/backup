@@ -25,22 +25,25 @@
     },
     "2018-02-27": {
       "stargazers_count": 39
+    },
+    "2018-04-08": {
+      "stargazers_count": 45
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-01-06T15:17:48Z",
+        "date": "2018-03-31T09:41:53Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2018-01-06T15:17:48Z",
-        "name": "Gerald Bauer"
+        "date": "2018-03-31T09:41:53Z",
+        "name": "Dominik Wilkowski"
       },
-      "message": "Update README.md"
+      "message": "Merge pull request #12 from dominikwilkowski/master\n\nFixed relative url bug in cuttlebelle, Added cuttlebelle to readme"
     }
   ],
-  "size": 104,
-  "updated_at": "2018-02-03T06:12:29Z",
-  "pushed_at": "2018-01-06T15:17:49Z"
+  "size": 212,
+  "updated_at": "2018-03-31T09:41:55Z",
+  "pushed_at": "2018-03-31T09:41:53Z"
 }

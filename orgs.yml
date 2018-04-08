@@ -1,5 +1,5 @@
 ---
-geraldb (82):
+geraldb (84):
 - RubyHabits
 - austriacodes
 - beerbook
@@ -7,9 +7,12 @@ geraldb (82):
 - beerkit
 - beerlabels
 - bibtxt
+- bigkorupto
+- bitsblocks
 - bitshilling
 - book-templates
 - bookdesigns
+- cryptocopycats
 - csvalues
 - datatxt
 - drjekyllthemes
@@ -40,7 +43,6 @@ geraldb (82):
 - openbeer
 - openblockchains
 - openbookie
-- opendatajson
 - openfootball
 - openmundi
 - opensport

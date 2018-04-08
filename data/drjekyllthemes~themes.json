@@ -25,22 +25,25 @@
     },
     "2018-02-27": {
       "stargazers_count": 82
+    },
+    "2018-04-08": {
+      "stargazers_count": 82
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-02-23T10:28:48Z",
-        "name": "Gerald Bauer"
+        "date": "2018-03-27T09:24:13Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2018-02-23T09:24:53Z",
-        "name": "vikapitoshka"
+        "date": "2018-03-27T09:24:13Z",
+        "name": "Gerald Bauer"
       },
-      "message": "add Future Imperfect thumbnail"
+      "message": "Update themes.yml"
     }
   ],
-  "size": 8488,
-  "updated_at": "2018-02-23T09:55:43Z",
-  "pushed_at": "2018-02-23T14:02:00Z"
+  "size": 8506,
+  "updated_at": "2018-03-27T09:24:15Z",
+  "pushed_at": "2018-03-27T09:24:14Z"
 }

@@ -25,22 +25,25 @@
     },
     "2018-02-27": {
       "stargazers_count": 275
+    },
+    "2018-04-08": {
+      "stargazers_count": 278
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-01-06T09:31:49Z",
+        "date": "2018-04-04T07:08:24Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2018-01-05T23:08:45Z",
-        "name": "Igor Kasyanchuk"
+        "date": "2018-04-04T01:27:33Z",
+        "name": "Daniel Fone"
       },
-      "message": "Update README.md"
+      "message": "Add Discard to Soft Deletion category\n\nA more recent addition to the space: https://github.com/jhawthorn/discard/"
     }
   ],
-  "size": 40,
-  "updated_at": "2018-02-24T09:21:51Z",
-  "pushed_at": "2018-01-06T09:31:50Z"
+  "size": 47,
+  "updated_at": "2018-04-04T16:16:26Z",
+  "pushed_at": "2018-04-04T07:08:26Z"
 }

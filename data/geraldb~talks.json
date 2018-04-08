@@ -25,22 +25,25 @@
     },
     "2018-02-27": {
       "stargazers_count": 164
+    },
+    "2018-04-08": {
+      "stargazers_count": 173
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-01-30T20:35:10Z",
+        "date": "2018-03-13T14:15:43Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2018-01-30T20:35:10Z",
+        "date": "2018-03-13T14:15:43Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update almost_sinatra.md"
+      "message": "Add files via upload"
     }
   ],
-  "size": 11674,
-  "updated_at": "2018-02-27T15:14:01Z",
-  "pushed_at": "2018-01-30T20:35:10Z"
+  "size": 11876,
+  "updated_at": "2018-04-08T08:10:31Z",
+  "pushed_at": "2018-03-13T14:15:44Z"
 }

@@ -1,0 +1,25 @@
+{
+  "full_name": "openfootball/football.json",
+  "created_at": "2015-09-17T16:40:37Z",
+  "updated_at": "2018-03-29T17:39:04Z",
+  "pushed_at": "2018-03-26T17:46:25Z",
+  "size": 305,
+  "history": {
+    "2018-04-08": {
+      "stargazers_count": 408
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2018-03-26T17:46:24Z",
+        "name": "GitHub"
+      },
+      "author": {
+        "date": "2018-03-26T17:46:24Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "Update README.md"
+    }
+  ]
+}

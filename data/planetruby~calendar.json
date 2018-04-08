@@ -1,7 +1,7 @@
 {
   "full_name": "planetruby/calendar",
   "created_at": "2015-04-21T13:42:15Z",
-  "size": 888,
+  "size": 934,
   "history": {
     "2018-01-28": {
       "stargazers_count": 211
@@ -11,21 +11,24 @@
     },
     "2018-02-27": {
       "stargazers_count": 218
+    },
+    "2018-04-08": {
+      "stargazers_count": 223
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-02-26T11:31:10Z",
+        "date": "2018-03-29T20:13:46Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2018-02-26T11:31:10Z",
+        "date": "2018-03-29T20:13:46Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update ruby26.yml"
+      "message": "add deccan rubyconf"
     }
   ],
-  "updated_at": "2018-02-15T20:29:22Z",
-  "pushed_at": "2018-02-26T11:31:11Z"
+  "updated_at": "2018-04-01T17:51:11Z",
+  "pushed_at": "2018-03-29T20:13:47Z"
 }

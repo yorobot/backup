@@ -25,22 +25,25 @@
     },
     "2018-02-27": {
       "stargazers_count": 425
+    },
+    "2018-04-08": {
+      "stargazers_count": 438
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-02-24T17:18:40Z",
+        "date": "2018-03-08T14:23:22Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2018-02-24T17:14:31Z",
-        "name": "Jam Risser"
+        "date": "2018-03-08T12:42:49Z",
+        "name": "Ed Heltzel"
       },
-      "message": "Credited Generator Jekyll Plugin author"
+      "message": "Fixes #20\n\nFixes #20 by fixing urls that link to 404 pages.\nAlso added new article `using-jekyll-2017`"
     }
   ],
-  "size": 78,
-  "updated_at": "2018-02-26T17:00:54Z",
-  "pushed_at": "2018-02-24T17:18:41Z"
+  "size": 79,
+  "updated_at": "2018-04-07T14:42:54Z",
+  "pushed_at": "2018-03-08T14:23:24Z"
 }

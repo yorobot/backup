@@ -1,0 +1,25 @@
+{
+  "full_name": "cryptocopycats/copycats",
+  "created_at": "2018-01-10T20:57:54Z",
+  "updated_at": "2018-03-31T09:19:28Z",
+  "pushed_at": "2018-03-27T09:12:11Z",
+  "size": 1451,
+  "history": {
+    "2018-04-08": {
+      "stargazers_count": 13
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2018-03-27T09:12:04Z",
+        "name": "Gerald Bauer"
+      },
+      "author": {
+        "date": "2018-03-27T09:12:04Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "use base32-kai"
+    }
+  ]
+}
