@@ -1,0 +1,25 @@
+{
+  "full_name": "bitsblocks/bitcoin-whitepaper",
+  "created_at": "2018-05-14T09:22:28Z",
+  "updated_at": "2018-05-15T19:47:46Z",
+  "pushed_at": "2018-05-15T19:47:45Z",
+  "size": 107,
+  "history": {
+    "2018-05-18": {
+      "stargazers_count": 1
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2018-05-15T19:47:31Z",
+        "name": "Gerald Bauer"
+      },
+      "author": {
+        "date": "2018-05-15T19:47:31Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "add meta"
+    }
+  ]
+}

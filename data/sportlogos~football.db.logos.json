@@ -28,22 +28,25 @@
     },
     "2018-04-08": {
       "stargazers_count": 2
+    },
+    "2018-05-18": {
+      "stargazers_count": 7
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2013-09-14T09:55:56Z",
+        "date": "2018-04-26T13:39:57Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2013-09-14T09:55:56Z",
-        "name": "Gerald Bauer"
+        "date": "2018-04-26T10:20:17Z",
+        "name": "Olakunle Dosunmu"
       },
-      "message": "move national teams to sport.db.logos"
+      "message": "added the nigerian premier league clubs"
     }
   ],
-  "size": 3552,
-  "updated_at": "2014-08-21T23:11:08Z",
-  "pushed_at": "2013-09-14T09:56:03Z"
+  "size": 5791,
+  "updated_at": "2018-04-26T17:40:24Z",
+  "pushed_at": "2018-04-26T13:39:58Z"
 }

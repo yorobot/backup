@@ -1,12 +1,15 @@
 {
   "full_name": "factbook/factbook.json",
   "created_at": "2014-07-12T12:43:52Z",
-  "updated_at": "2018-04-05T14:03:32Z",
+  "updated_at": "2018-05-12T16:31:40Z",
   "pushed_at": "2017-03-29T17:23:30Z",
   "size": 7355,
   "history": {
     "2018-04-08": {
       "stargazers_count": 547
+    },
+    "2018-05-18": {
+      "stargazers_count": 549
     }
   },
   "commits": [

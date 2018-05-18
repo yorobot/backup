@@ -23,6 +23,9 @@
     },
     "2018-04-08": {
       "stargazers_count": 59
+    },
+    "2018-05-18": {
+      "stargazers_count": 60
     }
   },
   "commits": [
@@ -38,6 +41,6 @@
       "message": "up schema index"
     }
   ],
-  "updated_at": "2018-02-24T04:56:33Z",
+  "updated_at": "2018-04-20T09:05:09Z",
   "pushed_at": "2017-12-01T18:52:23Z"
 }

@@ -1,7 +1,7 @@
 {
   "full_name": "openblockchains/awesome-blockchains",
   "created_at": "2017-09-13T22:33:56Z",
-  "size": 1670,
+  "size": 1843,
   "history": {
     "2017-12-10": {
       "stargazers_count": 1084
@@ -17,21 +17,24 @@
     },
     "2018-04-08": {
       "stargazers_count": 1981
+    },
+    "2018-05-18": {
+      "stargazers_count": 2186
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-04-02T18:26:42Z",
+        "date": "2018-05-05T08:43:24Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2018-04-02T18:26:42Z",
+        "date": "2018-05-05T08:43:24Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update blockchain_with_proof_of_work.go"
+      "message": "Update README.md"
     }
   ],
-  "updated_at": "2018-04-08T20:00:41Z",
-  "pushed_at": "2018-04-02T18:26:43Z"
+  "updated_at": "2018-05-17T18:35:10Z",
+  "pushed_at": "2018-05-05T08:43:24Z"
 }

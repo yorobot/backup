@@ -28,22 +28,25 @@
     },
     "2018-04-08": {
       "stargazers_count": 40
+    },
+    "2018-05-18": {
+      "stargazers_count": 41
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-04-08T07:24:21Z",
+        "date": "2018-05-14T08:48:21Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2018-04-08T07:24:21Z",
+        "date": "2018-05-14T08:48:21Z",
         "name": "bjoern3"
       },
       "message": "Update liga-ii.txt"
     }
   ],
-  "size": 430,
-  "updated_at": "2018-04-08T07:24:22Z",
-  "pushed_at": "2018-04-08T07:24:21Z"
+  "size": 544,
+  "updated_at": "2018-05-14T08:48:23Z",
+  "pushed_at": "2018-05-14T08:48:22Z"
 }

@@ -28,22 +28,25 @@
     },
     "2018-04-08": {
       "stargazers_count": 82
+    },
+    "2018-05-18": {
+      "stargazers_count": 85
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-03-27T09:24:13Z",
-        "name": "GitHub"
-      },
-      "author": {
-        "date": "2018-03-27T09:24:13Z",
+        "date": "2018-04-30T08:04:38Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update themes.yml"
+      "author": {
+        "date": "2018-04-30T07:59:03Z",
+        "name": "fastbyte"
+      },
+      "message": "Added Read Theme\n\nAdded Read theme info and thumbnail"
     }
   ],
-  "size": 8506,
-  "updated_at": "2018-03-27T09:24:15Z",
-  "pushed_at": "2018-03-27T09:24:14Z"
+  "size": 8522,
+  "updated_at": "2018-05-12T19:35:28Z",
+  "pushed_at": "2018-04-30T08:04:40Z"
 }

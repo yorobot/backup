@@ -28,22 +28,25 @@
     },
     "2018-04-08": {
       "stargazers_count": 2
+    },
+    "2018-05-18": {
+      "stargazers_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-08-15T18:30:22Z",
-        "name": "Gerald Bauer"
+        "date": "2018-05-14T15:51:50Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2016-08-15T18:30:22Z",
+        "date": "2018-05-14T15:51:50Z",
         "name": "Gerald Bauer"
       },
-      "message": "up"
+      "message": "Update _config.yml"
     }
   ],
-  "size": 22,
-  "updated_at": "2016-08-15T18:30:22Z",
-  "pushed_at": "2016-08-15T18:30:21Z"
+  "size": 24,
+  "updated_at": "2018-05-14T15:51:52Z",
+  "pushed_at": "2018-05-14T15:51:51Z"
 }

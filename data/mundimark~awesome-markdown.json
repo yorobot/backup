@@ -28,22 +28,25 @@
     },
     "2018-04-08": {
       "stargazers_count": 194
+    },
+    "2018-05-18": {
+      "stargazers_count": 198
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-07-26T07:11:07Z",
+        "date": "2018-04-30T14:31:58Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2017-07-26T01:50:55Z",
-        "name": "Matt Cone"
+        "date": "2018-04-30T11:02:31Z",
+        "name": "Albino Tonnina"
       },
-      "message": "Add link to Markdown Guide, a free docs site"
+      "message": "proposal, add mmarkdown\n\nhttps://github.com/albinotonnina/mmarkdown"
     }
   ],
   "size": 50,
-  "updated_at": "2018-04-07T20:16:22Z",
-  "pushed_at": "2017-07-26T07:11:08Z"
+  "updated_at": "2018-05-13T12:04:09Z",
+  "pushed_at": "2018-04-30T14:32:00Z"
 }

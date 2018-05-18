@@ -28,22 +28,25 @@
     },
     "2018-04-08": {
       "stargazers_count": 173
+    },
+    "2018-05-18": {
+      "stargazers_count": 178
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-03-13T14:15:43Z",
+        "date": "2018-04-11T14:25:06Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2018-03-13T14:15:43Z",
+        "date": "2018-04-11T14:25:06Z",
         "name": "Gerald Bauer"
       },
-      "message": "Add files via upload"
+      "message": "fix typo"
     }
   ],
-  "size": 11876,
-  "updated_at": "2018-04-08T08:10:31Z",
-  "pushed_at": "2018-03-13T14:15:44Z"
+  "size": 12583,
+  "updated_at": "2018-05-07T13:26:23Z",
+  "pushed_at": "2018-04-11T14:25:07Z"
 }

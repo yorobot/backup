@@ -28,22 +28,25 @@
     },
     "2018-04-08": {
       "stargazers_count": 43
+    },
+    "2018-05-18": {
+      "stargazers_count": 53
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-01-22T15:22:31Z",
+        "date": "2018-05-02T14:45:57Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2018-01-22T14:59:53Z",
-        "name": "Emanuil Rusev"
+        "date": "2018-05-02T14:25:54Z",
+        "name": "rnickson"
       },
-      "message": "Update README.md"
+      "message": "added info about abricotine and marktext"
     }
   ],
   "size": 7,
-  "updated_at": "2018-03-26T20:52:13Z",
-  "pushed_at": "2018-01-22T15:22:32Z"
+  "updated_at": "2018-05-15T20:22:47Z",
+  "pushed_at": "2018-05-02T14:45:58Z"
 }

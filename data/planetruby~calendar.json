@@ -1,7 +1,7 @@
 {
   "full_name": "planetruby/calendar",
   "created_at": "2015-04-21T13:42:15Z",
-  "size": 934,
+  "size": 948,
   "history": {
     "2018-01-28": {
       "stargazers_count": 211
@@ -14,21 +14,24 @@
     },
     "2018-04-08": {
       "stargazers_count": 223
+    },
+    "2018-05-18": {
+      "stargazers_count": 225
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-03-29T20:13:46Z",
+        "date": "2018-05-02T15:11:36Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2018-03-29T20:13:46Z",
+        "date": "2018-05-02T15:11:36Z",
         "name": "Gerald Bauer"
       },
-      "message": "add deccan rubyconf"
+      "message": "Update README.md"
     }
   ],
-  "updated_at": "2018-04-01T17:51:11Z",
-  "pushed_at": "2018-03-29T20:13:47Z"
+  "updated_at": "2018-05-16T16:15:06Z",
+  "pushed_at": "2018-05-02T15:11:36Z"
 }

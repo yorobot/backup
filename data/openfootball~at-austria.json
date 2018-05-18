@@ -28,22 +28,25 @@
     },
     "2018-04-08": {
       "stargazers_count": 10
+    },
+    "2018-05-18": {
+      "stargazers_count": 10
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-04-08T06:45:21Z",
+        "date": "2018-05-16T11:34:27Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2018-04-08T06:45:21Z",
+        "date": "2018-05-16T11:34:27Z",
         "name": "bjoern3"
       },
       "message": "Update 1-bundesliga-ii.txt"
     }
   ],
-  "size": 517,
-  "updated_at": "2018-04-08T06:45:23Z",
-  "pushed_at": "2018-04-08T06:45:22Z"
+  "size": 580,
+  "updated_at": "2018-05-16T11:34:29Z",
+  "pushed_at": "2018-05-16T11:34:28Z"
 }
