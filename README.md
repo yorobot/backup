@@ -65,20 +65,20 @@ vienna-rb (5):
 And exclude (comment out) these by-hand:
 
 ```
-geraldb (16):
-- viennarb
-- viennarb.v01
-- viennarb.v11
 henrythemes (13):
 - jekyll-bootstrap-theme     ## download to big - all of bootstrap ???
+cryptocopycats (6):
+- kitties                    ## download to big
 ```
+
+
 
 ##### Update Summary
 
 To update the summary (SUMMARY.md) use the repos script e.g.
 
 ```
-$ ruby ./repos.rb
+$ ruby ./summary.rb
 ```
 
 
