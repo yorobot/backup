@@ -31,22 +31,25 @@
     },
     "2018-05-18": {
       "stargazers_count": 53
+    },
+    "2018-09-20": {
+      "stargazers_count": 67
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-05-02T14:45:57Z",
+        "date": "2018-09-19T06:30:43Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2018-05-02T14:25:54Z",
-        "name": "rnickson"
+        "date": "2018-08-30T14:21:20Z",
+        "name": "Nathan LeSage"
       },
-      "message": "added info about abricotine and marktext"
+      "message": "Update README.md\n\nAdd Zettlr"
     }
   ],
-  "size": 7,
-  "updated_at": "2018-05-15T20:22:47Z",
-  "pushed_at": "2018-05-02T14:45:58Z"
+  "size": 18,
+  "updated_at": "2018-09-19T06:30:46Z",
+  "pushed_at": "2018-09-19T06:30:44Z"
 }

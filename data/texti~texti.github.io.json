@@ -1,7 +1,7 @@
 {
   "full_name": "texti/texti.github.io",
   "created_at": "2017-07-14T10:17:38Z",
-  "size": 59,
+  "size": 36,
   "history": {
     "2017-07-28": {
       "stargazers_count": 5
@@ -23,21 +23,24 @@
     },
     "2018-05-18": {
       "stargazers_count": 5
+    },
+    "2018-09-20": {
+      "stargazers_count": 7
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-07-20T20:31:45Z",
+        "date": "2018-08-04T17:53:19Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2017-07-20T20:31:45Z",
+        "date": "2018-08-04T17:53:19Z",
         "name": "Gerald Bauer"
       },
       "message": "Update README.md"
     }
   ],
-  "updated_at": "2017-07-25T07:39:08Z",
-  "pushed_at": "2017-07-20T20:31:46Z"
+  "updated_at": "2018-09-12T15:37:05Z",
+  "pushed_at": "2018-08-04T17:53:20Z"
 }

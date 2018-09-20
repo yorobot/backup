@@ -26,6 +26,9 @@
     },
     "2018-05-18": {
       "stargazers_count": 63
+    },
+    "2018-09-20": {
+      "stargazers_count": 65
     }
   },
   "commits": [
@@ -41,6 +44,6 @@
       "message": "add service"
     }
   ],
-  "updated_at": "2018-02-03T05:25:27Z",
+  "updated_at": "2018-07-18T09:16:13Z",
   "pushed_at": "2017-08-31T16:03:46Z"
 }

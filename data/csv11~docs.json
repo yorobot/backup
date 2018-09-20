@@ -1,0 +1,25 @@
+{
+  "full_name": "csv11/docs",
+  "created_at": "2018-08-22T15:42:47Z",
+  "updated_at": "2018-09-19T12:30:58Z",
+  "pushed_at": "2018-08-23T08:06:04Z",
+  "size": 56,
+  "history": {
+    "2018-09-20": {
+      "stargazers_count": 15
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2018-08-23T08:06:03Z",
+        "name": "GitHub"
+      },
+      "author": {
+        "date": "2018-08-23T08:06:03Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "Update why-the-csv-stdlib-is-broken.md"
+    }
+  ]
+}

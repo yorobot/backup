@@ -31,22 +31,25 @@
     },
     "2018-05-18": {
       "stargazers_count": 85
+    },
+    "2018-09-20": {
+      "stargazers_count": 89
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-04-30T08:04:38Z",
+        "date": "2018-09-19T06:40:56Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2018-04-30T07:59:03Z",
-        "name": "fastbyte"
+        "date": "2018-09-04T14:14:45Z",
+        "name": "aidewoode"
       },
-      "message": "Added Read Theme\n\nAdded Read theme info and thumbnail"
+      "message": "Add jekyll-theme-mint"
     }
   ],
-  "size": 8522,
-  "updated_at": "2018-05-12T19:35:28Z",
-  "pushed_at": "2018-04-30T08:04:40Z"
+  "size": 8607,
+  "updated_at": "2018-09-19T06:40:59Z",
+  "pushed_at": "2018-09-19T06:40:57Z"
 }

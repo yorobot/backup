@@ -1,6 +1,6 @@
 {
   "full_name": "sportdb/footty",
-  "created_at": "2015-09-15T21:09:11Z",
+  "created_at": "2014-06-29T08:32:43Z",
   "history": {
     "2017-02-11": {
       "stargazers_count": 1
@@ -31,22 +31,25 @@
     },
     "2018-05-18": {
       "stargazers_count": 1
+    },
+    "2018-09-20": {
+      "stargazers_count": 14
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2015-09-15T21:23:57Z",
-        "name": "Gerald Bauer"
+        "date": "2018-07-23T11:10:34Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2015-09-15T21:23:57Z",
+        "date": "2018-07-23T11:10:34Z",
         "name": "Gerald Bauer"
       },
-      "message": "everything is new"
+      "message": "Update README.md"
     }
   ],
-  "size": 144,
-  "updated_at": "2015-09-15T21:24:06Z",
-  "pushed_at": "2015-09-15T21:24:06Z"
+  "size": 27,
+  "updated_at": "2018-07-23T11:10:36Z",
+  "pushed_at": "2018-07-23T11:10:34Z"
 }

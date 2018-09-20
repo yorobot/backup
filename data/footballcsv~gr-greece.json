@@ -31,22 +31,25 @@
     },
     "2018-05-18": {
       "stargazers_count": 3
+    },
+    "2018-09-20": {
+      "stargazers_count": 3
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2014-07-30T12:47:31Z",
+        "date": "2018-07-09T19:47:23Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2014-07-30T12:47:31Z",
+        "date": "2018-07-09T19:47:23Z",
         "name": "Gerald Bauer"
       },
-      "message": "fix; add missing teams"
+      "message": "up"
     }
   ],
-  "size": 200,
-  "updated_at": "2016-10-14T00:51:11Z",
-  "pushed_at": "2014-07-30T12:47:42Z"
+  "size": 215,
+  "updated_at": "2018-07-09T19:47:36Z",
+  "pushed_at": "2018-07-09T19:47:33Z"
 }

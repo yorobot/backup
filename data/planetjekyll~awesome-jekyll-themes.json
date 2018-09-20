@@ -31,22 +31,25 @@
     },
     "2018-05-18": {
       "stargazers_count": 211
+    },
+    "2018-09-20": {
+      "stargazers_count": 231
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-02-01T13:44:54Z",
-        "name": "Gerald Bauer"
+        "date": "2018-07-14T13:40:33Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2018-02-01T10:07:54Z",
-        "name": "Grachev Mikhail"
+        "date": "2018-07-14T13:40:33Z",
+        "name": "Ed Heltzel"
       },
-      "message": "Add pixyll theme"
+      "message": "Merge pull request #18 from qwtel/master\n\nAdd Hydejack theme"
     }
   ],
-  "size": 16,
-  "updated_at": "2018-05-10T15:16:51Z",
-  "pushed_at": "2018-02-01T13:44:55Z"
+  "size": 17,
+  "updated_at": "2018-09-20T00:47:21Z",
+  "pushed_at": "2018-07-14T13:40:34Z"
 }

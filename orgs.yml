@@ -1,5 +1,5 @@
 ---
-geraldb (84):
+geraldb (85):
 - RubyHabits
 - austriacodes
 - beerbook
@@ -12,8 +12,10 @@ geraldb (84):
 - bitshilling
 - book-templates
 - bookdesigns
+- cococoop
+- commonsjs
 - cryptocopycats
-- csvalues
+- csv11
 - datatxt
 - drjekyllthemes
 - factbook
@@ -32,7 +34,6 @@ geraldb (84):
 - jekyll-octopod
 - journaltxt
 - json-next
-- libsjs
 - manuscripts
 - markupmadness
 - mokkalibs
@@ -60,7 +61,7 @@ geraldb (84):
 - publicdomainworks
 - quikstart
 - rsssf
-- rubylibs
+- rubycoco
 - rubyref
 - rugl-at
 - schemadoc

@@ -31,22 +31,25 @@
     },
     "2018-05-18": {
       "stargazers_count": 35
+    },
+    "2018-09-20": {
+      "stargazers_count": 41
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-11-25T23:02:34Z",
-        "name": "GitHub"
-      },
-      "author": {
-        "date": "2017-11-25T23:02:34Z",
+        "date": "2018-06-05T05:41:18Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update README.md"
+      "author": {
+        "date": "2018-05-28T16:49:52Z",
+        "name": "Simon Willison"
+      },
+      "message": "Add csvs-to-sqlite"
     }
   ],
   "size": 24,
-  "updated_at": "2018-03-08T22:57:26Z",
-  "pushed_at": "2017-11-25T23:02:35Z"
+  "updated_at": "2018-08-27T19:11:08Z",
+  "pushed_at": "2018-06-05T05:41:19Z"
 }

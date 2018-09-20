@@ -1,25 +1,28 @@
 {
   "full_name": "openblockchains/blockchain-whitepapers",
   "created_at": "2018-04-19T07:43:42Z",
-  "updated_at": "2018-05-17T00:25:31Z",
-  "pushed_at": "2018-05-08T19:53:24Z",
-  "size": 6490,
+  "updated_at": "2018-05-21T15:17:42Z",
+  "pushed_at": "2018-05-21T15:17:41Z",
+  "size": 6739,
   "history": {
     "2018-05-18": {
+      "stargazers_count": 2
+    },
+    "2018-09-20": {
       "stargazers_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-05-08T19:53:23Z",
+        "date": "2018-05-21T15:17:40Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2018-05-08T19:53:23Z",
+        "date": "2018-05-21T15:17:40Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update README.md"
+      "message": "Delete dummy.txt"
     }
   ]
 }

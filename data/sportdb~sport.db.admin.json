@@ -31,22 +31,25 @@
     },
     "2018-05-18": {
       "stargazers_count": 15
+    },
+    "2018-09-20": {
+      "stargazers_count": 15
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-10-12T08:42:20Z",
+        "date": "2018-06-28T16:06:24Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2016-10-12T08:42:20Z",
+        "date": "2018-06-28T16:06:24Z",
         "name": "Gerald Bauer"
       },
-      "message": "up find assets"
+      "message": "cleanup initializers"
     }
   ],
-  "size": 1703,
-  "updated_at": "2017-08-14T07:54:42Z",
-  "pushed_at": "2016-10-12T08:42:24Z"
+  "size": 1719,
+  "updated_at": "2018-06-28T16:06:43Z",
+  "pushed_at": "2018-06-28T16:06:42Z"
 }

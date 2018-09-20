@@ -31,22 +31,25 @@
     },
     "2018-05-18": {
       "stargazers_count": 6
+    },
+    "2018-09-20": {
+      "stargazers_count": 8
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-02-18T18:46:59Z",
-        "name": "Gerald Bauer"
+        "date": "2018-07-23T06:37:25Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2018-02-18T16:07:08Z",
-        "name": "Benoist Laforge"
+        "date": "2018-07-23T06:37:25Z",
+        "name": "Gerald Bauer"
       },
-      "message": "Corrected error in file"
+      "message": "Update README.md"
     }
   ],
-  "size": 148,
-  "updated_at": "2018-03-12T14:38:07Z",
-  "pushed_at": "2018-02-18T18:47:01Z"
+  "size": 1077,
+  "updated_at": "2018-07-29T18:44:03Z",
+  "pushed_at": "2018-07-23T06:37:26Z"
 }

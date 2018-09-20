@@ -31,22 +31,25 @@
     },
     "2018-05-18": {
       "stargazers_count": 3
+    },
+    "2018-09-20": {
+      "stargazers_count": 3
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2014-05-06T14:17:39Z",
+        "date": "2018-06-17T19:28:13Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2014-05-06T14:17:39Z",
+        "date": "2018-06-17T19:28:13Z",
         "name": "Gerald Bauer"
       },
-      "message": "everything is new"
+      "message": "add github ribbon"
     }
   ],
-  "size": 168,
-  "updated_at": "2014-10-04T21:37:26Z",
-  "pushed_at": "2014-05-06T14:27:16Z"
+  "size": 33,
+  "updated_at": "2018-06-17T19:28:30Z",
+  "pushed_at": "2018-06-17T19:28:28Z"
 }

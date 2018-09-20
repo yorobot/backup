@@ -23,6 +23,9 @@
     },
     "2018-05-18": {
       "stargazers_count": 1
+    },
+    "2018-09-20": {
+      "stargazers_count": 3
     }
   },
   "commits": [
@@ -38,6 +41,6 @@
       "message": "add liquid"
     }
   ],
-  "updated_at": "2017-07-15T09:01:18Z",
+  "updated_at": "2018-08-06T19:25:49Z",
   "pushed_at": "2017-07-19T20:05:07Z"
 }

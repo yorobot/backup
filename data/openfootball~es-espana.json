@@ -31,22 +31,25 @@
     },
     "2018-05-18": {
       "stargazers_count": 41
+    },
+    "2018-09-20": {
+      "stargazers_count": 43
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-05-14T08:48:21Z",
+        "date": "2018-09-20T06:34:02Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2018-05-14T08:48:21Z",
-        "name": "bjoern3"
+        "date": "2018-09-20T06:34:02Z",
+        "name": "Gerald Bauer"
       },
-      "message": "Update liga-ii.txt"
+      "message": "Create LICENSE.md"
     }
   ],
-  "size": 544,
-  "updated_at": "2018-05-14T08:48:23Z",
-  "pushed_at": "2018-05-14T08:48:22Z"
+  "size": 503,
+  "updated_at": "2018-09-20T06:34:04Z",
+  "pushed_at": "2018-09-20T06:34:02Z"
 }

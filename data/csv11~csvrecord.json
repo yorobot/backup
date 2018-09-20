@@ -1,0 +1,25 @@
+{
+  "full_name": "csv11/csvrecord",
+  "created_at": "2018-08-11T19:21:41Z",
+  "updated_at": "2018-08-20T08:21:25Z",
+  "pushed_at": "2018-08-20T08:21:24Z",
+  "size": 47,
+  "history": {
+    "2018-09-20": {
+      "stargazers_count": 8
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2018-08-20T08:21:16Z",
+        "name": "Gerald Bauer"
+      },
+      "author": {
+        "date": "2018-08-20T08:21:16Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "up reader"
+    }
+  ]
+}

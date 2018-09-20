@@ -31,22 +31,25 @@
     },
     "2018-05-18": {
       "stargazers_count": 36
+    },
+    "2018-09-20": {
+      "stargazers_count": 45
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-01-27T17:59:19Z",
-        "name": "Gerald Bauer"
+        "date": "2018-09-20T06:32:42Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2018-01-27T16:23:07Z",
-        "name": "Geovanny Avelar"
+        "date": "2018-09-20T06:32:42Z",
+        "name": "Gerald Bauer"
       },
-      "message": "Updating Série A 2017  data"
+      "message": "Create LICENSE.md"
     }
   ],
-  "size": 205,
-  "updated_at": "2018-05-06T03:24:21Z",
-  "pushed_at": "2018-01-27T17:59:21Z"
+  "size": 208,
+  "updated_at": "2018-09-20T06:32:44Z",
+  "pushed_at": "2018-09-20T06:32:43Z"
 }

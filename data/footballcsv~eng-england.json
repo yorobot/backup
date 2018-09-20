@@ -31,22 +31,25 @@
     },
     "2018-05-18": {
       "stargazers_count": 62
+    },
+    "2018-09-20": {
+      "stargazers_count": 66
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2014-08-03T21:10:59Z",
+        "date": "2018-07-28T18:17:18Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2014-08-03T21:10:59Z",
+        "date": "2018-07-28T18:17:18Z",
         "name": "Gerald Bauer"
       },
-      "message": "add teams"
+      "message": "up"
     }
   ],
-  "size": 2921,
-  "updated_at": "2018-04-10T13:26:23Z",
-  "pushed_at": "2014-08-03T21:11:06Z"
+  "size": 8048,
+  "updated_at": "2018-09-19T22:24:11Z",
+  "pushed_at": "2018-07-28T18:17:38Z"
 }

@@ -31,22 +31,25 @@
     },
     "2018-05-18": {
       "stargazers_count": 3
+    },
+    "2018-09-20": {
+      "stargazers_count": 3
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-05-04T18:12:13Z",
+        "date": "2018-07-13T14:28:07Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2018-05-04T16:15:35Z",
-        "name": "Jholloway"
+        "date": "2018-07-13T03:30:46Z",
+        "name": "Gogul Ilango"
       },
-      "message": "GuitarLessons.org jekyll site listing"
+      "message": "updated gogul09 thumbnail"
     }
   ],
-  "size": 2159,
-  "updated_at": "2018-05-04T18:12:15Z",
-  "pushed_at": "2018-05-04T18:12:14Z"
+  "size": 2269,
+  "updated_at": "2018-07-13T14:28:10Z",
+  "pushed_at": "2018-07-13T15:10:02Z"
 }

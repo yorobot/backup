@@ -31,22 +31,25 @@
     },
     "2018-05-18": {
       "stargazers_count": 1
+    },
+    "2018-09-20": {
+      "stargazers_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2014-07-26T19:47:37Z",
+        "date": "2018-07-10T16:33:25Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2014-07-26T19:47:37Z",
+        "date": "2018-07-10T16:33:25Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update README.md"
+      "message": "up"
     }
   ],
-  "size": 184,
-  "updated_at": "2016-09-14T03:07:39Z",
-  "pushed_at": "2014-07-26T19:47:37Z"
+  "size": 342,
+  "updated_at": "2018-07-10T16:33:43Z",
+  "pushed_at": "2018-07-10T16:33:42Z"
 }

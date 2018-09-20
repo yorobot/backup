@@ -17,6 +17,9 @@
     },
     "2018-05-18": {
       "stargazers_count": 24
+    },
+    "2018-09-20": {
+      "stargazers_count": 29
     }
   },
   "commits": [
@@ -32,6 +35,6 @@
       "message": "add crypto.rb"
     }
   ],
-  "updated_at": "2018-04-24T06:22:11Z",
+  "updated_at": "2018-08-28T17:46:31Z",
   "pushed_at": "2018-03-15T18:57:47Z"
 }

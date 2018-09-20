@@ -1,28 +1,31 @@
 {
   "full_name": "cryptocopycats/awesome-cryptokitties",
   "created_at": "2017-12-09T19:12:04Z",
-  "updated_at": "2018-05-18T06:51:35Z",
-  "pushed_at": "2018-04-28T16:46:25Z",
-  "size": 4168,
+  "updated_at": "2018-09-14T19:47:33Z",
+  "pushed_at": "2018-06-14T18:27:34Z",
+  "size": 4193,
   "history": {
     "2018-04-08": {
       "stargazers_count": 213
     },
     "2018-05-18": {
       "stargazers_count": 271
+    },
+    "2018-09-20": {
+      "stargazers_count": 357
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-04-28T16:46:24Z",
-        "name": "GitHub"
-      },
-      "author": {
-        "date": "2018-04-28T16:46:24Z",
+        "date": "2018-06-14T18:27:32Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update CHEATSHEET.md"
+      "author": {
+        "date": "2018-06-14T18:17:05Z",
+        "name": "pylyf"
+      },
+      "message": "Update README.md \n\nFixing typos - there were 4 words saying \"CrypoKitties\"  instead of CryptoKitties."
     }
   ]
 }

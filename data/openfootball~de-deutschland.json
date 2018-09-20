@@ -31,22 +31,25 @@
     },
     "2018-05-18": {
       "stargazers_count": 40
+    },
+    "2018-09-20": {
+      "stargazers_count": 41
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-05-16T19:47:24Z",
+        "date": "2018-09-20T07:29:27Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2018-05-16T19:47:24Z",
+        "date": "2018-09-20T07:29:27Z",
         "name": "bjoern3"
       },
-      "message": "Update 3-liga3-ii.txt"
+      "message": "Update 2-bundesliga2.txt"
     }
   ],
-  "size": 1328,
-  "updated_at": "2018-05-16T19:47:26Z",
-  "pushed_at": "2018-05-16T19:47:25Z"
+  "size": 1293,
+  "updated_at": "2018-09-20T07:29:28Z",
+  "pushed_at": "2018-09-20T07:29:28Z"
 }

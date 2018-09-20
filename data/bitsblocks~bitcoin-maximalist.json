@@ -1,12 +1,15 @@
 {
   "full_name": "bitsblocks/bitcoin-maximalist",
   "created_at": "2018-05-12T14:06:59Z",
-  "updated_at": "2018-05-17T10:15:25Z",
+  "updated_at": "2018-05-29T08:57:13Z",
   "pushed_at": "2018-05-13T18:44:47Z",
   "size": 1128,
   "history": {
     "2018-05-18": {
       "stargazers_count": 2
+    },
+    "2018-09-20": {
+      "stargazers_count": 3
     }
   },
   "commits": [

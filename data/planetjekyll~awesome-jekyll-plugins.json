@@ -31,22 +31,25 @@
     },
     "2018-05-18": {
       "stargazers_count": 295
+    },
+    "2018-09-20": {
+      "stargazers_count": 358
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-02-20T14:15:58Z",
-        "name": "Gerald Bauer"
+        "date": "2018-07-03T11:27:53Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2018-02-19T23:39:03Z",
-        "name": "Allison Zadrozny"
+        "date": "2018-07-03T11:27:53Z",
+        "name": "Ed Heltzel"
       },
-      "message": "Add searchyll gem for search options."
+      "message": "Merge pull request #21 from nhoizey/patch-1\n\nUpdating stars number for jekyll-cloudinary"
     }
   ],
-  "size": 110,
-  "updated_at": "2018-05-16T18:21:50Z",
-  "pushed_at": "2018-02-20T14:15:59Z"
+  "size": 102,
+  "updated_at": "2018-09-20T01:57:20Z",
+  "pushed_at": "2018-07-03T11:27:53Z"
 }

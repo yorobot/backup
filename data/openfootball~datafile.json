@@ -31,22 +31,25 @@
     },
     "2018-05-18": {
       "stargazers_count": 38
+    },
+    "2018-09-20": {
+      "stargazers_count": 52
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-12-05T19:30:52Z",
-        "name": "Gerald Bauer"
+        "date": "2018-06-18T13:41:22Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2017-12-05T19:30:52Z",
+        "date": "2018-06-18T13:41:22Z",
         "name": "Gerald Bauer"
       },
-      "message": "up 2017-18 seasons"
+      "message": "Update worldcup.rb"
     }
   ],
   "size": 20,
-  "updated_at": "2018-05-10T13:38:20Z",
-  "pushed_at": "2017-12-05T19:31:00Z"
+  "updated_at": "2018-09-04T08:38:00Z",
+  "pushed_at": "2018-06-18T13:41:23Z"
 }
