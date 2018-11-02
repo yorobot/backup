@@ -34,22 +34,25 @@
     },
     "2018-09-20": {
       "stargazers_count": 12
+    },
+    "2018-11-02": {
+      "stargazers_count": 12
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2015-09-21T14:29:41Z",
+        "date": "2018-10-20T17:30:52Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2015-09-21T14:29:41Z",
-        "name": "Gerald Bauer"
+        "date": "2018-10-20T17:30:52Z",
+        "name": "Viresh Gupta"
       },
-      "message": "up wwwmake"
+      "message": "tool.rb: Add original_link (#2)\n\nAlso allow title to contain quotes instead of failing"
     }
   ],
-  "size": 142,
-  "updated_at": "2018-08-30T00:28:42Z",
-  "pushed_at": "2015-09-21T14:29:41Z"
+  "size": 6,
+  "updated_at": "2018-10-20T17:30:54Z",
+  "pushed_at": "2018-10-20T17:30:53Z"
 }

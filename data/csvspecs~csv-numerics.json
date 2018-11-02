@@ -1,0 +1,25 @@
+{
+  "full_name": "csvspecs/csv-numerics",
+  "created_at": "2018-10-18T12:07:28Z",
+  "updated_at": "2018-10-23T08:48:24Z",
+  "pushed_at": "2018-10-23T08:48:22Z",
+  "size": 22,
+  "history": {
+    "2018-11-02": {
+      "stargazers_count": 1
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2018-10-23T08:48:22Z",
+        "name": "GitHub"
+      },
+      "author": {
+        "date": "2018-10-23T08:48:22Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "Update README.md"
+    }
+  ]
+}

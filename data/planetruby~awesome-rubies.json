@@ -34,22 +34,25 @@
     },
     "2018-09-20": {
       "stargazers_count": 228
+    },
+    "2018-11-02": {
+      "stargazers_count": 230
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-02-22T15:39:10Z",
-        "name": "GitHub"
+        "date": "2018-10-05T01:05:53Z",
+        "name": "Benoit Daloze"
       },
       "author": {
-        "date": "2018-02-22T15:39:10Z",
-        "name": "Gerald Bauer"
+        "date": "2018-10-04T22:08:10Z",
+        "name": "lispy-dobby"
       },
-      "message": "Update README.md"
+      "message": "change link for opalrb.org to opalrb.com\n\n[opalrb.org](https://opalrb.org) is a link that talks about online casinos and the actual link for opal(ruby in the browser project) is in the [opalrb.com] (https://opalrb.com) site"
     }
   ],
   "size": 49,
-  "updated_at": "2018-09-19T15:46:11Z",
-  "pushed_at": "2018-02-22T15:39:11Z"
+  "updated_at": "2018-10-30T14:08:12Z",
+  "pushed_at": "2018-10-05T01:05:54Z"
 }

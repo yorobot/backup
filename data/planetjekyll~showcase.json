@@ -34,22 +34,25 @@
     },
     "2018-09-20": {
       "stargazers_count": 3
+    },
+    "2018-11-02": {
+      "stargazers_count": 3
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-07-13T14:28:07Z",
+        "date": "2018-10-19T15:38:37Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2018-07-13T03:30:46Z",
-        "name": "Gogul Ilango"
+        "date": "2018-10-18T19:55:59Z",
+        "name": "Henrik Lau Eriksson"
       },
-      "message": "updated gogul09 thumbnail"
+      "message": ":memo:"
     }
   ],
-  "size": 2269,
-  "updated_at": "2018-07-13T14:28:10Z",
-  "pushed_at": "2018-07-13T15:10:02Z"
+  "size": 2290,
+  "updated_at": "2018-10-19T15:38:40Z",
+  "pushed_at": "2018-10-19T15:38:39Z"
 }

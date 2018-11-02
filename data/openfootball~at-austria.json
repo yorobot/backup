@@ -34,22 +34,25 @@
     },
     "2018-09-20": {
       "stargazers_count": 10
+    },
+    "2018-11-02": {
+      "stargazers_count": 10
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-09-20T06:34:40Z",
+        "date": "2018-10-30T17:12:16Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2018-09-20T06:34:40Z",
-        "name": "Gerald Bauer"
+        "date": "2018-10-30T17:12:16Z",
+        "name": "bjoern3"
       },
-      "message": "Create LICENSE.md"
+      "message": "Update 1-bundesliga.txt"
     }
   ],
-  "size": 618,
-  "updated_at": "2018-09-20T06:34:42Z",
-  "pushed_at": "2018-09-20T06:34:40Z"
+  "size": 600,
+  "updated_at": "2018-10-30T17:12:18Z",
+  "pushed_at": "2018-10-30T17:12:17Z"
 }

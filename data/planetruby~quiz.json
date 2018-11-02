@@ -1,0 +1,25 @@
+{
+  "full_name": "planetruby/quiz",
+  "created_at": "2018-10-28T15:58:20Z",
+  "updated_at": "2018-11-01T17:47:02Z",
+  "pushed_at": "2018-10-31T17:00:49Z",
+  "size": 38,
+  "history": {
+    "2018-11-02": {
+      "stargazers_count": 15
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2018-10-31T17:00:48Z",
+        "name": "GitHub"
+      },
+      "author": {
+        "date": "2018-10-31T17:00:48Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "Create CODE_OF_CONDUCT.md"
+    }
+  ]
+}

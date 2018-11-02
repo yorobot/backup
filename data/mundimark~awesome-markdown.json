@@ -34,22 +34,25 @@
     },
     "2018-09-20": {
       "stargazers_count": 223
+    },
+    "2018-11-02": {
+      "stargazers_count": 239
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-04-30T14:31:58Z",
+        "date": "2018-10-24T20:09:32Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2018-04-30T11:02:31Z",
-        "name": "Albino Tonnina"
+        "date": "2018-10-24T20:09:32Z",
+        "name": "Nap Joseph Calub"
       },
-      "message": "proposal, add mmarkdown\n\nhttps://github.com/albinotonnina/mmarkdown"
+      "message": "Added GitPitch to the list. (#21)"
     }
   ],
   "size": 50,
-  "updated_at": "2018-09-13T18:03:35Z",
-  "pushed_at": "2018-04-30T14:32:00Z"
+  "updated_at": "2018-10-26T11:37:11Z",
+  "pushed_at": "2018-10-24T20:09:33Z"
 }

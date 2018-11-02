@@ -34,22 +34,25 @@
     },
     "2018-09-20": {
       "stargazers_count": 231
+    },
+    "2018-11-02": {
+      "stargazers_count": 247
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-07-14T13:40:33Z",
+        "date": "2018-10-21T01:02:40Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2018-07-14T13:40:33Z",
+        "date": "2018-10-21T01:02:40Z",
         "name": "Ed Heltzel"
       },
-      "message": "Merge pull request #18 from qwtel/master\n\nAdd Hydejack theme"
+      "message": "Merge pull request #19 from pro-panda/patch-1\n\nAdd 'cocoon' theme"
     }
   ],
-  "size": 17,
-  "updated_at": "2018-09-20T00:47:21Z",
-  "pushed_at": "2018-07-14T13:40:34Z"
+  "size": 21,
+  "updated_at": "2018-10-30T15:27:33Z",
+  "pushed_at": "2018-10-21T01:02:41Z"
 }

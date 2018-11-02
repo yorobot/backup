@@ -34,22 +34,25 @@
     },
     "2018-09-20": {
       "stargazers_count": 226
+    },
+    "2018-11-02": {
+      "stargazers_count": 236
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-09-18T15:21:04Z",
+        "date": "2018-10-30T17:08:02Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2018-09-18T15:21:04Z",
+        "date": "2018-10-30T17:08:02Z",
         "name": "bjoern3"
       },
       "message": "Update 1-premierleague.txt"
     }
   ],
-  "size": 795,
-  "updated_at": "2018-09-19T08:10:37Z",
-  "pushed_at": "2018-09-18T15:21:05Z"
+  "size": 824,
+  "updated_at": "2018-10-30T17:08:04Z",
+  "pushed_at": "2018-10-30T17:08:02Z"
 }

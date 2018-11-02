@@ -1,7 +1,7 @@
 {
   "full_name": "planetruby/calendar",
   "created_at": "2015-04-21T13:42:15Z",
-  "size": 948,
+  "size": 901,
   "history": {
     "2018-01-28": {
       "stargazers_count": 211
@@ -20,21 +20,24 @@
     },
     "2018-09-20": {
       "stargazers_count": 227
+    },
+    "2018-11-02": {
+      "stargazers_count": 228
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-05-02T15:11:36Z",
+        "date": "2018-10-01T18:34:17Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2018-05-02T15:11:36Z",
+        "date": "2018-10-01T18:34:17Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update README.md"
+      "message": "add london unconf"
     }
   ],
-  "updated_at": "2018-08-09T13:35:32Z",
-  "pushed_at": "2018-05-02T15:11:36Z"
+  "updated_at": "2018-10-01T18:34:19Z",
+  "pushed_at": "2018-10-01T18:34:17Z"
 }

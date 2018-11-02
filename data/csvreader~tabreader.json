@@ -1,0 +1,25 @@
+{
+  "full_name": "csvreader/tabreader",
+  "created_at": "2018-08-17T08:14:35Z",
+  "updated_at": "2018-10-27T23:41:02Z",
+  "pushed_at": "2018-10-27T23:41:00Z",
+  "size": 22,
+  "history": {
+    "2018-11-02": {
+      "stargazers_count": 3
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2018-10-27T23:41:00Z",
+        "name": "GitHub"
+      },
+      "author": {
+        "date": "2018-10-27T23:41:00Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "Update reader.rb"
+    }
+  ]
+}

@@ -23,6 +23,9 @@
     },
     "2018-09-20": {
       "stargazers_count": 1
+    },
+    "2018-11-02": {
+      "stargazers_count": 2
     }
   },
   "commits": [
@@ -38,6 +41,6 @@
       "message": "Update plugins.md"
     }
   ],
-  "updated_at": "2017-11-25T09:37:01Z",
+  "updated_at": "2018-10-13T01:40:42Z",
   "pushed_at": "2017-10-30T19:39:49Z"
 }

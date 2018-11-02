@@ -1,5 +1,5 @@
 ---
-geraldb (85):
+geraldb (87):
 - RubyHabits
 - austriacodes
 - beerbook
@@ -12,10 +12,12 @@ geraldb (85):
 - bitshilling
 - book-templates
 - bookdesigns
+- chooseaconduct
 - cococoop
 - commonsjs
 - cryptocopycats
-- csv11
+- csvreader
+- csvspecs
 - datatxt
 - drjekyllthemes
 - factbook
