@@ -26,6 +26,9 @@
     },
     "2018-11-02": {
       "stargazers_count": 99
+    },
+    "2019-02-01": {
+      "stargazers_count": 100
     }
   },
   "commits": [
@@ -41,6 +44,6 @@
       "message": "rm attic"
     }
   ],
-  "updated_at": "2018-10-25T14:36:57Z",
+  "updated_at": "2018-12-01T05:30:03Z",
   "pushed_at": "2018-01-09T12:15:18Z"
 }

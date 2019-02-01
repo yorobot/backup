@@ -37,22 +37,25 @@
     },
     "2018-11-02": {
       "stargazers_count": 9
+    },
+    "2019-02-01": {
+      "stargazers_count": 10
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-07-23T06:51:30Z",
-        "name": "GitHub"
-      },
-      "author": {
-        "date": "2018-07-23T06:51:30Z",
+        "date": "2019-01-29T15:47:17Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update README.md"
+      "author": {
+        "date": "2019-01-29T15:47:17Z",
+        "name": "Jack Tilley"
+      },
+      "message": "add match data since 1st season (#2)"
     }
   ],
-  "size": 735,
-  "updated_at": "2018-08-30T18:49:48Z",
-  "pushed_at": "2018-07-23T06:51:31Z"
+  "size": 872,
+  "updated_at": "2019-01-29T15:47:22Z",
+  "pushed_at": "2019-01-29T15:47:18Z"
 }

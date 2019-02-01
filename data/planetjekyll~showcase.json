@@ -37,22 +37,25 @@
     },
     "2018-11-02": {
       "stargazers_count": 3
+    },
+    "2019-02-01": {
+      "stargazers_count": 4
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-10-19T15:38:37Z",
+        "date": "2019-01-19T17:57:44Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2018-10-18T19:55:59Z",
-        "name": "Henrik Lau Eriksson"
+        "date": "2019-01-19T17:57:44Z",
+        "name": "Dave Mullen Jnr"
       },
-      "message": ":memo:"
+      "message": "Add davemullenjnr.co.uk to showcase (#16)\n\n* Update showcase.yml\r\n\r\n* Update showcase.yml\r\n\r\n* Update showcase.yml\r\n\r\n* Add files via upload"
     }
   ],
-  "size": 2290,
-  "updated_at": "2018-10-19T15:38:40Z",
-  "pushed_at": "2018-10-19T15:38:39Z"
+  "size": 2293,
+  "updated_at": "2019-01-19T17:57:46Z",
+  "pushed_at": "2019-01-19T17:57:45Z"
 }

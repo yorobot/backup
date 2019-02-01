@@ -37,22 +37,25 @@
     },
     "2018-11-02": {
       "stargazers_count": 41
+    },
+    "2019-02-01": {
+      "stargazers_count": 42
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-10-30T17:04:50Z",
+        "date": "2019-02-01T06:40:39Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2018-10-30T17:04:50Z",
+        "date": "2019-02-01T06:40:39Z",
         "name": "bjoern3"
       },
       "message": "Update 2-bundesliga2.txt"
     }
   ],
-  "size": 1468,
-  "updated_at": "2018-10-30T17:04:53Z",
-  "pushed_at": "2018-10-30T17:04:51Z"
+  "size": 1406,
+  "updated_at": "2019-02-01T06:40:41Z",
+  "pushed_at": "2019-02-01T06:40:39Z"
 }

@@ -23,6 +23,9 @@
     },
     "2018-11-02": {
       "stargazers_count": 12
+    },
+    "2019-02-01": {
+      "stargazers_count": 13
     }
   },
   "commits": [
@@ -38,6 +41,6 @@
       "message": "rename schilling to shilling"
     }
   ],
-  "updated_at": "2018-04-04T05:14:42Z",
+  "updated_at": "2018-12-03T14:58:37Z",
   "pushed_at": "2017-12-26T15:34:37Z"
 }

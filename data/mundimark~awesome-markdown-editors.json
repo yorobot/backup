@@ -37,6 +37,9 @@
     },
     "2018-11-02": {
       "stargazers_count": 76
+    },
+    "2019-02-01": {
+      "stargazers_count": 98
     }
   },
   "commits": [
@@ -53,6 +56,6 @@
     }
   ],
   "size": 18,
-  "updated_at": "2018-11-01T07:15:30Z",
+  "updated_at": "2019-01-30T16:43:25Z",
   "pushed_at": "2018-09-19T06:30:44Z"
 }

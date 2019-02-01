@@ -1,25 +1,28 @@
 {
   "full_name": "csvreader/csvutils",
   "created_at": "2018-08-08T14:18:35Z",
-  "updated_at": "2018-10-23T08:32:48Z",
-  "pushed_at": "2018-08-09T08:28:56Z",
-  "size": 48,
+  "updated_at": "2019-01-26T02:56:41Z",
+  "pushed_at": "2018-11-25T18:57:56Z",
+  "size": 42,
   "history": {
     "2018-11-02": {
       "stargazers_count": 9
+    },
+    "2019-02-01": {
+      "stargazers_count": 12
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-08-09T08:28:55Z",
-        "name": "GitHub"
-      },
-      "author": {
-        "date": "2018-08-09T08:28:55Z",
+        "date": "2018-11-25T18:57:47Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update README.md"
+      "author": {
+        "date": "2018-11-25T18:57:47Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "up"
     }
   ]
 }

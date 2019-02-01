@@ -1,0 +1,25 @@
+{
+  "full_name": "cryptocopycats/base32-alphabets",
+  "created_at": "2018-03-25T15:35:12Z",
+  "updated_at": "2019-01-14T14:56:24Z",
+  "pushed_at": "2019-01-14T14:56:23Z",
+  "size": 56,
+  "history": {
+    "2019-02-01": {
+      "stargazers_count": 1
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2019-01-14T14:56:22Z",
+        "name": "GitHub"
+      },
+      "author": {
+        "date": "2019-01-14T14:56:22Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "Update README.md"
+    }
+  ]
+}

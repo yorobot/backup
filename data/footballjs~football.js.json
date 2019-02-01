@@ -37,6 +37,9 @@
     },
     "2018-11-02": {
       "stargazers_count": 22
+    },
+    "2019-02-01": {
+      "stargazers_count": 22
     }
   },
   "commits": [
@@ -49,7 +52,7 @@
         "date": "2014-05-06T17:37:36Z",
         "name": "Gerald Bauer"
       },
-      "message": "move polymer sample to its own repo�"
+      "message": "move polymer sample to its own repoÄ"
     }
   ],
   "size": 536,

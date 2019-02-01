@@ -1,25 +1,28 @@
 {
   "full_name": "csvreader/csvpack",
   "created_at": "2015-04-23T20:43:07Z",
-  "updated_at": "2018-10-26T01:30:33Z",
-  "pushed_at": "2018-08-09T07:48:47Z",
-  "size": 40,
+  "updated_at": "2019-01-26T17:20:14Z",
+  "pushed_at": "2019-01-26T17:20:13Z",
+  "size": 31,
   "history": {
     "2018-11-02": {
       "stargazers_count": 64
+    },
+    "2019-02-01": {
+      "stargazers_count": 66
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-08-09T07:48:39Z",
+        "date": "2019-01-26T17:20:12Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2018-08-09T07:48:39Z",
-        "name": "Gerald Bauer"
+        "date": "2019-01-26T17:20:12Z",
+        "name": "Olle Jonsson"
       },
-      "message": "up"
+      "message": "Getting Started script comment: Update URL (#1)"
     }
   ]
 }

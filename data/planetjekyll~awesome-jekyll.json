@@ -37,22 +37,25 @@
     },
     "2018-11-02": {
       "stargazers_count": 475
+    },
+    "2019-02-01": {
+      "stargazers_count": 485
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-03-08T14:23:22Z",
-        "name": "Gerald Bauer"
+        "date": "2018-12-06T13:37:52Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2018-03-08T12:42:49Z",
-        "name": "Ed Heltzel"
+        "date": "2018-12-06T13:37:52Z",
+        "name": "Gerald Bauer"
       },
-      "message": "Fixes #20\n\nFixes #20 by fixing urls that link to 404 pages.\nAlso added new article `using-jekyll-2017`"
+      "message": "Update README.md"
     }
   ],
-  "size": 79,
-  "updated_at": "2018-10-25T14:40:24Z",
-  "pushed_at": "2018-03-08T14:23:24Z"
+  "size": 80,
+  "updated_at": "2019-01-30T22:21:19Z",
+  "pushed_at": "2018-12-06T13:37:53Z"
 }

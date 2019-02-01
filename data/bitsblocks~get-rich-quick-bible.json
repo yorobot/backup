@@ -1,7 +1,7 @@
 {
   "full_name": "bitsblocks/get-rich-quick-bible",
   "created_at": "2018-04-16T14:21:16Z",
-  "updated_at": "2018-08-08T21:14:07Z",
+  "updated_at": "2019-01-25T19:27:32Z",
   "pushed_at": "2018-05-10T17:44:01Z",
   "size": 2700,
   "history": {
@@ -13,6 +13,9 @@
     },
     "2018-11-02": {
       "stargazers_count": 7
+    },
+    "2019-02-01": {
+      "stargazers_count": 6
     }
   },
   "commits": [

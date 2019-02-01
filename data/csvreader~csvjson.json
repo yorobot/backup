@@ -1,25 +1,28 @@
 {
   "full_name": "csvreader/csvjson",
   "created_at": "2018-10-14T15:38:37Z",
-  "updated_at": "2018-10-30T21:16:22Z",
-  "pushed_at": "2018-10-30T21:16:18Z",
-  "size": 14,
+  "updated_at": "2018-11-26T07:47:10Z",
+  "pushed_at": "2018-11-26T07:47:09Z",
+  "size": 18,
   "history": {
     "2018-11-02": {
+      "stargazers_count": 2
+    },
+    "2019-02-01": {
       "stargazers_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-10-30T21:16:17Z",
-        "name": "GitHub"
-      },
-      "author": {
-        "date": "2018-10-30T21:16:17Z",
+        "date": "2018-11-26T07:46:59Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update README.md"
+      "author": {
+        "date": "2018-11-26T07:46:59Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "up"
     }
   ]
 }

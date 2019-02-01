@@ -1,7 +1,7 @@
 {
   "full_name": "austriacodes/blockchain-whitepapers",
   "created_at": "2018-03-25T10:14:48Z",
-  "updated_at": "2018-06-11T16:34:07Z",
+  "updated_at": "2019-01-25T19:27:31Z",
   "pushed_at": "2018-05-21T15:56:05Z",
   "size": 23253,
   "history": {
@@ -16,6 +16,9 @@
     },
     "2018-11-02": {
       "stargazers_count": 6
+    },
+    "2019-02-01": {
+      "stargazers_count": 5
     }
   },
   "commits": [

@@ -1,25 +1,28 @@
 {
   "full_name": "csvreader/csv11",
   "created_at": "2017-07-02T18:32:09Z",
-  "updated_at": "2018-10-23T08:34:19Z",
-  "pushed_at": "2018-08-04T07:41:28Z",
-  "size": 8,
+  "updated_at": "2018-11-21T08:31:05Z",
+  "pushed_at": "2018-11-21T08:31:04Z",
+  "size": 11,
   "history": {
     "2018-11-02": {
+      "stargazers_count": 7
+    },
+    "2019-02-01": {
       "stargazers_count": 7
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-08-04T07:41:27Z",
+        "date": "2018-11-21T08:31:03Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2018-08-04T07:41:27Z",
+        "date": "2018-11-21T08:31:03Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update README.md"
+      "message": "Create LICENSE.md"
     }
   ]
 }

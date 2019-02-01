@@ -32,6 +32,9 @@
     },
     "2018-11-02": {
       "stargazers_count": 68
+    },
+    "2019-02-01": {
+      "stargazers_count": 72
     }
   },
   "commits": [
@@ -47,6 +50,6 @@
       "message": "up find scores"
     }
   ],
-  "updated_at": "2018-09-28T11:46:04Z",
+  "updated_at": "2019-01-26T12:45:59Z",
   "pushed_at": "2018-07-13T16:57:23Z"
 }

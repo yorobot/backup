@@ -37,22 +37,25 @@
     },
     "2018-11-02": {
       "stargazers_count": 7
+    },
+    "2019-02-01": {
+      "stargazers_count": 7
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-08-16T06:13:29Z",
-        "name": "Gerald Bauer"
+        "date": "2018-11-26T15:54:53Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2017-08-16T06:13:29Z",
+        "date": "2018-11-26T15:54:53Z",
         "name": "Gerald Bauer"
       },
-      "message": "up"
+      "message": "Update 2018-11__craft-bier-fest-wien__biere.csv"
     }
   ],
-  "size": 372,
-  "updated_at": "2018-04-28T19:21:01Z",
-  "pushed_at": "2017-08-16T06:13:36Z"
+  "size": 384,
+  "updated_at": "2018-11-26T15:54:55Z",
+  "pushed_at": "2018-11-26T15:54:54Z"
 }

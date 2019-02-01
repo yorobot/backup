@@ -37,22 +37,25 @@
     },
     "2018-11-02": {
       "stargazers_count": 90
+    },
+    "2019-02-01": {
+      "stargazers_count": 93
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-10-30T11:57:17Z",
+        "date": "2018-12-17T11:15:53Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2018-10-30T11:57:17Z",
-        "name": "Mighil"
+        "date": "2018-12-17T11:15:53Z",
+        "name": "Tian Qi"
       },
-      "message": "Added SparrowX (#121)\n\n* Add files via upload\r\n\r\n* Update themes.yml"
+      "message": "Add TeXt Theme (#130)"
     }
   ],
-  "size": 8691,
-  "updated_at": "2018-10-30T11:57:20Z",
-  "pushed_at": "2018-10-30T11:57:18Z"
+  "size": 8920,
+  "updated_at": "2018-12-17T11:15:56Z",
+  "pushed_at": "2018-12-17T11:15:54Z"
 }

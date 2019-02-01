@@ -26,6 +26,9 @@
     },
     "2018-11-02": {
       "stargazers_count": 9
+    },
+    "2019-02-01": {
+      "stargazers_count": 8
     }
   },
   "commits": [
@@ -41,6 +44,6 @@
       "message": "fix typo"
     }
   ],
-  "updated_at": "2018-10-04T04:52:17Z",
+  "updated_at": "2018-12-22T21:15:53Z",
   "pushed_at": "2017-09-25T06:55:25Z"
 }

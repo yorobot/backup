@@ -37,22 +37,25 @@
     },
     "2018-11-02": {
       "stargazers_count": 19
+    },
+    "2019-02-01": {
+      "stargazers_count": 20
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-11-01T08:51:14Z",
+        "date": "2019-01-29T12:04:19Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2018-11-01T08:51:14Z",
+        "date": "2019-01-29T12:04:19Z",
         "name": "bjoern3"
       },
       "message": "Update 1-seriea.txt"
     }
   ],
-  "size": 414,
-  "updated_at": "2018-11-01T08:51:16Z",
-  "pushed_at": "2018-11-01T08:51:14Z"
+  "size": 440,
+  "updated_at": "2019-01-29T12:04:21Z",
+  "pushed_at": "2019-01-29T12:04:20Z"
 }

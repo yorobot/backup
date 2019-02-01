@@ -23,6 +23,9 @@
     },
     "2018-11-02": {
       "stargazers_count": 22
+    },
+    "2019-02-01": {
+      "stargazers_count": 23
     }
   },
   "commits": [
@@ -38,6 +41,6 @@
       "message": "add ruby tuesday newsletter"
     }
   ],
-  "updated_at": "2018-01-31T19:05:02Z",
+  "updated_at": "2018-11-06T08:28:03Z",
   "pushed_at": "2018-01-17T07:32:29Z"
 }

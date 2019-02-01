@@ -1,25 +1,28 @@
 {
   "full_name": "csvreader/docs",
   "created_at": "2018-08-22T15:42:47Z",
-  "updated_at": "2018-10-30T18:31:33Z",
-  "pushed_at": "2018-10-30T18:31:30Z",
-  "size": 196,
+  "updated_at": "2019-01-11T15:24:59Z",
+  "pushed_at": "2018-11-20T15:55:23Z",
+  "size": 235,
   "history": {
     "2018-11-02": {
       "stargazers_count": 24
+    },
+    "2019-02-01": {
+      "stargazers_count": 27
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-10-30T18:31:30Z",
+        "date": "2018-11-20T15:55:22Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2018-10-30T18:31:30Z",
+        "date": "2018-11-20T15:55:22Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update README.md"
+      "message": "Update smarter-csv.md"
     }
   ]
 }

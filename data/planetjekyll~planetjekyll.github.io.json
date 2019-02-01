@@ -37,22 +37,25 @@
     },
     "2018-11-02": {
       "stargazers_count": 10
+    },
+    "2019-02-01": {
+      "stargazers_count": 10
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-01-06T11:55:32Z",
-        "name": "GitHub"
-      },
-      "author": {
-        "date": "2018-01-06T11:55:32Z",
+        "date": "2018-11-12T20:30:04Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update announce.html"
+      "author": {
+        "date": "2018-11-12T20:30:04Z",
+        "name": "Marc Anguera Insa"
+      },
+      "message": "update jekyll-timeago data (#3)"
     }
   ],
-  "size": 100,
-  "updated_at": "2017-06-16T16:50:21Z",
-  "pushed_at": "2018-01-06T11:55:33Z"
+  "size": 112,
+  "updated_at": "2018-11-12T20:30:07Z",
+  "pushed_at": "2018-11-12T20:30:05Z"
 }

@@ -37,22 +37,25 @@
     },
     "2018-11-02": {
       "stargazers_count": 379
+    },
+    "2019-02-01": {
+      "stargazers_count": 451
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-07-03T11:27:53Z",
-        "name": "GitHub"
+        "date": "2019-01-13T10:14:58Z",
+        "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2018-07-03T11:27:53Z",
-        "name": "Ed Heltzel"
+        "date": "2019-01-13T10:14:58Z",
+        "name": "Abhishek Kalia"
       },
-      "message": "Merge pull request #21 from nhoizey/patch-1\n\nUpdating stars number for jekyll-cloudinary"
+      "message": "Update README.md to add the awesome badge (#23)"
     }
   ],
-  "size": 102,
-  "updated_at": "2018-10-28T23:40:47Z",
-  "pushed_at": "2018-07-03T11:27:53Z"
+  "size": 119,
+  "updated_at": "2019-02-01T03:34:52Z",
+  "pushed_at": "2019-01-13T10:14:59Z"
 }

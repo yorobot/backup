@@ -1,7 +1,7 @@
 {
   "full_name": "cryptocopycats/bitcat",
   "created_at": "2018-03-24T09:36:15Z",
-  "updated_at": "2018-03-31T09:18:44Z",
+  "updated_at": "2019-01-23T18:52:01Z",
   "pushed_at": "2018-03-24T13:42:20Z",
   "size": 20,
   "history": {
@@ -16,6 +16,9 @@
     },
     "2018-11-02": {
       "stargazers_count": 1
+    },
+    "2019-02-01": {
+      "stargazers_count": 2
     }
   },
   "commits": [

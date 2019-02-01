@@ -1,0 +1,25 @@
+{
+  "full_name": "openblockchains/awesome-coins",
+  "created_at": "2019-01-18T21:12:07Z",
+  "updated_at": "2019-01-27T12:10:31Z",
+  "pushed_at": "2019-01-27T12:10:29Z",
+  "size": 990,
+  "history": {
+    "2019-02-01": {
+      "stargazers_count": 1
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2019-01-27T12:10:29Z",
+        "name": "GitHub"
+      },
+      "author": {
+        "date": "2019-01-27T12:10:29Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "Update README.md"
+    }
+  ]
+}
