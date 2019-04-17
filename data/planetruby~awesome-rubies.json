@@ -40,22 +40,25 @@
     },
     "2019-02-01": {
       "stargazers_count": 237
+    },
+    "2019-04-17": {
+      "stargazers_count": 252
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-11-14T19:04:45Z",
-        "name": "Gerald Bauer"
+        "date": "2019-03-11T18:17:42Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2018-11-14T19:04:45Z",
-        "name": "Alexander Oleynikov"
+        "date": "2019-03-11T18:17:42Z",
+        "name": "Gerald Bauer"
       },
-      "message": "Add uru to version managers (#8)"
+      "message": "Update README.md"
     }
   ],
-  "size": 49,
-  "updated_at": "2019-01-13T20:40:18Z",
-  "pushed_at": "2018-11-14T19:04:46Z"
+  "size": 91,
+  "updated_at": "2019-04-09T09:34:28Z",
+  "pushed_at": "2019-03-11T18:17:42Z"
 }

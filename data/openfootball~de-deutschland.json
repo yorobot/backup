@@ -40,22 +40,25 @@
     },
     "2019-02-01": {
       "stargazers_count": 42
+    },
+    "2019-04-17": {
+      "stargazers_count": 43
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-02-01T06:40:39Z",
+        "date": "2019-04-16T17:37:19Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2019-02-01T06:40:39Z",
-        "name": "bjoern3"
+        "date": "2019-04-16T17:37:19Z",
+        "name": "Enrique Lopez Magallon"
       },
-      "message": "Update 2-bundesliga2.txt"
+      "message": "Update 1-bundesliga.txt"
     }
   ],
-  "size": 1406,
-  "updated_at": "2019-02-01T06:40:41Z",
-  "pushed_at": "2019-02-01T06:40:39Z"
+  "size": 1495,
+  "updated_at": "2019-04-16T17:37:21Z",
+  "pushed_at": "2019-04-16T17:37:20Z"
 }

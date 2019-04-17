@@ -40,22 +40,25 @@
     },
     "2019-02-01": {
       "stargazers_count": 49
+    },
+    "2019-04-17": {
+      "stargazers_count": 50
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-09-20T06:32:42Z",
-        "name": "GitHub"
-      },
-      "author": {
-        "date": "2018-09-20T06:32:42Z",
+        "date": "2019-03-28T08:27:06Z",
         "name": "Gerald Bauer"
       },
-      "message": "Create LICENSE.md"
+      "author": {
+        "date": "2019-03-28T08:27:06Z",
+        "name": "Andrade Jr"
+      },
+      "message": "Fixing errors in brasileirao 2017 file. (#6)"
     }
   ],
-  "size": 208,
-  "updated_at": "2018-12-19T12:30:02Z",
-  "pushed_at": "2018-09-20T06:32:43Z"
+  "size": 209,
+  "updated_at": "2019-04-14T16:32:05Z",
+  "pushed_at": "2019-03-28T08:27:07Z"
 }

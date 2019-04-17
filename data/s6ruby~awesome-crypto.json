@@ -1,0 +1,25 @@
+{
+  "full_name": "s6ruby/awesome-crypto",
+  "created_at": "2017-12-23T10:24:19Z",
+  "updated_at": "2019-02-14T19:56:19Z",
+  "pushed_at": "2019-02-14T19:56:18Z",
+  "size": 22,
+  "history": {
+    "2019-04-17": {
+      "stargazers_count": 28
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2019-02-14T19:56:17Z",
+        "name": "GitHub"
+      },
+      "author": {
+        "date": "2019-02-14T19:56:17Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "Create LICENSE.md"
+    }
+  ]
+}

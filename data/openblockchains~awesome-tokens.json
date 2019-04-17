@@ -1,9 +1,9 @@
 {
   "full_name": "openblockchains/awesome-tokens",
   "created_at": "2018-04-26T07:35:59Z",
-  "updated_at": "2018-11-16T11:35:18Z",
-  "pushed_at": "2018-04-26T16:40:33Z",
-  "size": 44,
+  "updated_at": "2019-02-01T17:51:08Z",
+  "pushed_at": "2019-02-01T17:51:06Z",
+  "size": 30,
   "history": {
     "2018-05-18": {
       "stargazers_count": 4
@@ -16,19 +16,22 @@
     },
     "2019-02-01": {
       "stargazers_count": 7
+    },
+    "2019-04-17": {
+      "stargazers_count": 7
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-04-26T16:40:32Z",
+        "date": "2019-02-01T17:51:05Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2018-04-26T16:40:32Z",
+        "date": "2019-02-01T17:51:05Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update README.md"
+      "message": "Create DecentralandManaToken.sol"
     }
   ]
 }

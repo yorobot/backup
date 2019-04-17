@@ -40,22 +40,25 @@
     },
     "2019-02-01": {
       "stargazers_count": 269
+    },
+    "2019-04-17": {
+      "stargazers_count": 290
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-10-21T01:02:40Z",
-        "name": "GitHub"
+        "date": "2019-03-17T12:14:12Z",
+        "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2018-10-21T01:02:40Z",
-        "name": "Ed Heltzel"
+        "date": "2019-03-17T12:14:12Z",
+        "name": "Miguel Rochefort"
       },
-      "message": "Merge pull request #19 from pro-panda/patch-1\n\nAdd 'cocoon' theme"
+      "message": "Fix typos (#20)"
     }
   ],
   "size": 21,
-  "updated_at": "2019-01-29T20:55:52Z",
-  "pushed_at": "2018-10-21T01:02:41Z"
+  "updated_at": "2019-04-15T04:08:45Z",
+  "pushed_at": "2019-03-17T12:14:13Z"
 }

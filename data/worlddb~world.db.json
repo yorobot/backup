@@ -35,6 +35,9 @@
     },
     "2019-02-01": {
       "stargazers_count": 65
+    },
+    "2019-04-17": {
+      "stargazers_count": 64
     }
   },
   "commits": [
@@ -50,6 +53,6 @@
       "message": "add service"
     }
   ],
-  "updated_at": "2018-07-18T09:16:13Z",
+  "updated_at": "2019-03-06T15:07:44Z",
   "pushed_at": "2017-08-31T16:03:46Z"
 }

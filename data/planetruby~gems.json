@@ -40,22 +40,25 @@
     },
     "2019-02-01": {
       "stargazers_count": 17
+    },
+    "2019-04-17": {
+      "stargazers_count": 21
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-01-13T19:54:56Z",
-        "name": "Gerald Bauer"
+        "date": "2019-03-14T14:49:06Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2018-01-13T19:54:56Z",
+        "date": "2019-03-14T14:49:06Z",
         "name": "Gerald Bauer"
       },
-      "message": "up"
+      "message": "Create _config.yml"
     }
   ],
-  "size": 551,
-  "updated_at": "2018-02-23T12:57:24Z",
-  "pushed_at": "2018-01-13T19:55:03Z"
+  "size": 550,
+  "updated_at": "2019-04-08T11:47:06Z",
+  "pushed_at": "2019-03-14T14:49:06Z"
 }

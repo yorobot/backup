@@ -1,7 +1,7 @@
 {
   "full_name": "openblockchains/awesome-blockchains",
   "created_at": "2017-09-13T22:33:56Z",
-  "size": 1877,
+  "size": 2307,
   "history": {
     "2017-12-10": {
       "stargazers_count": 1084
@@ -29,21 +29,24 @@
     },
     "2019-02-01": {
       "stargazers_count": 2649
+    },
+    "2019-04-17": {
+      "stargazers_count": 2688
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-06-12T06:57:10Z",
-        "name": "Gerald Bauer"
+        "date": "2019-04-16T20:24:25Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2018-06-12T04:34:51Z",
-        "name": "Kumar Abhishek"
+        "date": "2019-04-16T20:24:25Z",
+        "name": "Gerald Bauer"
       },
-      "message": "Minor changes and proof of work commit"
+      "message": "Update README.md"
     }
   ],
-  "updated_at": "2019-02-01T04:12:40Z",
-  "pushed_at": "2018-06-12T06:57:11Z"
+  "updated_at": "2019-04-16T20:24:27Z",
+  "pushed_at": "2019-04-16T20:24:26Z"
 }

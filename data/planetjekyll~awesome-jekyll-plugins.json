@@ -40,22 +40,25 @@
     },
     "2019-02-01": {
       "stargazers_count": 451
+    },
+    "2019-04-17": {
+      "stargazers_count": 510
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-01-13T10:14:58Z",
-        "name": "Gerald Bauer"
+        "date": "2019-03-05T15:58:14Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2019-01-13T10:14:58Z",
-        "name": "Abhishek Kalia"
+        "date": "2019-03-05T15:58:14Z",
+        "name": "Ed Heltzel"
       },
-      "message": "Update README.md to add the awesome badge (#23)"
+      "message": "Merge pull request #24 from jamesluberda/github-pages-unscramble\n\nadded link to github-pages-unscramble plugin"
     }
   ],
-  "size": 119,
-  "updated_at": "2019-02-01T03:34:52Z",
-  "pushed_at": "2019-01-13T10:14:59Z"
+  "size": 120,
+  "updated_at": "2019-04-14T00:53:10Z",
+  "pushed_at": "2019-03-05T15:58:15Z"
 }

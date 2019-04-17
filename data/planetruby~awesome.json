@@ -40,22 +40,25 @@
     },
     "2019-02-01": {
       "stargazers_count": 12
+    },
+    "2019-04-17": {
+      "stargazers_count": 12
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2015-07-11T12:22:58Z",
-        "name": "Gerald Bauer"
+        "date": "2019-04-05T15:22:09Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2015-07-11T12:22:58Z",
+        "date": "2019-04-05T15:22:09Z",
         "name": "Gerald Bauer"
       },
-      "message": "Create SPORTS.md"
+      "message": "Update NOTES.md"
     }
   ],
-  "size": 136,
-  "updated_at": "2018-02-13T16:45:20Z",
-  "pushed_at": "2015-07-11T12:22:58Z"
+  "size": 41,
+  "updated_at": "2019-04-05T15:22:11Z",
+  "pushed_at": "2019-04-05T15:22:10Z"
 }

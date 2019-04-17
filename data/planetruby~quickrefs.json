@@ -1,0 +1,25 @@
+{
+  "full_name": "planetruby/quickrefs",
+  "created_at": "2015-02-11T17:10:25Z",
+  "updated_at": "2019-04-16T23:22:42Z",
+  "pushed_at": "2019-04-15T22:41:01Z",
+  "size": 37,
+  "history": {
+    "2019-04-17": {
+      "stargazers_count": 1
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2019-04-15T22:41:00Z",
+        "name": "GitHub"
+      },
+      "author": {
+        "date": "2019-04-15T22:41:00Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "Update activerecord.md"
+    }
+  ]
+}

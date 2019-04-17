@@ -40,22 +40,25 @@
     },
     "2019-02-01": {
       "stargazers_count": 262
+    },
+    "2019-04-17": {
+      "stargazers_count": 285
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-10-24T20:09:32Z",
+        "date": "2019-04-10T06:49:13Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2018-10-24T20:09:32Z",
-        "name": "Nap Joseph Calub"
+        "date": "2019-04-10T06:49:13Z",
+        "name": "commenthol"
       },
-      "message": "Added GitPitch to the list. (#21)"
+      "message": "Add markedpp a markdown pre-processor (#23)\n\n- Table-of-Contents added\r\n- md-fileserver to view markdown files locally in browser\r\n- marked and markdown-it javascript markdown parsers"
     }
   ],
-  "size": 50,
-  "updated_at": "2019-01-30T16:43:26Z",
-  "pushed_at": "2018-10-24T20:09:33Z"
+  "size": 52,
+  "updated_at": "2019-04-16T10:30:56Z",
+  "pushed_at": "2019-04-10T06:49:14Z"
 }

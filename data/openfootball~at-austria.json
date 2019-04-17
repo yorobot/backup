@@ -40,22 +40,25 @@
     },
     "2019-02-01": {
       "stargazers_count": 11
+    },
+    "2019-04-17": {
+      "stargazers_count": 11
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-01-07T12:54:21Z",
+        "date": "2019-03-30T18:58:30Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2019-01-07T12:54:21Z",
+        "date": "2019-03-30T18:58:30Z",
         "name": "bjoern3"
       },
-      "message": "Update 1-bundesliga.txt"
+      "message": "Update 2-liga1.txt"
     }
   ],
-  "size": 586,
-  "updated_at": "2019-01-18T16:02:06Z",
-  "pushed_at": "2019-01-07T12:54:21Z"
+  "size": 663,
+  "updated_at": "2019-03-30T18:58:32Z",
+  "pushed_at": "2019-03-30T18:58:30Z"
 }

@@ -40,22 +40,25 @@
     },
     "2019-02-01": {
       "stargazers_count": 50
+    },
+    "2019-04-17": {
+      "stargazers_count": 53
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-01-29T12:17:27Z",
+        "date": "2019-03-30T19:00:43Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2019-01-29T12:17:27Z",
+        "date": "2019-03-30T19:00:43Z",
         "name": "bjoern3"
       },
       "message": "Update 1-liga.txt"
     }
   ],
-  "size": 525,
-  "updated_at": "2019-01-29T12:17:29Z",
-  "pushed_at": "2019-01-29T12:17:27Z"
+  "size": 682,
+  "updated_at": "2019-04-13T12:22:30Z",
+  "pushed_at": "2019-03-30T19:00:43Z"
 }

@@ -40,22 +40,25 @@
     },
     "2019-02-01": {
       "stargazers_count": 45
+    },
+    "2019-04-17": {
+      "stargazers_count": 51
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-06-05T05:41:18Z",
+        "date": "2019-02-14T14:46:58Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2018-05-28T16:49:52Z",
-        "name": "Simon Willison"
+        "date": "2019-02-14T14:46:58Z",
+        "name": "cyril"
       },
-      "message": "Add csvs-to-sqlite"
+      "message": "add new SQLite browser (#4)\n\n* Update README.md\r\n\r\nadd a web-based SQLite database browser (extendsclass.com)\r\n\r\n* Update README.md\r\n\r\nAdd repository for extendsclass's SQLite browser\r\n\r\n* Update README.md\r\n\r\nChange the anchor of extendclass.com\r\n\r\n* Update README.md\r\n\r\nextendsclass's SQLite browser: Remove \"--\" in order to respect the layout"
     }
   ],
-  "size": 24,
-  "updated_at": "2019-01-19T18:16:41Z",
-  "pushed_at": "2019-01-10T21:19:13Z"
+  "size": 28,
+  "updated_at": "2019-04-15T17:20:58Z",
+  "pushed_at": "2019-02-14T14:46:59Z"
 }

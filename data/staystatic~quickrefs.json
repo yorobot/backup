@@ -26,6 +26,9 @@
     },
     "2019-02-01": {
       "stargazers_count": 2
+    },
+    "2019-04-17": {
+      "stargazers_count": 3
     }
   },
   "commits": [
@@ -41,6 +44,6 @@
       "message": "up prefix-paths"
     }
   ],
-  "updated_at": "2018-01-06T13:00:40Z",
+  "updated_at": "2019-03-08T20:33:00Z",
   "pushed_at": "2017-09-01T16:02:21Z"
 }
