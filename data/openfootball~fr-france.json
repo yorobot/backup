@@ -43,22 +43,25 @@
     },
     "2019-04-17": {
       "stargazers_count": 5
+    },
+    "2019-07-22": {
+      "stargazers_count": 5
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-09-20T06:35:58Z",
+        "date": "2019-07-03T13:21:44Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2018-09-20T06:35:58Z",
+        "date": "2019-07-03T13:21:44Z",
         "name": "Gerald Bauer"
       },
-      "message": "Create LICENSE.md"
+      "message": "Update clubs.txt"
     }
   ],
-  "size": 66,
-  "updated_at": "2018-09-20T06:36:00Z",
-  "pushed_at": "2018-09-20T06:35:58Z"
+  "size": 74,
+  "updated_at": "2019-07-03T13:21:46Z",
+  "pushed_at": "2019-07-03T13:21:45Z"
 }

@@ -43,22 +43,25 @@
     },
     "2019-04-17": {
       "stargazers_count": 510
+    },
+    "2019-07-22": {
+      "stargazers_count": 575
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-03-05T15:58:14Z",
+        "date": "2019-05-09T15:48:50Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2019-03-05T15:58:14Z",
+        "date": "2019-05-09T15:48:50Z",
         "name": "Ed Heltzel"
       },
-      "message": "Merge pull request #24 from jamesluberda/github-pages-unscramble\n\nadded link to github-pages-unscramble plugin"
+      "message": "Merge pull request #28 from souldanger/patch-4\n\nadding Gem: jekyll-target-blank"
     }
   ],
-  "size": 120,
-  "updated_at": "2019-04-14T00:53:10Z",
-  "pushed_at": "2019-03-05T15:58:15Z"
+  "size": 164,
+  "updated_at": "2019-07-21T14:56:58Z",
+  "pushed_at": "2019-05-09T15:48:51Z"
 }

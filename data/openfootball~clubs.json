@@ -43,22 +43,25 @@
     },
     "2019-04-17": {
       "stargazers_count": 33
+    },
+    "2019-07-22": {
+      "stargazers_count": 34
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-06-18T15:57:35Z",
+        "date": "2019-07-20T18:42:36Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2018-06-18T15:57:35Z",
+        "date": "2019-07-20T18:42:36Z",
         "name": "Gerald Bauer"
       },
-      "message": "up legia warsaw"
+      "message": "rm duplicates"
     }
   ],
-  "size": 455,
-  "updated_at": "2018-06-18T15:57:55Z",
-  "pushed_at": "2018-06-18T15:57:53Z"
+  "size": 1051,
+  "updated_at": "2019-07-20T18:42:45Z",
+  "pushed_at": "2019-07-20T18:42:43Z"
 }

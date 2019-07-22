@@ -43,22 +43,25 @@
     },
     "2019-04-17": {
       "stargazers_count": 20
+    },
+    "2019-07-22": {
+      "stargazers_count": 21
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-03-30T19:03:53Z",
-        "name": "GitHub"
+        "date": "2019-07-02T08:03:32Z",
+        "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2019-03-30T19:03:53Z",
-        "name": "bjoern3"
+        "date": "2019-07-02T08:03:32Z",
+        "name": "Gerald Bauer"
       },
-      "message": "Update 1-seriea.txt"
+      "message": "up"
     }
   ],
-  "size": 594,
-  "updated_at": "2019-03-30T19:03:55Z",
-  "pushed_at": "2019-03-30T19:03:54Z"
+  "size": 565,
+  "updated_at": "2019-07-02T08:03:40Z",
+  "pushed_at": "2019-07-02T08:03:39Z"
 }

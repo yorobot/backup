@@ -43,22 +43,25 @@
     },
     "2019-04-17": {
       "stargazers_count": 93
+    },
+    "2019-07-22": {
+      "stargazers_count": 94
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-03-17T12:09:44Z",
+        "date": "2019-06-21T14:49:24Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2019-03-17T12:09:44Z",
-        "name": "Artem Sheludko"
+        "date": "2019-06-21T14:49:24Z",
+        "name": "bit-ranger"
       },
-      "message": "Add Chelia Theme (#132)\n\n* Add Chelia Theme\r\n\r\n* add pics"
+      "message": " change tiffany url (#135)\n\n* domain name changed\r\n\r\n* change tiffany url"
     }
   ],
-  "size": 9395,
-  "updated_at": "2019-03-21T16:06:09Z",
-  "pushed_at": "2019-03-17T12:09:45Z"
+  "size": 9418,
+  "updated_at": "2019-07-11T13:54:22Z",
+  "pushed_at": "2019-06-21T14:49:25Z"
 }

@@ -1,0 +1,25 @@
+{
+  "full_name": "typesigs/records",
+  "created_at": "2015-08-01T12:10:05Z",
+  "updated_at": "2019-04-21T19:37:54Z",
+  "pushed_at": "2019-04-13T11:12:42Z",
+  "size": 14,
+  "history": {
+    "2019-07-22": {
+      "stargazers_count": 3
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2019-04-13T11:12:41Z",
+        "name": "GitHub"
+      },
+      "author": {
+        "date": "2019-04-13T11:12:41Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "Update README.md"
+    }
+  ]
+}

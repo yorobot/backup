@@ -43,22 +43,25 @@
     },
     "2019-04-17": {
       "stargazers_count": 252
+    },
+    "2019-07-22": {
+      "stargazers_count": 257
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-03-11T18:17:42Z",
-        "name": "GitHub"
-      },
-      "author": {
-        "date": "2019-03-11T18:17:42Z",
+        "date": "2019-06-27T06:37:02Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update README.md"
+      "author": {
+        "date": "2019-06-27T06:37:02Z",
+        "name": "Brian Spilner"
+      },
+      "message": "Update README.md (#12)\n\njust an idea: stay in french ;-)"
     }
   ],
-  "size": 91,
-  "updated_at": "2019-04-09T09:34:28Z",
-  "pushed_at": "2019-03-11T18:17:42Z"
+  "size": 97,
+  "updated_at": "2019-07-18T14:07:27Z",
+  "pushed_at": "2019-06-27T06:37:03Z"
 }

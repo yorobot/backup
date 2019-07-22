@@ -43,22 +43,25 @@
     },
     "2019-04-17": {
       "stargazers_count": 50
+    },
+    "2019-07-22": {
+      "stargazers_count": 53
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-03-28T08:27:06Z",
-        "name": "Gerald Bauer"
+        "date": "2019-07-08T14:48:47Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2019-03-28T08:27:06Z",
-        "name": "Andrade Jr"
+        "date": "2019-07-08T14:48:47Z",
+        "name": "Gerald Bauer"
       },
-      "message": "Fixing errors in brasileirao 2017 file. (#6)"
+      "message": "Update clubs.txt"
     }
   ],
-  "size": 209,
-  "updated_at": "2019-04-14T16:32:05Z",
-  "pushed_at": "2019-03-28T08:27:07Z"
+  "size": 221,
+  "updated_at": "2019-07-08T14:48:51Z",
+  "pushed_at": "2019-07-08T14:48:48Z"
 }

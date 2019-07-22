@@ -29,6 +29,9 @@
     },
     "2019-04-17": {
       "stargazers_count": 29
+    },
+    "2019-07-22": {
+      "stargazers_count": 30
     }
   },
   "commits": [
@@ -44,6 +47,6 @@
       "message": "Update classics-10-one-liners.md"
     }
   ],
-  "updated_at": "2019-03-24T21:13:27Z",
+  "updated_at": "2019-04-18T16:26:12Z",
   "pushed_at": "2018-01-21T19:09:02Z"
 }

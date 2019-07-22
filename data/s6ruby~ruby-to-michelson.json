@@ -1,12 +1,15 @@
 {
   "full_name": "s6ruby/ruby-to-michelson",
   "created_at": "2015-06-27T14:04:10Z",
-  "updated_at": "2019-04-16T17:19:11Z",
+  "updated_at": "2019-07-09T09:21:21Z",
   "pushed_at": "2019-04-12T18:52:45Z",
   "size": 187,
   "history": {
     "2019-04-17": {
       "stargazers_count": 8
+    },
+    "2019-07-22": {
+      "stargazers_count": 13
     }
   },
   "commits": [

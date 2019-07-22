@@ -43,22 +43,25 @@
     },
     "2019-04-17": {
       "stargazers_count": 285
+    },
+    "2019-07-22": {
+      "stargazers_count": 334
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-04-10T06:49:13Z",
+        "date": "2019-07-15T07:22:38Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2019-04-10T06:49:13Z",
-        "name": "commenthol"
+        "date": "2019-07-15T07:22:38Z",
+        "name": "Ozum Eldogan"
       },
-      "message": "Add markedpp a markdown pre-processor (#23)\n\n- Table-of-Contents added\r\n- md-fileserver to view markdown files locally in browser\r\n- marked and markdown-it javascript markdown parsers"
+      "message": "Update README.md (#24)\n\nadded concat-md"
     }
   ],
-  "size": 52,
-  "updated_at": "2019-04-16T10:30:56Z",
-  "pushed_at": "2019-04-10T06:49:14Z"
+  "size": 60,
+  "updated_at": "2019-07-19T20:55:35Z",
+  "pushed_at": "2019-07-15T07:22:39Z"
 }

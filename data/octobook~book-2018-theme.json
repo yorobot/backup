@@ -29,6 +29,9 @@
     },
     "2019-04-17": {
       "stargazers_count": 3
+    },
+    "2019-07-22": {
+      "stargazers_count": 3
     }
   },
   "commits": [
@@ -44,6 +47,6 @@
       "message": "Update book.html"
     }
   ],
-  "updated_at": "2019-01-15T07:38:22Z",
+  "updated_at": "2019-06-19T19:24:35Z",
   "pushed_at": "2018-05-13T19:26:44Z"
 }

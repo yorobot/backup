@@ -1,7 +1,7 @@
 {
   "full_name": "csvreader/csvreader",
   "created_at": "2018-08-15T07:57:34Z",
-  "updated_at": "2019-03-26T15:56:29Z",
+  "updated_at": "2019-07-15T13:54:06Z",
   "pushed_at": "2018-11-24T09:34:46Z",
   "size": 191,
   "history": {
@@ -12,6 +12,9 @@
       "stargazers_count": 162
     },
     "2019-04-17": {
+      "stargazers_count": 164
+    },
+    "2019-07-22": {
       "stargazers_count": 164
     }
   },

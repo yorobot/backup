@@ -1,5 +1,6 @@
 ---
 geraldb (87):
+- RubyHabits
 - austriacodes
 - beerbook
 - beercsv
@@ -13,7 +14,6 @@ geraldb (87):
 - bookdesigns
 - chooseaconduct
 - cococoop
-- commonsjs
 - cryptocopycats
 - csvreader
 - csvspecs
@@ -32,6 +32,7 @@ geraldb (87):
 - henrythemes
 - hybook
 - hydepress
+- jekyll-octopod
 - journaltxt
 - json-next
 - manuscripts
@@ -76,7 +77,9 @@ geraldb (87):
 - staystatic
 - texti
 - textkit
+- typesigs
 - updownpress
+- vienna-rb
 - webstart
 - wikiscript
 - worldbook

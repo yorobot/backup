@@ -43,22 +43,25 @@
     },
     "2019-04-17": {
       "stargazers_count": 497
+    },
+    "2019-07-22": {
+      "stargazers_count": 511
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-12-06T13:37:52Z",
+        "date": "2019-04-21T11:39:57Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2018-12-06T13:37:52Z",
-        "name": "Gerald Bauer"
+        "date": "2019-04-21T11:39:57Z",
+        "name": "Ed Heltzel"
       },
-      "message": "Update README.md"
+      "message": "Merge pull request #23 from infominer33/master\n\nadd starterpack"
     }
   ],
-  "size": 80,
-  "updated_at": "2019-04-11T21:54:54Z",
-  "pushed_at": "2018-12-06T13:37:53Z"
+  "size": 89,
+  "updated_at": "2019-07-21T07:25:41Z",
+  "pushed_at": "2019-04-21T11:39:58Z"
 }

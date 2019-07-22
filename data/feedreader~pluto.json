@@ -43,22 +43,25 @@
     },
     "2019-04-17": {
       "stargazers_count": 63
+    },
+    "2019-07-22": {
+      "stargazers_count": 64
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-11-27T16:13:17Z",
+        "date": "2019-06-14T07:47:07Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2017-11-27T16:13:17Z",
+        "date": "2019-06-14T07:47:07Z",
         "name": "Gerald Bauer"
       },
-      "message": "up quiet n quieter"
+      "message": "gemify delete removed change"
     }
   ],
-  "size": 273,
-  "updated_at": "2019-02-15T20:59:16Z",
-  "pushed_at": "2017-11-27T16:13:25Z"
+  "size": 264,
+  "updated_at": "2019-07-20T21:31:17Z",
+  "pushed_at": "2019-06-14T07:47:21Z"
 }

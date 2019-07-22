@@ -1,0 +1,25 @@
+{
+  "full_name": "openblockchains/awesome-cheezewizards",
+  "created_at": "2018-01-30T20:34:17Z",
+  "updated_at": "2019-05-24T16:10:36Z",
+  "pushed_at": "2019-05-24T16:10:35Z",
+  "size": 127,
+  "history": {
+    "2019-07-22": {
+      "stargazers_count": 3
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2019-05-24T16:10:34Z",
+        "name": "GitHub"
+      },
+      "author": {
+        "date": "2019-05-24T16:10:34Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "Update README.md"
+    }
+  ]
+}

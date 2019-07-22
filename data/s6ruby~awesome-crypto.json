@@ -1,12 +1,15 @@
 {
   "full_name": "s6ruby/awesome-crypto",
   "created_at": "2017-12-23T10:24:19Z",
-  "updated_at": "2019-02-14T19:56:19Z",
+  "updated_at": "2019-05-03T14:53:58Z",
   "pushed_at": "2019-02-14T19:56:18Z",
   "size": 22,
   "history": {
     "2019-04-17": {
       "stargazers_count": 28
+    },
+    "2019-07-22": {
+      "stargazers_count": 29
     }
   },
   "commits": [

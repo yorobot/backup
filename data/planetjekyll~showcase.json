@@ -43,22 +43,25 @@
     },
     "2019-04-17": {
       "stargazers_count": 4
+    },
+    "2019-07-22": {
+      "stargazers_count": 4
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-03-24T18:30:07Z",
+        "date": "2019-04-29T19:35:46Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2019-03-24T18:30:07Z",
+        "date": "2019-04-29T19:35:46Z",
         "name": "Raúl San Martín Aniceto"
       },
-      "message": "New jekyll site (#18)\n\n* Update showcase.yml\r\n\r\n* Add files via upload"
+      "message": "Updated domain and thumbnail (#19)\n\n* Update showcase.yml\r\n\r\n* Add files via upload\r\n\r\n* Delete raulsanmartin.png\r\n\r\n* Add files via upload"
     }
   ],
-  "size": 2359,
-  "updated_at": "2019-03-24T18:30:10Z",
-  "pushed_at": "2019-03-24T18:30:08Z"
+  "size": 2395,
+  "updated_at": "2019-05-14T03:47:27Z",
+  "pushed_at": "2019-04-29T19:35:47Z"
 }

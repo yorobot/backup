@@ -1,0 +1,25 @@
+{
+  "full_name": "openfootball/world",
+  "created_at": "2014-06-29T20:38:44Z",
+  "updated_at": "2019-07-05T16:37:36Z",
+  "pushed_at": "2019-07-03T13:17:24Z",
+  "size": 559,
+  "history": {
+    "2019-07-22": {
+      "stargazers_count": 30
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2019-07-03T13:17:24Z",
+        "name": "GitHub"
+      },
+      "author": {
+        "date": "2019-07-03T13:17:24Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "Update leagues.txt"
+    }
+  ]
+}
