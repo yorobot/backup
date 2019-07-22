@@ -1,596 +1,597 @@
-# 85 orgs, 594 repos
+# 85 orgs, 595 repos
 
-- 23.674/month  ★510 **planetjekyll/awesome-jekyll-plugins** (120 kb) - [14]: 510 (+59 in 75d) 451 (+72 in 91d) 379 (+21 in 43d) 358 (+63 in 125d) 295 (+13 in 40d) 282 (+18 in 40d) 264 (+8 in 19d) 256 (+4 in 11d) 252 (+17 in 49d) 235 (+63 in 135d) 172 (+16 in 40d) 156 (+56 in 126d) 100 (1d) 100
-- 19.698/month  ★2688 **openblockchains/awesome-blockchains** (2307 kb) - [10]: 2688 (+39 in 75d) 2649 (+70 in 91d) 2579 (+93 in 43d) 2486 (+300 in 125d) 2186 (+205 in 40d) 1981 (+287 in 40d) 1694 (+168 in 19d) 1526 (+115 in 11d) 1411 (+327 in 49d) 1084
-- 8.313/month  ★427 **cryptocopycats/awesome-cryptokitties** (4154 kb) - [6]: 427 (+18 in 75d) 409 (+28 in 91d) 381 (+24 in 43d) 357 (+86 in 125d) 271 (+58 in 40d) 213
-- 8.313/month  ★285 **mundimark/awesome-markdown** (52 kb) - [14]: 285 (+23 in 75d) 262 (+23 in 91d) 239 (+16 in 43d) 223 (+25 in 125d) 198 (+4 in 40d) 194 (+10 in 40d) 184 (+3 in 19d) 181 (+2 in 11d) 179 (+12 in 49d) 167 (+23 in 135d) 144 (+7 in 40d) 137 (+22 in 126d) 115 (1d) 115
-- 7.771/month  ★290 **planetjekyll/awesome-jekyll-themes** (21 kb) - [14]: 290 (+21 in 75d) 269 (+22 in 91d) 247 (+16 in 43d) 231 (+20 in 125d) 211 (+5 in 40d) 206 (+11 in 40d) 195 (+7 in 19d) 188 (+5 in 11d) 183 (+22 in 49d) 161 (+51 in 135d) 110 (+5 in 40d) 105 (+40 in 126d) 65 (1d) 65
-- 7.409/month  ★117 **mundimark/awesome-markdown-editors** (18 kb) - [14]: 117 (+19 in 75d) 98 (+22 in 91d) 76 (+9 in 43d) 67 (+14 in 125d) 53 (+10 in 40d) 43 (+4 in 40d) 39 (+1 in 19d) 38 (+3 in 11d) 35 (+9 in 49d) 26 (+5 in 135d) 21 (+1 in 40d) 20 (+6 in 126d) 14 (1d) 14
-- 4.0/month  ★515 **openblockchains/programming-blockchains** (552 kb) - [2]: 515 (+10 in 75d) 505
-- 3.975/month  ★497 **planetjekyll/awesome-jekyll** (80 kb) - [14]: 497 (+12 in 75d) 485 (+10 in 91d) 475 (+11 in 43d) 464 (+16 in 125d) 448 (+10 in 40d) 438 (+13 in 40d) 425 (+2 in 19d) 423 (+3 in 11d) 420 (+6 in 49d) 414 (+30 in 135d) 384 (+10 in 40d) 374 (+57 in 126d) 317 (1d) 317
-- 3.975/month  ★258 **openfootball/eng-england** (794 kb) - [14]: 258 (+14 in 75d) 244 (+8 in 91d) 236 (+10 in 43d) 226 (+14 in 125d) 212 (+3 in 40d) 209 (+11 in 40d) 198 (+5 in 19d) 193 (+1 in 11d) 192 (+13 in 49d) 179 (+18 in 135d) 161 (+2 in 40d) 159 (+16 in 126d) 143 (1d) 143
-- 3.975/month  ★252 **planetruby/awesome-rubies** (91 kb) - [14]: 252 (+15 in 75d) 237 (+7 in 91d) 230 (+2 in 43d) 228 (+10 in 125d) 218 (-3 in 40d) 221 (+1 in 40d) 220 (+2 in 19d) 218 (+4 in 11d) 214 (+14 in 49d) 200 (-1 in 135d) 201 (-1 in 40d) 202 (-1 in 126d) 203 (1d) 203
-- 3.975/month  ★228 **planetjekyll/awesome-jekyll-editors** (13 kb) - [14]: 228 (+6 in 75d) 222 (+16 in 91d) 206 (+5 in 43d) 201 (+13 in 125d) 188 (+6 in 40d) 182 (+7 in 40d) 175 (+5 in 19d) 170 (+6 in 11d) 164 (+28 in 49d) 136 (+25 in 135d) 111 (+14 in 40d) 97 (+31 in 126d) 66 (1d) 66
-- 3.614/month  ★466 **openfootball/football.json** (341 kb) - [6]: 466 (+12 in 75d) 454 (+8 in 91d) 446 (+6 in 43d) 440 (+26 in 125d) 414 (+6 in 40d) 408
-- 3.072/month  ★32 **planetruby/quiz** (171 kb) - [3]: 32 (75d) 32 (+17 in 91d) 15
-- 2.71/month  ★196 **geraldb/talks** (13981 kb) - [14]: 196 (+12 in 75d) 184 (+3 in 91d) 181 (+1 in 43d) 180 (+2 in 125d) 178 (+5 in 40d) 173 (+9 in 40d) 164 (+3 in 19d) 161 (+1 in 11d) 160 (+12 in 49d) 148 (+73 in 135d) 75 (+3 in 40d) 72 (+9 in 126d) 63 (1d) 63
-- 2.71/month  ★19 **openblockchains/awesome-ico-truths** (1385 kb) - [5]: 19 (+1 in 75d) 18 (+14 in 91d) 4 (43d) 4 (125d) 4
-- 2.53/month  ★585 **factbook/factbook.json** (7355 kb) - [6]: 585 (+4 in 75d) 581 (+10 in 91d) 571 (+7 in 43d) 564 (+15 in 125d) 549 (+2 in 40d) 547
-- 2.0/month  ★10 **openblockchains/programming-cryptocontracts** (593 kb) - [2]: 10 (+5 in 75d) 5
-- 1.987/month  ★159 **planetopendata/awesome-world** (204 kb) - [14]: 159 (+8 in 75d) 151 (+3 in 91d) 148 (+7 in 43d) 141 (+4 in 125d) 137 (+1 in 40d) 136 (+4 in 40d) 132 (+2 in 19d) 130 (+1 in 11d) 129 (+6 in 49d) 123 (+25 in 135d) 98 (+10 in 40d) 88 (+12 in 126d) 76 (1d) 76
-- 1.987/month  ★77 **footballcsv/eng-england** (8048 kb) - [14]: 77 (+5 in 75d) 72 (+6 in 91d) 66 (43d) 66 (+4 in 125d) 62 (+1 in 40d) 61 (+3 in 40d) 58 (19d) 58 (11d) 58 (49d) 58 (+5 in 135d) 53 (+1 in 40d) 52 (+5 in 126d) 47 (+1 in 1d) 46
-- 1.807/month  ★164 **csvreader/csvreader** (191 kb) - [3]: 164 (+2 in 75d) 162 (+8 in 91d) 154
-- 1.626/month  ★51 **planetopendata/awesome-sqlite** (28 kb) - [14]: 51 (+6 in 75d) 45 (+3 in 91d) 42 (+1 in 43d) 41 (+6 in 125d) 35 (40d) 35 (+2 in 40d) 33 (+1 in 19d) 32 (11d) 32 (+2 in 49d) 30 (+6 in 135d) 24 (+2 in 40d) 22 (126d) 22 (1d) 22
-- 1.445/month  ★432 **openfootball/world-cup** (597 kb) - [14]: 432 (+5 in 75d) 427 (+3 in 91d) 424 (+5 in 43d) 419 (+122 in 125d) 297 (+20 in 40d) 277 (+13 in 40d) 264 (+2 in 19d) 262 (11d) 262 (+15 in 49d) 247 (+13 in 135d) 234 (+2 in 40d) 232 (126d) 232 (1d) 232
-- 1.445/month  ★53 **openfootball/es-espana** (682 kb) - [14]: 53 (+3 in 75d) 50 (+5 in 91d) 45 (+2 in 43d) 43 (+2 in 125d) 41 (+1 in 40d) 40 (40d) 40 (+1 in 19d) 39 (+1 in 11d) 38 (+2 in 49d) 36 (+5 in 135d) 31 (+1 in 40d) 30 (+2 in 126d) 28 (1d) 28
-- 1.265/month  ★235 **planetruby/calendar** (951 kb) - [9]: 235 (+2 in 75d) 233 (+5 in 91d) 228 (+1 in 43d) 227 (+2 in 125d) 225 (+2 in 40d) 223 (+5 in 40d) 218 (+4 in 19d) 214 (+3 in 11d) 211
-- 1.265/month  ★84 **henrythemes/jekyll-minimal-theme** (46 kb) - [14]: 84 (+6 in 75d) 78 (+1 in 91d) 77 (+2 in 43d) 75 (+6 in 125d) 69 (-3 in 40d) 72 (+1 in 40d) 71 (+1 in 19d) 70 (+1 in 11d) 69 (+3 in 49d) 66 (+6 in 135d) 60 (+5 in 40d) 55 (+1 in 126d) 54 (1d) 54
-- 1.265/month  ★75 **sportdb/sport.db** (778 kb) - [12]: 75 (+3 in 75d) 72 (+4 in 91d) 68 (+1 in 43d) 67 (+7 in 125d) 60 (+1 in 40d) 59 (40d) 59 (+1 in 19d) 58 (+2 in 11d) 56 (+1 in 49d) 55 (+4 in 135d) 51 (40d) 51
-- 1.265/month  ★22 **cryptocopycats/copycats** (2767 kb) - [6]: 22 (+1 in 75d) 21 (+6 in 91d) 15 (+1 in 43d) 14 (+1 in 125d) 13 (40d) 13
-- 1.265/month  ★21 **openblockchains/merkletree.rb** (16 kb) - [9]: 21 (+6 in 75d) 15 (+1 in 91d) 14 (43d) 14 (+6 in 125d) 8 (+2 in 40d) 6 (40d) 6 (+1 in 19d) 5 (11d) 5
-- 1.084/month  ★114 **planetopendata/awesome-football** (8 kb) - [14]: 114 (+3 in 75d) 111 (+3 in 91d) 108 (+2 in 43d) 106 (+15 in 125d) 91 (+2 in 40d) 89 (+3 in 40d) 86 (+2 in 19d) 84 (+1 in 11d) 83 (+4 in 49d) 79 (+11 in 135d) 68 (+4 in 40d) 64 (+10 in 126d) 54 (1d) 54
-- 1.084/month  ★105 **openblockchains/blockchain.lite.rb** (48 kb) - [10]: 105 (+5 in 75d) 100 (+1 in 91d) 99 (+5 in 43d) 94 (+11 in 125d) 83 (+6 in 40d) 77 (+6 in 40d) 71 (+4 in 19d) 67 (+3 in 11d) 64 (+19 in 49d) 45
-- 1.084/month  ★49 **yukimotopress/practicing** (93 kb) - [9]: 49 (+4 in 75d) 45 (+2 in 91d) 43 (-1 in 43d) 44 (125d) 44 (+1 in 40d) 43 (40d) 43 (19d) 43 (+3 in 11d) 40
-- 0.903/month  ★157 **slideshow-s9/slideshow** (1334 kb) - [14]: 157 (+5 in 75d) 152 (91d) 152 (+2 in 43d) 150 (+5 in 125d) 145 (40d) 145 (+3 in 40d) 142 (+1 in 19d) 141 (11d) 141 (+2 in 49d) 139 (+8 in 135d) 131 (40d) 131 (+3 in 126d) 128 (1d) 128
-- 0.903/month  ★90 **factbook/factbook** (445 kb) - [14]: 90 (+2 in 75d) 88 (+3 in 91d) 85 (43d) 85 (+2 in 125d) 83 (-1 in 40d) 84 (+1 in 40d) 83 (19d) 83 (+1 in 11d) 82 (+3 in 49d) 79 (+2 in 135d) 77 (+2 in 40d) 75 (+4 in 126d) 71 (1d) 71
-- 0.903/month  ★69 **csvreader/csvpack** (31 kb) - [3]: 69 (+3 in 75d) 66 (+2 in 91d) 64
-- 0.903/month  ★33 **csvspecs/awesome-csv** (137 kb) - [3]: 33 (+1 in 75d) 32 (+4 in 91d) 28
-- 0.903/month  ★10 **henrythemes/hello-minima-theme** (7 kb) - [14]: 10 (75d) 10 (+5 in 91d) 5 (43d) 5 (125d) 5 (40d) 5 (40d) 5 (19d) 5 (+1 in 11d) 4 (49d) 4 (135d) 4 (40d) 4 (126d) 4 (1d) 4
-- 0.722/month  ★143 **feedparser/feedparser** (844 kb) - [14]: 143 (+3 in 75d) 140 (+1 in 91d) 139 (+1 in 43d) 138 (+6 in 125d) 132 (+2 in 40d) 130 (+3 in 40d) 127 (+1 in 19d) 126 (11d) 126 (+13 in 49d) 113 (+11 in 135d) 102 (+8 in 40d) 94 (+62 in 126d) 32 (1d) 32
-- 0.722/month  ★30 **openblockchains/centralbank** (104 kb) - [9]: 30 (75d) 30 (+4 in 91d) 26 (43d) 26 (+6 in 125d) 20 (+4 in 40d) 16 (+2 in 40d) 14 (+1 in 19d) 13 (11d) 13
-- 0.722/month  ★29 **factbook/factbook.sql** (148 kb) - [14]: 29 (+2 in 75d) 27 (+2 in 91d) 25 (+1 in 43d) 24 (+3 in 125d) 21 (+1 in 40d) 20 (40d) 20 (+1 in 19d) 19 (-1 in 11d) 20 (+2 in 49d) 18 (+3 in 135d) 15 (40d) 15 (+4 in 126d) 11 (1d) 11
-- 0.722/month  ★21 **planetruby/gems** (550 kb) - [14]: 21 (+4 in 75d) 17 (91d) 17 (43d) 17 (125d) 17 (40d) 17 (40d) 17 (19d) 17 (+1 in 11d) 16 (+1 in 49d) 15 (135d) 15 (40d) 15 (126d) 15 (1d) 15
-- 0.722/month  ★17 **updownpress/markdown-lint** (46 kb) - [14]: 17 (+3 in 75d) 14 (+1 in 91d) 13 (43d) 13 (+8 in 125d) 5 (40d) 5 (40d) 5 (+1 in 19d) 4 (11d) 4 (+1 in 49d) 3 (+1 in 135d) 2 (40d) 2 (126d) 2 (1d) 2
-- 0.542/month  ★571 **openmundi/world.db** (1088 kb) - [14]: 571 (75d) 571 (+3 in 91d) 568 (+7 in 43d) 561 (+4 in 125d) 557 (-1 in 40d) 558 (+1 in 40d) 557 (+2 in 19d) 555 (+1 in 11d) 554 (+2 in 49d) 552 (+10 in 135d) 542 (40d) 542 (-2 in 126d) 544 (1d) 544
-- 0.542/month  ★187 **planetruby/awesome-webservers** (57 kb) - [14]: 187 (+3 in 75d) 184 (91d) 184 (+1 in 43d) 183 (+17 in 125d) 166 (+13 in 40d) 153 (+1 in 40d) 152 (19d) 152 (+2 in 11d) 150 (+2 in 49d) 148 (+5 in 135d) 143 (+8 in 40d) 135 (+1 in 126d) 134 (1d) 134
-- 0.542/month  ★93 **drjekyllthemes/themes** (9395 kb) - [14]: 93 (75d) 93 (+3 in 91d) 90 (+1 in 43d) 89 (+4 in 125d) 85 (+3 in 40d) 82 (40d) 82 (19d) 82 (11d) 82 (+2 in 49d) 80 (+3 in 135d) 77 (+1 in 40d) 76 (+5 in 126d) 71 (1d) 71
-- 0.542/month  ★50 **openfootball/br-brazil** (209 kb) - [14]: 50 (+1 in 75d) 49 (+2 in 91d) 47 (+2 in 43d) 45 (+9 in 125d) 36 (+4 in 40d) 32 (+1 in 40d) 31 (+1 in 19d) 30 (11d) 30 (49d) 30 (+8 in 135d) 22 (+3 in 40d) 19 (+3 in 126d) 16 (1d) 16
-- 0.542/month  ★27 **slideshow-s9/awesome-slideshows** (4 kb) - [14]: 27 (+2 in 75d) 25 (+1 in 91d) 24 (+1 in 43d) 23 (+1 in 125d) 22 (40d) 22 (40d) 22 (+2 in 19d) 20 (11d) 20 (+1 in 49d) 19 (+4 in 135d) 15 (+2 in 40d) 13 (+3 in 126d) 10 (1d) 10
-- 0.542/month  ★24 **openfootball/schema.sql** (176 kb) - [14]: 24 (+1 in 75d) 23 (+2 in 91d) 21 (+1 in 43d) 20 (+5 in 125d) 15 (+1 in 40d) 14 (40d) 14 (19d) 14 (11d) 14 (+1 in 49d) 13 (+1 in 135d) 12 (+1 in 40d) 11 (+2 in 126d) 9 (1d) 9
-- 0.542/month  ★17 **cryptocopycats/awesome-cryptocollectibles** (706 kb) - [6]: 17 (75d) 17 (+3 in 91d) 14 (43d) 14 (+5 in 125d) 9 (+5 in 40d) 4
-- 0.542/month  ★15 **henrythemes/jekyll-book-theme** (141 kb) - [14]: 15 (+1 in 75d) 14 (+2 in 91d) 12 (43d) 12 (+1 in 125d) 11 (40d) 11 (+1 in 40d) 10 (19d) 10 (11d) 10 (+1 in 49d) 9 (135d) 9 (40d) 9 (+1 in 126d) 8 (1d) 8
-- 0.542/month  ★12 **csvreader/csvutils** (42 kb) - [3]: 12 (75d) 12 (+3 in 91d) 9
-- 0.542/month  ★7 **yukimotopress/http** (10 kb) - [9]: 7 (+1 in 75d) 6 (+2 in 91d) 4 (+1 in 43d) 3 (+1 in 125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2
-- 0.361/month  ★94 **slidekit/s6** (930 kb) - [14]: 94 (+1 in 75d) 93 (+1 in 91d) 92 (43d) 92 (125d) 92 (+1 in 40d) 91 (40d) 91 (19d) 91 (11d) 91 (+1 in 49d) 90 (135d) 90 (40d) 90 (+1 in 126d) 89 (1d) 89
-- 0.361/month  ★57 **openfootball/datafile** (20 kb) - [14]: 57 (75d) 57 (+2 in 91d) 55 (+3 in 43d) 52 (+14 in 125d) 38 (+1 in 40d) 37 (40d) 37 (+4 in 19d) 33 (+1 in 11d) 32 (+3 in 49d) 29 (+8 in 135d) 21 (+2 in 40d) 19 (+4 in 126d) 15 (1d) 15
-- 0.361/month  ★55 **schemadoc/schemadoc** (28 kb) - [14]: 55 (+2 in 75d) 53 (91d) 53 (43d) 53 (-1 in 125d) 54 (40d) 54 (+3 in 40d) 51 (+6 in 19d) 45 (11d) 45 (+2 in 49d) 43 (+3 in 135d) 40 (40d) 40 (+4 in 126d) 36 (1d) 36
-- 0.361/month  ★51 **yukimotopress/blockchains** (455 kb) - [9]: 51 (75d) 51 (+2 in 91d) 49 (+3 in 43d) 46 (+4 in 125d) 42 (40d) 42 (+4 in 40d) 38 (+1 in 19d) 37 (+3 in 11d) 34
-- 0.361/month  ★49 **writekit/markdown** (349 kb) - [14]: 49 (+1 in 75d) 48 (+1 in 91d) 47 (43d) 47 (-1 in 125d) 48 (40d) 48 (40d) 48 (19d) 48 (11d) 48 (49d) 48 (+2 in 135d) 46 (-1 in 40d) 47 (126d) 47 (1d) 47
-- 0.361/month  ★43 **openfootball/de-deutschland** (1495 kb) - [14]: 43 (+1 in 75d) 42 (+1 in 91d) 41 (43d) 41 (+1 in 125d) 40 (+2 in 40d) 38 (+2 in 40d) 36 (+1 in 19d) 35 (11d) 35 (-1 in 49d) 36 (+5 in 135d) 31 (40d) 31 (+5 in 126d) 26 (1d) 26
-- 0.361/month  ★41 **drjekyllthemes/drjekyll** (28 kb) - [14]: 41 (+1 in 75d) 40 (+1 in 91d) 39 (43d) 39 (125d) 39 (+1 in 40d) 38 (40d) 38 (19d) 38 (+1 in 11d) 37 (49d) 37 (-1 in 135d) 38 (40d) 38 (+1 in 126d) 37 (1d) 37
-- 0.361/month  ★26 **csvreader/docs** (235 kb) - [3]: 26 (-1 in 75d) 27 (+3 in 91d) 24
-- 0.361/month  ★24 **henrythemes/jekyll-starter-theme** (11 kb) - [14]: 24 (+1 in 75d) 23 (+1 in 91d) 22 (+1 in 43d) 21 (125d) 21 (40d) 21 (40d) 21 (+1 in 19d) 20 (-1 in 11d) 21 (-1 in 49d) 22 (+2 in 135d) 20 (+1 in 40d) 19 (+4 in 126d) 15 (1d) 15
-- 0.361/month  ★24 **openfootball/europe-champions-league** (123 kb) - [14]: 24 (+1 in 75d) 23 (+1 in 91d) 22 (+1 in 43d) 21 (+1 in 125d) 20 (+1 in 40d) 19 (40d) 19 (19d) 19 (11d) 19 (49d) 19 (135d) 19 (40d) 19 (+2 in 126d) 17 (+1 in 1d) 16
-- 0.361/month  ★18 **mundimark/awesome-markdown-alternatives** (2 kb) - [14]: 18 (75d) 18 (+2 in 91d) 16 (+1 in 43d) 15 (+2 in 125d) 13 (+2 in 40d) 11 (+2 in 40d) 9 (+4 in 19d) 5 (11d) 5 (+1 in 49d) 4 (+1 in 135d) 3 (40d) 3 (+1 in 126d) 2 (1d) 2
-- 0.361/month  ★16 **henrythemes/jekyll-starter-theme-v2** (16 kb) - [14]: 16 (+2 in 75d) 14 (91d) 14 (+1 in 43d) 13 (125d) 13 (40d) 13 (40d) 13 (19d) 13 (11d) 13 (+2 in 49d) 11 (135d) 11 (40d) 11 (+3 in 126d) 8 (1d) 8
-- 0.361/month  ★11 **csvreader/csvrecord** (37 kb) - [3]: 11 (75d) 11 (+2 in 91d) 9
-- 0.361/month  ★5 **openblockchains/peer-to-peer.rb** (2 kb) - [9]: 5 (+2 in 75d) 3 (91d) 3 (43d) 3 (125d) 3 (+1 in 40d) 2 (40d) 2 (+1 in 19d) 1 (11d) 1
-- 0.361/month  ★4 **chooseaconduct/chooseaconduct.github.io** (66 kb) - [3]: 4 (75d) 4 (+2 in 91d) 2
-- 0.361/month  ★4 **footballcsv/europe-champions-league** (770 kb) - [4]: 4 (+2 in 75d) 2 (91d) 2 (43d) 2
-- 0.361/month  ★4 **footballcsv/footballcsv.github.io** (24 kb) - [4]: 4 (75d) 4 (+2 in 91d) 2 (+1 in 43d) 1
-- 0.361/month  ★4 **openblockchains/blockchain-whitepapers** (15873 kb) - [5]: 4 (+1 in 75d) 3 (+1 in 91d) 2 (43d) 2 (125d) 2
-- 0.361/month  ★4 **slideshow-s9/docs** (156 kb) - [10]: 4 (75d) 4 (+2 in 91d) 2 (+1 in 43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1
-- 0.361/month  ★4 **mundimark/why-text** (24 kb) - [5]: 4 (-1 in 75d) 5 (+3 in 91d) 2 (43d) 2 (125d) 2
-- 0.361/month  ★3 **rubycoco/record** (14 kb) - [4]: 3 (75d) 3 (+2 in 91d) 1 (43d) 1
-- 0.18/month  ★131 **openfootball/openfootball.github.io** (1616 kb) - [14]: 131 (+1 in 75d) 130 (91d) 130 (43d) 130 (+1 in 125d) 129 (+1 in 40d) 128 (+1 in 40d) 127 (19d) 127 (11d) 127 (+1 in 49d) 126 (+2 in 135d) 124 (+2 in 40d) 122 (+4 in 126d) 118 (1d) 118
-- 0.18/month  ★100 **slideshow-templates/slideshow-impress.js** (77 kb) - [14]: 100 (+1 in 75d) 99 (91d) 99 (43d) 99 (125d) 99 (40d) 99 (40d) 99 (+1 in 19d) 98 (+2 in 11d) 96 (49d) 96 (+2 in 135d) 94 (40d) 94 (+2 in 126d) 92 (1d) 92
-- 0.18/month  ★96 **openbookie/sportbook** (2929 kb) - [14]: 96 (+1 in 75d) 95 (91d) 95 (43d) 95 (+3 in 125d) 92 (-1 in 40d) 93 (+1 in 40d) 92 (19d) 92 (11d) 92 (+2 in 49d) 90 (+1 in 135d) 89 (40d) 89 (+4 in 126d) 85 (1d) 85
-- 0.18/month  ★83 **planetjekyll/quickrefs** (78 kb) - [14]: 83 (+1 in 75d) 82 (91d) 82 (43d) 82 (+1 in 125d) 81 (-1 in 40d) 82 (+1 in 40d) 81 (19d) 81 (+1 in 11d) 80 (49d) 80 (+1 in 135d) 79 (+1 in 40d) 78 (+5 in 126d) 73 (1d) 73
-- 0.18/month  ★52 **henrythemes/jekyll-bootstrap-theme** (460630 kb) - [14]: 52 (75d) 52 (+1 in 91d) 51 (43d) 51 (+1 in 125d) 50 (40d) 50 (40d) 50 (19d) 50 (-1 in 11d) 51 (+1 in 49d) 50 (+6 in 135d) 44 (+1 in 40d) 43 (+6 in 126d) 37 (1d) 37
-- 0.18/month  ★38 **officetxt/awesome-txt** (23 kb) - [11]: 38 (75d) 38 (+1 in 91d) 37 (+1 in 43d) 36 (+28 in 125d) 8 (+1 in 40d) 7 (40d) 7 (19d) 7 (11d) 7 (49d) 7 (+3 in 135d) 4
-- 0.18/month  ★35 **mundimark/markdown-vs-latex** (18 kb) - [14]: 35 (75d) 35 (+1 in 91d) 34 (43d) 34 (+2 in 125d) 32 (+2 in 40d) 30 (+2 in 40d) 28 (19d) 28 (+1 in 11d) 27 (+2 in 49d) 25 (+2 in 135d) 23 (+2 in 40d) 21 (+7 in 126d) 14 (1d) 14
-- 0.18/month  ★29 **yukimotopress/langs** (122 kb) - [9]: 29 (+1 in 75d) 28 (91d) 28 (43d) 28 (125d) 28 (40d) 28 (40d) 28 (+2 in 19d) 26 (+2 in 11d) 24
-- 0.18/month  ★29 **openfootball/major-league-soccer** (529 kb) - [14]: 29 (75d) 29 (+1 in 91d) 28 (43d) 28 (+2 in 125d) 26 (40d) 26 (40d) 26 (19d) 26 (11d) 26 (49d) 26 (+5 in 135d) 21 (+2 in 40d) 19 (+1 in 126d) 18 (1d) 18
-- 0.18/month  ★28 **mundimark/awesome-kramdown** (19 kb) - [10]: 28 (75d) 28 (+1 in 91d) 27 (43d) 27 (125d) 27 (+1 in 40d) 26 (+2 in 40d) 24 (+6 in 19d) 18 (11d) 18 (+1 in 49d) 17
-- 0.18/month  ★21 **json-next/awesome-json-next** (26 kb) - [9]: 21 (75d) 21 (+1 in 91d) 20 (+2 in 43d) 18 (+4 in 125d) 14 (40d) 14 (+2 in 40d) 12 (19d) 12 (11d) 12
-- 0.18/month  ★21 **yukimotopress/gem-dev** (31 kb) - [14]: 21 (+1 in 75d) 20 (91d) 20 (+1 in 43d) 19 (125d) 19 (40d) 19 (+1 in 40d) 18 (19d) 18 (11d) 18 (+4 in 49d) 14 (+2 in 135d) 12 (40d) 12 (126d) 12 (1d) 12
-- 0.18/month  ★20 **openfootball/it-italy** (594 kb) - [14]: 20 (75d) 20 (+1 in 91d) 19 (43d) 19 (+4 in 125d) 15 (40d) 15 (40d) 15 (19d) 15 (11d) 15 (49d) 15 (+2 in 135d) 13 (40d) 13 (+1 in 126d) 12 (1d) 12
-- 0.18/month  ★19 **datatxt/awseome-yaml** (8 kb) - [11]: 19 (+1 in 75d) 18 (91d) 18 (43d) 18 (+3 in 125d) 15 (+1 in 40d) 14 (40d) 14 (19d) 14 (11d) 14 (49d) 14 (+4 in 135d) 10
-- 0.18/month  ★19 **feedparser/feedfilter** (11 kb) - [14]: 19 (+1 in 75d) 18 (91d) 18 (43d) 18 (125d) 18 (40d) 18 (40d) 18 (19d) 18 (11d) 18 (49d) 18 (135d) 18 (40d) 18 (+3 in 126d) 15 (1d) 15
-- 0.18/month  ★16 **yukimotopress/gem-tasks** (64 kb) - [9]: 16 (+1 in 75d) 15 (91d) 15 (43d) 15 (125d) 15 (40d) 15 (40d) 15 (19d) 15 (+2 in 11d) 13
-- 0.18/month  ★16 **openfootball/docs** (721 kb) - [14]: 16 (+1 in 75d) 15 (91d) 15 (+1 in 43d) 14 (+3 in 125d) 11 (+2 in 40d) 9 (+1 in 40d) 8 (+1 in 19d) 7 (+1 in 11d) 6 (49d) 6 (+2 in 135d) 4 (40d) 4 (126d) 4 (1d) 4
-- 0.18/month  ★15 **feedparser/awesome-feeds** (54 kb) - [12]: 15 (75d) 15 (+1 in 91d) 14 (43d) 14 (+1 in 125d) 13 (40d) 13 (+3 in 40d) 10 (19d) 10 (11d) 10 (+2 in 49d) 8 (+2 in 135d) 6 (40d) 6
-- 0.18/month  ★15 **sportkit/sport.db.starter.ruby** (13 kb) - [14]: 15 (75d) 15 (+1 in 91d) 14 (43d) 14 (125d) 14 (40d) 14 (+1 in 40d) 13 (19d) 13 (11d) 13 (49d) 13 (-2 in 135d) 15 (40d) 15 (126d) 15 (1d) 15
-- 0.18/month  ★14 **slideshow-templates/slideshow-deck.js** (191 kb) - [14]: 14 (+1 in 75d) 13 (91d) 13 (43d) 13 (125d) 13 (40d) 13 (40d) 13 (19d) 13 (11d) 13 (49d) 13 (135d) 13 (40d) 13 (+1 in 126d) 12 (1d) 12
-- 0.18/month  ★13 **bitshilling/bitshilling** (10 kb) - [9]: 13 (75d) 13 (+1 in 91d) 12 (43d) 12 (125d) 12 (40d) 12 (+1 in 40d) 11 (+1 in 19d) 10 (11d) 10
-- 0.18/month  ★13 **planetjekyll/snippets** (16 kb) - [14]: 13 (+1 in 75d) 12 (91d) 12 (43d) 12 (125d) 12 (40d) 12 (40d) 12 (19d) 12 (+1 in 11d) 11 (+4 in 49d) 7 (135d) 7 (+1 in 40d) 6 (+1 in 126d) 5 (1d) 5
-- 0.18/month  ★13 **feedreader/jekyll-planet** (6 kb) - [14]: 13 (+1 in 75d) 12 (91d) 12 (43d) 12 (+2 in 125d) 10 (40d) 10 (+1 in 40d) 9 (19d) 9 (11d) 9 (49d) 9 (135d) 9 (40d) 9 (126d) 9 (1d) 9
-- 0.18/month  ★13 **openmundi/world.csv** (176 kb) - [14]: 13 (75d) 13 (+1 in 91d) 12 (43d) 12 (125d) 12 (-1 in 40d) 13 (40d) 13 (19d) 13 (11d) 13 (49d) 13 (+3 in 135d) 10 (40d) 10 (+2 in 126d) 8 (1d) 8
-- 0.18/month  ★11 **journaltxt/journaltxt** (15 kb) - [11]: 11 (75d) 11 (+1 in 91d) 10 (43d) 10 (+3 in 125d) 7 (40d) 7 (-1 in 40d) 8 (19d) 8 (+1 in 11d) 7 (49d) 7 (+4 in 135d) 3
-- 0.18/month  ★11 **openfootball/at-austria** (663 kb) - [14]: 11 (75d) 11 (+1 in 91d) 10 (43d) 10 (125d) 10 (40d) 10 (40d) 10 (19d) 10 (11d) 10 (+1 in 49d) 9 (135d) 9 (+1 in 40d) 8 (126d) 8 (1d) 8
-- 0.18/month  ★11 **openbeer/us-united-states** (339 kb) - [14]: 11 (75d) 11 (+1 in 91d) 10 (43d) 10 (+1 in 125d) 9 (40d) 9 (40d) 9 (19d) 9 (11d) 9 (49d) 9 (135d) 9 (40d) 9 (126d) 9 (1d) 9
-- 0.18/month  ★10 **openblockchains/tulips** (10 kb) - [10]: 10 (75d) 10 (+1 in 91d) 9 (43d) 9 (+1 in 125d) 8 (40d) 8 (+1 in 40d) 7 (+1 in 19d) 6 (+1 in 11d) 5 (+2 in 49d) 3
-- 0.18/month  ★10 **footballcsv/es-espana** (872 kb) - [14]: 10 (75d) 10 (+1 in 91d) 9 (43d) 9 (+1 in 125d) 8 (40d) 8 (40d) 8 (19d) 8 (11d) 8 (49d) 8 (+1 in 135d) 7 (40d) 7 (-1 in 126d) 8 (1d) 8
-- 0.18/month  ★9 **openfootball/stadiums** (37 kb) - [14]: 9 (75d) 9 (+1 in 91d) 8 (43d) 8 (+2 in 125d) 6 (40d) 6 (40d) 6 (19d) 6 (11d) 6 (+1 in 49d) 5 (135d) 5 (40d) 5 (126d) 5 (1d) 5
-- 0.18/month  ★8 **writekit/kramdown-service** (79 kb) - [14]: 8 (+1 in 75d) 7 (91d) 7 (+4 in 43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
-- 0.18/month  ★8 **rubycoco/webservice** (48 kb) - [4]: 8 (75d) 8 (+1 in 91d) 7 (43d) 7
-- 0.18/month  ★8 **sportkit/sport.db.starter.node.js** (164 kb) - [14]: 8 (+1 in 75d) 7 (91d) 7 (43d) 7 (125d) 7 (40d) 7 (40d) 7 (19d) 7 (11d) 7 (-1 in 49d) 8 (135d) 8 (40d) 8 (126d) 8 (1d) 8
-- 0.18/month  ★8 **sportlogos/football.db.logos** (5791 kb) - [14]: 8 (75d) 8 (+1 in 91d) 7 (43d) 7 (125d) 7 (+5 in 40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
-- 0.18/month  ★7 **openblockchains/awesome-tokens** (30 kb) - [5]: 7 (75d) 7 (+1 in 91d) 6 (43d) 6 (+2 in 125d) 4
-- 0.18/month  ★7 **yukimotopress/yukimotopress.github.io** (847 kb) - [14]: 7 (+1 in 75d) 6 (91d) 6 (43d) 6 (+1 in 125d) 5 (40d) 5 (40d) 5 (19d) 5 (11d) 5 (+3 in 49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
-- 0.18/month  ★7 **manuscripts/book-starter** (4 kb) - [14]: 7 (75d) 7 (+1 in 91d) 6 (43d) 6 (+2 in 125d) 4 (40d) 4 (+1 in 40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (+1 in 126d) 2 (1d) 2
-- 0.18/month  ★7 **openfootball/your-league-starter** (15 kb) - [10]: 7 (+1 in 75d) 6 (91d) 6 (43d) 6 (+1 in 125d) 5 (40d) 5 (40d) 5 (19d) 5 (11d) 5 (49d) 5
-- 0.18/month  ★7 **schemadoc/schemadoc-theme** (28 kb) - [14]: 7 (+1 in 75d) 6 (91d) 6 (43d) 6 (125d) 6 (40d) 6 (40d) 6 (19d) 6 (11d) 6 (49d) 6 (+1 in 135d) 5 (40d) 5 (+2 in 126d) 3 (1d) 3
-- 0.18/month  ★7 **worlddb/world.db.flags** (1644 kb) - [14]: 7 (75d) 7 (+1 in 91d) 6 (+1 in 43d) 5 (125d) 5 (40d) 5 (40d) 5 (19d) 5 (11d) 5 (49d) 5 (135d) 5 (40d) 5 (126d) 5 (1d) 5
-- 0.18/month  ★6 **commonsjs/jquery.tabs.js** (128 kb) - [4]: 6 (75d) 6 (+1 in 91d) 5 (43d) 5
-- 0.18/month  ★5 **pagedesigns/jasonm23-dark** (6 kb) - [14]: 5 (75d) 5 (+1 in 91d) 4 (43d) 4 (+1 in 125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (+1 in 135d) 2 (40d) 2 (126d) 2 (1d) 2
-- 0.18/month  ★5 **slideshow-s9/demos** (10809 kb) - [14]: 5 (+1 in 75d) 4 (91d) 4 (+1 in 43d) 3 (125d) 3 (+1 in 40d) 2 (+1 in 40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
-- 0.18/month  ★5 **beercsv/us-united-states** (392 kb) - [14]: 5 (+1 in 75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4 (126d) 4 (1d) 4
-- 0.18/month  ★4 **bitsblocks/bitcoin-maximalist** (1128 kb) - [5]: 4 (75d) 4 (+1 in 91d) 3 (43d) 3 (+1 in 125d) 2
-- 0.18/month  ★4 **worldclassics/worldclassics.github.io** (12 kb) - [14]: 4 (75d) 4 (+1 in 91d) 3 (+1 in 43d) 2 (125d) 2 (40d) 2 (+1 in 40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
-- 0.18/month  ★4 **planetjekyll/showcase** (2359 kb) - [14]: 4 (75d) 4 (+1 in 91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (+1 in 126d) 2 (1d) 2
-- 0.18/month  ★3 **octobook/book-2018-theme** (212 kb) - [9]: 3 (75d) 3 (+1 in 91d) 2 (43d) 2 (125d) 2 (+1 in 40d) 1 (40d) 1 (19d) 1 (11d) 1
-- 0.18/month  ★3 **journaltxt/journaltxt.github.io** (22 kb) - [11]: 3 (+1 in 75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (+1 in 135d) 1
-- 0.18/month  ★3 **manuscripts/manuscripts.github.io** (24 kb) - [14]: 3 (75d) 3 (+1 in 91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
-- 0.18/month  ★3 **staystatic/quickrefs** (8 kb) - [9]: 3 (+1 in 75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2
-- 0.18/month  ★2 **cryptocopycats/bitcat** (20 kb) - [6]: 2 (75d) 2 (+1 in 91d) 1 (43d) 1 (125d) 1 (40d) 1
-- 0.18/month  ★2 **staystatic/staystatic-starter** (7 kb) - [14]: 2 (+1 in 75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★300 **s6ruby/safebool** (116 kb) - [1]: 300
--  -/-  ★121 **s6ruby/safedata** (60 kb) - [1]: 121
--  -/-  ★78 **s6ruby/enums** (132 kb) - [1]: 78
--  -/-  ★66 **openbeer/world** (1235 kb) - [14]: 66 (+1 in 75d) 65 (-1 in 91d) 66 (43d) 66 (+1 in 125d) 65 (40d) 65 (40d) 65 (19d) 65 (11d) 65 (49d) 65 (+1 in 135d) 64 (40d) 64 (126d) 64 (1d) 64
--  -/-  ★63 **feedreader/pluto** (273 kb) - [14]: 63 (75d) 63 (91d) 63 (43d) 63 (+1 in 125d) 62 (+2 in 40d) 60 (40d) 60 (19d) 60 (+1 in 11d) 59 (+4 in 49d) 55 (+3 in 135d) 52 (+2 in 40d) 50 (+4 in 126d) 46 (1d) 46
--  -/-  ★52 **worlddb/world.lite** (327 kb) - [14]: 52 (75d) 52 (91d) 52 (43d) 52 (125d) 52 (40d) 52 (40d) 52 (19d) 52 (+1 in 11d) 51 (49d) 51 (+1 in 135d) 50 (40d) 50 (-1 in 126d) 51 (1d) 51
--  -/-  ★51 **staystatic/staystatic** (212 kb) - [14]: 51 (+2 in 75d) 49 (-2 in 91d) 51 (43d) 51 (+4 in 125d) 47 (+2 in 40d) 45 (+6 in 40d) 39 (19d) 39 (+1 in 11d) 38 (+2 in 49d) 36 (+5 in 135d) 31 (+6 in 40d) 25 (+13 in 126d) 12 (1d) 12
--  -/-  ★45 **opensport/opensport.github.io** (1181 kb) - [14]: 45 (75d) 45 (91d) 45 (43d) 45 (+1 in 125d) 44 (40d) 44 (40d) 44 (19d) 44 (+1 in 11d) 43 (49d) 43 (135d) 43 (40d) 43 (-1 in 126d) 44 (1d) 44
--  -/-  ★42 **slideshow-templates/slideshow-google-html5-slides** (3528 kb) - [14]: 42 (75d) 42 (91d) 42 (43d) 42 (+2 in 125d) 40 (-1 in 40d) 41 (40d) 41 (19d) 41 (11d) 41 (49d) 41 (135d) 41 (40d) 41 (+2 in 126d) 39 (1d) 39
--  -/-  ★37 **staystatic/awesome-static** (18 kb) - [9]: 37 (75d) 37 (91d) 37 (+1 in 43d) 36 (125d) 36 (+1 in 40d) 35 (40d) 35 (19d) 35 (11d) 35
--  -/-  ★36 **mundimark/awesome-books** (204 kb) - [14]: 36 (-1 in 75d) 37 (+1 in 91d) 36 (+1 in 43d) 35 (125d) 35 (+2 in 40d) 33 (+1 in 40d) 32 (19d) 32 (11d) 32 (49d) 32 (+6 in 135d) 26 (+4 in 40d) 22 (-1 in 126d) 23 (1d) 23
--  -/-  ★36 **yorobot/football.db** (340 kb) - [14]: 36 (75d) 36 (91d) 36 (43d) 36 (+3 in 125d) 33 (40d) 33 (40d) 33 (19d) 33 (11d) 33 (+4 in 49d) 29 (+2 in 135d) 27 (40d) 27 (126d) 27 (1d) 27
--  -/-  ★34 **rubycoco/almost-sinatra** (16 kb) - [4]: 34 (-1 in 75d) 35 (+1 in 91d) 34 (43d) 34
--  -/-  ★33 **openfootball/clubs** (455 kb) - [14]: 33 (75d) 33 (91d) 33 (43d) 33 (125d) 33 (40d) 33 (+1 in 40d) 32 (19d) 32 (11d) 32 (49d) 32 (135d) 32 (40d) 32 (126d) 32 (1d) 32
--  -/-  ★28 **s6ruby/awesome-crypto** (22 kb) - [1]: 28
--  -/-  ★27 **quikstart/quik** (26 kb) - [14]: 27 (75d) 27 (91d) 27 (43d) 27 (125d) 27 (40d) 27 (40d) 27 (+1 in 19d) 26 (11d) 26 (+2 in 49d) 24 (+1 in 135d) 23 (+3 in 40d) 20 (+1 in 126d) 19 (1d) 19
--  -/-  ★27 **beerkit/beer.db** (260 kb) - [12]: 27 (75d) 27 (91d) 27 (43d) 27 (125d) 27 (40d) 27 (40d) 27 (19d) 27 (+1 in 11d) 26 (+2 in 49d) 24 (+5 in 135d) 19 (40d) 19
--  -/-  ★26 **s6ruby/units-time** (37 kb) - [1]: 26
--  -/-  ★26 **openfootball/euro-cup** (39 kb) - [14]: 26 (75d) 26 (91d) 26 (43d) 26 (+1 in 125d) 25 (40d) 25 (40d) 25 (19d) 25 (11d) 25 (-1 in 49d) 26 (135d) 26 (40d) 26 (-1 in 126d) 27 (1d) 27
--  -/-  ★22 **footballjs/football.js** (536 kb) - [14]: 22 (75d) 22 (91d) 22 (43d) 22 (+1 in 125d) 21 (40d) 21 (40d) 21 (19d) 21 (11d) 21 (49d) 21 (135d) 21 (40d) 21 (126d) 21 (1d) 21
--  -/-  ★21 **slideshow-templates/slideshow-slidy** (300 kb) - [14]: 21 (75d) 21 (91d) 21 (43d) 21 (125d) 21 (40d) 21 (40d) 21 (19d) 21 (11d) 21 (49d) 21 (+2 in 135d) 19 (40d) 19 (+2 in 126d) 17 (1d) 17
--  -/-  ★18 **henrythemes/jekyll-gutenberg-theme** (77 kb) - [14]: 18 (75d) 18 (91d) 18 (43d) 18 (125d) 18 (40d) 18 (40d) 18 (19d) 18 (11d) 18 (49d) 18 (135d) 18 (40d) 18 (+1 in 126d) 17 (1d) 17
--  -/-  ★18 **openfootball/players** (390 kb) - [14]: 18 (75d) 18 (91d) 18 (43d) 18 (125d) 18 (40d) 18 (40d) 18 (19d) 18 (11d) 18 (49d) 18 (135d) 18 (40d) 18 (-1 in 126d) 19 (1d) 19
--  -/-  ★17 **openblockchains/programming-cryptocollectibles** (700 kb) - [1]: 17
--  -/-  ★17 **s6ruby/universum** (161 kb) - [1]: 17
--  -/-  ★17 **feedreader/planets** (45 kb) - [14]: 17 (75d) 17 (91d) 17 (43d) 17 (125d) 17 (40d) 17 (40d) 17 (19d) 17 (11d) 17 (49d) 17 (135d) 17 (40d) 17 (126d) 17 (1d) 17
--  -/-  ★16 **json-next/json-next** (29 kb) - [9]: 16 (75d) 16 (91d) 16 (+1 in 43d) 15 (125d) 15 (40d) 15 (40d) 15 (19d) 15 (11d) 15
--  -/-  ★15 **austriacodes/awesome-austria** (66 kb) - [9]: 15 (75d) 15 (91d) 15 (43d) 15 (+1 in 125d) 14 (+2 in 40d) 12 (40d) 12 (19d) 12 (11d) 12
--  -/-  ★15 **mrhydescripts/mrhyde** (18 kb) - [14]: 15 (75d) 15 (91d) 15 (43d) 15 (125d) 15 (40d) 15 (40d) 15 (19d) 15 (11d) 15 (49d) 15 (+1 in 135d) 14 (40d) 14 (126d) 14 (1d) 14
--  -/-  ★15 **s6ruby/safestruct** (92 kb) - [1]: 15
--  -/-  ★15 **openbeer/openbeer.github.io** (744 kb) - [14]: 15 (75d) 15 (91d) 15 (43d) 15 (125d) 15 (40d) 15 (40d) 15 (19d) 15 (11d) 15 (49d) 15 (+1 in 135d) 14 (40d) 14 (+1 in 126d) 13 (1d) 13
--  -/-  ★15 **sportdb/sport.db.admin** (1719 kb) - [14]: 15 (75d) 15 (91d) 15 (43d) 15 (125d) 15 (40d) 15 (40d) 15 (19d) 15 (11d) 15 (49d) 15 (+1 in 135d) 14 (40d) 14 (126d) 14 (1d) 14
--  -/-  ★14 **s6ruby/universum-contracts** (116 kb) - [1]: 14
--  -/-  ★14 **yukimotopress/sinatra-intro** (20 kb) - [14]: 14 (75d) 14 (91d) 14 (43d) 14 (-1 in 125d) 15 (40d) 15 (40d) 15 (19d) 15 (11d) 15 (+1 in 49d) 14 (135d) 14 (40d) 14 (126d) 14 (1d) 14
--  -/-  ★14 **slideshow-templates/slideshow-reveal.js** (1536 kb) - [14]: 14 (75d) 14 (91d) 14 (43d) 14 (125d) 14 (40d) 14 (+1 in 40d) 13 (19d) 13 (11d) 13 (+2 in 49d) 11 (-1 in 135d) 12 (+2 in 40d) 10 (+5 in 126d) 5 (1d) 5
--  -/-  ★14 **slideshow-s9/slideshow-s9.github.io** (3739 kb) - [14]: 14 (75d) 14 (91d) 14 (43d) 14 (125d) 14 (40d) 14 (40d) 14 (19d) 14 (11d) 14 (49d) 14 (135d) 14 (40d) 14 (126d) 14 (1d) 14
--  -/-  ★14 **slideshow-templates/slideshow-shower** (5085 kb) - [14]: 14 (75d) 14 (91d) 14 (43d) 14 (+3 in 125d) 11 (40d) 11 (40d) 11 (+1 in 19d) 10 (11d) 10 (49d) 10 (135d) 10 (40d) 10 (+2 in 126d) 8 (1d) 8
--  -/-  ★13 **rubycoco/linkto** (160 kb) - [4]: 13 (75d) 13 (91d) 13 (43d) 13
--  -/-  ★12 **bitshilling/bitshilling.tools** (140 kb) - [9]: 12 (75d) 12 (91d) 12 (+1 in 43d) 11 (+1 in 125d) 10 (+1 in 40d) 9 (+1 in 40d) 8 (+1 in 19d) 7 (11d) 7
--  -/-  ★12 **planetruby/awesome** (41 kb) - [14]: 12 (75d) 12 (91d) 12 (43d) 12 (125d) 12 (40d) 12 (40d) 12 (+1 in 19d) 11 (11d) 11 (49d) 11 (135d) 11 (-1 in 40d) 12 (126d) 12 (1d) 12
--  -/-  ★12 **textkit/whatson** (148 kb) - [14]: 12 (75d) 12 (91d) 12 (43d) 12 (125d) 12 (40d) 12 (40d) 12 (19d) 12 (11d) 12 (49d) 12 (135d) 12 (40d) 12 (126d) 12 (1d) 12
--  -/-  ★12 **opensport/formula1.db** (204 kb) - [14]: 12 (75d) 12 (91d) 12 (43d) 12 (125d) 12 (40d) 12 (40d) 12 (19d) 12 (11d) 12 (49d) 12 (135d) 12 (40d) 12 (126d) 12 (1d) 12
--  -/-  ★12 **worlddb/world.db.starter** (12 kb) - [10]: 12 (75d) 12 (91d) 12 (43d) 12 (125d) 12 (40d) 12 (40d) 12 (19d) 12 (11d) 12 (49d) 12
--  -/-  ★11 **s6ruby/redpaper** (84 kb) - [1]: 11
--  -/-  ★11 **funpress/mostly-adequate-guide-to-fp** (3620 kb) - [14]: 11 (75d) 11 (91d) 11 (43d) 11 (+1 in 125d) 10 (40d) 10 (-1 in 40d) 11 (19d) 11 (11d) 11 (+1 in 49d) 10 (-1 in 135d) 11 (+1 in 40d) 10 (+2 in 126d) 8 (1d) 8
--  -/-  ★11 **openfootball/national-teams** (48 kb) - [14]: 11 (75d) 11 (91d) 11 (43d) 11 (125d) 11 (40d) 11 (40d) 11 (19d) 11 (11d) 11 (49d) 11 (135d) 11 (40d) 11 (-1 in 126d) 12 (1d) 12
--  -/-  ★11 **footballbook/footballbook.github.io** (1156 kb) - [14]: 11 (75d) 11 (91d) 11 (43d) 11 (125d) 11 (40d) 11 (40d) 11 (19d) 11 (11d) 11 (49d) 11 (135d) 11 (40d) 11 (-1 in 126d) 12 (1d) 12
--  -/-  ★11 **opensport/american-football.db** (160 kb) - [14]: 11 (75d) 11 (91d) 11 (43d) 11 (125d) 11 (40d) 11 (40d) 11 (19d) 11 (11d) 11 (49d) 11 (135d) 11 (40d) 11 (126d) 11 (1d) 11
--  -/-  ★10 **austriacodes/vienna.html** (1541 kb) - [9]: 10 (75d) 10 (91d) 10 (43d) 10 (+1 in 125d) 9 (40d) 9 (40d) 9 (19d) 9 (11d) 9
--  -/-  ★10 **planetjekyll/planetjekyll.github.io** (112 kb) - [14]: 10 (75d) 10 (91d) 10 (43d) 10 (125d) 10 (40d) 10 (40d) 10 (19d) 10 (11d) 10 (49d) 10 (135d) 10 (40d) 10 (+1 in 126d) 9 (1d) 9
--  -/-  ★9 **s6ruby/pragmas** (89 kb) - [1]: 9
--  -/-  ★9 **openblockchains/tulipmania** (141 kb) - [9]: 9 (75d) 9 (91d) 9 (43d) 9 (125d) 9 (40d) 9 (+1 in 40d) 8 (+1 in 19d) 7 (11d) 7
--  -/-  ★9 **staystatic/staystatic.github.io** (1565 kb) - [14]: 9 (75d) 9 (91d) 9 (43d) 9 (125d) 9 (40d) 9 (+1 in 40d) 8 (19d) 8 (11d) 8 (49d) 8 (135d) 8 (+1 in 40d) 7 (126d) 7 (1d) 7
--  -/-  ★9 **factbook/factbook.github.io** (22742 kb) - [14]: 9 (75d) 9 (91d) 9 (43d) 9 (+2 in 125d) 7 (+1 in 40d) 6 (+1 in 40d) 5 (19d) 5 (11d) 5 (+3 in 49d) 2 (+1 in 135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★9 **plutolive/pluto.live** (403 kb) - [14]: 9 (75d) 9 (91d) 9 (43d) 9 (125d) 9 (40d) 9 (40d) 9 (19d) 9 (11d) 9 (49d) 9 (135d) 9 (40d) 9 (126d) 9 (1d) 9
--  -/-  ★8 **planetruby/meetups** (60 kb) - [2]: 8 (75d) 8
--  -/-  ★8 **quikstart/sinatra-starter-template** (136 kb) - [14]: 8 (75d) 8 (91d) 8 (43d) 8 (125d) 8 (40d) 8 (40d) 8 (19d) 8 (11d) 8 (49d) 8 (135d) 8 (40d) 8 (126d) 8 (1d) 8
--  -/-  ★8 **mrhydescripts/scripts** (8 kb) - [14]: 8 (75d) 8 (91d) 8 (43d) 8 (+1 in 125d) 7 (40d) 7 (+1 in 40d) 6 (-1 in 19d) 7 (11d) 7 (49d) 7 (135d) 7 (40d) 7 (+1 in 126d) 6 (1d) 6
--  -/-  ★8 **s6ruby/ruby-to-michelson** (187 kb) - [1]: 8
--  -/-  ★8 **textkit/event.db** (184 kb) - [14]: 8 (75d) 8 (91d) 8 (43d) 8 (125d) 8 (40d) 8 (40d) 8 (19d) 8 (11d) 8 (49d) 8 (135d) 8 (40d) 8 (-1 in 126d) 9 (1d) 9
--  -/-  ★8 **footballcsv/fr-france** (1077 kb) - [14]: 8 (75d) 8 (91d) 8 (43d) 8 (+2 in 125d) 6 (40d) 6 (+1 in 40d) 5 (+1 in 19d) 4 (11d) 4 (49d) 4 (+1 in 135d) 3 (40d) 3 (-1 in 126d) 4 (1d) 4
--  -/-  ★8 **slideshow-templates/slideshow-csss** (103 kb) - [14]: 8 (75d) 8 (91d) 8 (43d) 8 (125d) 8 (40d) 8 (40d) 8 (19d) 8 (11d) 8 (49d) 8 (135d) 8 (40d) 8 (+2 in 126d) 6 (1d) 6
--  -/-  ★7 **bigkorupto/awesome-nocode** (368 kb) - [6]: 7 (75d) 7 (91d) 7 (43d) 7 (125d) 7 (+6 in 40d) 1
--  -/-  ★7 **officetxt/officetxt** (7 kb) - [11]: 7 (75d) 7 (91d) 7 (43d) 7 (125d) 7 (40d) 7 (40d) 7 (19d) 7 (11d) 7 (+1 in 49d) 6 (135d) 6
--  -/-  ★7 **texti/texti.github.io** (36 kb) - [11]: 7 (75d) 7 (91d) 7 (43d) 7 (+2 in 125d) 5 (40d) 5 (40d) 5 (19d) 5 (11d) 5 (49d) 5 (135d) 5
--  -/-  ★7 **csvreader/csv11** (11 kb) - [3]: 7 (75d) 7 (91d) 7
--  -/-  ★7 **henrythemes/hello-jekyll-theme** (6 kb) - [14]: 7 (75d) 7 (91d) 7 (+2 in 43d) 5 (125d) 5 (40d) 5 (40d) 5 (19d) 5 (11d) 5 (49d) 5 (+2 in 135d) 3 (40d) 3 (126d) 3 (1d) 3
--  -/-  ★7 **sportdb/rsssf** (164 kb) - [14]: 7 (75d) 7 (91d) 7 (43d) 7 (125d) 7 (40d) 7 (40d) 7 (19d) 7 (11d) 7 (49d) 7 (135d) 7 (40d) 7 (126d) 7 (1d) 7
--  -/-  ★7 **openblockchains/programming-bitcoin-script** (506 kb) - [1]: 7
--  -/-  ★7 **s6ruby/ruby-to-solidity** (30 kb) - [1]: 7
--  -/-  ★7 **beercsv/statistics** (268 kb) - [14]: 7 (75d) 7 (91d) 7 (43d) 7 (125d) 7 (40d) 7 (40d) 7 (19d) 7 (11d) 7 (49d) 7 (135d) 7 (40d) 7 (126d) 7 (1d) 7
--  -/-  ★7 **beerbook/beerbook.github.io** (954 kb) - [14]: 7 (75d) 7 (91d) 7 (43d) 7 (+1 in 125d) 6 (40d) 6 (40d) 6 (19d) 6 (11d) 6 (49d) 6 (135d) 6 (40d) 6 (126d) 6 (1d) 6
--  -/-  ★7 **openbeer/at-austria** (384 kb) - [14]: 7 (75d) 7 (91d) 7 (43d) 7 (125d) 7 (+1 in 40d) 6 (40d) 6 (19d) 6 (11d) 6 (49d) 6 (135d) 6 (40d) 6 (126d) 6 (1d) 6
--  -/-  ★6 **cryptocopycats/kitties** (26994 kb) - [6]: 6 (75d) 6 (91d) 6 (43d) 6 (+1 in 125d) 5 (40d) 5
--  -/-  ★6 **json-next/json-next.github.io** (20 kb) - [9]: 6 (75d) 6 (91d) 6 (43d) 6 (125d) 6 (40d) 6 (40d) 6 (19d) 6 (11d) 6
--  -/-  ★6 **octobook/book-classics-theme** (145 kb) - [14]: 6 (75d) 6 (91d) 6 (43d) 6 (125d) 6 (40d) 6 (40d) 6 (19d) 6 (11d) 6 (49d) 6 (-1 in 135d) 7 (40d) 7 (126d) 7 (1d) 7
--  -/-  ★6 **openfootball/schema** (7 kb) - [14]: 6 (75d) 6 (91d) 6 (43d) 6 (125d) 6 (40d) 6 (40d) 6 (19d) 6 (11d) 6 (49d) 6 (135d) 6 (40d) 6 (+2 in 126d) 4 (1d) 4
--  -/-  ★6 **worlddb/world.db.codes** (161 kb) - [14]: 6 (75d) 6 (91d) 6 (43d) 6 (125d) 6 (40d) 6 (40d) 6 (19d) 6 (11d) 6 (49d) 6 (-1 in 135d) 7 (40d) 7 (126d) 7 (1d) 7
--  -/-  ★6 **openbeer/schema.sql** (140 kb) - [14]: 6 (75d) 6 (91d) 6 (43d) 6 (+2 in 125d) 4 (40d) 4 (40d) 4 (+1 in 19d) 3 (11d) 3 (49d) 3 (135d) 3 (+1 in 40d) 2 (126d) 2 (1d) 2
--  -/-  ★6 **footballjs/football.html** (204 kb) - [14]: 6 (75d) 6 (91d) 6 (43d) 6 (125d) 6 (40d) 6 (40d) 6 (19d) 6 (11d) 6 (49d) 6 (135d) 6 (40d) 6 (126d) 6 (1d) 6
--  -/-  ★6 **yorobot/world.db** (25 kb) - [14]: 6 (75d) 6 (91d) 6 (43d) 6 (125d) 6 (40d) 6 (40d) 6 (19d) 6 (11d) 6 (49d) 6 (135d) 6 (40d) 6 (126d) 6 (1d) 6
--  -/-  ★6 **beerkit/beer.db.admin** (536 kb) - [14]: 6 (75d) 6 (91d) 6 (43d) 6 (125d) 6 (40d) 6 (40d) 6 (19d) 6 (11d) 6 (49d) 6 (135d) 6 (40d) 6 (126d) 6 (1d) 6
--  -/-  ★5 **slidekit/talks-starter** (167 kb) - [10]: 5 (75d) 5 (91d) 5 (43d) 5 (125d) 5 (40d) 5 (40d) 5 (19d) 5 (11d) 5 (+1 in 49d) 4
--  -/-  ★5 **csvspecs/csv-v11** (12 kb) - [3]: 5 (75d) 5 (91d) 5
--  -/-  ★5 **octobook/octobook** (2 kb) - [14]: 5 (75d) 5 (91d) 5 (43d) 5 (125d) 5 (+1 in 40d) 4 (40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4 (126d) 4 (1d) 4
--  -/-  ★5 **mundimark/markdown-can-i-use** (16 kb) - [14]: 5 (75d) 5 (91d) 5 (43d) 5 (125d) 5 (40d) 5 (+1 in 40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4 (126d) 4 (1d) 4
--  -/-  ★5 **bookdesigns/book-git** (67 kb) - [14]: 5 (75d) 5 (91d) 5 (43d) 5 (125d) 5 (40d) 5 (40d) 5 (19d) 5 (11d) 5 (49d) 5 (+1 in 135d) 4 (40d) 4 (+1 in 126d) 3 (1d) 3
--  -/-  ★5 **pagedesigns/markedapp-byword** (5 kb) - [14]: 5 (75d) 5 (91d) 5 (+1 in 43d) 4 (125d) 4 (40d) 4 (+1 in 40d) 3 (19d) 3 (11d) 3 (49d) 3 (+1 in 135d) 2 (40d) 2 (+1 in 126d) 1 (1d) 1
--  -/-  ★5 **bookdesigns/book-epsilon** (128 kb) - [14]: 5 (75d) 5 (91d) 5 (43d) 5 (+1 in 125d) 4 (40d) 4 (+1 in 40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (+1 in 126d) 2 (1d) 2
--  -/-  ★5 **bookdesigns/designs** (0 kb) - [14]: 5 (75d) 5 (91d) 5 (43d) 5 (125d) 5 (40d) 5 (+1 in 40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4 (+2 in 126d) 2 (1d) 2
--  -/-  ★5 **manuscripts/manuscripts** (24 kb) - [14]: 5 (75d) 5 (91d) 5 (43d) 5 (+1 in 125d) 4 (40d) 4 (+2 in 40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (+1 in 126d) 1 (1d) 1
--  -/-  ★5 **quikstart/scripts** (11 kb) - [14]: 5 (75d) 5 (91d) 5 (43d) 5 (125d) 5 (40d) 5 (40d) 5 (19d) 5 (11d) 5 (49d) 5 (135d) 5 (40d) 5 (+1 in 126d) 4 (1d) 4
--  -/-  ★5 **geraldb/web-proxy-win** (152 kb) - [14]: 5 (75d) 5 (91d) 5 (43d) 5 (125d) 5 (40d) 5 (40d) 5 (19d) 5 (+1 in 11d) 4 (49d) 4 (135d) 4 (+1 in 40d) 3 (126d) 3 (1d) 3
--  -/-  ★5 **footballcsv/de-deutschland** (960 kb) - [14]: 5 (75d) 5 (91d) 5 (43d) 5 (+1 in 125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4 (-1 in 126d) 5 (1d) 5
--  -/-  ★5 **openfootball/fr-france** (66 kb) - [14]: 5 (75d) 5 (91d) 5 (43d) 5 (+2 in 125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (+1 in 126d) 2 (1d) 2
--  -/-  ★5 **openmundi/openmundi.github.io** (329 kb) - [14]: 5 (75d) 5 (91d) 5 (43d) 5 (125d) 5 (40d) 5 (40d) 5 (19d) 5 (11d) 5 (49d) 5 (135d) 5 (40d) 5 (126d) 5 (1d) 5
--  -/-  ★5 **plutolive/pluto.live.starter** (14 kb) - [14]: 5 (75d) 5 (91d) 5 (43d) 5 (125d) 5 (40d) 5 (40d) 5 (19d) 5 (11d) 5 (49d) 5 (135d) 5 (40d) 5 (126d) 5 (1d) 5
--  -/-  ★5 **opensport/hockey.db** (160 kb) - [14]: 5 (75d) 5 (91d) 5 (43d) 5 (125d) 5 (40d) 5 (40d) 5 (19d) 5 (11d) 5 (49d) 5 (135d) 5 (40d) 5 (+1 in 126d) 4 (1d) 4
--  -/-  ★5 **sportlogos/football.db.logos.ruby** (10396 kb) - [14]: 5 (75d) 5 (91d) 5 (43d) 5 (125d) 5 (40d) 5 (40d) 5 (19d) 5 (11d) 5 (49d) 5 (135d) 5 (40d) 5 (126d) 5 (1d) 5
--  -/-  ★5 **writekit/markdown.note** (248 kb) - [14]: 5 (75d) 5 (91d) 5 (43d) 5 (125d) 5 (40d) 5 (+1 in 40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4 (126d) 4 (1d) 4
--  -/-  ★5 **slideshow-templates/slideshow-s6-blank** (215 kb) - [14]: 5 (75d) 5 (91d) 5 (43d) 5 (125d) 5 (40d) 5 (40d) 5 (19d) 5 (11d) 5 (49d) 5 (135d) 5 (40d) 5 (+2 in 126d) 3 (1d) 3
--  -/-  ★5 **slideshow-templates/slideshow-s5-blank** (90 kb) - [14]: 5 (75d) 5 (91d) 5 (43d) 5 (125d) 5 (40d) 5 (40d) 5 (19d) 5 (11d) 5 (49d) 5 (135d) 5 (40d) 5 (+1 in 126d) 4 (1d) 4
--  -/-  ★4 **csvspecs/csv-json** (22 kb) - [3]: 4 (75d) 4 (91d) 4
--  -/-  ★4 **austriacodes/ruby** (15 kb) - [9]: 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (+3 in 19d) 1 (11d) 1
--  -/-  ★4 **feedtxt/feedtxt** (28 kb) - [12]: 4 (75d) 4 (91d) 4 (43d) 4 (+1 in 125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3
--  -/-  ★4 **feedreader/pluto.starter** (12 kb) - [12]: 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4
--  -/-  ★4 **henrythemes/jekyll-talks-theme** (740 kb) - [14]: 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4 (+1 in 49d) 3 (135d) 3 (40d) 3 (+2 in 126d) 1 (1d) 1
--  -/-  ★4 **octobook/book-2017-theme** (183 kb) - [9]: 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4
--  -/-  ★4 **funpress/up-n-going** (229 kb) - [14]: 4 (75d) 4 (91d) 4 (43d) 4 (+1 in 125d) 3 (40d) 3 (40d) 3 (+1 in 19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★4 **mundimark/markdown-tools** (5 kb) - [14]: 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4 (126d) 4 (1d) 4
--  -/-  ★4 **slideshow-s9/slideshow-starter** (64 kb) - [14]: 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (+1 in 40d) 3 (40d) 3 (19d) 3 (11d) 3 (+1 in 49d) 2 (+1 in 135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★4 **opensport/rugby.db** (156 kb) - [14]: 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4 (126d) 4 (1d) 4
--  -/-  ★4 **s6ruby/safemath** (15 kb) - [1]: 4
--  -/-  ★4 **footballbook/calendar** (160 kb) - [14]: 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4 (126d) 4 (1d) 4
--  -/-  ★4 **worldclassics/the-trial** (185 kb) - [14]: 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4 (+1 in 126d) 3 (1d) 3
--  -/-  ★4 **openfootball/women-world-cup** (144 kb) - [14]: 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4 (126d) 4 (1d) 4
--  -/-  ★4 **openbeer/schema** (6 kb) - [14]: 4 (75d) 4 (91d) 4 (+1 in 43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
--  -/-  ★4 **openbeer/datafile** (172 kb) - [14]: 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4 (+1 in 49d) 3 (135d) 3 (40d) 3 (+1 in 126d) 2 (1d) 2
--  -/-  ★4 **beerbook/maps** (43 kb) - [14]: 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4 (126d) 4 (1d) 4
--  -/-  ★4 **openmundi/austria.db** (396 kb) - [14]: 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4 (49d) 4 (+1 in 135d) 3 (40d) 3 (+1 in 126d) 2 (1d) 2
--  -/-  ★4 **yorobot/beer.db** (68 kb) - [14]: 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4 (126d) 4 (1d) 4
--  -/-  ★4 **openfootball/copa-libertadores** (22 kb) - [14]: 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4 (126d) 4 (1d) 4
--  -/-  ★4 **openbeer/be-belgium** (34 kb) - [14]: 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4 (126d) 4 (1d) 4
--  -/-  ★4 **rsssf/rsssf.github.io** (204 kb) - [14]: 4 (75d) 4 (91d) 4 (43d) 4 (+1 in 125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
--  -/-  ★3 **csvreader/tabreader** (30 kb) - [3]: 3 (75d) 3 (91d) 3
--  -/-  ★3 **geraldb/awesome** (1 kb) - [8]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (+1 in 40d) 2 (19d) 2
--  -/-  ★3 **texti/texti** (45 kb) - [11]: 3 (75d) 3 (91d) 3 (43d) 3 (+2 in 125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1
--  -/-  ★3 **yukimotopress/smalldata** (39 kb) - [9]: 3 (75d) 3 (91d) 3 (+1 in 43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2
--  -/-  ★3 **feedparser/feedfinder** (3 kb) - [12]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3
--  -/-  ★3 **feedparser/feeds** (719 kb) - [12]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3
--  -/-  ★3 **feedreader/docs** (266 kb) - [12]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (+2 in 49d) 1 (135d) 1 (40d) 1
--  -/-  ★3 **slideshow-templates/slideshow-bespoke.js** (46 kb) - [12]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (+1 in 19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2
--  -/-  ★3 **henrythemes/hello-pages-theme-v2** (8 kb) - [14]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (+1 in 40d) 2 (+1 in 126d) 1 (1d) 1
--  -/-  ★3 **quikstart/jekyll-starter-theme** (5 kb) - [14]: 3 (75d) 3 (91d) 3 (43d) 3 (+2 in 125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★3 **hydepress/octopod** (129 kb) - [14]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
--  -/-  ★3 **bookdesigns/book-rust** (67 kb) - [14]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
--  -/-  ★3 **bookdesigns/book-hamilton** (215 kb) - [14]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (+1 in 40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★3 **hydepress/jekyll-style** (6 kb) - [14]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
--  -/-  ★3 **s6ruby/units-money** (79 kb) - [1]: 3
--  -/-  ★3 **hydepress/octopress** (37 kb) - [14]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
--  -/-  ★3 **openfootball/ru-russia** (147 kb) - [14]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
--  -/-  ★3 **yorobot/planetjekyll** (243 kb) - [14]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (+1 in 40d) 2 (126d) 2 (1d) 2
--  -/-  ★3 **worldclassics/dr-jekyll-and-mr-hyde** (135 kb) - [14]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (+1 in 40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★3 **planetruby/books** (661 kb) - [14]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
--  -/-  ★3 **planet-templates/planet-templates.github.io** (366 kb) - [14]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (+1 in 135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★3 **sportdb/sport.db.web** (175 kb) - [14]: 3 (75d) 3 (91d) 3 (43d) 3 (+2 in 125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★3 **footballcsv/gr-greece** (215 kb) - [14]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
--  -/-  ★3 **footballcsv/tr-turkey** (250 kb) - [14]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
--  -/-  ★3 **footballcsv/it-italy** (820 kb) - [14]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (-1 in 49d) 4 (135d) 4 (40d) 4 (-1 in 126d) 5 (1d) 5
--  -/-  ★3 **wikiscript/wikiscript** (160 kb) - [14]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
--  -/-  ★3 **footballjs/football.api.js** (140 kb) - [14]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
--  -/-  ★3 **footballjs/starter** (33 kb) - [14]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
--  -/-  ★3 **openfootball/club-world-cup** (7 kb) - [14]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
--  -/-  ★3 **sportlogos/sportlogos.github.io** (132 kb) - [14]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (+1 in 126d) 2 (1d) 2
--  -/-  ★3 **openbeer/ca-canada** (184 kb) - [14]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
--  -/-  ★3 **openbeer/mx-mexico** (57 kb) - [14]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
--  -/-  ★3 **openfootball/copa-america** (7 kb) - [14]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
--  -/-  ★3 **csvspecs/csv-next** (12 kb) - [3]: 3 (75d) 3 (91d) 3
--  -/-  ★3 **openfootball/copa-sudamericana** (3 kb) - [14]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
--  -/-  ★3 **geraldb/webpub-reader** (11 kb) - [9]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3
--  -/-  ★3 **rubycoco/logutils** (39 kb) - [4]: 3 (75d) 3 (91d) 3 (43d) 3
--  -/-  ★3 **openbookie/market.europe-champions-league** (336 kb) - [14]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
--  -/-  ★3 **planetruby/hellohoe** (2 kb) - [9]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3
--  -/-  ★3 **commonsjs/jquery.table.js** (237 kb) - [4]: 3 (75d) 3 (91d) 3 (43d) 3
--  -/-  ★3 **rubycoco/props** (26 kb) - [4]: 3 (75d) 3 (91d) 3 (43d) 3
--  -/-  ★3 **rubycoco/fetcher** (166 kb) - [4]: 3 (75d) 3 (91d) 3 (43d) 3
--  -/-  ★3 **slideshow-templates/slideshow-s6-syntax-highlighter** (194 kb) - [14]: 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (-1 in 126d) 4 (1d) 4
--  -/-  ★2 **cryptocopycats/kittyverse.json** (18 kb) - [2]: 2 (75d) 2
--  -/-  ★2 **csvreader/benchmarks** (119 kb) - [2]: 2 (75d) 2
--  -/-  ★2 **csvreader/csvhuman** (119 kb) - [2]: 2 (75d) 2
--  -/-  ★2 **csvspecs/csv-yaml** (10 kb) - [3]: 2 (75d) 2 (91d) 2
--  -/-  ★2 **csvreader/csvjson** (18 kb) - [3]: 2 (75d) 2 (91d) 2
--  -/-  ★2 **csvspecs/csv-v10** (53 kb) - [3]: 2 (75d) 2 (91d) 2
--  -/-  ★2 **sportdb/docs** (19 kb) - [4]: 2 (75d) 2 (91d) 2 (43d) 2
--  -/-  ★2 **bitsblocks/ethereum** (50 kb) - [5]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2
--  -/-  ★2 **openblockchains/awesome-sha256** (12 kb) - [6]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (+1 in 40d) 1
--  -/-  ★2 **austriacodes/austria.txt** (23 kb) - [6]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2
--  -/-  ★2 **rubycoco/fizzbuzzer** (105 kb) - [4]: 2 (75d) 2 (91d) 2 (43d) 2
--  -/-  ★2 **yukimotopress/start** (165 kb) - [9]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (+1 in 11d) 1
--  -/-  ★2 **octobook/gitbook-to-octobook-sample** (366 kb) - [9]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (+1 in 40d) 1 (19d) 1 (11d) 1
--  -/-  ★2 **yukimotopress/auto** (72 kb) - [9]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2
--  -/-  ★2 **austriacodes/austriacodes.github.io** (7 kb) - [9]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2
--  -/-  ★2 **austriacodes/blockchain-austria** (18 kb) - [9]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2
--  -/-  ★2 **feedtxt/feedtxt.github.io** (44 kb) - [12]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2
--  -/-  ★2 **mundimark/markdown.pl** (108 kb) - [12]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2
--  -/-  ★2 **playhtml/memory** (665 kb) - [12]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2
--  -/-  ★2 **publicdomainworks/publicdomainworks.github.io** (2 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (+1 in 135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★2 **mundimark/markdown-tools-books** (5 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (+1 in 40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★2 **octobook/awesome-typography** (0 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (+1 in 125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★2 **funpress/es6-features** (32 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (+1 in 126d) 1 (1d) 1
--  -/-  ★2 **slideshow-s9/slideshow-service** (355 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **rubycoco/gutenberg** (2 kb) - [4]: 2 (75d) 2 (91d) 2 (43d) 2
--  -/-  ★2 **bibtxt/bibtxt.github.io** (3 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (+1 in 125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★2 **hydepress/hydepress.github.io** (160 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **hydepress/jekyll** (117 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **planetjekyll/sandbox-collections** (11 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (+1 in 126d) 1 (1d) 1
--  -/-  ★2 **henrythemes/jekyll-boom-theme-v2** (124 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **henrythemes/jekyll-boom-theme** (137 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (+1 in 126d) 1 (1d) 1
--  -/-  ★2 **planetjekyll/sandbox-github-pages** (30 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (+1 in 49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★2 **yorobot/rubyconf** (3 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **s6ruby/ethereum-contracts** (75 kb) - [1]: 2
--  -/-  ★2 **yorobot/cache** (1566 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **yorobot/factbook** (62 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **yorobot/football.db.rsssf** (62 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **yorobot/football.csv** (371 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **quikstart/gem-starter-template-hoe** (172 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (-1 in 40d) 3 (126d) 3 (1d) 3
--  -/-  ★2 **quikstart/gem-starter-template** (140 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **planetopendata/awesome-austria** (48 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **openbeer/oberbayern** (336 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **planetruby/links** (203 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **geraldb/catalog** (156 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (+1 in 125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★2 **yorobot/backup** (1037 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **book-templates/bookfile** (156 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (+1 in 40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★2 **openmundi/datafile** (2 kb) - [14]: 2 (75d) 2 (91d) 2 (+1 in 43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★2 **yorobot/auto** (47 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **planetruby/planet** (232 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **planetruby/planetruby.github.io** (682 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **feedreader/notes** (196 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (+1 in 125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★2 **slideshow-templates/slideshow-templates.github.io** (31 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (+1 in 40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★2 **openmundi/deutschland.db** (212 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **openbeer/co-colorado** (204 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **openbeer/or-oregon** (184 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **openbeer/by-bayern** (89 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (+1 in 135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★2 **beercsv/world** (172 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (-1 in 40d) 3 (+2 in 40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★2 **beerkit/beer.db.starter** (16 kb) - [10]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2
--  -/-  ★2 **sportkit/sport.db.starter.go** (192 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **writekit/markdown.note.starter** (212 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **openmundi/world-heritage** (144 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **beercsv/be-belgium** (212 kb) - [14]: 2 (75d) 2 (91d) 2 (+1 in 43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★2 **footballcsv/pt-portugal** (283 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **sportdb/football.db.models** (204 kb) - [14]: 2 (75d) 2 (91d) 2 (-1 in 43d) 3 (+1 in 125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (-1 in 135d) 3 (40d) 3 (126d) 3 (1d) 3
--  -/-  ★2 **openfootball/ch-confoederatio-helvetica** (10 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **sportlabs/major-league-soccer** (819 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **openfootball/assocs** (148 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **rsssf/es-espana** (264 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **openfootball/confed-cup** (25 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **openfootball/futbol-es** (164 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **openfootball/fussball-de** (192 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **hybook/hybook** (204 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **openfootball/sandbox** (148 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **worldbook/worldbook.github.io** (392 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **openbeer/nl-netherlands** (164 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **openbookie/notes** (108 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **openfootball/north-america-champions-league** (8 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **openbookie/market.at-austria** (112 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **rubycoco/activerecord-utils** (164 kb) - [4]: 2 (75d) 2 (91d) 2 (43d) 2
--  -/-  ★2 **feedreader/feedreader.github.io** (365 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **rubycoco/activityutils** (6 kb) - [4]: 2 (75d) 2 (91d) 2 (43d) 2
--  -/-  ★2 **planet-templates/planet-feeds** (7 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **planet-templates/planet-news** (125 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **planet-templates/planet-blank** (449 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (+1 in 135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★2 **rubycoco/tagutils** (31 kb) - [4]: 2 (75d) 2 (91d) 2 (43d) 2
--  -/-  ★2 **openfootball/lang** (228 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **beerkit/beer.js** (370 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **openfootball/africa-cup** (11 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **openfootball/north-america-gold-cup** (18 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **openfootball/mx-mexico** (18 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **openbeer/de-deutschland** (493 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **openbeer/cz-czech-republic** (312 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **openbookie/sport.db.play** (204 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **rubycoco/hoe-manifest** (128 kb) - [4]: 2 (75d) 2 (91d) 2 (43d) 2
--  -/-  ★2 **rubycoco/pakman** (55 kb) - [4]: 2 (75d) 2 (91d) 2 (43d) 2
--  -/-  ★2 **textkit/textutils** (158 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **commonsjs/jquery.debug.js** (99 kb) - [4]: 2 (75d) 2 (91d) 2 (43d) 2
--  -/-  ★2 **slideshow-templates/slideshow-s5-themes** (160 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★2 **geraldb/sandbox** (154 kb) - [14]: 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
--  -/-  ★1 **openblockchains/awesome-coins** (990 kb) - [2]: 1 (75d) 1
--  -/-  ★1 **cryptocopycats/kittyverse** (62 kb) - [2]: 1 (75d) 1
--  -/-  ★1 **cryptocopycats/media** (2805 kb) - [2]: 1 (75d) 1
--  -/-  ★1 **csvspecs/csv-hxl** (4 kb) - [2]: 1 (75d) 1
--  -/-  ★1 **csvspecs/csv-meta** (34 kb) - [3]: 1 (75d) 1 (91d) 1
--  -/-  ★1 **csvspecs/csv-numerics** (22 kb) - [3]: 1 (75d) 1 (91d) 1
--  -/-  ★1 **rubycoco/typeconv** (2 kb) - [3]: 1 (75d) 1 (91d) 1
--  -/-  ★1 **csvreader/csvyaml** (15 kb) - [3]: 1 (75d) 1 (91d) 1
--  -/-  ★1 **footballcsv/major-league-soccer** (181 kb) - [4]: 1 (75d) 1 (91d) 1 (43d) 1
--  -/-  ★1 **footballcsv/br-brazil** (0 kb) - [4]: 1 (75d) 1 (91d) 1 (43d) 1
--  -/-  ★1 **footballcsv/mx-mexico** (44 kb) - [4]: 1 (75d) 1 (91d) 1 (43d) 1
--  -/-  ★1 **footballcsv/at-austria** (27 kb) - [4]: 1 (75d) 1 (91d) 1 (43d) 1
--  -/-  ★1 **openfootball/opendata-theme** (4 kb) - [4]: 1 (75d) 1 (91d) 1 (43d) 1
--  -/-  ★1 **bitsblocks/islandcoin-whitepaper** (238 kb) - [5]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1
--  -/-  ★1 **bitsblocks/bitcoin-whitepaper** (107 kb) - [5]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1
--  -/-  ★1 **bitsblocks/crypto-facts** (267 kb) - [5]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1
--  -/-  ★1 **bitsblocks/bitsblocks.github.io** (4087 kb) - [5]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1
--  -/-  ★1 **bitsblocks/ethereum-whitepaper** (334 kb) - [5]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1
--  -/-  ★1 **cryptocopycats/base32-alphabets** (56 kb) - [2]: 1 (75d) 1
--  -/-  ★1 **planetruby/calendar-theme** (10 kb) - [7]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1
--  -/-  ★1 **drjekyllthemes/test-theme** (65 kb) - [7]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1
--  -/-  ★1 **yukimotopress/fizzbuzz** (19 kb) - [9]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1
--  -/-  ★1 **yukimotopress/examples** (28 kb) - [9]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1
--  -/-  ★1 **yukimotopress/practices** (324 kb) - [9]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1
--  -/-  ★1 **austriacodes/showcase** (656 kb) - [9]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1
--  -/-  ★1 **yukimotopress/micro** (179 kb) - [9]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1
--  -/-  ★1 **slidekit/jekyll-talks-theme** (9 kb) - [10]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1
--  -/-  ★1 **slideshow-templates/slideshow-s6-blank-v1** (90 kb) - [10]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1
--  -/-  ★1 **openfootball/women-euro-cup** (8 kb) - [11]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1
--  -/-  ★1 **officetxt/officetxt.github.io** (35 kb) - [11]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1
--  -/-  ★1 **journaltxt/blog** (21 kb) - [11]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1
--  -/-  ★1 **markupmadness/markupmadness** (29 kb) - [11]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1
--  -/-  ★1 **markupmadness/markupmadness.github.io** (19 kb) - [11]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1
--  -/-  ★1 **json-next/json-feed** (10 kb) - [9]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1
--  -/-  ★1 **json-next/json-next-tests** (16 kb) - [9]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1
--  -/-  ★1 **datatxt/iniparser** (6 kb) - [11]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1
--  -/-  ★1 **datatxt/datatxt.github.io** (6 kb) - [11]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1
--  -/-  ★1 **feedhtml/hyperdata** (7 kb) - [12]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1
--  -/-  ★1 **feedhtml/feedhtml.github.io** (4 kb) - [12]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1
--  -/-  ★1 **playhtml/feeds** (167 kb) - [12]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1
--  -/-  ★1 **playhtml/weather** (186 kb) - [12]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1
--  -/-  ★1 **playhtml/search** (214 kb) - [12]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1
--  -/-  ★1 **playhtml/hello** (168 kb) - [12]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1
--  -/-  ★1 **playhtml/tictactoe** (183 kb) - [12]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1
--  -/-  ★1 **slidekit/s6-v1** (53 kb) - [12]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1
--  -/-  ★1 **henrythemes/hello-pages-theme** (11 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **yorobot/logs** (2 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **mundimark/mundimark.github.io** (6 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **writekit/writekit.github.io** (0 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **updownpress/updownpress.github.io** (7 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **funpress/elm-by-example** (209 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **funpress/babel** (21 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **funpress/funpress.github.io** (3728 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **octobook/book-blank-theme** (72 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **slideshow-templates/media** (51227 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **slideshow-templates/slideshow-google-io-2011-slides** (555 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **hydepress/liquid** (18 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **hydepress/jekyll-install** (6 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **hydepress/jekyll-deploy** (12 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **hydepress/jekyll-dev** (8 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **shellpress/raspberrypi** (38238 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **hydepress/jekyll-themes** (40 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **austriacodes/questions** (23 kb) - [9]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1
--  -/-  ★1 **hydepress/jekyll-import** (18 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **hydepress/jekyll-plugins** (34 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **printhtml/quickrefs** (2 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **printhtml/awesome-print** (2 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **planetjekyll/sandbox-syntax-highlighter** (12 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **rsssf/spec** (3 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **rubycoco/fotos** (4 kb) - [4]: 1 (75d) 1 (91d) 1 (43d) 1
--  -/-  ★1 **gittiscripts/gitti** (22 kb) - [8]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1
--  -/-  ★1 **gittiscripts/hubba** (21 kb) - [8]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1
--  -/-  ★1 **sportdb/scripts** (158 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **rubycoco/jekylldoc** (136 kb) - [4]: 1 (75d) 1 (91d) 1 (43d) 1
--  -/-  ★1 **s6ruby/records** (14 kb) - [1]: 1
--  -/-  ★1 **planetjekyll/sandbox** (81 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **s6ruby/programming-bits-bytes** (9 kb) - [1]: 1
--  -/-  ★1 **rsssf/at-austria** (57 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **textkit/rubycat** (140 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **textkit/catalog.db** (140 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **beerbook/calendar** (14 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **planetopendata/planetopendata.github.io** (132 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **planetruby/apps** (161 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **beerkit/beer.db.service** (5 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **worlddb/world.db.service** (1 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **sportdb/sport.db.service** (120 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **textkit/dataman** (136 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **hybook/bookman** (140 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **geraldb/austria** (552 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **openbeer/oberfranken** (332 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **hybook/bookfile** (224 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **wikiscript/beer** (28 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **openbeer/collections** (4 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **planetruby/quickrefs** (37 kb) - [1]: 1
--  -/-  ★1 **planetbeer/books** (1616 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **planetbeer/planetbeer.github.io** (172 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **planetjekyll/planet** (170 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **book-templates/beer** (208 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **book-templates/world** (176 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **book-templates/football** (196 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **textkit/notes** (120 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **textkit/preproc** (136 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **planet-templates/planet-forty** (89 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **planet-templates/planet-paper** (85 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **planetopendata/planet** (206 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **planetbeer/planet** (132 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **slideshow-s9/slideshow-plugins** (4 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **writekit/markdown-tools** (136 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **writekit/markdown-service** (60 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **textkit/datafile** (220 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **worlddb/world.db.cities** (136 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **openbeer/images** (260 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **beerkit/beer.db.day** (186 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **openbeer/market** (148 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **openbeer/wa-washington** (148 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **openbeer/menus** (136 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **beercsv/ca-canada** (148 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **beercsv/de-deutschland** (144 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **mokkalibs/mokka** (144 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **geraldb/polymer** (500 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **slidekit/s6-samples** (408 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **slidekit/s6-minimalistic** (3 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **slidekit/slidekit.github.io** (10 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **writekit/markdown.api.js** (140 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **writekit/markdown.lib.js** (140 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **writekit/markdown.themes** (140 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **geraldb/webcomponents** (164 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **sportdb/sport.db.service.rack** (144 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **slideshow-s9/samples** (122 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **beercsv/build** (308 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **sportdb/racing.db.models** (164 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **footballcsv/be-belgium** (342 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **footballcsv/sco-scotland** (361 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **footballcsv/nl-netherlands** (256 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **beerkit/beer.db.mobile** (400 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **wikiscript/football.players** (7 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **geraldb/chelitas** (168 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **wikiscript/football.squads** (471 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **rsssf/eng-england** (117 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **rsssf/br-brazil** (284 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **rsssf/de-deutschland** (1654 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **beerkit/beer.api.js** (140 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **persondb/person.db.models** (184 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **openwine/build** (132 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **geraldb/wine.db.tools** (252 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **openwine/at-austria** (196 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **beerkit/beerbook** (220 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **openbeer/notes** (204 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **openbeer/ie-ireland** (180 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **openbeer/jp-japan** (152 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **openbeer/ch-confoederatio-helvetica** (188 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **openmundi/notes** (132 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **openbookie/market.world-cup** (108 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **openbookie/market.euro-cup** (108 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **webstart/upman-win** (160 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **planet-templates/planet-zen** (35 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **planet-templates/planet-digest** (105 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **planet-templates/planet-hacker** (45 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **feedreader/pluto.tools** (176 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **webstart/upman** (200 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **webstart/webstart.github.io** (148 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **webstart/master** (3016 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **webstart/webstart-notifier** (116 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **rubycoco/about** (112 kb) - [4]: 1 (75d) 1 (91d) 1 (43d) 1
--  -/-  ★1 **planet-templates/planet-classic** (98 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **plutolive/pluto.admin** (21 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **planet-templates/planet-top** (94 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **openmundi/langs** (116 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **openmundi/mundo-es** (112 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **openmundi/welt-de** (112 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **sportlogos/sport.db.logos.ruby** (1392 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **sportlogos/hockey.db.logos** (192 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **sportlogos/sport.db.logos** (1084 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **opensport/build** (140 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **beerlabels/beer.db.labels** (240 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **opensport/ski.db** (154 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **webstart/links-sinatra** (112 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **webstart/webstart-browser** (128 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **webstart/server** (136 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **webstart/links-rails** (132 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **beerlabels/beer.db.labels.ruby** (840 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **openmundi/wien.db** (114 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **webstart/webstart-utils** (224 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **openbookie/sport.db.market** (172 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **rubycoco/activerecord-importer** (144 kb) - [4]: 1 (75d) 1 (91d) 1 (43d) 1
--  -/-  ★1 **geraldb/geraldb.github.io** (520 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **webstart/manman** (132 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **webstart/sandbox** (252 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **mokkalibs/faster_xml_simple_reader** (104 kb) - [14]: 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
--  -/-  ★1 **rubycoco/ostructer** (112 kb) - [4]: 1 (75d) 1 (91d) 1 (43d) 1
-- -0.181/month  ★147 **openfootball/world-cup.json** (102 kb) - [4]: 147 (+1 in 75d) 146 (-2 in 91d) 148 (+2 in 43d) 146
-- -0.181/month  ★64 **worlddb/world.db** (383 kb) - [12]: 64 (-1 in 75d) 65 (91d) 65 (43d) 65 (+2 in 125d) 63 (40d) 63 (40d) 63 (19d) 63 (+1 in 11d) 62 (+2 in 49d) 60 (+1 in 135d) 59 (40d) 59
-- -0.181/month  ★46 **rubycoco/dbbrowser** (207 kb) - [4]: 46 (-2 in 75d) 48 (+1 in 91d) 47 (43d) 47
-- -0.181/month  ★38 **openblockchains/blockchain.lite.js** (8 kb) - [10]: 38 (75d) 38 (-1 in 91d) 39 (+1 in 43d) 38 (+1 in 125d) 37 (+7 in 40d) 30 (+8 in 40d) 22 (19d) 22 (+2 in 11d) 20 (+2 in 49d) 18
-- -0.181/month  ★13 **drjekyllthemes/drjekyllthemes.github.io** (3932 kb) - [14]: 13 (75d) 13 (-1 in 91d) 14 (+1 in 43d) 13 (125d) 13 (40d) 13 (40d) 13 (19d) 13 (11d) 13 (49d) 13 (+4 in 135d) 9 (40d) 9 (+2 in 126d) 7 (1d) 7
-- -0.181/month  ★13 **sportdb/footty** (27 kb) - [14]: 13 (75d) 13 (-1 in 91d) 14 (43d) 14 (+13 in 125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
-- -0.181/month  ★12 **mundimark/quickrefs** (289 kb) - [14]: 12 (-1 in 75d) 13 (91d) 13 (43d) 13 (125d) 13 (40d) 13 (+1 in 40d) 12 (19d) 12 (11d) 12 (+1 in 49d) 11 (+1 in 135d) 10 (40d) 10 (126d) 10 (1d) 10
-- -0.181/month  ★10 **openbeer/docs** (132 kb) - [10]: 10 (75d) 10 (-1 in 91d) 11 (+1 in 43d) 10 (125d) 10 (40d) 10 (40d) 10 (19d) 10 (11d) 10 (+1 in 49d) 9
-- -0.181/month  ★9 **worlddb/world.db.admin** (1840 kb) - [14]: 9 (75d) 9 (-1 in 91d) 10 (43d) 10 (125d) 10 (40d) 10 (40d) 10 (19d) 10 (11d) 10 (49d) 10 (135d) 10 (40d) 10 (126d) 10 (1d) 10
-- -0.181/month  ★8 **openblockchains/whatsblockchain** (4 kb) - [10]: 8 (75d) 8 (-1 in 91d) 9 (+1 in 43d) 8 (+1 in 125d) 7 (40d) 7 (+1 in 40d) 6 (+2 in 19d) 4 (+1 in 11d) 3 (+1 in 49d) 2
-- -0.181/month  ★6 **bitsblocks/get-rich-quick-bible** (2700 kb) - [5]: 6 (75d) 6 (-1 in 91d) 7 (43d) 7 (+2 in 125d) 5
-- -0.181/month  ★6 **openblockchains/ledger.lite.rb** (24 kb) - [9]: 6 (75d) 6 (-1 in 91d) 7 (43d) 7 (125d) 7 (+2 in 40d) 5 (40d) 5 (+1 in 19d) 4 (11d) 4
-- -0.181/month  ★5 **austriacodes/blockchain-whitepapers** (23253 kb) - [6]: 5 (75d) 5 (-1 in 91d) 6 (43d) 6 (+2 in 125d) 4 (+2 in 40d) 2
+- 21.754/month  ★575 **planetjekyll/awesome-jekyll-plugins** (164 kb) - [15]: 575 (+65 in 96d) 510 (+59 in 75d) 451 (+72 in 91d) 379 (+21 in 43d) 358 (+63 in 125d) 295 (+13 in 40d) 282 (+18 in 40d) 264 (+8 in 19d) 256 (+4 in 11d) 252 (+17 in 49d) 235 (+63 in 135d) 172 (+16 in 40d) 156 (+56 in 126d) 100 (1d) 100
+- 18.596/month  ★2755 **openblockchains/awesome-blockchains** (2261 kb) - [11]: 2755 (+67 in 96d) 2688 (+39 in 75d) 2649 (+70 in 91d) 2579 (+93 in 43d) 2486 (+300 in 125d) 2186 (+205 in 40d) 1981 (+287 in 40d) 1694 (+168 in 19d) 1526 (+115 in 11d) 1411 (+327 in 49d) 1084
+- 12.631/month  ★334 **mundimark/awesome-markdown** (60 kb) - [15]: 334 (+49 in 96d) 285 (+23 in 75d) 262 (+23 in 91d) 239 (+16 in 43d) 223 (+25 in 125d) 198 (+4 in 40d) 194 (+10 in 40d) 184 (+3 in 19d) 181 (+2 in 11d) 179 (+12 in 49d) 167 (+23 in 135d) 144 (+7 in 40d) 137 (+22 in 126d) 115 (1d) 115
+- 6.666/month  ★447 **cryptocopycats/awesome-cryptokitties** (4154 kb) - [7]: 447 (+20 in 96d) 427 (+18 in 75d) 409 (+28 in 91d) 381 (+24 in 43d) 357 (+86 in 125d) 271 (+58 in 40d) 213
+- 6.491/month  ★306 **planetjekyll/awesome-jekyll-themes** (21 kb) - [15]: 306 (+16 in 96d) 290 (+21 in 75d) 269 (+22 in 91d) 247 (+16 in 43d) 231 (+20 in 125d) 211 (+5 in 40d) 206 (+11 in 40d) 195 (+7 in 19d) 188 (+5 in 11d) 183 (+22 in 49d) 161 (+51 in 135d) 110 (+5 in 40d) 105 (+40 in 126d) 65 (1d) 65
+- 5.438/month  ★129 **mundimark/awesome-markdown-editors** (18 kb) - [15]: 129 (+12 in 96d) 117 (+19 in 75d) 98 (+22 in 91d) 76 (+9 in 43d) 67 (+14 in 125d) 53 (+10 in 40d) 43 (+4 in 40d) 39 (+1 in 19d) 38 (+3 in 11d) 35 (+9 in 49d) 26 (+5 in 135d) 21 (+1 in 40d) 20 (+6 in 126d) 14 (1d) 14
+- 5.087/month  ★273 **openfootball/eng-england** (822 kb) - [15]: 273 (+15 in 96d) 258 (+14 in 75d) 244 (+8 in 91d) 236 (+10 in 43d) 226 (+14 in 125d) 212 (+3 in 40d) 209 (+11 in 40d) 198 (+5 in 19d) 193 (+1 in 11d) 192 (+13 in 49d) 179 (+18 in 135d) 161 (+2 in 40d) 159 (+16 in 126d) 143 (1d) 143
+- 4.561/month  ★511 **planetjekyll/awesome-jekyll** (89 kb) - [15]: 511 (+14 in 96d) 497 (+12 in 75d) 485 (+10 in 91d) 475 (+11 in 43d) 464 (+16 in 125d) 448 (+10 in 40d) 438 (+13 in 40d) 425 (+2 in 19d) 423 (+3 in 11d) 420 (+6 in 49d) 414 (+30 in 135d) 384 (+10 in 40d) 374 (+57 in 126d) 317 (1d) 317
+- 4.035/month  ★528 **openblockchains/programming-blockchains** (552 kb) - [3]: 528 (+13 in 96d) 515 (+10 in 75d) 505
+- 4.035/month  ★245 **planetjekyll/awesome-jekyll-editors** (13 kb) - [15]: 245 (+17 in 96d) 228 (+6 in 75d) 222 (+16 in 91d) 206 (+5 in 43d) 201 (+13 in 125d) 188 (+6 in 40d) 182 (+7 in 40d) 175 (+5 in 19d) 170 (+6 in 11d) 164 (+28 in 49d) 136 (+25 in 135d) 111 (+14 in 40d) 97 (+31 in 126d) 66 (1d) 66
+- 3.859/month  ★476 **openfootball/football.json** (341 kb) - [7]: 476 (+10 in 96d) 466 (+12 in 75d) 454 (+8 in 91d) 446 (+6 in 43d) 440 (+26 in 125d) 414 (+6 in 40d) 408
+- 3.508/month  ★257 **planetruby/awesome-rubies** (97 kb) - [15]: 257 (+5 in 96d) 252 (+15 in 75d) 237 (+7 in 91d) 230 (+2 in 43d) 228 (+10 in 125d) 218 (-3 in 40d) 221 (+1 in 40d) 220 (+2 in 19d) 218 (+4 in 11d) 214 (+14 in 49d) 200 (-1 in 135d) 201 (-1 in 40d) 202 (-1 in 126d) 203 (1d) 203
+- 2.812/month  ★16 **openblockchains/programming-bitcoin-script** (506 kb) - [2]: 16 (+9 in 96d) 7
+- 2.631/month  ★166 **planetopendata/awesome-world** (204 kb) - [15]: 166 (+7 in 96d) 159 (+8 in 75d) 151 (+3 in 91d) 148 (+7 in 43d) 141 (+4 in 125d) 137 (+1 in 40d) 136 (+4 in 40d) 132 (+2 in 19d) 130 (+1 in 11d) 129 (+6 in 49d) 123 (+25 in 135d) 98 (+10 in 40d) 88 (+12 in 126d) 76 (1d) 76
+- 2.456/month  ★198 **geraldb/talks** (16363 kb) - [15]: 198 (+2 in 96d) 196 (+12 in 75d) 184 (+3 in 91d) 181 (+1 in 43d) 180 (+2 in 125d) 178 (+5 in 40d) 173 (+9 in 40d) 164 (+3 in 19d) 161 (+1 in 11d) 160 (+12 in 49d) 148 (+73 in 135d) 75 (+3 in 40d) 72 (+9 in 126d) 63 (1d) 63
+- 2.187/month  ★16 **s6ruby/pragmas** (89 kb) - [2]: 16 (+7 in 96d) 9
+- 2.105/month  ★593 **factbook/factbook.json** (7355 kb) - [7]: 593 (+8 in 96d) 585 (+4 in 75d) 581 (+10 in 91d) 571 (+7 in 43d) 564 (+15 in 125d) 549 (+2 in 40d) 547
+- 1.754/month  ★15 **openblockchains/programming-cryptocontracts** (593 kb) - [3]: 15 (+5 in 96d) 10 (+5 in 75d) 5
+- 1.578/month  ★109 **openblockchains/blockchain.lite.rb** (48 kb) - [11]: 109 (+4 in 96d) 105 (+5 in 75d) 100 (+1 in 91d) 99 (+5 in 43d) 94 (+11 in 125d) 83 (+6 in 40d) 77 (+6 in 40d) 71 (+4 in 19d) 67 (+3 in 11d) 64 (+19 in 49d) 45
+- 1.578/month  ★81 **sportdb/sport.db** (958 kb) - [13]: 81 (+6 in 96d) 75 (+3 in 75d) 72 (+4 in 91d) 68 (+1 in 43d) 67 (+7 in 125d) 60 (+1 in 40d) 59 (40d) 59 (+1 in 19d) 58 (+2 in 11d) 56 (+1 in 49d) 55 (+4 in 135d) 51 (40d) 51
+- 1.578/month  ★54 **planetopendata/awesome-sqlite** (28 kb) - [15]: 54 (+3 in 96d) 51 (+6 in 75d) 45 (+3 in 91d) 42 (+1 in 43d) 41 (+6 in 125d) 35 (40d) 35 (+2 in 40d) 33 (+1 in 19d) 32 (11d) 32 (+2 in 49d) 30 (+6 in 135d) 24 (+2 in 40d) 22 (126d) 22 (1d) 22
+- 1.562/month  ★13 **s6ruby/ruby-to-michelson** (187 kb) - [2]: 13 (+5 in 96d) 8
+- 1.228/month  ★159 **slideshow-s9/slideshow** (1334 kb) - [15]: 159 (+2 in 96d) 157 (+5 in 75d) 152 (91d) 152 (+2 in 43d) 150 (+5 in 125d) 145 (40d) 145 (+3 in 40d) 142 (+1 in 19d) 141 (11d) 141 (+2 in 49d) 139 (+8 in 135d) 131 (40d) 131 (+3 in 126d) 128 (1d) 128
+- 1.228/month  ★95 **factbook/factbook** (445 kb) - [15]: 95 (+5 in 96d) 90 (+2 in 75d) 88 (+3 in 91d) 85 (43d) 85 (+2 in 125d) 83 (-1 in 40d) 84 (+1 in 40d) 83 (19d) 83 (+1 in 11d) 82 (+3 in 49d) 79 (+2 in 135d) 77 (+2 in 40d) 75 (+4 in 126d) 71 (1d) 71
+- 1.228/month  ★85 **henrythemes/jekyll-minimal-theme** (46 kb) - [15]: 85 (+1 in 96d) 84 (+6 in 75d) 78 (+1 in 91d) 77 (+2 in 43d) 75 (+6 in 125d) 69 (-3 in 40d) 72 (+1 in 40d) 71 (+1 in 19d) 70 (+1 in 11d) 69 (+3 in 49d) 66 (+6 in 135d) 60 (+5 in 40d) 55 (+1 in 126d) 54 (1d) 54
+- 1.228/month  ★34 **factbook/factbook.sql** (148 kb) - [15]: 34 (+5 in 96d) 29 (+2 in 75d) 27 (+2 in 91d) 25 (+1 in 43d) 24 (+3 in 125d) 21 (+1 in 40d) 20 (40d) 20 (+1 in 19d) 19 (-1 in 11d) 20 (+2 in 49d) 18 (+3 in 135d) 15 (40d) 15 (+4 in 126d) 11 (1d) 11
+- 1.228/month  ★22 **openblockchains/merkletree.rb** (16 kb) - [10]: 22 (+1 in 96d) 21 (+6 in 75d) 15 (+1 in 91d) 14 (43d) 14 (+6 in 125d) 8 (+2 in 40d) 6 (40d) 6 (+1 in 19d) 5 (11d) 5
+- 1.052/month  ★20 **henrythemes/jekyll-book-theme** (141 kb) - [15]: 20 (+5 in 96d) 15 (+1 in 75d) 14 (+2 in 91d) 12 (43d) 12 (+1 in 125d) 11 (40d) 11 (+1 in 40d) 10 (19d) 10 (11d) 10 (+1 in 49d) 9 (135d) 9 (40d) 9 (+1 in 126d) 8 (1d) 8
+- 0.937/month  ★14 **s6ruby/redpaper** (84 kb) - [2]: 14 (+3 in 96d) 11
+- 0.877/month  ★432 **openfootball/world-cup** (597 kb) - [15]: 432 (96d) 432 (+5 in 75d) 427 (+3 in 91d) 424 (+5 in 43d) 419 (+122 in 125d) 297 (+20 in 40d) 277 (+13 in 40d) 264 (+2 in 19d) 262 (11d) 262 (+15 in 49d) 247 (+13 in 135d) 234 (+2 in 40d) 232 (126d) 232 (1d) 232
+- 0.877/month  ★145 **feedparser/feedparser** (844 kb) - [15]: 145 (+2 in 96d) 143 (+3 in 75d) 140 (+1 in 91d) 139 (+1 in 43d) 138 (+6 in 125d) 132 (+2 in 40d) 130 (+3 in 40d) 127 (+1 in 19d) 126 (11d) 126 (+13 in 49d) 113 (+11 in 135d) 102 (+8 in 40d) 94 (+62 in 126d) 32 (1d) 32
+- 0.877/month  ★55 **openfootball/es-espana** (575 kb) - [15]: 55 (+2 in 96d) 53 (+3 in 75d) 50 (+5 in 91d) 45 (+2 in 43d) 43 (+2 in 125d) 41 (+1 in 40d) 40 (40d) 40 (+1 in 19d) 39 (+1 in 11d) 38 (+2 in 49d) 36 (+5 in 135d) 31 (+1 in 40d) 30 (+2 in 126d) 28 (1d) 28
+- 0.877/month  ★50 **yukimotopress/practicing** (93 kb) - [10]: 50 (+1 in 96d) 49 (+4 in 75d) 45 (+2 in 91d) 43 (-1 in 43d) 44 (125d) 44 (+1 in 40d) 43 (40d) 43 (19d) 43 (+3 in 11d) 40
+- 0.877/month  ★11 **yukimotopress/yukimotopress.github.io** (847 kb) - [15]: 11 (+4 in 96d) 7 (+1 in 75d) 6 (91d) 6 (43d) 6 (+1 in 125d) 5 (40d) 5 (40d) 5 (19d) 5 (11d) 5 (+3 in 49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+- 0.701/month  ★115 **planetopendata/awesome-football** (8 kb) - [15]: 115 (+1 in 96d) 114 (+3 in 75d) 111 (+3 in 91d) 108 (+2 in 43d) 106 (+15 in 125d) 91 (+2 in 40d) 89 (+3 in 40d) 86 (+2 in 19d) 84 (+1 in 11d) 83 (+4 in 49d) 79 (+11 in 135d) 68 (+4 in 40d) 64 (+10 in 126d) 54 (1d) 54
+- 0.701/month  ★99 **openbookie/sportbook** (2929 kb) - [15]: 99 (+3 in 96d) 96 (+1 in 75d) 95 (91d) 95 (43d) 95 (+3 in 125d) 92 (-1 in 40d) 93 (+1 in 40d) 92 (19d) 92 (11d) 92 (+2 in 49d) 90 (+1 in 135d) 89 (40d) 89 (+4 in 126d) 85 (1d) 85
+- 0.701/month  ★53 **staystatic/staystatic** (212 kb) - [15]: 53 (+2 in 96d) 51 (+2 in 75d) 49 (-2 in 91d) 51 (43d) 51 (+4 in 125d) 47 (+2 in 40d) 45 (+6 in 40d) 39 (19d) 39 (+1 in 11d) 38 (+2 in 49d) 36 (+5 in 135d) 31 (+6 in 40d) 25 (+13 in 126d) 12 (1d) 12
+- 0.701/month  ★53 **openfootball/br-brazil** (221 kb) - [15]: 53 (+3 in 96d) 50 (+1 in 75d) 49 (+2 in 91d) 47 (+2 in 43d) 45 (+9 in 125d) 36 (+4 in 40d) 32 (+1 in 40d) 31 (+1 in 19d) 30 (11d) 30 (49d) 30 (+8 in 135d) 22 (+3 in 40d) 19 (+3 in 126d) 16 (1d) 16
+- 0.701/month  ★21 **planetruby/gems** (550 kb) - [15]: 21 (96d) 21 (+4 in 75d) 17 (91d) 17 (43d) 17 (125d) 17 (40d) 17 (40d) 17 (19d) 17 (+1 in 11d) 16 (+1 in 49d) 15 (135d) 15 (40d) 15 (126d) 15 (1d) 15
+- 0.701/month  ★16 **feedreader/jekyll-planet** (6 kb) - [15]: 16 (+3 in 96d) 13 (+1 in 75d) 12 (91d) 12 (43d) 12 (+2 in 125d) 10 (40d) 10 (+1 in 40d) 9 (19d) 9 (11d) 9 (49d) 9 (135d) 9 (40d) 9 (126d) 9 (1d) 9
+- 0.701/month  ★5 **cryptocopycats/kittyverse** (311 kb) - [3]: 5 (+4 in 96d) 1 (75d) 1
+- 0.625/month  ★28 **s6ruby/units-time** (37 kb) - [2]: 28 (+2 in 96d) 26
+- 0.625/month  ★19 **openblockchains/programming-cryptocollectibles** (700 kb) - [2]: 19 (+2 in 96d) 17
+- 0.625/month  ★17 **s6ruby/safestruct** (92 kb) - [2]: 17 (+2 in 96d) 15
+- 0.625/month  ★5 **s6ruby/units-money** (79 kb) - [2]: 5 (+2 in 96d) 3
+- 0.526/month  ★187 **planetruby/awesome-webservers** (57 kb) - [15]: 187 (96d) 187 (+3 in 75d) 184 (91d) 184 (+1 in 43d) 183 (+17 in 125d) 166 (+13 in 40d) 153 (+1 in 40d) 152 (19d) 152 (+2 in 11d) 150 (+2 in 49d) 148 (+5 in 135d) 143 (+8 in 40d) 135 (+1 in 126d) 134 (1d) 134
+- 0.526/month  ★69 **csvreader/csvpack** (31 kb) - [4]: 69 (96d) 69 (+3 in 75d) 66 (+2 in 91d) 64
+- 0.526/month  ★54 **yukimotopress/blockchains** (455 kb) - [10]: 54 (+3 in 96d) 51 (75d) 51 (+2 in 91d) 49 (+3 in 43d) 46 (+4 in 125d) 42 (40d) 42 (+4 in 40d) 38 (+1 in 19d) 37 (+3 in 11d) 34
+- 0.526/month  ★38 **mundimark/markdown-vs-latex** (18 kb) - [15]: 38 (+3 in 96d) 35 (75d) 35 (+1 in 91d) 34 (43d) 34 (+2 in 125d) 32 (+2 in 40d) 30 (+2 in 40d) 28 (19d) 28 (+1 in 11d) 27 (+2 in 49d) 25 (+2 in 135d) 23 (+2 in 40d) 21 (+7 in 126d) 14 (1d) 14
+- 0.526/month  ★35 **planetruby/quiz** (267 kb) - [4]: 35 (+3 in 96d) 32 (75d) 32 (+17 in 91d) 15
+- 0.526/month  ★21 **openblockchains/awesome-ico-truths** (1385 kb) - [6]: 21 (+2 in 96d) 19 (+1 in 75d) 18 (+14 in 91d) 4 (43d) 4 (125d) 4
+- 0.526/month  ★18 **openfootball/docs** (721 kb) - [15]: 18 (+2 in 96d) 16 (+1 in 75d) 15 (91d) 15 (+1 in 43d) 14 (+3 in 125d) 11 (+2 in 40d) 9 (+1 in 40d) 8 (+1 in 19d) 7 (+1 in 11d) 6 (49d) 6 (+2 in 135d) 4 (40d) 4 (126d) 4 (1d) 4
+- 0.526/month  ★17 **updownpress/markdown-lint** (46 kb) - [15]: 17 (96d) 17 (+3 in 75d) 14 (+1 in 91d) 13 (43d) 13 (+8 in 125d) 5 (40d) 5 (40d) 5 (+1 in 19d) 4 (11d) 4 (+1 in 49d) 3 (+1 in 135d) 2 (40d) 2 (126d) 2 (1d) 2
+- 0.526/month  ★9 **yukimotopress/http** (10 kb) - [10]: 9 (+2 in 96d) 7 (+1 in 75d) 6 (+2 in 91d) 4 (+1 in 43d) 3 (+1 in 125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2
+- 0.35/month  ★235 **planetruby/calendar** (978 kb) - [10]: 235 (96d) 235 (+2 in 75d) 233 (+5 in 91d) 228 (+1 in 43d) 227 (+2 in 125d) 225 (+2 in 40d) 223 (+5 in 40d) 218 (+4 in 19d) 214 (+3 in 11d) 211
+- 0.35/month  ★164 **csvreader/csvreader** (191 kb) - [4]: 164 (96d) 164 (+2 in 75d) 162 (+8 in 91d) 154
+- 0.35/month  ★148 **openfootball/world-cup.json** (102 kb) - [5]: 148 (+1 in 96d) 147 (+1 in 75d) 146 (-2 in 91d) 148 (+2 in 43d) 146
+- 0.35/month  ★55 **schemadoc/schemadoc** (28 kb) - [15]: 55 (96d) 55 (+2 in 75d) 53 (91d) 53 (43d) 53 (-1 in 125d) 54 (40d) 54 (+3 in 40d) 51 (+6 in 19d) 45 (11d) 45 (+2 in 49d) 43 (+3 in 135d) 40 (40d) 40 (+4 in 126d) 36 (1d) 36
+- 0.35/month  ★44 **openfootball/de-deutschland** (1556 kb) - [15]: 44 (+1 in 96d) 43 (+1 in 75d) 42 (+1 in 91d) 41 (43d) 41 (+1 in 125d) 40 (+2 in 40d) 38 (+2 in 40d) 36 (+1 in 19d) 35 (11d) 35 (-1 in 49d) 36 (+5 in 135d) 31 (40d) 31 (+5 in 126d) 26 (1d) 26
+- 0.35/month  ★32 **openblockchains/centralbank** (104 kb) - [10]: 32 (+2 in 96d) 30 (75d) 30 (+4 in 91d) 26 (43d) 26 (+6 in 125d) 20 (+4 in 40d) 16 (+2 in 40d) 14 (+1 in 19d) 13 (11d) 13
+- 0.35/month  ★30 **yukimotopress/langs** (122 kb) - [10]: 30 (+1 in 96d) 29 (+1 in 75d) 28 (91d) 28 (43d) 28 (125d) 28 (40d) 28 (40d) 28 (+2 in 19d) 26 (+2 in 11d) 24
+- 0.35/month  ★27 **slideshow-s9/awesome-slideshows** (4 kb) - [15]: 27 (96d) 27 (+2 in 75d) 25 (+1 in 91d) 24 (+1 in 43d) 23 (+1 in 125d) 22 (40d) 22 (40d) 22 (+2 in 19d) 20 (11d) 20 (+1 in 49d) 19 (+4 in 135d) 15 (+2 in 40d) 13 (+3 in 126d) 10 (1d) 10
+- 0.35/month  ★25 **henrythemes/jekyll-starter-theme** (11 kb) - [15]: 25 (+1 in 96d) 24 (+1 in 75d) 23 (+1 in 91d) 22 (+1 in 43d) 21 (125d) 21 (40d) 21 (40d) 21 (+1 in 19d) 20 (-1 in 11d) 21 (-1 in 49d) 22 (+2 in 135d) 20 (+1 in 40d) 19 (+4 in 126d) 15 (1d) 15
+- 0.35/month  ★23 **cryptocopycats/copycats** (2788 kb) - [7]: 23 (+1 in 96d) 22 (+1 in 75d) 21 (+6 in 91d) 15 (+1 in 43d) 14 (+1 in 125d) 13 (40d) 13
+- 0.35/month  ★20 **datatxt/awseome-yaml** (8 kb) - [12]: 20 (+1 in 96d) 19 (+1 in 75d) 18 (91d) 18 (43d) 18 (+3 in 125d) 15 (+1 in 40d) 14 (40d) 14 (19d) 14 (11d) 14 (49d) 14 (+4 in 135d) 10
+- 0.35/month  ★20 **mundimark/awesome-markdown-alternatives** (2 kb) - [15]: 20 (+2 in 96d) 18 (75d) 18 (+2 in 91d) 16 (+1 in 43d) 15 (+2 in 125d) 13 (+2 in 40d) 11 (+2 in 40d) 9 (+4 in 19d) 5 (11d) 5 (+1 in 49d) 4 (+1 in 135d) 3 (40d) 3 (+1 in 126d) 2 (1d) 2
+- 0.35/month  ★16 **henrythemes/jekyll-starter-theme-v2** (16 kb) - [15]: 16 (96d) 16 (+2 in 75d) 14 (91d) 14 (+1 in 43d) 13 (125d) 13 (40d) 13 (40d) 13 (19d) 13 (11d) 13 (+2 in 49d) 11 (135d) 11 (40d) 11 (+3 in 126d) 8 (1d) 8
+- 0.35/month  ★15 **slideshow-templates/slideshow-deck.js** (191 kb) - [15]: 15 (+1 in 96d) 14 (+1 in 75d) 13 (91d) 13 (43d) 13 (125d) 13 (40d) 13 (40d) 13 (19d) 13 (11d) 13 (49d) 13 (135d) 13 (40d) 13 (+1 in 126d) 12 (1d) 12
+- 0.35/month  ★9 **bigkorupto/awesome-nocode** (368 kb) - [7]: 9 (+2 in 96d) 7 (75d) 7 (91d) 7 (43d) 7 (125d) 7 (+6 in 40d) 1
+- 0.35/month  ★9 **sportkit/sport.db.starter.node.js** (164 kb) - [15]: 9 (+1 in 96d) 8 (+1 in 75d) 7 (91d) 7 (43d) 7 (125d) 7 (40d) 7 (40d) 7 (19d) 7 (11d) 7 (-1 in 49d) 8 (135d) 8 (40d) 8 (126d) 8 (1d) 8
+- 0.35/month  ★7 **bookdesigns/book-git** (67 kb) - [15]: 7 (+2 in 96d) 5 (75d) 5 (91d) 5 (43d) 5 (125d) 5 (40d) 5 (40d) 5 (19d) 5 (11d) 5 (49d) 5 (+1 in 135d) 4 (40d) 4 (+1 in 126d) 3 (1d) 3
+- 0.35/month  ★7 **pagedesigns/jasonm23-dark** (6 kb) - [15]: 7 (+2 in 96d) 5 (75d) 5 (+1 in 91d) 4 (43d) 4 (+1 in 125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (+1 in 135d) 2 (40d) 2 (126d) 2 (1d) 2
+- 0.35/month  ★7 **pagedesigns/markedapp-byword** (5 kb) - [15]: 7 (+2 in 96d) 5 (75d) 5 (91d) 5 (+1 in 43d) 4 (125d) 4 (40d) 4 (+1 in 40d) 3 (19d) 3 (11d) 3 (49d) 3 (+1 in 135d) 2 (40d) 2 (+1 in 126d) 1 (1d) 1
+- 0.35/month  ★5 **openblockchains/peer-to-peer.rb** (2 kb) - [10]: 5 (96d) 5 (+2 in 75d) 3 (91d) 3 (43d) 3 (125d) 3 (+1 in 40d) 2 (40d) 2 (+1 in 19d) 1 (11d) 1
+- 0.35/month  ★4 **footballcsv/europe-champions-league** (770 kb) - [5]: 4 (96d) 4 (+2 in 75d) 2 (91d) 2 (43d) 2
+- 0.312/month  ★29 **s6ruby/awesome-crypto** (22 kb) - [2]: 29 (+1 in 96d) 28
+- 0.312/month  ★5 **s6ruby/safemath** (15 kb) - [2]: 5 (+1 in 96d) 4
+- 0.175/month  ★100 **slideshow-templates/slideshow-impress.js** (77 kb) - [15]: 100 (96d) 100 (+1 in 75d) 99 (91d) 99 (43d) 99 (125d) 99 (40d) 99 (40d) 99 (+1 in 19d) 98 (+2 in 11d) 96 (49d) 96 (+2 in 135d) 94 (40d) 94 (+2 in 126d) 92 (1d) 92
+- 0.175/month  ★94 **drjekyllthemes/themes** (9418 kb) - [15]: 94 (+1 in 96d) 93 (75d) 93 (+3 in 91d) 90 (+1 in 43d) 89 (+4 in 125d) 85 (+3 in 40d) 82 (40d) 82 (19d) 82 (11d) 82 (+2 in 49d) 80 (+3 in 135d) 77 (+1 in 40d) 76 (+5 in 126d) 71 (1d) 71
+- 0.175/month  ★83 **planetjekyll/quickrefs** (78 kb) - [15]: 83 (96d) 83 (+1 in 75d) 82 (91d) 82 (43d) 82 (+1 in 125d) 81 (-1 in 40d) 82 (+1 in 40d) 81 (19d) 81 (+1 in 11d) 80 (49d) 80 (+1 in 135d) 79 (+1 in 40d) 78 (+5 in 126d) 73 (1d) 73
+- 0.175/month  ★66 **openbeer/world** (1235 kb) - [15]: 66 (96d) 66 (+1 in 75d) 65 (-1 in 91d) 66 (43d) 66 (+1 in 125d) 65 (40d) 65 (40d) 65 (19d) 65 (11d) 65 (49d) 65 (+1 in 135d) 64 (40d) 64 (126d) 64 (1d) 64
+- 0.175/month  ★64 **feedreader/pluto** (264 kb) - [15]: 64 (+1 in 96d) 63 (75d) 63 (91d) 63 (43d) 63 (+1 in 125d) 62 (+2 in 40d) 60 (40d) 60 (19d) 60 (+1 in 11d) 59 (+4 in 49d) 55 (+3 in 135d) 52 (+2 in 40d) 50 (+4 in 126d) 46 (1d) 46
+- 0.175/month  ★49 **writekit/markdown** (349 kb) - [15]: 49 (96d) 49 (+1 in 75d) 48 (+1 in 91d) 47 (43d) 47 (-1 in 125d) 48 (40d) 48 (40d) 48 (19d) 48 (11d) 48 (49d) 48 (+2 in 135d) 46 (-1 in 40d) 47 (126d) 47 (1d) 47
+- 0.175/month  ★43 **slideshow-templates/slideshow-google-html5-slides** (3528 kb) - [15]: 43 (+1 in 96d) 42 (75d) 42 (91d) 42 (43d) 42 (+2 in 125d) 40 (-1 in 40d) 41 (40d) 41 (19d) 41 (11d) 41 (49d) 41 (135d) 41 (40d) 41 (+2 in 126d) 39 (1d) 39
+- 0.175/month  ★34 **openfootball/clubs** (1051 kb) - [15]: 34 (+1 in 96d) 33 (75d) 33 (91d) 33 (43d) 33 (125d) 33 (40d) 33 (+1 in 40d) 32 (19d) 32 (11d) 32 (49d) 32 (135d) 32 (40d) 32 (126d) 32 (1d) 32
+- 0.175/month  ★33 **csvspecs/awesome-csv** (137 kb) - [4]: 33 (96d) 33 (+1 in 75d) 32 (+4 in 91d) 28
+- 0.175/month  ★24 **openfootball/schema.sql** (176 kb) - [15]: 24 (96d) 24 (+1 in 75d) 23 (+2 in 91d) 21 (+1 in 43d) 20 (+5 in 125d) 15 (+1 in 40d) 14 (40d) 14 (19d) 14 (11d) 14 (+1 in 49d) 13 (+1 in 135d) 12 (+1 in 40d) 11 (+2 in 126d) 9 (1d) 9
+- 0.175/month  ★24 **openfootball/europe-champions-league** (123 kb) - [15]: 24 (96d) 24 (+1 in 75d) 23 (+1 in 91d) 22 (+1 in 43d) 21 (+1 in 125d) 20 (+1 in 40d) 19 (40d) 19 (19d) 19 (11d) 19 (49d) 19 (135d) 19 (40d) 19 (+2 in 126d) 17 (+1 in 1d) 16
+- 0.175/month  ★22 **json-next/awesome-json-next** (26 kb) - [10]: 22 (+1 in 96d) 21 (75d) 21 (+1 in 91d) 20 (+2 in 43d) 18 (+4 in 125d) 14 (40d) 14 (+2 in 40d) 12 (19d) 12 (11d) 12
+- 0.175/month  ★21 **yukimotopress/gem-dev** (31 kb) - [15]: 21 (96d) 21 (+1 in 75d) 20 (91d) 20 (+1 in 43d) 19 (125d) 19 (40d) 19 (+1 in 40d) 18 (19d) 18 (11d) 18 (+4 in 49d) 14 (+2 in 135d) 12 (40d) 12 (126d) 12 (1d) 12
+- 0.175/month  ★21 **openfootball/it-italy** (565 kb) - [15]: 21 (+1 in 96d) 20 (75d) 20 (+1 in 91d) 19 (43d) 19 (+4 in 125d) 15 (40d) 15 (40d) 15 (19d) 15 (11d) 15 (49d) 15 (+2 in 135d) 13 (40d) 13 (+1 in 126d) 12 (1d) 12
+- 0.175/month  ★19 **feedparser/feedfilter** (11 kb) - [15]: 19 (96d) 19 (+1 in 75d) 18 (91d) 18 (43d) 18 (125d) 18 (40d) 18 (40d) 18 (19d) 18 (11d) 18 (49d) 18 (135d) 18 (40d) 18 (+3 in 126d) 15 (1d) 15
+- 0.175/month  ★19 **openfootball/players** (390 kb) - [15]: 19 (+1 in 96d) 18 (75d) 18 (91d) 18 (43d) 18 (125d) 18 (40d) 18 (40d) 18 (19d) 18 (11d) 18 (49d) 18 (135d) 18 (40d) 18 (-1 in 126d) 19 (1d) 19
+- 0.175/month  ★16 **yukimotopress/gem-tasks** (64 kb) - [10]: 16 (96d) 16 (+1 in 75d) 15 (91d) 15 (43d) 15 (125d) 15 (40d) 15 (40d) 15 (19d) 15 (+2 in 11d) 13
+- 0.175/month  ★16 **feedparser/awesome-feeds** (54 kb) - [13]: 16 (+1 in 96d) 15 (75d) 15 (+1 in 91d) 14 (43d) 14 (+1 in 125d) 13 (40d) 13 (+3 in 40d) 10 (19d) 10 (11d) 10 (+2 in 49d) 8 (+2 in 135d) 6 (40d) 6
+- 0.175/month  ★16 **sportdb/sport.db.admin** (1719 kb) - [15]: 16 (+1 in 96d) 15 (75d) 15 (91d) 15 (43d) 15 (125d) 15 (40d) 15 (40d) 15 (19d) 15 (11d) 15 (49d) 15 (+1 in 135d) 14 (40d) 14 (126d) 14 (1d) 14
+- 0.175/month  ★13 **planetjekyll/snippets** (16 kb) - [15]: 13 (96d) 13 (+1 in 75d) 12 (91d) 12 (43d) 12 (125d) 12 (40d) 12 (40d) 12 (19d) 12 (+1 in 11d) 11 (+4 in 49d) 7 (135d) 7 (+1 in 40d) 6 (+1 in 126d) 5 (1d) 5
+- 0.175/month  ★13 **opensport/formula1.db** (204 kb) - [15]: 13 (+1 in 96d) 12 (75d) 12 (91d) 12 (43d) 12 (125d) 12 (40d) 12 (40d) 12 (19d) 12 (11d) 12 (49d) 12 (135d) 12 (40d) 12 (126d) 12 (1d) 12
+- 0.175/month  ★12 **journaltxt/journaltxt** (15 kb) - [12]: 12 (+1 in 96d) 11 (75d) 11 (+1 in 91d) 10 (43d) 10 (+3 in 125d) 7 (40d) 7 (-1 in 40d) 8 (19d) 8 (+1 in 11d) 7 (49d) 7 (+4 in 135d) 3
+- 0.175/month  ★12 **funpress/mostly-adequate-guide-to-fp** (3620 kb) - [15]: 12 (+1 in 96d) 11 (75d) 11 (91d) 11 (43d) 11 (+1 in 125d) 10 (40d) 10 (-1 in 40d) 11 (19d) 11 (11d) 11 (+1 in 49d) 10 (-1 in 135d) 11 (+1 in 40d) 10 (+2 in 126d) 8 (1d) 8
+- 0.175/month  ★12 **opensport/american-football.db** (160 kb) - [15]: 12 (+1 in 96d) 11 (75d) 11 (91d) 11 (43d) 11 (125d) 11 (40d) 11 (40d) 11 (19d) 11 (11d) 11 (49d) 11 (135d) 11 (40d) 11 (126d) 11 (1d) 11
+- 0.175/month  ★10 **factbook/factbook.github.io** (22742 kb) - [15]: 10 (+1 in 96d) 9 (75d) 9 (91d) 9 (43d) 9 (+2 in 125d) 7 (+1 in 40d) 6 (+1 in 40d) 5 (19d) 5 (11d) 5 (+3 in 49d) 2 (+1 in 135d) 1 (40d) 1 (126d) 1 (1d) 1
+- 0.175/month  ★8 **openblockchains/awesome-tokens** (30 kb) - [6]: 8 (+1 in 96d) 7 (75d) 7 (+1 in 91d) 6 (43d) 6 (+2 in 125d) 4
+- 0.175/month  ★8 **writekit/kramdown-service** (79 kb) - [15]: 8 (96d) 8 (+1 in 75d) 7 (91d) 7 (+4 in 43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
+- 0.175/month  ★8 **worlddb/world.db.flags** (1644 kb) - [15]: 8 (+1 in 96d) 7 (75d) 7 (+1 in 91d) 6 (+1 in 43d) 5 (125d) 5 (40d) 5 (40d) 5 (19d) 5 (11d) 5 (49d) 5 (135d) 5 (40d) 5 (126d) 5 (1d) 5
+- 0.175/month  ★7 **bitsblocks/get-rich-quick-bible** (2700 kb) - [6]: 7 (+1 in 96d) 6 (75d) 6 (-1 in 91d) 7 (43d) 7 (+2 in 125d) 5
+- 0.175/month  ★7 **cryptocopycats/kitties** (26994 kb) - [7]: 7 (+1 in 96d) 6 (75d) 6 (91d) 6 (43d) 6 (+1 in 125d) 5 (40d) 5
+- 0.175/month  ★7 **openfootball/your-league-starter** (15 kb) - [11]: 7 (96d) 7 (+1 in 75d) 6 (91d) 6 (43d) 6 (+1 in 125d) 5 (40d) 5 (40d) 5 (19d) 5 (11d) 5 (49d) 5
+- 0.175/month  ★7 **schemadoc/schemadoc-theme** (28 kb) - [15]: 7 (96d) 7 (+1 in 75d) 6 (91d) 6 (43d) 6 (125d) 6 (40d) 6 (40d) 6 (19d) 6 (11d) 6 (49d) 6 (+1 in 135d) 5 (40d) 5 (+2 in 126d) 3 (1d) 3
+- 0.175/month  ★7 **worlddb/world.db.codes** (161 kb) - [15]: 7 (+1 in 96d) 6 (75d) 6 (91d) 6 (43d) 6 (125d) 6 (40d) 6 (40d) 6 (19d) 6 (11d) 6 (49d) 6 (-1 in 135d) 7 (40d) 7 (126d) 7 (1d) 7
+- 0.175/month  ★6 **bookdesigns/book-epsilon** (128 kb) - [15]: 6 (+1 in 96d) 5 (75d) 5 (91d) 5 (43d) 5 (+1 in 125d) 4 (40d) 4 (+1 in 40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (+1 in 126d) 2 (1d) 2
+- 0.175/month  ★5 **slideshow-s9/demos** (10809 kb) - [15]: 5 (96d) 5 (+1 in 75d) 4 (91d) 4 (+1 in 43d) 3 (125d) 3 (+1 in 40d) 2 (+1 in 40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+- 0.175/month  ★5 **beercsv/us-united-states** (392 kb) - [15]: 5 (96d) 5 (+1 in 75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4 (126d) 4 (1d) 4
+- 0.175/month  ★4 **openblockchains/blockchain-whitepapers** (18241 kb) - [6]: 4 (96d) 4 (+1 in 75d) 3 (+1 in 91d) 2 (43d) 2 (125d) 2
+- 0.175/month  ★4 **openbeer/ca-canada** (184 kb) - [15]: 4 (+1 in 96d) 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
+- 0.175/month  ★4 **rubycoco/fetcher** (166 kb) - [5]: 4 (+1 in 96d) 3 (75d) 3 (91d) 3 (43d) 3
+- 0.175/month  ★3 **journaltxt/journaltxt.github.io** (22 kb) - [12]: 3 (96d) 3 (+1 in 75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (+1 in 135d) 1
+- 0.175/month  ★3 **mundimark/markdown-tools-books** (5 kb) - [15]: 3 (+1 in 96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (+1 in 40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+- 0.175/month  ★3 **staystatic/quickrefs** (8 kb) - [10]: 3 (96d) 3 (+1 in 75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2
+- 0.175/month  ★2 **staystatic/staystatic-starter** (7 kb) - [15]: 2 (96d) 2 (+1 in 75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★304 **typesigs/safebool** (116 kb) - [1]: 304
+-  -/-  ★130 **openfootball/openfootball.github.io** (1616 kb) - [15]: 130 (-1 in 96d) 131 (+1 in 75d) 130 (91d) 130 (43d) 130 (+1 in 125d) 129 (+1 in 40d) 128 (+1 in 40d) 127 (19d) 127 (11d) 127 (+1 in 49d) 126 (+2 in 135d) 124 (+2 in 40d) 122 (+4 in 126d) 118 (1d) 118
+-  -/-  ★121 **typesigs/safedata** (60 kb) - [1]: 121
+-  -/-  ★93 **slidekit/s6** (930 kb) - [15]: 93 (-1 in 96d) 94 (+1 in 75d) 93 (+1 in 91d) 92 (43d) 92 (125d) 92 (+1 in 40d) 91 (40d) 91 (19d) 91 (11d) 91 (+1 in 49d) 90 (135d) 90 (40d) 90 (+1 in 126d) 89 (1d) 89
+-  -/-  ★81 **footballcsv/england** (8077 kb) - [1]: 81
+-  -/-  ★76 **typesigs/enums** (132 kb) - [1]: 76
+-  -/-  ★52 **worlddb/world.lite** (327 kb) - [15]: 52 (96d) 52 (75d) 52 (91d) 52 (43d) 52 (125d) 52 (40d) 52 (40d) 52 (19d) 52 (+1 in 11d) 51 (49d) 51 (+1 in 135d) 50 (40d) 50 (-1 in 126d) 51 (1d) 51
+-  -/-  ★45 **opensport/opensport.github.io** (1181 kb) - [15]: 45 (96d) 45 (75d) 45 (91d) 45 (43d) 45 (+1 in 125d) 44 (40d) 44 (40d) 44 (19d) 44 (+1 in 11d) 43 (49d) 43 (135d) 43 (40d) 43 (-1 in 126d) 44 (1d) 44
+-  -/-  ★40 **drjekyllthemes/drjekyll** (28 kb) - [15]: 40 (-1 in 96d) 41 (+1 in 75d) 40 (+1 in 91d) 39 (43d) 39 (125d) 39 (+1 in 40d) 38 (40d) 38 (19d) 38 (+1 in 11d) 37 (49d) 37 (-1 in 135d) 38 (40d) 38 (+1 in 126d) 37 (1d) 37
+-  -/-  ★38 **openblockchains/blockchain.lite.js** (8 kb) - [11]: 38 (96d) 38 (75d) 38 (-1 in 91d) 39 (+1 in 43d) 38 (+1 in 125d) 37 (+7 in 40d) 30 (+8 in 40d) 22 (19d) 22 (+2 in 11d) 20 (+2 in 49d) 18
+-  -/-  ★38 **officetxt/awesome-txt** (23 kb) - [12]: 38 (96d) 38 (75d) 38 (+1 in 91d) 37 (+1 in 43d) 36 (+28 in 125d) 8 (+1 in 40d) 7 (40d) 7 (19d) 7 (11d) 7 (49d) 7 (+3 in 135d) 4
+-  -/-  ★37 **staystatic/awesome-static** (18 kb) - [10]: 37 (96d) 37 (75d) 37 (91d) 37 (+1 in 43d) 36 (125d) 36 (+1 in 40d) 35 (40d) 35 (19d) 35 (11d) 35
+-  -/-  ★37 **mundimark/awesome-books** (204 kb) - [15]: 37 (+1 in 96d) 36 (-1 in 75d) 37 (+1 in 91d) 36 (+1 in 43d) 35 (125d) 35 (+2 in 40d) 33 (+1 in 40d) 32 (19d) 32 (11d) 32 (49d) 32 (+6 in 135d) 26 (+4 in 40d) 22 (-1 in 126d) 23 (1d) 23
+-  -/-  ★36 **yorobot/football.db** (340 kb) - [15]: 36 (96d) 36 (75d) 36 (91d) 36 (43d) 36 (+3 in 125d) 33 (40d) 33 (40d) 33 (19d) 33 (11d) 33 (+4 in 49d) 29 (+2 in 135d) 27 (40d) 27 (126d) 27 (1d) 27
+-  -/-  ★30 **openfootball/world** (559 kb) - [1]: 30
+-  -/-  ★28 **mundimark/awesome-kramdown** (19 kb) - [11]: 28 (96d) 28 (75d) 28 (+1 in 91d) 27 (43d) 27 (125d) 27 (+1 in 40d) 26 (+2 in 40d) 24 (+6 in 19d) 18 (11d) 18 (+1 in 49d) 17
+-  -/-  ★27 **quikstart/quik** (26 kb) - [15]: 27 (96d) 27 (75d) 27 (91d) 27 (43d) 27 (125d) 27 (40d) 27 (40d) 27 (+1 in 19d) 26 (11d) 26 (+2 in 49d) 24 (+1 in 135d) 23 (+3 in 40d) 20 (+1 in 126d) 19 (1d) 19
+-  -/-  ★27 **beerkit/beer.db** (260 kb) - [13]: 27 (96d) 27 (75d) 27 (91d) 27 (43d) 27 (125d) 27 (40d) 27 (40d) 27 (19d) 27 (+1 in 11d) 26 (+2 in 49d) 24 (+5 in 135d) 19 (40d) 19
+-  -/-  ★26 **openfootball/euro-cup** (39 kb) - [15]: 26 (96d) 26 (75d) 26 (91d) 26 (43d) 26 (+1 in 125d) 25 (40d) 25 (40d) 25 (19d) 25 (11d) 25 (-1 in 49d) 26 (135d) 26 (40d) 26 (-1 in 126d) 27 (1d) 27
+-  -/-  ★22 **footballjs/football.js** (536 kb) - [15]: 22 (96d) 22 (75d) 22 (91d) 22 (43d) 22 (+1 in 125d) 21 (40d) 21 (40d) 21 (19d) 21 (11d) 21 (49d) 21 (135d) 21 (40d) 21 (126d) 21 (1d) 21
+-  -/-  ★21 **slideshow-templates/slideshow-slidy** (300 kb) - [15]: 21 (96d) 21 (75d) 21 (91d) 21 (43d) 21 (125d) 21 (40d) 21 (40d) 21 (19d) 21 (11d) 21 (49d) 21 (+2 in 135d) 19 (40d) 19 (+2 in 126d) 17 (1d) 17
+-  -/-  ★18 **henrythemes/jekyll-gutenberg-theme** (77 kb) - [15]: 18 (96d) 18 (75d) 18 (91d) 18 (43d) 18 (125d) 18 (40d) 18 (40d) 18 (19d) 18 (11d) 18 (49d) 18 (135d) 18 (40d) 18 (+1 in 126d) 17 (1d) 17
+-  -/-  ★17 **s6ruby/universum** (161 kb) - [2]: 17 (96d) 17
+-  -/-  ★17 **cryptocopycats/awesome-cryptocollectibles** (706 kb) - [7]: 17 (96d) 17 (75d) 17 (+3 in 91d) 14 (43d) 14 (+5 in 125d) 9 (+5 in 40d) 4
+-  -/-  ★17 **feedreader/planets** (45 kb) - [15]: 17 (96d) 17 (75d) 17 (91d) 17 (43d) 17 (125d) 17 (40d) 17 (40d) 17 (19d) 17 (11d) 17 (49d) 17 (135d) 17 (40d) 17 (126d) 17 (1d) 17
+-  -/-  ★17 **typesigs/awesome-types** (59 kb) - [1]: 17
+-  -/-  ★16 **json-next/json-next** (29 kb) - [10]: 16 (96d) 16 (75d) 16 (91d) 16 (+1 in 43d) 15 (125d) 15 (40d) 15 (40d) 15 (19d) 15 (11d) 15
+-  -/-  ★15 **austriacodes/awesome-austria** (66 kb) - [10]: 15 (96d) 15 (75d) 15 (91d) 15 (43d) 15 (+1 in 125d) 14 (+2 in 40d) 12 (40d) 12 (19d) 12 (11d) 12
+-  -/-  ★15 **mrhydescripts/mrhyde** (18 kb) - [15]: 15 (96d) 15 (75d) 15 (91d) 15 (43d) 15 (125d) 15 (40d) 15 (40d) 15 (19d) 15 (11d) 15 (49d) 15 (+1 in 135d) 14 (40d) 14 (126d) 14 (1d) 14
+-  -/-  ★15 **sportkit/sport.db.starter.ruby** (13 kb) - [15]: 15 (96d) 15 (75d) 15 (+1 in 91d) 14 (43d) 14 (125d) 14 (40d) 14 (+1 in 40d) 13 (19d) 13 (11d) 13 (49d) 13 (-2 in 135d) 15 (40d) 15 (126d) 15 (1d) 15
+-  -/-  ★15 **openbeer/openbeer.github.io** (744 kb) - [15]: 15 (96d) 15 (75d) 15 (91d) 15 (43d) 15 (125d) 15 (40d) 15 (40d) 15 (19d) 15 (11d) 15 (49d) 15 (+1 in 135d) 14 (40d) 14 (+1 in 126d) 13 (1d) 13
+-  -/-  ★14 **s6ruby/universum-contracts** (116 kb) - [2]: 14 (96d) 14
+-  -/-  ★14 **yukimotopress/sinatra-intro** (20 kb) - [15]: 14 (96d) 14 (75d) 14 (91d) 14 (43d) 14 (-1 in 125d) 15 (40d) 15 (40d) 15 (19d) 15 (11d) 15 (+1 in 49d) 14 (135d) 14 (40d) 14 (126d) 14 (1d) 14
+-  -/-  ★14 **slideshow-templates/slideshow-reveal.js** (1536 kb) - [15]: 14 (96d) 14 (75d) 14 (91d) 14 (43d) 14 (125d) 14 (40d) 14 (+1 in 40d) 13 (19d) 13 (11d) 13 (+2 in 49d) 11 (-1 in 135d) 12 (+2 in 40d) 10 (+5 in 126d) 5 (1d) 5
+-  -/-  ★14 **slideshow-s9/slideshow-s9.github.io** (3739 kb) - [15]: 14 (96d) 14 (75d) 14 (91d) 14 (43d) 14 (125d) 14 (40d) 14 (40d) 14 (19d) 14 (11d) 14 (49d) 14 (135d) 14 (40d) 14 (126d) 14 (1d) 14
+-  -/-  ★14 **slideshow-templates/slideshow-shower** (5085 kb) - [15]: 14 (96d) 14 (75d) 14 (91d) 14 (43d) 14 (+3 in 125d) 11 (40d) 11 (40d) 11 (+1 in 19d) 10 (11d) 10 (49d) 10 (135d) 10 (40d) 10 (+2 in 126d) 8 (1d) 8
+-  -/-  ★13 **bitshilling/bitshilling** (10 kb) - [10]: 13 (96d) 13 (75d) 13 (+1 in 91d) 12 (43d) 12 (125d) 12 (40d) 12 (+1 in 40d) 11 (+1 in 19d) 10 (11d) 10
+-  -/-  ★13 **mundimark/quickrefs** (289 kb) - [15]: 13 (+1 in 96d) 12 (-1 in 75d) 13 (91d) 13 (43d) 13 (125d) 13 (40d) 13 (+1 in 40d) 12 (19d) 12 (11d) 12 (+1 in 49d) 11 (+1 in 135d) 10 (40d) 10 (126d) 10 (1d) 10
+-  -/-  ★13 **drjekyllthemes/drjekyllthemes.github.io** (3932 kb) - [15]: 13 (96d) 13 (75d) 13 (-1 in 91d) 14 (+1 in 43d) 13 (125d) 13 (40d) 13 (40d) 13 (19d) 13 (11d) 13 (49d) 13 (+4 in 135d) 9 (40d) 9 (+2 in 126d) 7 (1d) 7
+-  -/-  ★13 **openmundi/world.csv** (176 kb) - [15]: 13 (96d) 13 (75d) 13 (+1 in 91d) 12 (43d) 12 (125d) 12 (-1 in 40d) 13 (40d) 13 (19d) 13 (11d) 13 (49d) 13 (+3 in 135d) 10 (40d) 10 (+2 in 126d) 8 (1d) 8
+-  -/-  ★13 **sportdb/footty** (27 kb) - [15]: 13 (96d) 13 (75d) 13 (-1 in 91d) 14 (43d) 14 (+13 in 125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★13 **rubycoco/linkto** (160 kb) - [5]: 13 (96d) 13 (75d) 13 (91d) 13 (43d) 13
+-  -/-  ★12 **csvreader/csvutils** (42 kb) - [4]: 12 (96d) 12 (75d) 12 (+3 in 91d) 9
+-  -/-  ★12 **bitshilling/bitshilling.tools** (140 kb) - [10]: 12 (96d) 12 (75d) 12 (91d) 12 (+1 in 43d) 11 (+1 in 125d) 10 (+1 in 40d) 9 (+1 in 40d) 8 (+1 in 19d) 7 (11d) 7
+-  -/-  ★12 **planetruby/awesome** (41 kb) - [15]: 12 (96d) 12 (75d) 12 (91d) 12 (43d) 12 (125d) 12 (40d) 12 (40d) 12 (+1 in 19d) 11 (11d) 11 (49d) 11 (135d) 11 (-1 in 40d) 12 (126d) 12 (1d) 12
+-  -/-  ★12 **textkit/whatson** (148 kb) - [15]: 12 (96d) 12 (75d) 12 (91d) 12 (43d) 12 (125d) 12 (40d) 12 (40d) 12 (19d) 12 (11d) 12 (49d) 12 (135d) 12 (40d) 12 (126d) 12 (1d) 12
+-  -/-  ★12 **worlddb/world.db.starter** (12 kb) - [11]: 12 (96d) 12 (75d) 12 (91d) 12 (43d) 12 (125d) 12 (40d) 12 (40d) 12 (19d) 12 (11d) 12 (49d) 12
+-  -/-  ★11 **csvreader/csvrecord** (37 kb) - [4]: 11 (96d) 11 (75d) 11 (+2 in 91d) 9
+-  -/-  ★11 **footballcsv/espana** (1038 kb) - [1]: 11
+-  -/-  ★11 **openfootball/national-teams** (48 kb) - [15]: 11 (96d) 11 (75d) 11 (91d) 11 (43d) 11 (125d) 11 (40d) 11 (40d) 11 (19d) 11 (11d) 11 (49d) 11 (135d) 11 (40d) 11 (-1 in 126d) 12 (1d) 12
+-  -/-  ★11 **footballbook/footballbook.github.io** (1156 kb) - [15]: 11 (96d) 11 (75d) 11 (91d) 11 (43d) 11 (125d) 11 (40d) 11 (40d) 11 (19d) 11 (11d) 11 (49d) 11 (135d) 11 (40d) 11 (-1 in 126d) 12 (1d) 12
+-  -/-  ★11 **openfootball/at-austria** (764 kb) - [15]: 11 (96d) 11 (75d) 11 (+1 in 91d) 10 (43d) 10 (125d) 10 (40d) 10 (40d) 10 (19d) 10 (11d) 10 (+1 in 49d) 9 (135d) 9 (+1 in 40d) 8 (126d) 8 (1d) 8
+-  -/-  ★11 **openbeer/us-united-states** (339 kb) - [15]: 11 (96d) 11 (75d) 11 (+1 in 91d) 10 (43d) 10 (+1 in 125d) 9 (40d) 9 (40d) 9 (19d) 9 (11d) 9 (49d) 9 (135d) 9 (40d) 9 (126d) 9 (1d) 9
+-  -/-  ★10 **openblockchains/tulips** (10 kb) - [11]: 10 (96d) 10 (75d) 10 (+1 in 91d) 9 (43d) 9 (+1 in 125d) 8 (40d) 8 (+1 in 40d) 7 (+1 in 19d) 6 (+1 in 11d) 5 (+2 in 49d) 3
+-  -/-  ★10 **openblockchains/awesome-libra** (1236 kb) - [1]: 10
+-  -/-  ★10 **henrythemes/hello-minima-theme** (7 kb) - [15]: 10 (96d) 10 (75d) 10 (+5 in 91d) 5 (43d) 5 (125d) 5 (40d) 5 (40d) 5 (19d) 5 (+1 in 11d) 4 (49d) 4 (135d) 4 (40d) 4 (126d) 4 (1d) 4
+-  -/-  ★10 **austriacodes/vienna.html** (1541 kb) - [10]: 10 (96d) 10 (75d) 10 (91d) 10 (43d) 10 (+1 in 125d) 9 (40d) 9 (40d) 9 (19d) 9 (11d) 9
+-  -/-  ★10 **planetjekyll/planetjekyll.github.io** (112 kb) - [15]: 10 (96d) 10 (75d) 10 (91d) 10 (43d) 10 (125d) 10 (40d) 10 (40d) 10 (19d) 10 (11d) 10 (49d) 10 (135d) 10 (40d) 10 (+1 in 126d) 9 (1d) 9
+-  -/-  ★10 **openbeer/docs** (132 kb) - [11]: 10 (96d) 10 (75d) 10 (-1 in 91d) 11 (+1 in 43d) 10 (125d) 10 (40d) 10 (40d) 10 (19d) 10 (11d) 10 (+1 in 49d) 9
+-  -/-  ★9 **openblockchains/tulipmania** (141 kb) - [10]: 9 (96d) 9 (75d) 9 (91d) 9 (43d) 9 (125d) 9 (40d) 9 (+1 in 40d) 8 (+1 in 19d) 7 (11d) 7
+-  -/-  ★9 **staystatic/staystatic.github.io** (1565 kb) - [15]: 9 (96d) 9 (75d) 9 (91d) 9 (43d) 9 (125d) 9 (40d) 9 (+1 in 40d) 8 (19d) 8 (11d) 8 (49d) 8 (135d) 8 (+1 in 40d) 7 (126d) 7 (1d) 7
+-  -/-  ★9 **typesigs/programming-bits-bytes** (76 kb) - [1]: 9
+-  -/-  ★9 **openfootball/stadiums** (37 kb) - [15]: 9 (96d) 9 (75d) 9 (+1 in 91d) 8 (43d) 8 (+2 in 125d) 6 (40d) 6 (40d) 6 (19d) 6 (11d) 6 (+1 in 49d) 5 (135d) 5 (40d) 5 (126d) 5 (1d) 5
+-  -/-  ★9 **worlddb/world.db.admin** (1840 kb) - [15]: 9 (96d) 9 (75d) 9 (-1 in 91d) 10 (43d) 10 (125d) 10 (40d) 10 (40d) 10 (19d) 10 (11d) 10 (49d) 10 (135d) 10 (40d) 10 (126d) 10 (1d) 10
+-  -/-  ★8 **planetruby/meetups** (60 kb) - [3]: 8 (96d) 8 (75d) 8
+-  -/-  ★8 **quikstart/sinatra-starter-template** (136 kb) - [15]: 8 (96d) 8 (75d) 8 (91d) 8 (43d) 8 (125d) 8 (40d) 8 (40d) 8 (19d) 8 (11d) 8 (49d) 8 (135d) 8 (40d) 8 (126d) 8 (1d) 8
+-  -/-  ★8 **mrhydescripts/scripts** (8 kb) - [15]: 8 (96d) 8 (75d) 8 (91d) 8 (43d) 8 (+1 in 125d) 7 (40d) 7 (+1 in 40d) 6 (-1 in 19d) 7 (11d) 7 (49d) 7 (135d) 7 (40d) 7 (+1 in 126d) 6 (1d) 6
+-  -/-  ★8 **textkit/event.db** (184 kb) - [15]: 8 (96d) 8 (75d) 8 (91d) 8 (43d) 8 (125d) 8 (40d) 8 (40d) 8 (19d) 8 (11d) 8 (49d) 8 (135d) 8 (40d) 8 (-1 in 126d) 9 (1d) 9
+-  -/-  ★8 **rubycoco/webservice** (48 kb) - [5]: 8 (96d) 8 (75d) 8 (+1 in 91d) 7 (43d) 7
+-  -/-  ★8 **footballcsv/france** (1251 kb) - [1]: 8
+-  -/-  ★8 **sportlogos/football.db.logos** (5791 kb) - [15]: 8 (96d) 8 (75d) 8 (+1 in 91d) 7 (43d) 7 (125d) 7 (+5 in 40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★8 **slideshow-templates/slideshow-csss** (103 kb) - [15]: 8 (96d) 8 (75d) 8 (91d) 8 (43d) 8 (125d) 8 (40d) 8 (40d) 8 (19d) 8 (11d) 8 (49d) 8 (135d) 8 (40d) 8 (+2 in 126d) 6 (1d) 6
+-  -/-  ★7 **officetxt/officetxt** (7 kb) - [12]: 7 (96d) 7 (75d) 7 (91d) 7 (43d) 7 (125d) 7 (40d) 7 (40d) 7 (19d) 7 (11d) 7 (+1 in 49d) 6 (135d) 6
+-  -/-  ★7 **texti/texti.github.io** (36 kb) - [12]: 7 (96d) 7 (75d) 7 (91d) 7 (43d) 7 (+2 in 125d) 5 (40d) 5 (40d) 5 (19d) 5 (11d) 5 (49d) 5 (135d) 5
+-  -/-  ★7 **csvreader/csv11** (11 kb) - [4]: 7 (96d) 7 (75d) 7 (91d) 7
+-  -/-  ★7 **henrythemes/hello-jekyll-theme** (6 kb) - [15]: 7 (96d) 7 (75d) 7 (91d) 7 (+2 in 43d) 5 (125d) 5 (40d) 5 (40d) 5 (19d) 5 (11d) 5 (49d) 5 (+2 in 135d) 3 (40d) 3 (126d) 3 (1d) 3
+-  -/-  ★7 **manuscripts/book-starter** (4 kb) - [15]: 7 (96d) 7 (75d) 7 (+1 in 91d) 6 (43d) 6 (+2 in 125d) 4 (40d) 4 (+1 in 40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (+1 in 126d) 2 (1d) 2
+-  -/-  ★7 **sportdb/rsssf** (164 kb) - [15]: 7 (96d) 7 (75d) 7 (91d) 7 (43d) 7 (125d) 7 (40d) 7 (40d) 7 (19d) 7 (11d) 7 (49d) 7 (135d) 7 (40d) 7 (126d) 7 (1d) 7
+-  -/-  ★7 **s6ruby/ruby-to-solidity** (30 kb) - [2]: 7 (96d) 7
+-  -/-  ★7 **beercsv/statistics** (268 kb) - [15]: 7 (96d) 7 (75d) 7 (91d) 7 (43d) 7 (125d) 7 (40d) 7 (40d) 7 (19d) 7 (11d) 7 (49d) 7 (135d) 7 (40d) 7 (126d) 7 (1d) 7
+-  -/-  ★7 **beerbook/beerbook.github.io** (954 kb) - [15]: 7 (96d) 7 (75d) 7 (91d) 7 (43d) 7 (+1 in 125d) 6 (40d) 6 (40d) 6 (19d) 6 (11d) 6 (49d) 6 (135d) 6 (40d) 6 (126d) 6 (1d) 6
+-  -/-  ★7 **openbeer/at-austria** (384 kb) - [15]: 7 (96d) 7 (75d) 7 (91d) 7 (43d) 7 (125d) 7 (+1 in 40d) 6 (40d) 6 (19d) 6 (11d) 6 (49d) 6 (135d) 6 (40d) 6 (126d) 6 (1d) 6
+-  -/-  ★6 **openblockchains/ledger.lite.rb** (24 kb) - [10]: 6 (96d) 6 (75d) 6 (-1 in 91d) 7 (43d) 7 (125d) 7 (+2 in 40d) 5 (40d) 5 (+1 in 19d) 4 (11d) 4
+-  -/-  ★6 **json-next/json-next.github.io** (20 kb) - [10]: 6 (96d) 6 (75d) 6 (91d) 6 (43d) 6 (125d) 6 (40d) 6 (40d) 6 (19d) 6 (11d) 6
+-  -/-  ★6 **octobook/book-classics-theme** (145 kb) - [15]: 6 (96d) 6 (75d) 6 (91d) 6 (43d) 6 (125d) 6 (40d) 6 (40d) 6 (19d) 6 (11d) 6 (49d) 6 (-1 in 135d) 7 (40d) 7 (126d) 7 (1d) 7
+-  -/-  ★6 **openfootball/schema** (7 kb) - [15]: 6 (96d) 6 (75d) 6 (91d) 6 (43d) 6 (125d) 6 (40d) 6 (40d) 6 (19d) 6 (11d) 6 (49d) 6 (135d) 6 (40d) 6 (+2 in 126d) 4 (1d) 4
+-  -/-  ★6 **openbeer/schema.sql** (140 kb) - [15]: 6 (96d) 6 (75d) 6 (91d) 6 (43d) 6 (+2 in 125d) 4 (40d) 4 (40d) 4 (+1 in 19d) 3 (11d) 3 (49d) 3 (135d) 3 (+1 in 40d) 2 (126d) 2 (1d) 2
+-  -/-  ★6 **footballjs/football.html** (204 kb) - [15]: 6 (96d) 6 (75d) 6 (91d) 6 (43d) 6 (125d) 6 (40d) 6 (40d) 6 (19d) 6 (11d) 6 (49d) 6 (135d) 6 (40d) 6 (126d) 6 (1d) 6
+-  -/-  ★6 **typesigs/typesigs** (12 kb) - [1]: 6
+-  -/-  ★6 **yorobot/world.db** (25 kb) - [15]: 6 (96d) 6 (75d) 6 (91d) 6 (43d) 6 (125d) 6 (40d) 6 (40d) 6 (19d) 6 (11d) 6 (49d) 6 (135d) 6 (40d) 6 (126d) 6 (1d) 6
+-  -/-  ★6 **beerkit/beer.db.admin** (536 kb) - [15]: 6 (96d) 6 (75d) 6 (91d) 6 (43d) 6 (125d) 6 (40d) 6 (40d) 6 (19d) 6 (11d) 6 (49d) 6 (135d) 6 (40d) 6 (126d) 6 (1d) 6
+-  -/-  ★5 **austriacodes/blockchain-whitepapers** (23253 kb) - [7]: 5 (96d) 5 (75d) 5 (-1 in 91d) 6 (43d) 6 (+2 in 125d) 4 (+2 in 40d) 2
+-  -/-  ★5 **slidekit/talks-starter** (167 kb) - [11]: 5 (96d) 5 (75d) 5 (91d) 5 (43d) 5 (125d) 5 (40d) 5 (40d) 5 (19d) 5 (11d) 5 (+1 in 49d) 4
+-  -/-  ★5 **csvspecs/csv-v11** (12 kb) - [4]: 5 (96d) 5 (75d) 5 (91d) 5
+-  -/-  ★5 **octobook/octobook** (2 kb) - [15]: 5 (96d) 5 (75d) 5 (91d) 5 (43d) 5 (125d) 5 (+1 in 40d) 4 (40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4 (126d) 4 (1d) 4
+-  -/-  ★5 **mundimark/why-text** (24 kb) - [6]: 5 (+1 in 96d) 4 (-1 in 75d) 5 (+3 in 91d) 2 (43d) 2 (125d) 2
+-  -/-  ★5 **mundimark/markdown-can-i-use** (16 kb) - [15]: 5 (96d) 5 (75d) 5 (91d) 5 (43d) 5 (125d) 5 (40d) 5 (+1 in 40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4 (126d) 4 (1d) 4
+-  -/-  ★5 **bookdesigns/designs** (0 kb) - [15]: 5 (96d) 5 (75d) 5 (91d) 5 (43d) 5 (125d) 5 (40d) 5 (+1 in 40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4 (+2 in 126d) 2 (1d) 2
+-  -/-  ★5 **manuscripts/manuscripts** (24 kb) - [15]: 5 (96d) 5 (75d) 5 (91d) 5 (43d) 5 (+1 in 125d) 4 (40d) 4 (+2 in 40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (+1 in 126d) 1 (1d) 1
+-  -/-  ★5 **quikstart/scripts** (11 kb) - [15]: 5 (96d) 5 (75d) 5 (91d) 5 (43d) 5 (125d) 5 (40d) 5 (40d) 5 (19d) 5 (11d) 5 (49d) 5 (135d) 5 (40d) 5 (+1 in 126d) 4 (1d) 4
+-  -/-  ★5 **geraldb/web-proxy-win** (152 kb) - [15]: 5 (96d) 5 (75d) 5 (91d) 5 (43d) 5 (125d) 5 (40d) 5 (40d) 5 (19d) 5 (+1 in 11d) 4 (49d) 4 (135d) 4 (+1 in 40d) 3 (126d) 3 (1d) 3
+-  -/-  ★5 **footballcsv/deutschland** (1119 kb) - [1]: 5
+-  -/-  ★5 **openfootball/fr-france** (74 kb) - [15]: 5 (96d) 5 (75d) 5 (91d) 5 (43d) 5 (+2 in 125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (+1 in 126d) 2 (1d) 2
+-  -/-  ★5 **openmundi/openmundi.github.io** (329 kb) - [15]: 5 (96d) 5 (75d) 5 (91d) 5 (43d) 5 (125d) 5 (40d) 5 (40d) 5 (19d) 5 (11d) 5 (49d) 5 (135d) 5 (40d) 5 (126d) 5 (1d) 5
+-  -/-  ★5 **plutolive/pluto.live.starter** (14 kb) - [15]: 5 (96d) 5 (75d) 5 (91d) 5 (43d) 5 (125d) 5 (40d) 5 (40d) 5 (19d) 5 (11d) 5 (49d) 5 (135d) 5 (40d) 5 (126d) 5 (1d) 5
+-  -/-  ★5 **opensport/hockey.db** (160 kb) - [15]: 5 (96d) 5 (75d) 5 (91d) 5 (43d) 5 (125d) 5 (40d) 5 (40d) 5 (19d) 5 (11d) 5 (49d) 5 (135d) 5 (40d) 5 (+1 in 126d) 4 (1d) 4
+-  -/-  ★5 **sportlogos/football.db.logos.ruby** (10396 kb) - [15]: 5 (96d) 5 (75d) 5 (91d) 5 (43d) 5 (125d) 5 (40d) 5 (40d) 5 (19d) 5 (11d) 5 (49d) 5 (135d) 5 (40d) 5 (126d) 5 (1d) 5
+-  -/-  ★5 **writekit/markdown.note** (248 kb) - [15]: 5 (96d) 5 (75d) 5 (91d) 5 (43d) 5 (125d) 5 (40d) 5 (+1 in 40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4 (126d) 4 (1d) 4
+-  -/-  ★5 **slideshow-templates/slideshow-s6-blank** (215 kb) - [15]: 5 (96d) 5 (75d) 5 (91d) 5 (43d) 5 (125d) 5 (40d) 5 (40d) 5 (19d) 5 (11d) 5 (49d) 5 (135d) 5 (40d) 5 (+2 in 126d) 3 (1d) 3
+-  -/-  ★5 **slideshow-templates/slideshow-s5-blank** (90 kb) - [15]: 5 (96d) 5 (75d) 5 (91d) 5 (43d) 5 (125d) 5 (40d) 5 (40d) 5 (19d) 5 (11d) 5 (49d) 5 (135d) 5 (40d) 5 (+1 in 126d) 4 (1d) 4
+-  -/-  ★4 **chooseaconduct/chooseaconduct.github.io** (66 kb) - [4]: 4 (96d) 4 (75d) 4 (+2 in 91d) 2
+-  -/-  ★4 **csvspecs/csv-json** (22 kb) - [4]: 4 (96d) 4 (75d) 4 (91d) 4
+-  -/-  ★4 **footballcsv/footballcsv.github.io** (13 kb) - [5]: 4 (96d) 4 (75d) 4 (+2 in 91d) 2 (+1 in 43d) 1
+-  -/-  ★4 **bitsblocks/bitcoin-maximalist** (1128 kb) - [6]: 4 (96d) 4 (75d) 4 (+1 in 91d) 3 (43d) 3 (+1 in 125d) 2
+-  -/-  ★4 **austriacodes/ruby** (15 kb) - [10]: 4 (96d) 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (+3 in 19d) 1 (11d) 1
+-  -/-  ★4 **slideshow-s9/docs** (156 kb) - [11]: 4 (96d) 4 (75d) 4 (+2 in 91d) 2 (+1 in 43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1
+-  -/-  ★4 **feedtxt/feedtxt** (28 kb) - [13]: 4 (96d) 4 (75d) 4 (91d) 4 (43d) 4 (+1 in 125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3
+-  -/-  ★4 **feedreader/pluto.starter** (12 kb) - [13]: 4 (96d) 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4
+-  -/-  ★4 **henrythemes/jekyll-talks-theme** (740 kb) - [15]: 4 (96d) 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4 (+1 in 49d) 3 (135d) 3 (40d) 3 (+2 in 126d) 1 (1d) 1
+-  -/-  ★4 **worldclassics/worldclassics.github.io** (12 kb) - [15]: 4 (96d) 4 (75d) 4 (+1 in 91d) 3 (+1 in 43d) 2 (125d) 2 (40d) 2 (+1 in 40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★4 **funpress/up-n-going** (229 kb) - [15]: 4 (96d) 4 (75d) 4 (91d) 4 (43d) 4 (+1 in 125d) 3 (40d) 3 (40d) 3 (+1 in 19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★4 **mundimark/markdown-tools** (5 kb) - [15]: 4 (96d) 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4 (126d) 4 (1d) 4
+-  -/-  ★4 **slideshow-s9/slideshow-starter** (64 kb) - [15]: 4 (96d) 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (+1 in 40d) 3 (40d) 3 (19d) 3 (11d) 3 (+1 in 49d) 2 (+1 in 135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★4 **opensport/rugby.db** (156 kb) - [15]: 4 (96d) 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4 (126d) 4 (1d) 4
+-  -/-  ★4 **planetjekyll/showcase** (2395 kb) - [15]: 4 (96d) 4 (75d) 4 (+1 in 91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (+1 in 126d) 2 (1d) 2
+-  -/-  ★4 **footballbook/calendar** (160 kb) - [15]: 4 (96d) 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4 (126d) 4 (1d) 4
+-  -/-  ★4 **worldclassics/the-trial** (185 kb) - [15]: 4 (96d) 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4 (+1 in 126d) 3 (1d) 3
+-  -/-  ★4 **openfootball/women-world-cup** (144 kb) - [15]: 4 (96d) 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4 (126d) 4 (1d) 4
+-  -/-  ★4 **openbeer/schema** (6 kb) - [15]: 4 (96d) 4 (75d) 4 (91d) 4 (+1 in 43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
+-  -/-  ★4 **openbeer/datafile** (172 kb) - [15]: 4 (96d) 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4 (+1 in 49d) 3 (135d) 3 (40d) 3 (+1 in 126d) 2 (1d) 2
+-  -/-  ★4 **beerbook/maps** (43 kb) - [15]: 4 (96d) 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4 (126d) 4 (1d) 4
+-  -/-  ★4 **openmundi/austria.db** (396 kb) - [15]: 4 (96d) 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4 (49d) 4 (+1 in 135d) 3 (40d) 3 (+1 in 126d) 2 (1d) 2
+-  -/-  ★4 **yorobot/beer.db** (68 kb) - [15]: 4 (96d) 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4 (126d) 4 (1d) 4
+-  -/-  ★4 **openfootball/copa-libertadores** (22 kb) - [15]: 4 (96d) 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4 (126d) 4 (1d) 4
+-  -/-  ★4 **openbeer/be-belgium** (34 kb) - [15]: 4 (96d) 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4 (49d) 4 (135d) 4 (40d) 4 (126d) 4 (1d) 4
+-  -/-  ★4 **rsssf/rsssf.github.io** (204 kb) - [15]: 4 (96d) 4 (75d) 4 (91d) 4 (43d) 4 (+1 in 125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
+-  -/-  ★3 **csvreader/tabreader** (30 kb) - [4]: 3 (96d) 3 (75d) 3 (91d) 3
+-  -/-  ★3 **rubycoco/record** (14 kb) - [5]: 3 (96d) 3 (75d) 3 (+2 in 91d) 1 (43d) 1
+-  -/-  ★3 **openblockchains/awesome-cheezewizards** (127 kb) - [1]: 3
+-  -/-  ★3 **octobook/book-2018-theme** (212 kb) - [10]: 3 (96d) 3 (75d) 3 (+1 in 91d) 2 (43d) 2 (125d) 2 (+1 in 40d) 1 (40d) 1 (19d) 1 (11d) 1
+-  -/-  ★3 **texti/texti** (45 kb) - [12]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3 (+2 in 125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1
+-  -/-  ★3 **yukimotopress/smalldata** (39 kb) - [10]: 3 (96d) 3 (75d) 3 (91d) 3 (+1 in 43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2
+-  -/-  ★3 **feedparser/feedfinder** (3 kb) - [13]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3
+-  -/-  ★3 **feedparser/feeds** (719 kb) - [13]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3
+-  -/-  ★3 **feedreader/docs** (266 kb) - [13]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (+2 in 49d) 1 (135d) 1 (40d) 1
+-  -/-  ★3 **slideshow-templates/slideshow-bespoke.js** (46 kb) - [13]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (+1 in 19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2
+-  -/-  ★3 **henrythemes/hello-pages-theme-v2** (8 kb) - [15]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (+1 in 40d) 2 (+1 in 126d) 1 (1d) 1
+-  -/-  ★3 **quikstart/jekyll-starter-theme** (5 kb) - [15]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3 (+2 in 125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★3 **hydepress/octopod** (129 kb) - [15]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
+-  -/-  ★3 **bookdesigns/book-rust** (67 kb) - [15]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
+-  -/-  ★3 **bookdesigns/book-hamilton** (215 kb) - [15]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (+1 in 40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★3 **hydepress/jekyll-style** (6 kb) - [15]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
+-  -/-  ★3 **hydepress/octopress** (37 kb) - [15]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
+-  -/-  ★3 **openfootball/ru-russia** (146 kb) - [15]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
+-  -/-  ★3 **typesigs/records** (14 kb) - [1]: 3
+-  -/-  ★3 **yorobot/planetjekyll** (243 kb) - [15]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (+1 in 40d) 2 (126d) 2 (1d) 2
+-  -/-  ★3 **worldclassics/dr-jekyll-and-mr-hyde** (135 kb) - [15]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (+1 in 40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★3 **planetruby/books** (661 kb) - [15]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
+-  -/-  ★3 **planet-templates/planet-templates.github.io** (366 kb) - [15]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (+1 in 135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★3 **sportdb/sport.db.web** (175 kb) - [15]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3 (+2 in 125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★3 **footballcsv/turkey** (250 kb) - [1]: 3
+-  -/-  ★3 **footballcsv/greece** (230 kb) - [1]: 3
+-  -/-  ★3 **footballcsv/italy** (653 kb) - [1]: 3
+-  -/-  ★3 **wikiscript/wikiscript** (160 kb) - [15]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
+-  -/-  ★3 **footballjs/starter** (33 kb) - [15]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
+-  -/-  ★3 **footballjs/football.api.js** (140 kb) - [15]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
+-  -/-  ★3 **openfootball/club-world-cup** (7 kb) - [15]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
+-  -/-  ★3 **sportlogos/sportlogos.github.io** (132 kb) - [15]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (+1 in 126d) 2 (1d) 2
+-  -/-  ★3 **openbeer/mx-mexico** (57 kb) - [15]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
+-  -/-  ★3 **openfootball/copa-america** (7 kb) - [15]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
+-  -/-  ★3 **csvspecs/csv-next** (12 kb) - [4]: 3 (96d) 3 (75d) 3 (91d) 3
+-  -/-  ★3 **openfootball/copa-sudamericana** (3 kb) - [15]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
+-  -/-  ★3 **geraldb/webpub-reader** (11 kb) - [10]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3
+-  -/-  ★3 **rubycoco/logutils** (39 kb) - [5]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3
+-  -/-  ★3 **openbookie/market.europe-champions-league** (336 kb) - [15]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (126d) 3 (1d) 3
+-  -/-  ★3 **planetruby/hellohoe** (2 kb) - [10]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3
+-  -/-  ★3 **typesigs/bytes** (36 kb) - [1]: 3
+-  -/-  ★3 **rubycoco/props** (26 kb) - [5]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3
+-  -/-  ★3 **slideshow-templates/slideshow-s6-syntax-highlighter** (194 kb) - [15]: 3 (96d) 3 (75d) 3 (91d) 3 (43d) 3 (125d) 3 (40d) 3 (40d) 3 (19d) 3 (11d) 3 (49d) 3 (135d) 3 (40d) 3 (-1 in 126d) 4 (1d) 4
+-  -/-  ★2 **cryptocopycats/kittyverse.json** (30 kb) - [3]: 2 (96d) 2 (75d) 2
+-  -/-  ★2 **csvreader/benchmarks** (119 kb) - [3]: 2 (96d) 2 (75d) 2
+-  -/-  ★2 **csvreader/csvhuman** (119 kb) - [3]: 2 (96d) 2 (75d) 2
+-  -/-  ★2 **csvspecs/csv-yaml** (10 kb) - [4]: 2 (96d) 2 (75d) 2 (91d) 2
+-  -/-  ★2 **csvreader/csvjson** (18 kb) - [4]: 2 (96d) 2 (75d) 2 (91d) 2
+-  -/-  ★2 **csvspecs/csv-v10** (53 kb) - [4]: 2 (96d) 2 (75d) 2 (91d) 2
+-  -/-  ★2 **sportdb/docs** (19 kb) - [5]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2
+-  -/-  ★2 **footballcsv/world** (309 kb) - [1]: 2
+-  -/-  ★2 **bitsblocks/ethereum** (50 kb) - [6]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2
+-  -/-  ★2 **openblockchains/awesome-sha256** (12 kb) - [7]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (+1 in 40d) 1
+-  -/-  ★2 **cryptocopycats/bitcat** (20 kb) - [7]: 2 (96d) 2 (75d) 2 (+1 in 91d) 1 (43d) 1 (125d) 1 (40d) 1
+-  -/-  ★2 **austriacodes/austria.txt** (23 kb) - [7]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2
+-  -/-  ★2 **rubycoco/fizzbuzzer** (105 kb) - [5]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2
+-  -/-  ★2 **yukimotopress/start** (165 kb) - [10]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (+1 in 11d) 1
+-  -/-  ★2 **octobook/gitbook-to-octobook-sample** (366 kb) - [10]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (+1 in 40d) 1 (19d) 1 (11d) 1
+-  -/-  ★2 **yukimotopress/auto** (72 kb) - [10]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2
+-  -/-  ★2 **austriacodes/austriacodes.github.io** (7 kb) - [10]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2
+-  -/-  ★2 **austriacodes/blockchain-austria** (18 kb) - [10]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2
+-  -/-  ★2 **feedtxt/feedtxt.github.io** (44 kb) - [13]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2
+-  -/-  ★2 **mundimark/markdown.pl** (108 kb) - [13]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2
+-  -/-  ★2 **playhtml/memory** (665 kb) - [13]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2
+-  -/-  ★2 **publicdomainworks/publicdomainworks.github.io** (2 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (+1 in 135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★2 **octobook/awesome-typography** (0 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (+1 in 125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★2 **funpress/es6-features** (32 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (+1 in 126d) 1 (1d) 1
+-  -/-  ★2 **slideshow-s9/slideshow-service** (355 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **rubycoco/gutenberg** (2 kb) - [5]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2
+-  -/-  ★2 **bibtxt/bibtxt.github.io** (3 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (+1 in 125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★2 **hydepress/hydepress.github.io** (160 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **hydepress/jekyll** (117 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **planetjekyll/sandbox-collections** (11 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (+1 in 126d) 1 (1d) 1
+-  -/-  ★2 **henrythemes/jekyll-boom-theme-v2** (124 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **henrythemes/jekyll-boom-theme** (137 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (+1 in 126d) 1 (1d) 1
+-  -/-  ★2 **planetjekyll/sandbox-github-pages** (30 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (+1 in 49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★2 **yorobot/rubyconf** (3 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **s6ruby/ethereum-contracts** (86 kb) - [2]: 2 (96d) 2
+-  -/-  ★2 **yorobot/cache** (1566 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **yorobot/factbook** (62 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **yorobot/football.csv** (428 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **yorobot/football.db.rsssf** (62 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **quikstart/gem-starter-template-hoe** (172 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (-1 in 40d) 3 (126d) 3 (1d) 3
+-  -/-  ★2 **quikstart/gem-starter-template** (140 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **planetopendata/awesome-austria** (48 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **openbeer/oberbayern** (336 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **planetruby/links** (203 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **geraldb/catalog** (156 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (+1 in 125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★2 **yorobot/backup** (1183 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **book-templates/bookfile** (156 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (+1 in 40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★2 **openmundi/datafile** (2 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (+1 in 43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★2 **yorobot/auto** (47 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **planetruby/planet** (232 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **planetruby/planetruby.github.io** (682 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **feedreader/notes** (196 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (+1 in 125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★2 **slideshow-templates/slideshow-templates.github.io** (31 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (+1 in 40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★2 **openmundi/deutschland.db** (212 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **openbeer/co-colorado** (204 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **openbeer/or-oregon** (184 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **openbeer/by-bayern** (89 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (+1 in 135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★2 **beercsv/world** (172 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (-1 in 40d) 3 (+2 in 40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★2 **beerkit/beer.db.starter** (16 kb) - [11]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2
+-  -/-  ★2 **sportkit/sport.db.starter.go** (192 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **writekit/markdown.note.starter** (212 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **beercsv/be-belgium** (212 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (+1 in 43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★2 **openmundi/world-heritage** (144 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **footballcsv/portugal** (312 kb) - [1]: 2
+-  -/-  ★2 **sportdb/football.db.models** (204 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (-1 in 43d) 3 (+1 in 125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (-1 in 135d) 3 (40d) 3 (126d) 3 (1d) 3
+-  -/-  ★2 **openfootball/ch-confoederatio-helvetica** (16 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **sportlabs/major-league-soccer** (819 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **openfootball/assocs** (148 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **rsssf/es-espana** (264 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **openfootball/confed-cup** (25 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **openfootball/futbol-es** (164 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **openfootball/fussball-de** (192 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **hybook/hybook** (204 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **openfootball/sandbox** (148 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **worldbook/worldbook.github.io** (392 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **openbeer/nl-netherlands** (164 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **openbookie/notes** (108 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **openfootball/north-america-champions-league** (8 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **openbookie/market.at-austria** (112 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **rubycoco/activerecord-utils** (164 kb) - [5]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2
+-  -/-  ★2 **feedreader/feedreader.github.io** (365 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **rubycoco/activityutils** (6 kb) - [5]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2
+-  -/-  ★2 **planet-templates/planet-feeds** (7 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **planet-templates/planet-news** (125 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **planet-templates/planet-blank** (449 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (+1 in 135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★2 **rubycoco/tagutils** (31 kb) - [5]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2
+-  -/-  ★2 **openfootball/lang** (228 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **beerkit/beer.js** (370 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **openfootball/africa-cup** (11 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **openfootball/north-america-gold-cup** (18 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **openfootball/mx-mexico** (18 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **openbeer/cz-czech-republic** (312 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **openbeer/de-deutschland** (493 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **openbookie/sport.db.play** (204 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **rubycoco/hoe-manifest** (128 kb) - [5]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2
+-  -/-  ★2 **rubycoco/pakman** (55 kb) - [5]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2
+-  -/-  ★2 **textkit/textutils** (158 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **slideshow-templates/slideshow-s5-themes** (160 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★2 **geraldb/sandbox** (529 kb) - [15]: 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+-  -/-  ★1 **openblockchains/awesome-coins** (990 kb) - [3]: 1 (96d) 1 (75d) 1
+-  -/-  ★1 **cryptocopycats/media** (3591 kb) - [3]: 1 (96d) 1 (75d) 1
+-  -/-  ★1 **csvspecs/csv-hxl** (4 kb) - [3]: 1 (96d) 1 (75d) 1
+-  -/-  ★1 **csvspecs/csv-meta** (34 kb) - [4]: 1 (96d) 1 (75d) 1 (91d) 1
+-  -/-  ★1 **csvspecs/csv-numerics** (22 kb) - [4]: 1 (96d) 1 (75d) 1 (91d) 1
+-  -/-  ★1 **csvreader/csvyaml** (15 kb) - [4]: 1 (96d) 1 (75d) 1 (91d) 1
+-  -/-  ★1 **rubycoco/typeconv** (2 kb) - [4]: 1 (96d) 1 (75d) 1 (91d) 1
+-  -/-  ★1 **footballcsv/major-league-soccer** (181 kb) - [5]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1
+-  -/-  ★1 **footballcsv/austria** (32 kb) - [1]: 1
+-  -/-  ★1 **footballcsv/mexico** (49 kb) - [1]: 1
+-  -/-  ★1 **openfootball/opendata-theme** (4 kb) - [5]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1
+-  -/-  ★1 **bitsblocks/islandcoin-whitepaper** (238 kb) - [6]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1
+-  -/-  ★1 **bitsblocks/crypto-facts** (267 kb) - [6]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1
+-  -/-  ★1 **bitsblocks/bitcoin-whitepaper** (107 kb) - [6]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1
+-  -/-  ★1 **bitsblocks/bitsblocks.github.io** (4087 kb) - [6]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1
+-  -/-  ★1 **bitsblocks/ethereum-whitepaper** (334 kb) - [6]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1
+-  -/-  ★1 **cryptocopycats/base32-alphabets** (56 kb) - [3]: 1 (96d) 1 (75d) 1
+-  -/-  ★1 **planetruby/calendar-theme** (10 kb) - [8]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1
+-  -/-  ★1 **drjekyllthemes/test-theme** (65 kb) - [8]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1
+-  -/-  ★1 **yukimotopress/fizzbuzz** (19 kb) - [10]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1
+-  -/-  ★1 **yukimotopress/examples** (28 kb) - [10]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1
+-  -/-  ★1 **yukimotopress/practices** (324 kb) - [10]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1
+-  -/-  ★1 **austriacodes/showcase** (656 kb) - [10]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1
+-  -/-  ★1 **yukimotopress/micro** (179 kb) - [10]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1
+-  -/-  ★1 **slidekit/jekyll-talks-theme** (9 kb) - [11]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1
+-  -/-  ★1 **slideshow-templates/slideshow-s6-blank-v1** (90 kb) - [11]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1
+-  -/-  ★1 **openfootball/women-euro-cup** (8 kb) - [12]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1
+-  -/-  ★1 **officetxt/officetxt.github.io** (35 kb) - [12]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1
+-  -/-  ★1 **journaltxt/blog** (21 kb) - [12]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1
+-  -/-  ★1 **markupmadness/markupmadness** (29 kb) - [12]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1
+-  -/-  ★1 **markupmadness/markupmadness.github.io** (19 kb) - [12]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1
+-  -/-  ★1 **json-next/json-feed** (10 kb) - [10]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1
+-  -/-  ★1 **json-next/json-next-tests** (16 kb) - [10]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1
+-  -/-  ★1 **datatxt/iniparser** (6 kb) - [12]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1
+-  -/-  ★1 **datatxt/datatxt.github.io** (6 kb) - [12]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1
+-  -/-  ★1 **feedhtml/hyperdata** (7 kb) - [13]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1
+-  -/-  ★1 **feedhtml/feedhtml.github.io** (4 kb) - [13]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1
+-  -/-  ★1 **playhtml/feeds** (167 kb) - [13]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1
+-  -/-  ★1 **playhtml/weather** (186 kb) - [13]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1
+-  -/-  ★1 **playhtml/search** (214 kb) - [13]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1
+-  -/-  ★1 **playhtml/hello** (168 kb) - [13]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1
+-  -/-  ★1 **playhtml/tictactoe** (183 kb) - [13]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1
+-  -/-  ★1 **slidekit/s6-v1** (53 kb) - [13]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1
+-  -/-  ★1 **henrythemes/hello-pages-theme** (11 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **yorobot/logs** (2 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **mundimark/mundimark.github.io** (6 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **writekit/writekit.github.io** (0 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **updownpress/updownpress.github.io** (7 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **funpress/elm-by-example** (209 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **funpress/babel** (21 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **funpress/funpress.github.io** (3728 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **octobook/book-blank-theme** (72 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **slideshow-templates/media** (51227 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **slideshow-templates/slideshow-google-io-2011-slides** (555 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **hydepress/liquid** (18 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **hydepress/jekyll-dev** (8 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **hydepress/jekyll-deploy** (12 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **hydepress/jekyll-install** (6 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **austriacodes/questions** (23 kb) - [10]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1
+-  -/-  ★1 **shellpress/raspberrypi** (38238 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **hydepress/jekyll-themes** (40 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **hydepress/jekyll-import** (18 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **hydepress/jekyll-plugins** (34 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **printhtml/quickrefs** (2 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **printhtml/awesome-print** (2 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **planetjekyll/sandbox-syntax-highlighter** (12 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **rsssf/spec** (3 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **rubycoco/fotos** (4 kb) - [5]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1
+-  -/-  ★1 **gittiscripts/gitti** (22 kb) - [9]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1
+-  -/-  ★1 **gittiscripts/hubba** (21 kb) - [9]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1
+-  -/-  ★1 **sportdb/scripts** (158 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **rubycoco/jekylldoc** (136 kb) - [5]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1
+-  -/-  ★1 **planetjekyll/sandbox** (81 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **rsssf/at-austria** (57 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **textkit/rubycat** (140 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **textkit/catalog.db** (140 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **beerbook/calendar** (14 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **planetopendata/planetopendata.github.io** (132 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **planetruby/apps** (161 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **worlddb/world.db.service** (1 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **beerkit/beer.db.service** (5 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **sportdb/sport.db.service** (120 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **textkit/dataman** (136 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **hybook/bookman** (140 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **geraldb/austria** (552 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **openbeer/oberfranken** (332 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **hybook/bookfile** (224 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **wikiscript/beer** (28 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **openbeer/collections** (4 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **planetruby/quickrefs** (37 kb) - [2]: 1 (96d) 1
+-  -/-  ★1 **planetbeer/books** (1616 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **planetbeer/planetbeer.github.io** (172 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **planetjekyll/planet** (170 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **book-templates/world** (176 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **book-templates/beer** (208 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **book-templates/football** (196 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **textkit/notes** (120 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **textkit/preproc** (136 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **planet-templates/planet-forty** (89 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **planet-templates/planet-paper** (85 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **planetopendata/planet** (206 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **planetbeer/planet** (132 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **slideshow-s9/slideshow-plugins** (4 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **writekit/markdown-service** (60 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **writekit/markdown-tools** (136 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **textkit/datafile** (220 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **worlddb/world.db.cities** (136 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **openbeer/images** (260 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **beerkit/beer.db.day** (186 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **openbeer/market** (148 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **openbeer/wa-washington** (148 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **openbeer/menus** (136 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **beercsv/ca-canada** (148 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **beercsv/de-deutschland** (144 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **mokkalibs/mokka** (144 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **typesigs/typesig** (368 kb) - [1]: 1
+-  -/-  ★1 **slidekit/s6-samples** (408 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **slidekit/slidekit.github.io** (10 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **slidekit/s6-minimalistic** (3 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **writekit/markdown.api.js** (140 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **writekit/markdown.lib.js** (140 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **writekit/markdown.themes** (140 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **geraldb/webcomponents** (164 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **sportdb/sport.db.service.rack** (144 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **slideshow-s9/samples** (122 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **beercsv/build** (308 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **sportdb/racing.db.models** (164 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **footballcsv/belgium** (325 kb) - [1]: 1
+-  -/-  ★1 **footballcsv/netherlands** (326 kb) - [1]: 1
+-  -/-  ★1 **footballcsv/scotland** (465 kb) - [1]: 1
+-  -/-  ★1 **geraldb/chelitas** (168 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **beerkit/beer.db.mobile** (400 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **wikiscript/football.players** (7 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **wikiscript/football.squads** (471 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **rsssf/eng-england** (117 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **rsssf/br-brazil** (284 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **rsssf/de-deutschland** (1654 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **beerkit/beer.api.js** (140 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **persondb/person.db.models** (184 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **openwine/build** (132 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **geraldb/wine.db.tools** (252 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **openwine/at-austria** (196 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **beerkit/beerbook** (220 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **openbeer/notes** (204 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **openbeer/jp-japan** (152 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **openbeer/ie-ireland** (180 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **openbeer/ch-confoederatio-helvetica** (188 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **openmundi/notes** (132 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **openbookie/market.euro-cup** (108 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **openbookie/market.world-cup** (108 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **webstart/upman-win** (160 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **planet-templates/planet-zen** (35 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **planet-templates/planet-hacker** (45 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **planet-templates/planet-digest** (105 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **feedreader/pluto.tools** (176 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **webstart/upman** (200 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **webstart/webstart.github.io** (148 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **webstart/master** (3016 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **webstart/webstart-notifier** (116 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **rubycoco/about** (112 kb) - [5]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1
+-  -/-  ★1 **planet-templates/planet-classic** (98 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **planet-templates/planet-top** (94 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **plutolive/pluto.admin** (21 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **openmundi/mundo-es** (112 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **openmundi/welt-de** (112 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **openmundi/langs** (116 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **sportlogos/sport.db.logos** (1084 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **sportlogos/sport.db.logos.ruby** (1392 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **sportlogos/hockey.db.logos** (192 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **opensport/build** (140 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **beerlabels/beer.db.labels** (240 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **opensport/ski.db** (154 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **webstart/server** (136 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **webstart/links-sinatra** (112 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **webstart/links-rails** (132 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **webstart/webstart-browser** (128 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **beerlabels/beer.db.labels.ruby** (840 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **openmundi/wien.db** (114 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **webstart/webstart-utils** (224 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **openbookie/sport.db.market** (172 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **rubycoco/activerecord-importer** (144 kb) - [5]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1
+-  -/-  ★1 **geraldb/geraldb.github.io** (520 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **webstart/manman** (132 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **webstart/sandbox** (252 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **mokkalibs/faster_xml_simple_reader** (104 kb) - [15]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1 (40d) 1 (40d) 1 (19d) 1 (11d) 1 (49d) 1 (135d) 1 (40d) 1 (126d) 1 (1d) 1
+-  -/-  ★1 **rubycoco/ostructer** (112 kb) - [5]: 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1
+-  -/-  ★0 **geraldb/awesome-ruby** (2404 kb) - [4]: 0 (96d) 0 (75d) 0 (593d) 0
+- -0.176/month  ★64 **worlddb/world.db** (383 kb) - [13]: 64 (96d) 64 (-1 in 75d) 65 (91d) 65 (43d) 65 (+2 in 125d) 63 (40d) 63 (40d) 63 (19d) 63 (+1 in 11d) 62 (+2 in 49d) 60 (+1 in 135d) 59 (40d) 59
+- -0.176/month  ★56 **openfootball/datafile** (20 kb) - [15]: 56 (-1 in 96d) 57 (75d) 57 (+2 in 91d) 55 (+3 in 43d) 52 (+14 in 125d) 38 (+1 in 40d) 37 (40d) 37 (+4 in 19d) 33 (+1 in 11d) 32 (+3 in 49d) 29 (+8 in 135d) 21 (+2 in 40d) 19 (+4 in 126d) 15 (1d) 15
+- -0.176/month  ★51 **henrythemes/jekyll-bootstrap-theme** (460630 kb) - [15]: 51 (-1 in 96d) 52 (75d) 52 (+1 in 91d) 51 (43d) 51 (+1 in 125d) 50 (40d) 50 (40d) 50 (19d) 50 (-1 in 11d) 51 (+1 in 49d) 50 (+6 in 135d) 44 (+1 in 40d) 43 (+6 in 126d) 37 (1d) 37
+- -0.176/month  ★34 **rubycoco/almost-sinatra** (16 kb) - [5]: 34 (96d) 34 (-1 in 75d) 35 (+1 in 91d) 34 (43d) 34
+- -0.176/month  ★8 **plutolive/pluto.live** (403 kb) - [15]: 8 (-1 in 96d) 9 (75d) 9 (91d) 9 (43d) 9 (125d) 9 (40d) 9 (40d) 9 (19d) 9 (11d) 9 (49d) 9 (135d) 9 (40d) 9 (126d) 9 (1d) 9
+- -0.176/month  ★3 **octobook/book-2017-theme** (183 kb) - [10]: 3 (-1 in 96d) 4 (75d) 4 (91d) 4 (43d) 4 (125d) 4 (40d) 4 (40d) 4 (19d) 4 (11d) 4
+- -0.176/month  ★2 **manuscripts/manuscripts.github.io** (24 kb) - [15]: 2 (-1 in 96d) 3 (75d) 3 (+1 in 91d) 2 (43d) 2 (125d) 2 (40d) 2 (40d) 2 (19d) 2 (11d) 2 (49d) 2 (135d) 2 (40d) 2 (126d) 2 (1d) 2
+- -0.351/month  ★46 **rubycoco/dbbrowser** (207 kb) - [5]: 46 (96d) 46 (-2 in 75d) 48 (+1 in 91d) 47 (43d) 47
+- -0.351/month  ★25 **csvreader/docs** (235 kb) - [4]: 25 (-1 in 96d) 26 (-1 in 75d) 27 (+3 in 91d) 24
+- -0.527/month  ★568 **openmundi/world.db** (1088 kb) - [15]: 568 (-3 in 96d) 571 (75d) 571 (+3 in 91d) 568 (+7 in 43d) 561 (+4 in 125d) 557 (-1 in 40d) 558 (+1 in 40d) 557 (+2 in 19d) 555 (+1 in 11d) 554 (+2 in 49d) 552 (+10 in 135d) 542 (40d) 542 (-2 in 126d) 544 (1d) 544
