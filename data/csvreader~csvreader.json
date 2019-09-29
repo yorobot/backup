@@ -1,9 +1,9 @@
 {
   "full_name": "csvreader/csvreader",
   "created_at": "2018-08-15T07:57:34Z",
-  "updated_at": "2019-07-15T13:54:06Z",
-  "pushed_at": "2018-11-24T09:34:46Z",
-  "size": 191,
+  "updated_at": "2019-09-19T14:13:33Z",
+  "pushed_at": "2019-07-27T18:17:08Z",
+  "size": 187,
   "history": {
     "2018-11-02": {
       "stargazers_count": 154
@@ -16,19 +16,22 @@
     },
     "2019-07-22": {
       "stargazers_count": 164
+    },
+    "2019-09-29": {
+      "stargazers_count": 164
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-11-24T09:34:38Z",
+        "date": "2019-07-27T18:16:57Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2018-11-24T09:34:38Z",
+        "date": "2019-07-27T18:16:57Z",
         "name": "Gerald Bauer"
       },
-      "message": "up json,yaml"
+      "message": "add end-of-line comments"
     }
   ]
 }

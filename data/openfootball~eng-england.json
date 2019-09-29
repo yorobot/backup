@@ -46,22 +46,25 @@
     },
     "2019-07-22": {
       "stargazers_count": 273
+    },
+    "2019-09-29": {
+      "stargazers_count": 286
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-07-03T13:19:28Z",
+        "date": "2019-09-29T08:39:48Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2019-07-03T13:19:28Z",
-        "name": "Gerald Bauer"
+        "date": "2019-09-29T08:39:48Z",
+        "name": "bjoern3"
       },
-      "message": "Update clubs.txt"
+      "message": "Update 1-premierleague.txt"
     }
   ],
-  "size": 822,
-  "updated_at": "2019-07-05T15:47:24Z",
-  "pushed_at": "2019-07-03T13:19:29Z"
+  "size": 939,
+  "updated_at": "2019-09-29T08:39:50Z",
+  "pushed_at": "2019-09-29T08:39:48Z"
 }

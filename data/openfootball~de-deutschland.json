@@ -46,22 +46,25 @@
     },
     "2019-07-22": {
       "stargazers_count": 44
+    },
+    "2019-09-29": {
+      "stargazers_count": 45
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-07-02T08:19:13Z",
-        "name": "Gerald Bauer"
+        "date": "2019-09-29T19:49:32Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2019-07-02T08:19:13Z",
-        "name": "Gerald Bauer"
+        "date": "2019-09-29T19:49:32Z",
+        "name": "Enrique Lopez Magallon"
       },
-      "message": "up"
+      "message": "Update 1-bundesliga.txt"
     }
   ],
-  "size": 1556,
-  "updated_at": "2019-07-02T08:19:21Z",
-  "pushed_at": "2019-07-02T08:19:19Z"
+  "size": 1647,
+  "updated_at": "2019-09-29T19:49:35Z",
+  "pushed_at": "2019-09-29T19:49:33Z"
 }

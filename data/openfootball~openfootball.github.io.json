@@ -46,22 +46,25 @@
     },
     "2019-07-22": {
       "stargazers_count": 130
+    },
+    "2019-09-29": {
+      "stargazers_count": 132
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-08-16T08:12:47Z",
+        "date": "2019-08-01T12:36:27Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2018-08-16T08:12:47Z",
+        "date": "2019-08-01T12:36:27Z",
         "name": "Gerald Bauer"
       },
       "message": "Update announce.html"
     }
   ],
-  "size": 1616,
-  "updated_at": "2019-05-14T07:43:39Z",
-  "pushed_at": "2018-08-16T08:12:47Z"
+  "size": 1620,
+  "updated_at": "2019-08-28T06:15:42Z",
+  "pushed_at": "2019-08-01T12:36:27Z"
 }

@@ -46,22 +46,25 @@
     },
     "2019-07-22": {
       "stargazers_count": 94
+    },
+    "2019-09-29": {
+      "stargazers_count": 94
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-06-21T14:49:24Z",
+        "date": "2019-08-31T17:07:09Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2019-06-21T14:49:24Z",
-        "name": "bit-ranger"
+        "date": "2019-08-31T17:07:09Z",
+        "name": "Artem Sheludko"
       },
-      "message": " change tiffany url (#135)\n\n* domain name changed\r\n\r\n* change tiffany url"
+      "message": "Add Derrick Theme (#138)\n\n* add Derrick theme\r\n\r\n* add Derrick theme"
     }
   ],
-  "size": 9418,
-  "updated_at": "2019-07-11T13:54:22Z",
-  "pushed_at": "2019-06-21T14:49:25Z"
+  "size": 9541,
+  "updated_at": "2019-09-18T18:39:15Z",
+  "pushed_at": "2019-08-31T17:07:10Z"
 }

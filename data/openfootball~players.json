@@ -46,6 +46,9 @@
     },
     "2019-07-22": {
       "stargazers_count": 19
+    },
+    "2019-09-29": {
+      "stargazers_count": 19
     }
   },
   "commits": [
@@ -62,6 +65,6 @@
     }
   ],
   "size": 390,
-  "updated_at": "2019-07-19T14:52:01Z",
+  "updated_at": "2019-08-13T15:22:58Z",
   "pushed_at": "2014-12-04T12:51:20Z"
 }

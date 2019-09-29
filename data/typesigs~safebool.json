@@ -1,25 +1,28 @@
 {
   "full_name": "typesigs/safebool",
   "created_at": "2015-04-30T12:49:45Z",
-  "updated_at": "2019-07-08T14:41:59Z",
-  "pushed_at": "2019-04-05T08:16:32Z",
-  "size": 116,
+  "updated_at": "2019-09-19T15:35:32Z",
+  "pushed_at": "2019-08-30T17:13:26Z",
+  "size": 118,
   "history": {
     "2019-07-22": {
       "stargazers_count": 304
+    },
+    "2019-09-29": {
+      "stargazers_count": 303
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-04-05T08:16:32Z",
+        "date": "2019-08-30T17:13:25Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2019-04-05T08:16:32Z",
+        "date": "2019-08-30T17:13:25Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update README.md"
+      "message": "Update NOTES.md"
     }
   ]
 }

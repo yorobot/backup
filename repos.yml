@@ -1,7 +1,7 @@
 ---
 geraldb (11):
 - austria
-- awesome-ruby
+## - awesome-ruby
 - catalog
 - chelitas
 - geraldb.github.io
@@ -336,7 +336,6 @@ openfootball (42):
 - assocs
 - at-austria
 - br-brazil
-- ch-confoederatio-helvetica
 - club-world-cup
 - clubs
 - confed-cup
@@ -356,6 +355,7 @@ openfootball (42):
 - futbol-es
 - it-italy
 - lang
+- leagues
 - mx-mexico
 - national-teams
 - north-america-champions-league
@@ -578,8 +578,8 @@ sportkit (3):
 - sport.db.starter.go
 - sport.db.starter.node.js
 - sport.db.starter.ruby
-sportlabs (1):
-- major-league-soccer
+# sportlabs (1):
+#- major-league-soccer
 sportlogos (6):
 - football.db.logos
 - football.db.logos.ruby

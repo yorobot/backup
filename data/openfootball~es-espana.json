@@ -46,22 +46,25 @@
     },
     "2019-07-22": {
       "stargazers_count": 55
+    },
+    "2019-09-29": {
+      "stargazers_count": 55
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-07-02T07:48:37Z",
-        "name": "Gerald Bauer"
+        "date": "2019-09-29T08:35:46Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2019-07-02T07:48:37Z",
-        "name": "Gerald Bauer"
+        "date": "2019-09-29T08:35:46Z",
+        "name": "bjoern3"
       },
-      "message": "up clubs"
+      "message": "Update 2-liga2.txt"
     }
   ],
-  "size": 575,
-  "updated_at": "2019-07-02T07:48:45Z",
-  "pushed_at": "2019-07-02T07:48:44Z"
+  "size": 705,
+  "updated_at": "2019-09-29T08:35:48Z",
+  "pushed_at": "2019-09-29T08:35:47Z"
 }

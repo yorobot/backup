@@ -1,11 +1,14 @@
 {
   "full_name": "typesigs/safedata",
   "created_at": "2015-06-26T14:26:27Z",
-  "updated_at": "2019-04-21T19:40:21Z",
+  "updated_at": "2019-08-18T16:47:08Z",
   "pushed_at": "2019-03-25T20:23:02Z",
   "size": 60,
   "history": {
     "2019-07-22": {
+      "stargazers_count": 121
+    },
+    "2019-09-29": {
       "stargazers_count": 121
     }
   },

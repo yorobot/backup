@@ -1,9 +1,9 @@
 {
   "full_name": "planetruby/quiz",
   "created_at": "2018-10-28T15:58:20Z",
-  "updated_at": "2019-07-21T14:53:58Z",
-  "pushed_at": "2019-07-19T17:21:58Z",
-  "size": 267,
+  "updated_at": "2019-09-15T02:56:12Z",
+  "pushed_at": "2019-07-23T11:57:37Z",
+  "size": 270,
   "history": {
     "2018-11-02": {
       "stargazers_count": 15
@@ -16,19 +16,22 @@
     },
     "2019-07-22": {
       "stargazers_count": 35
+    },
+    "2019-09-29": {
+      "stargazers_count": 44
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-07-19T17:21:57Z",
+        "date": "2019-07-23T11:57:37Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2019-07-19T17:21:57Z",
+        "date": "2019-07-23T11:57:37Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update test.rb"
+      "message": "Create solution.rb"
     }
   ]
 }
