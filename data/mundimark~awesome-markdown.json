@@ -49,22 +49,25 @@
     },
     "2019-09-29": {
       "stargazers_count": 390
+    },
+    "2019-12-08": {
+      "stargazers_count": 413
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-08-29T10:48:22Z",
-        "name": "Gerald Bauer"
+        "date": "2019-11-12T20:28:44Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2019-08-29T10:48:22Z",
-        "name": "Tim Allclair (St. Clair)"
+        "date": "2019-11-12T20:28:44Z",
+        "name": "Gerald Bauer"
       },
-      "message": "Add mdtoc to list of TOC tools (#25)\n\n`mdtoc` is a standalone TOC generator designed to integrate into CI/CD"
+      "message": "add Stop Using Markdown For Documentation"
     }
   ],
-  "size": 68,
-  "updated_at": "2019-09-28T15:59:59Z",
-  "pushed_at": "2019-08-29T10:48:23Z"
+  "size": 77,
+  "updated_at": "2019-12-06T22:36:03Z",
+  "pushed_at": "2019-11-12T20:28:45Z"
 }

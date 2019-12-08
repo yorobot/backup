@@ -41,6 +41,9 @@
     },
     "2019-09-29": {
       "stargazers_count": 3
+    },
+    "2019-12-08": {
+      "stargazers_count": 4
     }
   },
   "commits": [
@@ -56,6 +59,6 @@
       "message": "Create LICENSE.md"
     }
   ],
-  "updated_at": "2019-07-15T10:45:56Z",
+  "updated_at": "2019-11-21T21:19:36Z",
   "pushed_at": "2017-07-20T16:23:30Z"
 }

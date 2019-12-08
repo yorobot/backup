@@ -1,0 +1,25 @@
+{
+  "full_name": "openfootball/deutschland",
+  "created_at": "2013-05-20T08:24:36Z",
+  "updated_at": "2019-12-08T19:24:28Z",
+  "pushed_at": "2019-12-08T19:24:26Z",
+  "size": 1733,
+  "history": {
+    "2019-12-08": {
+      "stargazers_count": 47
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2019-12-08T19:24:25Z",
+        "name": "GitHub"
+      },
+      "author": {
+        "date": "2019-12-08T19:24:25Z",
+        "name": "Enrique Lopez Magallon"
+      },
+      "message": "Update 1-bundesliga.txt"
+    }
+  ]
+}

@@ -1,25 +1,28 @@
 {
   "full_name": "openblockchains/awesome-libra",
   "created_at": "2017-09-23T17:19:36Z",
-  "updated_at": "2019-09-20T18:10:48Z",
-  "pushed_at": "2019-09-20T18:10:46Z",
-  "size": 1431,
+  "updated_at": "2019-12-07T12:34:39Z",
+  "pushed_at": "2019-11-27T21:15:57Z",
+  "size": 1632,
   "history": {
     "2019-07-22": {
       "stargazers_count": 10
     },
     "2019-09-29": {
       "stargazers_count": 29
+    },
+    "2019-12-08": {
+      "stargazers_count": 35
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-09-20T18:10:45Z",
+        "date": "2019-11-27T21:15:56Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2019-09-20T18:10:45Z",
+        "date": "2019-11-27T21:15:56Z",
         "name": "Gerald Bauer"
       },
       "message": "Update README.md"

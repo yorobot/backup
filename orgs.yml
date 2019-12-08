@@ -1,6 +1,5 @@
 ---
-geraldb (87):
-- RubyHabits
+geraldb (83):
 - austriacodes
 - beerbook
 - beercsv
@@ -26,18 +25,15 @@ geraldb (87):
 - feedtxt
 - footballbook
 - footballcsv
-- footballjs
 - funpress
 - gittiscripts
 - henrythemes
 - hybook
 - hydepress
-- jekyll-octopod
 - journaltxt
 - json-next
 - manuscripts
 - markupmadness
-- mokkalibs
 - mrhydescripts
 - mundimark
 - octobook
@@ -63,7 +59,6 @@ geraldb (87):
 - quikstart
 - rsssf
 - rubycoco
-- rugl-at
 - s6ruby
 - schemadoc
 - shellpress
@@ -79,7 +74,8 @@ geraldb (87):
 - textkit
 - typesigs
 - updownpress
-- vienna-rb
+- viennacrypto
+- viennarb
 - webstart
 - wikiscript
 - worldbook

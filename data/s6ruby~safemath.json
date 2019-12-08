@@ -1,7 +1,7 @@
 {
   "full_name": "s6ruby/safemath",
   "created_at": "2015-06-26T15:44:01Z",
-  "updated_at": "2019-05-08T00:24:59Z",
+  "updated_at": "2019-10-17T14:30:20Z",
   "pushed_at": "2019-03-23T22:01:38Z",
   "size": 15,
   "history": {
@@ -13,6 +13,9 @@
     },
     "2019-09-29": {
       "stargazers_count": 5
+    },
+    "2019-12-08": {
+      "stargazers_count": 6
     }
   },
   "commits": [

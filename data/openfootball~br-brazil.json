@@ -49,22 +49,25 @@
     },
     "2019-09-29": {
       "stargazers_count": 54
+    },
+    "2019-12-08": {
+      "stargazers_count": 56
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-07-08T14:48:47Z",
-        "name": "GitHub"
+        "date": "2019-10-16T18:04:57Z",
+        "name": "Pereira"
       },
       "author": {
-        "date": "2019-07-08T14:48:47Z",
-        "name": "Gerald Bauer"
+        "date": "2019-10-16T18:04:57Z",
+        "name": "Pereira"
       },
-      "message": "Update clubs.txt"
+      "message": ":bug: fixing bug for load gauchao championship 2016"
     }
   ],
-  "size": 221,
-  "updated_at": "2019-08-18T00:33:24Z",
-  "pushed_at": "2019-07-08T14:48:48Z"
+  "size": 223,
+  "updated_at": "2019-11-24T18:56:52Z",
+  "pushed_at": "2019-10-16T18:05:07Z"
 }

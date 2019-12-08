@@ -1,0 +1,25 @@
+{
+  "full_name": "openfootball/italy",
+  "created_at": "2013-09-07T17:34:06Z",
+  "updated_at": "2019-12-08T07:28:38Z",
+  "pushed_at": "2019-12-08T07:28:36Z",
+  "size": 630,
+  "history": {
+    "2019-12-08": {
+      "stargazers_count": 22
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2019-12-08T07:28:35Z",
+        "name": "GitHub"
+      },
+      "author": {
+        "date": "2019-12-08T07:28:35Z",
+        "name": "bjoern3"
+      },
+      "message": "Update 1-seriea.txt"
+    }
+  ]
+}

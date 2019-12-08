@@ -1,0 +1,25 @@
+{
+  "full_name": "openfootball/austria",
+  "created_at": "2013-05-20T08:14:40Z",
+  "updated_at": "2019-12-08T07:29:41Z",
+  "pushed_at": "2019-12-08T07:29:38Z",
+  "size": 810,
+  "history": {
+    "2019-12-08": {
+      "stargazers_count": 12
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2019-12-08T07:29:38Z",
+        "name": "GitHub"
+      },
+      "author": {
+        "date": "2019-12-08T07:29:38Z",
+        "name": "bjoern3"
+      },
+      "message": "Update 1-bundesliga.txt"
+    }
+  ]
+}

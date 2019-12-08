@@ -1,7 +1,7 @@
 {
   "full_name": "sportdb/sport.db",
   "created_at": "2012-12-02T23:31:22Z",
-  "size": 1466,
+  "size": 1691,
   "history": {
     "2017-06-18": {
       "stargazers_count": 51
@@ -44,21 +44,24 @@
     },
     "2019-09-29": {
       "stargazers_count": 151
+    },
+    "2019-12-08": {
+      "stargazers_count": 168
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-09-29T08:54:45Z",
+        "date": "2019-12-01T18:56:17Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2019-09-29T08:54:45Z",
+        "date": "2019-12-01T18:56:17Z",
         "name": "Gerald Bauer"
       },
-      "message": "up fifa"
+      "message": "up readers"
     }
   ],
-  "updated_at": "2019-09-29T10:37:50Z",
-  "pushed_at": "2019-09-29T08:54:55Z"
+  "updated_at": "2019-12-03T03:15:21Z",
+  "pushed_at": "2019-12-01T18:56:25Z"
 }

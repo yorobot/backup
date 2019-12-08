@@ -1,7 +1,7 @@
 ---
 geraldb (11):
 - austria
-## - awesome-ruby
+- awesome-ruby
 - catalog
 - chelitas
 - geraldb.github.io
@@ -24,14 +24,10 @@ yorobot (12):
 - planetjekyll
 - rubyconf
 - world.db
-austriacodes (9):
+austriacodes (5):
 - austria.txt
 - austriacodes.github.io
 - awesome-austria
-- blockchain-austria
-- blockchain-whitepapers
-- questions
-- ruby
 - showcase
 - vienna.html
 beerbook (3):
@@ -95,7 +91,7 @@ cryptocopycats (9):
 - base32-alphabets
 - bitcat
 - copycats
-## - kitties
+- kitties
 - kittyverse
 - kittyverse.json
 - media
@@ -177,11 +173,6 @@ footballcsv (17):
 - scotland
 - turkey
 - world
-footballjs (4):
-- football.api.js
-- football.html
-- football.js
-- starter
 funpress (6):
 - babel
 - elm-by-example
@@ -200,7 +191,7 @@ henrythemes (13):
 - jekyll-book-theme
 - jekyll-boom-theme
 - jekyll-boom-theme-v2
-## - jekyll-bootstrap-theme
+- jekyll-bootstrap-theme
 - jekyll-gutenberg-theme
 - jekyll-minimal-theme
 - jekyll-starter-theme
@@ -240,9 +231,6 @@ manuscripts (3):
 markupmadness (2):
 - markupmadness
 - markupmadness.github.io
-mokkalibs (2):
-- faster_xml_simple_reader
-- mokka
 mrhydescripts (2):
 - mrhyde
 - scripts
@@ -334,7 +322,7 @@ openbookie (8):
 openfootball (42):
 - africa-cup
 - assocs
-- at-austria
+- austria
 - br-brazil
 - club-world-cup
 - clubs
@@ -342,19 +330,19 @@ openfootball (42):
 - copa-america
 - copa-libertadores
 - copa-sudamericana
-- datafile
-- de-deutschland
+- deutschland
 - docs
-- eng-england
-- es-espana
+- england
+- espana
 - euro-cup
 - europe-champions-league
 - football.json
-- fr-france
+- france
 - fussball-de
 - futbol-es
-- it-italy
+- italy
 - lang
+- league-starter
 - leagues
 - mx-mexico
 - national-teams
@@ -363,6 +351,7 @@ openfootball (42):
 - opendata-theme
 - openfootball.github.io
 - players
+- quick-starter
 - ru-russia
 - sandbox
 - schema
@@ -373,7 +362,6 @@ openfootball (42):
 - world
 - world-cup
 - world-cup.json
-- your-league-starter
 openmundi (12):
 - austria.db
 - datafile
@@ -487,13 +475,14 @@ rsssf (7):
 - es-espana
 - rsssf.github.io
 - spec
-rubycoco (21):
+rubycoco (23):
 - about
 - activerecord-importer
 - activerecord-utils
 - activityutils
 - almost-sinatra
 - dbbrowser
+- faster_xml_simple_reader
 - fetcher
 - fizzbuzzer
 - fotos
@@ -502,6 +491,7 @@ rubycoco (21):
 - jekylldoc
 - linkto
 - logutils
+- mokka
 - ostructer
 - pakman
 - props
@@ -562,7 +552,7 @@ slideshow-templates (16):
 - slideshow-shower
 - slideshow-slidy
 - slideshow-templates.github.io
-sportdb (11):
+sportdb (10):
 - docs
 - football.db.models
 - footty
@@ -572,14 +562,17 @@ sportdb (11):
 - sport.db
 - sport.db.admin
 - sport.db.service
-- sport.db.service.rack
 - sport.db.web
-sportkit (3):
+sportkit (7):
+- football.api.js
+- football.html
+- football.js
+- football.js.starter
 - sport.db.starter.go
 - sport.db.starter.node.js
 - sport.db.starter.ruby
-# sportlabs (1):
-#- major-league-soccer
+sportlabs (1):
+- major-league-soccer
 sportlogos (6):
 - football.db.logos
 - football.db.logos.ruby
@@ -619,15 +612,21 @@ typesigs (9):
 updownpress (2):
 - markdown-lint
 - updownpress.github.io
-webstart (12):
+viennacrypto (2):
+- blockchain-whitepapers
+- viennacrypto.github.io
+viennarb (3):
+- planet
+- questions
+- viennarb.github.io
+webstart (11):
 - links-rails
 - links-sinatra
 - manman
-- master
 - sandbox
-- server
 - upman
 - upman-win
+- webstart
 - webstart-browser
 - webstart-notifier
 - webstart-utils

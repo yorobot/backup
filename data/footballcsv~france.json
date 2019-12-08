@@ -1,7 +1,7 @@
 {
   "full_name": "footballcsv/france",
   "created_at": "2014-07-24T13:57:30Z",
-  "updated_at": "2019-09-04T16:23:14Z",
+  "updated_at": "2019-10-04T22:33:23Z",
   "pushed_at": "2019-09-04T16:23:12Z",
   "size": 1188,
   "history": {
@@ -9,6 +9,9 @@
       "stargazers_count": 8
     },
     "2019-09-29": {
+      "stargazers_count": 8
+    },
+    "2019-12-08": {
       "stargazers_count": 8
     }
   },

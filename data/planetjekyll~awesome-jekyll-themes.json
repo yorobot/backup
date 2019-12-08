@@ -49,22 +49,25 @@
     },
     "2019-09-29": {
       "stargazers_count": 319
+    },
+    "2019-12-08": {
+      "stargazers_count": 328
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-03-17T12:14:12Z",
+        "date": "2019-10-21T13:11:07Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2019-03-17T12:14:12Z",
-        "name": "Miguel Rochefort"
+        "date": "2019-10-21T13:11:08Z",
+        "name": "b2a3e8"
       },
-      "message": "Fix typos (#20)"
+      "message": "Add jekyll-theme-console (#21)"
     }
   ],
-  "size": 21,
-  "updated_at": "2019-09-24T17:44:33Z",
-  "pushed_at": "2019-03-17T12:14:13Z"
+  "size": 22,
+  "updated_at": "2019-12-06T22:57:55Z",
+  "pushed_at": "2019-10-21T13:11:09Z"
 }

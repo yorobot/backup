@@ -49,22 +49,25 @@
     },
     "2019-09-29": {
       "stargazers_count": 137
+    },
+    "2019-12-08": {
+      "stargazers_count": 148
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-09-19T06:30:43Z",
+        "date": "2019-10-22T08:20:16Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2018-08-30T14:21:20Z",
-        "name": "Nathan LeSage"
+        "date": "2019-10-22T08:20:16Z",
+        "name": "Almudena Garcia"
       },
-      "message": "Update README.md\n\nAdd Zettlr"
+      "message": "add ghostwriter details (#11)"
     }
   ],
-  "size": 18,
-  "updated_at": "2019-09-28T21:33:36Z",
-  "pushed_at": "2018-09-19T06:30:44Z"
+  "size": 20,
+  "updated_at": "2019-11-26T10:24:01Z",
+  "pushed_at": "2019-10-22T08:20:17Z"
 }
