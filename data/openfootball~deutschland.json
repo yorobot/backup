@@ -1,22 +1,25 @@
 {
   "full_name": "openfootball/deutschland",
   "created_at": "2013-05-20T08:24:36Z",
-  "updated_at": "2019-12-08T19:24:28Z",
-  "pushed_at": "2019-12-08T19:24:26Z",
-  "size": 1733,
+  "updated_at": "2020-06-03T20:49:57Z",
+  "pushed_at": "2020-06-03T20:49:54Z",
+  "size": 2022,
   "history": {
     "2019-12-08": {
       "stargazers_count": 47
+    },
+    "2020-06-05": {
+      "stargazers_count": 50
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-12-08T19:24:25Z",
-        "name": "GitHub"
+        "date": "2020-06-03T20:49:54Z",
+        "name": "Enrique Lopez Magallon"
       },
       "author": {
-        "date": "2019-12-08T19:24:25Z",
+        "date": "2020-06-03T20:49:54Z",
         "name": "Enrique Lopez Magallon"
       },
       "message": "Update 1-bundesliga.txt"

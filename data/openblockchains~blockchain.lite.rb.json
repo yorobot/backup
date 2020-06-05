@@ -41,6 +41,9 @@
     },
     "2019-12-08": {
       "stargazers_count": 113
+    },
+    "2020-06-05": {
+      "stargazers_count": 115
     }
   },
   "commits": [
@@ -56,6 +59,6 @@
       "message": "rm attic"
     }
   ],
-  "updated_at": "2019-11-30T09:42:17Z",
+  "updated_at": "2020-05-29T21:45:32Z",
   "pushed_at": "2018-01-09T12:15:18Z"
 }

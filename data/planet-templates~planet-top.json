@@ -52,22 +52,25 @@
     },
     "2019-12-08": {
       "stargazers_count": 1
+    },
+    "2020-06-05": {
+      "stargazers_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-10-28T08:34:37Z",
+        "date": "2020-04-15T15:56:19Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2017-10-28T08:34:37Z",
+        "date": "2020-04-15T15:56:19Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update README.md"
+      "message": "fix/ upgrade in_columns"
     }
   ],
-  "size": 94,
-  "updated_at": "2017-10-28T08:34:39Z",
-  "pushed_at": "2017-10-28T08:34:38Z"
+  "size": 95,
+  "updated_at": "2020-04-15T15:56:22Z",
+  "pushed_at": "2020-04-15T15:56:20Z"
 }

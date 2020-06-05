@@ -52,22 +52,25 @@
     },
     "2019-12-08": {
       "stargazers_count": 3
+    },
+    "2020-06-05": {
+      "stargazers_count": 3
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-06-29T08:41:46Z",
-        "name": "Gerald Bauer"
+        "date": "2020-05-17T09:21:47Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2018-06-29T08:41:46Z",
+        "date": "2020-05-17T09:21:47Z",
         "name": "Gerald Bauer"
       },
-      "message": "up"
+      "message": "Create LICENSE.md"
     }
   ],
-  "size": 175,
-  "updated_at": "2018-08-28T13:41:44Z",
-  "pushed_at": "2018-06-29T08:41:51Z"
+  "size": 172,
+  "updated_at": "2020-05-17T09:21:50Z",
+  "pushed_at": "2020-05-17T09:21:47Z"
 }

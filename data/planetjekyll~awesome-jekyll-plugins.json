@@ -52,22 +52,25 @@
     },
     "2019-12-08": {
       "stargazers_count": 658
+    },
+    "2020-06-05": {
+      "stargazers_count": 784
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-08-25T12:29:47Z",
-        "name": "Ed Heltzel"
+        "date": "2020-05-26T17:00:53Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2019-08-25T12:29:47Z",
-        "name": "Alexandre ZANNI"
+        "date": "2020-05-26T17:00:53Z",
+        "name": "JT"
       },
-      "message": "Update README.md (#31)"
+      "message": "docs: update jekyll-spaceship plugin (#41)\n\n* docs: add a new plugin called jekyll-spaceship\r\n\r\n* docs: update jekyll-spaceship plugin"
     }
   ],
-  "size": 130,
-  "updated_at": "2019-12-06T15:01:03Z",
-  "pushed_at": "2019-08-25T12:29:48Z"
+  "size": 179,
+  "updated_at": "2020-06-02T23:32:28Z",
+  "pushed_at": "2020-05-26T17:00:54Z"
 }

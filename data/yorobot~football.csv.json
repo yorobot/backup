@@ -52,22 +52,25 @@
     },
     "2019-12-08": {
       "stargazers_count": 4
+    },
+    "2020-06-05": {
+      "stargazers_count": 12
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-12-02T08:29:12Z",
+        "date": "2020-05-28T10:37:27Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2019-12-02T08:29:12Z",
+        "date": "2020-05-28T10:37:27Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
     }
   ],
-  "size": 1336,
-  "updated_at": "2019-12-02T08:29:22Z",
-  "pushed_at": "2019-12-02T08:29:20Z"
+  "size": 2287,
+  "updated_at": "2020-05-28T10:37:46Z",
+  "pushed_at": "2020-05-28T10:37:44Z"
 }

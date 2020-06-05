@@ -52,22 +52,25 @@
     },
     "2019-12-08": {
       "stargazers_count": 37
+    },
+    "2020-06-05": {
+      "stargazers_count": 40
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-11-29T09:40:38Z",
-        "name": "GitHub"
-      },
-      "author": {
-        "date": "2019-11-29T09:40:38Z",
+        "date": "2020-06-02T16:38:06Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update es.clubs.txt"
+      "author": {
+        "date": "2020-06-02T16:38:06Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "up"
     }
   ],
-  "size": 1806,
-  "updated_at": "2019-11-29T09:40:40Z",
-  "pushed_at": "2019-11-29T09:40:38Z"
+  "size": 2510,
+  "updated_at": "2020-06-02T16:38:21Z",
+  "pushed_at": "2020-06-02T16:38:19Z"
 }

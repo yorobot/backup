@@ -38,6 +38,9 @@
     },
     "2019-12-08": {
       "stargazers_count": 16
+    },
+    "2020-06-05": {
+      "stargazers_count": 17
     }
   },
   "commits": [
@@ -53,6 +56,6 @@
       "message": "Update Rakefile"
     }
   ],
-  "updated_at": "2018-11-01T08:28:25Z",
+  "updated_at": "2020-01-22T17:10:48Z",
   "pushed_at": "2017-12-16T09:12:56Z"
 }

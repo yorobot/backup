@@ -1,0 +1,25 @@
+{
+  "full_name": "geraldb/logos",
+  "created_at": "2013-10-24T09:48:06Z",
+  "updated_at": "2019-12-26T17:47:56Z",
+  "pushed_at": "2019-12-26T17:47:55Z",
+  "size": 363,
+  "history": {
+    "2020-06-05": {
+      "stargazers_count": 1
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2019-12-26T17:47:53Z",
+        "name": "GitHub"
+      },
+      "author": {
+        "date": "2019-12-26T17:47:53Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "Add files via upload"
+    }
+  ]
+}

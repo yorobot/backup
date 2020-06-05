@@ -52,22 +52,25 @@
     },
     "2019-12-08": {
       "stargazers_count": 36
+    },
+    "2020-06-05": {
+      "stargazers_count": 36
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-11-21T15:32:22Z",
-        "name": "GitHub"
-      },
-      "author": {
-        "date": "2019-11-21T15:32:22Z",
+        "date": "2020-06-03T16:42:11Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update README.md"
+      "author": {
+        "date": "2020-06-03T16:42:11Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "up recalc"
     }
   ],
-  "size": 314,
-  "updated_at": "2019-11-21T15:32:26Z",
-  "pushed_at": "2019-11-21T15:32:23Z"
+  "size": 348,
+  "updated_at": "2020-06-03T16:42:21Z",
+  "pushed_at": "2020-06-03T16:42:19Z"
 }

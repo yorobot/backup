@@ -1,0 +1,25 @@
+{
+  "full_name": "feedreader/planet.rb",
+  "created_at": "2014-12-21T13:07:41Z",
+  "updated_at": "2020-03-11T17:49:26Z",
+  "pushed_at": "2020-03-11T17:49:24Z",
+  "size": 47,
+  "history": {
+    "2020-06-05": {
+      "stargazers_count": 25
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2020-03-11T17:49:23Z",
+        "name": "GitHub"
+      },
+      "author": {
+        "date": "2020-03-11T17:49:23Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "Update planet.rb"
+    }
+  ]
+}

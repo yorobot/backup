@@ -1,7 +1,7 @@
 {
   "full_name": "csvreader/csvreader",
   "created_at": "2018-08-15T07:57:34Z",
-  "updated_at": "2019-10-22T13:24:11Z",
+  "updated_at": "2020-02-10T15:21:02Z",
   "pushed_at": "2019-07-27T18:17:08Z",
   "size": 187,
   "history": {
@@ -21,6 +21,9 @@
       "stargazers_count": 164
     },
     "2019-12-08": {
+      "stargazers_count": 165
+    },
+    "2020-06-05": {
       "stargazers_count": 165
     }
   },

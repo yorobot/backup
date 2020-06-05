@@ -52,22 +52,25 @@
     },
     "2019-12-08": {
       "stargazers_count": 93
+    },
+    "2020-06-05": {
+      "stargazers_count": 94
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-10-24T07:56:40Z",
-        "name": "Gerald Bauer"
+        "date": "2020-04-28T08:07:35Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2019-10-24T07:56:40Z",
-        "name": "Vidhya V"
+        "date": "2020-04-28T08:07:35Z",
+        "name": "Dean Attali"
       },
-      "message": "Added Stylish Portfolio (#139)"
+      "message": "update beautitufl-jekyll's demo URL to dedicated domain (#143)"
     }
   ],
-  "size": 9552,
-  "updated_at": "2019-10-24T07:56:43Z",
-  "pushed_at": "2019-10-24T07:56:41Z"
+  "size": 9589,
+  "updated_at": "2020-05-22T02:10:09Z",
+  "pushed_at": "2020-04-28T08:07:36Z"
 }

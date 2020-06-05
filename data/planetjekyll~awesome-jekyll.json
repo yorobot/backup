@@ -52,22 +52,25 @@
     },
     "2019-12-08": {
       "stargazers_count": 516
+    },
+    "2020-06-05": {
+      "stargazers_count": 528
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-04-21T11:39:57Z",
+        "date": "2020-04-08T16:59:23Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2019-04-21T11:39:57Z",
-        "name": "Ed Heltzel"
+        "date": "2020-04-08T16:59:23Z",
+        "name": "KirillSokur"
       },
-      "message": "Merge pull request #23 from infominer33/master\n\nadd starterpack"
+      "message": "Add gem jekyll-news-sitemap (#26)\n\n- Add jekyll-news-sitemap gem to Awesome Jekyll list."
     }
   ],
-  "size": 89,
-  "updated_at": "2019-11-26T21:09:41Z",
-  "pushed_at": "2019-04-21T11:39:58Z"
+  "size": 92,
+  "updated_at": "2020-05-29T06:21:38Z",
+  "pushed_at": "2020-04-08T16:59:24Z"
 }

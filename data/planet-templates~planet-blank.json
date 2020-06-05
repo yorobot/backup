@@ -52,22 +52,25 @@
     },
     "2019-12-08": {
       "stargazers_count": 2
+    },
+    "2020-06-05": {
+      "stargazers_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-10-28T08:33:09Z",
+        "date": "2020-05-24T17:42:03Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2017-10-28T08:33:09Z",
-        "name": "Gerald Bauer"
+        "date": "2020-05-24T17:42:03Z",
+        "name": "⧉ infominer"
       },
-      "message": "fix wwwmake forum link"
+      "message": "fetched to updated on blank.cards + textify to whitelist for snippets (#6)\n\n* change fetched to updated\r\n\r\none more time :)\r\n\r\n* change textify to whitelist"
     }
   ],
-  "size": 449,
-  "updated_at": "2017-10-31T22:59:06Z",
-  "pushed_at": "2017-10-28T08:33:10Z"
+  "size": 462,
+  "updated_at": "2020-05-24T17:42:07Z",
+  "pushed_at": "2020-05-24T17:42:05Z"
 }

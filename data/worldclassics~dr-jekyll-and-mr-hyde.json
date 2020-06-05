@@ -52,22 +52,25 @@
     },
     "2019-12-08": {
       "stargazers_count": 3
+    },
+    "2020-06-05": {
+      "stargazers_count": 3
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-06-08T07:23:04Z",
-        "name": "Gerald Bauer"
+        "date": "2020-01-24T19:30:40Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2016-06-08T07:23:04Z",
+        "date": "2020-01-24T19:30:40Z",
         "name": "Gerald Bauer"
       },
-      "message": "use manuscripts"
+      "message": "Rename txt/book.txt to source/book.txt"
     }
   ],
-  "size": 135,
-  "updated_at": "2018-02-28T23:38:11Z",
-  "pushed_at": "2016-06-08T07:23:08Z"
+  "size": 136,
+  "updated_at": "2020-01-24T19:30:43Z",
+  "pushed_at": "2020-01-24T19:30:41Z"
 }

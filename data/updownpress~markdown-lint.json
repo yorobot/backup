@@ -52,22 +52,25 @@
     },
     "2019-12-08": {
       "stargazers_count": 18
+    },
+    "2020-06-05": {
+      "stargazers_count": 26
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-07-04T07:52:24Z",
-        "name": "Gerald Bauer"
+        "date": "2020-02-28T15:03:44Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2016-07-04T07:52:24Z",
-        "name": "Gerald Bauer"
+        "date": "2020-02-28T15:03:44Z",
+        "name": "Waldir Pimenta"
       },
-      "message": "up"
+      "message": "Update link to page that was moved (#1)"
     }
   ],
-  "size": 46,
-  "updated_at": "2019-09-24T05:10:20Z",
-  "pushed_at": "2016-07-04T07:52:28Z"
+  "size": 49,
+  "updated_at": "2020-05-07T08:59:25Z",
+  "pushed_at": "2020-02-28T15:03:46Z"
 }

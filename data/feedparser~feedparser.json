@@ -52,22 +52,25 @@
     },
     "2019-12-08": {
       "stargazers_count": 146
+    },
+    "2020-06-05": {
+      "stargazers_count": 151
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-07-05T07:43:47Z",
+        "date": "2020-05-29T11:12:17Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2018-07-05T07:43:47Z",
+        "date": "2020-05-29T11:12:17Z",
         "name": "Gerald Bauer"
       },
-      "message": "up v2.1.1"
+      "message": "make oga soft dependency"
     }
   ],
-  "size": 844,
-  "updated_at": "2019-08-30T06:28:32Z",
-  "pushed_at": "2018-07-05T07:43:54Z"
+  "size": 899,
+  "updated_at": "2020-05-30T22:37:15Z",
+  "pushed_at": "2020-05-29T11:12:27Z"
 }

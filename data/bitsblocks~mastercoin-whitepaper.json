@@ -1,0 +1,25 @@
+{
+  "full_name": "bitsblocks/mastercoin-whitepaper",
+  "created_at": "2012-04-03T08:28:50Z",
+  "updated_at": "2020-01-24T16:51:57Z",
+  "pushed_at": "2020-01-24T16:51:55Z",
+  "size": 181,
+  "history": {
+    "2020-06-05": {
+      "stargazers_count": 1
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2020-01-24T16:51:54Z",
+        "name": "GitHub"
+      },
+      "author": {
+        "date": "2020-01-24T16:51:54Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "Delete dummy.txt"
+    }
+  ]
+}

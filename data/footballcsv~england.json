@@ -1,9 +1,9 @@
 {
   "full_name": "footballcsv/england",
   "created_at": "2014-07-23T11:25:34Z",
-  "updated_at": "2019-11-28T22:02:39Z",
-  "pushed_at": "2019-11-12T21:12:24Z",
-  "size": 8030,
+  "updated_at": "2020-05-22T14:31:39Z",
+  "pushed_at": "2020-04-11T15:02:14Z",
+  "size": 8150,
   "history": {
     "2019-07-22": {
       "stargazers_count": 81
@@ -13,19 +13,22 @@
     },
     "2019-12-08": {
       "stargazers_count": 88
+    },
+    "2020-06-05": {
+      "stargazers_count": 94
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-11-12T21:12:22Z",
-        "name": "Gerald Bauer"
+        "date": "2020-04-11T15:02:13Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2019-11-12T21:12:22Z",
-        "name": "Daniel Whitford"
+        "date": "2020-04-11T15:02:13Z",
+        "name": "Gerald Bauer"
       },
-      "message": "Updated all leagues (#5)\n\n* align names in 1939-40 with rest of csv\r\n\r\n* fix New Brighton mistake\r\n\r\n* update prem\r\n\r\n* dosify\r\n\r\n* update england\r\n\r\n* dosify"
+      "message": "Update SOURCES.md"
     }
   ]
 }

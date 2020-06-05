@@ -52,22 +52,25 @@
     },
     "2019-12-08": {
       "stargazers_count": 96
+    },
+    "2020-06-05": {
+      "stargazers_count": 100
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-11-12T19:49:23Z",
+        "date": "2020-04-21T15:38:06Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2016-11-12T19:49:23Z",
+        "date": "2020-04-21T15:38:06Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update IDEAS.md"
+      "message": "Update TODOS.md"
     }
   ],
-  "size": 445,
-  "updated_at": "2019-12-04T14:53:56Z",
-  "pushed_at": "2016-11-12T19:49:23Z"
+  "size": 433,
+  "updated_at": "2020-06-05T06:45:04Z",
+  "pushed_at": "2020-04-21T15:41:05Z"
 }

@@ -52,22 +52,25 @@
     },
     "2019-12-08": {
       "stargazers_count": 1
+    },
+    "2020-06-05": {
+      "stargazers_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2015-04-20T14:47:01Z",
-        "name": "Gerald Bauer"
+        "date": "2020-05-24T13:53:54Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2015-04-20T14:47:01Z",
+        "date": "2020-05-24T13:53:54Z",
         "name": "Gerald Bauer"
       },
-      "message": "Initial commit"
+      "message": "up for sportdb schema 2.0"
     }
   ],
-  "size": 120,
-  "updated_at": "2015-04-20T14:47:09Z",
-  "pushed_at": "2015-04-20T14:47:01Z"
+  "size": 10,
+  "updated_at": "2020-05-24T13:53:57Z",
+  "pushed_at": "2020-05-24T13:53:54Z"
 }

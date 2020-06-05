@@ -52,22 +52,25 @@
     },
     "2019-12-08": {
       "stargazers_count": 117
+    },
+    "2020-06-05": {
+      "stargazers_count": 125
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-05-16T08:42:10Z",
-        "name": "Gerald Bauer"
+        "date": "2020-05-11T15:45:40Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2016-05-16T08:42:10Z",
-        "name": "Jonathan Barratt"
+        "date": "2020-05-11T15:45:40Z",
+        "name": "Rodolfo Mói de Oliveira"
       },
-      "message": "Update README.md (#2)\n\nRemove two football apps whose repositories are no longer available."
+      "message": "Update README.md (#3)"
     }
   ],
-  "size": 8,
-  "updated_at": "2019-12-03T11:30:30Z",
-  "pushed_at": "2016-05-16T08:42:11Z"
+  "size": 9,
+  "updated_at": "2020-05-24T16:17:27Z",
+  "pushed_at": "2020-05-11T15:45:44Z"
 }

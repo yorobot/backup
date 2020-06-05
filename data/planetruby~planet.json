@@ -52,22 +52,25 @@
     },
     "2019-12-08": {
       "stargazers_count": 2
+    },
+    "2020-06-05": {
+      "stargazers_count": 7
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2015-04-09T13:16:06Z",
-        "name": "Gerald Bauer"
+        "date": "2020-03-09T21:03:12Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2015-04-09T13:16:06Z",
+        "date": "2020-03-09T21:03:12Z",
         "name": "Gerald Bauer"
       },
-      "message": "add adam sanderson"
+      "message": "Update planet.ini"
     }
   ],
-  "size": 232,
-  "updated_at": "2015-07-30T22:00:18Z",
-  "pushed_at": "2015-04-09T13:16:06Z"
+  "size": 162,
+  "updated_at": "2020-03-10T23:56:47Z",
+  "pushed_at": "2020-03-09T21:03:13Z"
 }

@@ -52,22 +52,25 @@
     },
     "2019-12-08": {
       "stargazers_count": 67
+    },
+    "2020-06-05": {
+      "stargazers_count": 164
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-06-14T07:47:07Z",
+        "date": "2020-03-26T16:32:11Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2019-06-14T07:47:07Z",
+        "date": "2020-03-26T16:32:11Z",
         "name": "Gerald Bauer"
       },
-      "message": "gemify delete removed change"
+      "message": "up feedfetcher"
     }
   ],
-  "size": 264,
-  "updated_at": "2019-11-27T22:55:08Z",
-  "pushed_at": "2019-06-14T07:47:21Z"
+  "size": 596,
+  "updated_at": "2020-04-16T13:30:42Z",
+  "pushed_at": "2020-03-26T16:32:20Z"
 }

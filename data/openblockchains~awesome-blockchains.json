@@ -1,7 +1,7 @@
 {
   "full_name": "openblockchains/awesome-blockchains",
   "created_at": "2017-09-13T22:33:56Z",
-  "size": 2261,
+  "size": 2514,
   "history": {
     "2017-12-10": {
       "stargazers_count": 1084
@@ -41,21 +41,24 @@
     },
     "2019-12-08": {
       "stargazers_count": 2837
+    },
+    "2020-06-05": {
+      "stargazers_count": 2905
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-06-21T14:56:41Z",
+        "date": "2020-01-31T08:56:38Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2019-06-21T14:56:41Z",
+        "date": "2020-01-31T08:56:38Z",
         "name": "Gerald Bauer"
       },
-      "message": "Create WHATSBLOCKCHAIN.md"
+      "message": "Update BITCOIN-SCRIPT.md"
     }
   ],
-  "updated_at": "2019-12-08T19:16:14Z",
-  "pushed_at": "2019-06-21T14:56:42Z"
+  "updated_at": "2020-06-04T05:33:30Z",
+  "pushed_at": "2020-01-31T08:56:39Z"
 }

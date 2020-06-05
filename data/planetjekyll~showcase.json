@@ -52,22 +52,25 @@
     },
     "2019-12-08": {
       "stargazers_count": 4
+    },
+    "2020-06-05": {
+      "stargazers_count": 5
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-04-29T19:35:46Z",
-        "name": "Gerald Bauer"
+        "date": "2020-04-21T09:14:37Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2019-04-29T19:35:46Z",
-        "name": "Raúl San Martín Aniceto"
+        "date": "2020-04-21T09:14:37Z",
+        "name": "IamVue"
       },
-      "message": "Updated domain and thumbnail (#19)\n\n* Update showcase.yml\r\n\r\n* Add files via upload\r\n\r\n* Delete raulsanmartin.png\r\n\r\n* Add files via upload"
+      "message": "Add iamVue (#21)\n\n* Add files via upload\r\n\r\n* Update showcase.yml\r\n\r\n* Update showcase.yml"
     }
   ],
-  "size": 2395,
-  "updated_at": "2019-05-14T03:47:27Z",
-  "pushed_at": "2019-04-29T19:35:47Z"
+  "size": 2555,
+  "updated_at": "2020-04-27T05:09:55Z",
+  "pushed_at": "2020-04-21T09:14:38Z"
 }

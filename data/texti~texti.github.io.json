@@ -44,6 +44,9 @@
     },
     "2019-12-08": {
       "stargazers_count": 8
+    },
+    "2020-06-05": {
+      "stargazers_count": 9
     }
   },
   "commits": [
@@ -59,6 +62,6 @@
       "message": "Update README.md"
     }
   ],
-  "updated_at": "2019-11-25T23:00:52Z",
+  "updated_at": "2020-01-02T19:03:55Z",
   "pushed_at": "2018-08-04T17:53:20Z"
 }

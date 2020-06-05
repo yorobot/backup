@@ -52,22 +52,25 @@
     },
     "2019-12-08": {
       "stargazers_count": 264
+    },
+    "2020-06-05": {
+      "stargazers_count": 276
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-08-22T08:47:27Z",
+        "date": "2020-05-22T07:30:13Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2019-08-22T08:47:27Z",
-        "name": "Gerald Bauer"
+        "date": "2020-05-22T07:30:13Z",
+        "name": "Sankha Narayan Guria"
       },
-      "message": "Update README.md"
+      "message": "replace rtc with rdl (#16)"
     }
   ],
-  "size": 107,
-  "updated_at": "2019-11-27T11:48:38Z",
-  "pushed_at": "2019-08-22T08:47:27Z"
+  "size": 180,
+  "updated_at": "2020-05-29T16:13:41Z",
+  "pushed_at": "2020-05-22T07:30:15Z"
 }

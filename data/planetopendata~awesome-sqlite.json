@@ -52,22 +52,25 @@
     },
     "2019-12-08": {
       "stargazers_count": 65
+    },
+    "2020-06-05": {
+      "stargazers_count": 78
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-02-14T14:46:58Z",
-        "name": "Gerald Bauer"
+        "date": "2020-01-20T18:45:17Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2019-02-14T14:46:58Z",
-        "name": "cyril"
+        "date": "2020-01-20T18:45:17Z",
+        "name": "Gerald Bauer"
       },
-      "message": "add new SQLite browser (#4)\n\n* Update README.md\r\n\r\nadd a web-based SQLite database browser (extendsclass.com)\r\n\r\n* Update README.md\r\n\r\nAdd repository for extendsclass's SQLite browser\r\n\r\n* Update README.md\r\n\r\nChange the anchor of extendclass.com\r\n\r\n* Update README.md\r\n\r\nextendsclass's SQLite browser: Remove \"--\" in order to respect the layout"
+      "message": "Create LICENSE.md"
     }
   ],
-  "size": 28,
-  "updated_at": "2019-11-15T12:08:22Z",
-  "pushed_at": "2019-02-14T14:46:59Z"
+  "size": 41,
+  "updated_at": "2020-05-23T13:33:21Z",
+  "pushed_at": "2020-01-20T18:45:18Z"
 }

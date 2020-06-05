@@ -1,9 +1,9 @@
 {
   "full_name": "footballcsv/mexico",
   "created_at": "2018-07-16T14:59:18Z",
-  "updated_at": "2019-09-05T08:17:53Z",
-  "pushed_at": "2019-09-05T08:17:52Z",
-  "size": 69,
+  "updated_at": "2020-04-07T17:49:26Z",
+  "pushed_at": "2020-04-07T17:49:24Z",
+  "size": 75,
   "history": {
     "2019-07-22": {
       "stargazers_count": 1
@@ -13,16 +13,19 @@
     },
     "2019-12-08": {
       "stargazers_count": 1
+    },
+    "2020-06-05": {
+      "stargazers_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-09-05T08:17:47Z",
+        "date": "2020-04-07T17:49:19Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2019-09-05T08:17:47Z",
+        "date": "2020-04-07T17:49:19Z",
         "name": "Gerald Bauer"
       },
       "message": "up"

@@ -52,6 +52,9 @@
     },
     "2019-12-08": {
       "stargazers_count": 8
+    },
+    "2020-06-05": {
+      "stargazers_count": 8
     }
   },
   "commits": [
@@ -67,7 +70,7 @@
       "message": "add datafile list"
     }
   ],
-  "size": 136,
+  "size": 137,
   "updated_at": "2019-12-08T21:24:21Z",
   "pushed_at": "2019-12-08T21:24:19Z"
 }

@@ -1,7 +1,7 @@
 {
   "full_name": "typesigs/safedata",
   "created_at": "2015-06-26T14:26:27Z",
-  "updated_at": "2019-09-30T08:12:10Z",
+  "updated_at": "2019-12-24T03:59:18Z",
   "pushed_at": "2019-03-25T20:23:02Z",
   "size": 60,
   "history": {
@@ -13,6 +13,9 @@
     },
     "2019-12-08": {
       "stargazers_count": 120
+    },
+    "2020-06-05": {
+      "stargazers_count": 119
     }
   },
   "commits": [

@@ -1,9 +1,9 @@
 {
   "full_name": "bitsblocks/bitsblocks.github.io",
   "created_at": "2018-05-09T07:40:03Z",
-  "updated_at": "2018-05-17T08:08:12Z",
-  "pushed_at": "2018-05-17T08:08:10Z",
-  "size": 4087,
+  "updated_at": "2020-02-11T16:34:34Z",
+  "pushed_at": "2020-02-11T16:34:31Z",
+  "size": 4080,
   "history": {
     "2018-05-18": {
       "stargazers_count": 1
@@ -28,19 +28,22 @@
     },
     "2019-12-08": {
       "stargazers_count": 1
+    },
+    "2020-06-05": {
+      "stargazers_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-05-17T08:08:04Z",
-        "name": "Gerald Bauer"
+        "date": "2020-02-11T16:34:30Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2018-05-17T08:08:04Z",
+        "date": "2020-02-11T16:34:30Z",
         "name": "Gerald Bauer"
       },
-      "message": "up"
+      "message": "Update index.html"
     }
   ]
 }

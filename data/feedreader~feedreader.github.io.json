@@ -1,6 +1,6 @@
 {
   "full_name": "feedreader/feedreader.github.io",
-  "created_at": "2013-11-12T13:01:22Z",
+  "created_at": "2017-04-04T08:10:14Z",
   "history": {
     "2017-02-11": {
       "stargazers_count": 2
@@ -52,22 +52,25 @@
     },
     "2019-12-08": {
       "stargazers_count": 2
+    },
+    "2020-06-05": {
+      "stargazers_count": 5
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-11-30T18:58:39Z",
-        "name": "Gerald Bauer"
+        "date": "2020-05-30T07:59:16Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2017-11-30T18:58:39Z",
+        "date": "2020-05-30T07:59:16Z",
         "name": "Gerald Bauer"
       },
-      "message": "use remote theme - octobook/books-twentyeighteen-theme"
+      "message": "Update README.md"
     }
   ],
-  "size": 365,
-  "updated_at": "2017-11-30T18:58:48Z",
-  "pushed_at": "2017-11-30T18:58:48Z"
+  "size": 279,
+  "updated_at": "2020-05-30T07:59:19Z",
+  "pushed_at": "2020-05-30T07:59:16Z"
 }

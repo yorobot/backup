@@ -1,9 +1,9 @@
 {
   "full_name": "planetruby/calendar-theme",
   "created_at": "2018-02-25T18:42:23Z",
-  "updated_at": "2018-02-25T20:44:39Z",
-  "pushed_at": "2018-02-25T21:14:27Z",
-  "size": 10,
+  "updated_at": "2020-02-20T17:05:47Z",
+  "pushed_at": "2020-02-20T17:05:45Z",
+  "size": 12,
   "history": {
     "2018-02-27": {
       "stargazers_count": 1
@@ -34,19 +34,22 @@
     },
     "2019-12-08": {
       "stargazers_count": 1
+    },
+    "2020-06-05": {
+      "stargazers_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-02-25T21:14:20Z",
-        "name": "Gerald Bauer"
+        "date": "2020-02-20T17:05:44Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2018-02-25T21:14:20Z",
+        "date": "2020-02-20T17:05:44Z",
         "name": "Gerald Bauer"
       },
-      "message": "add tickets"
+      "message": "Update feed.xml.html"
     }
   ]
 }
