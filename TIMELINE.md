@@ -1,93 +1,99 @@
 # 85 orgs, 594 repos
 
 
+## 2020
+
+
+### 5
+
+- 2020-05-24 ★3 **yorobot/football.json** (21 kb)
+
 ## 2019
 
 
 ### 2
 
-- 2019-02-08 ★14 **s6ruby/redpaper** (84 kb)
+- 2019-02-08 ★15 **s6ruby/redpaper** (84 kb)
 
 ### 1
 
-- 2019-01-25 ★20 **openblockchains/programming-cryptocontracts** (593 kb)
-- 2019-01-18 ★1 **openblockchains/awesome-coins** (990 kb)
+- 2019-01-25 ★25 **openblockchains/programming-cryptocontracts** (593 kb)
+- 2019-01-18 ★2 **openblockchains/awesome-coins** (921 kb)
 - 2019-01-14 ★2 **cryptocopycats/kittyverse.json** (30 kb)
-- 2019-01-11 ★8 **cryptocopycats/kittyverse** (359 kb)
+- 2019-01-11 ★9 **cryptocopycats/kittyverse** (405 kb)
 
 ## 2018
 
 
 ### 12
 
-- 2018-12-25 ★23 **openblockchains/programming-cryptocollectibles** (700 kb)
-- 2018-12-03 ★1 **cryptocopycats/media** (3997 kb)
+- 2018-12-25 ★26 **openblockchains/programming-cryptocollectibles** (700 kb)
+- 2018-12-03 ★1 **cryptocopycats/media** (4591 kb)
 
 ### 11
 
 - 2018-11-20 ★2 **csvreader/benchmarks** (119 kb)
 - 2018-11-19 ★11 **planetruby/meetups** (32 kb)
-- 2018-11-12 ★0 **geraldb/awesome-ruby** (2404 kb)
 - 2018-11-06 ★2 **csvreader/csvhuman** (119 kb)
 - 2018-11-04 ★1 **csvspecs/csv-hxl** (4 kb)
 
 ### 10
 
-- 2018-10-31 ★4 **chooseaconduct/chooseaconduct.github.io** (66 kb)
-- 2018-10-28 ★44 **planetruby/quiz** (270 kb)
+- 2018-10-31 ★5 **chooseaconduct/chooseaconduct.github.io** (66 kb)
+- 2018-10-28 ★59 **planetruby/quiz** (302 kb)
 - 2018-10-26 ★1 **csvspecs/csv-meta** (34 kb)
 - 2018-10-18 ★1 **csvspecs/csv-numerics** (22 kb)
-- 2018-10-17 ★2 **csvspecs/csv-yaml** (10 kb)
 - 2018-10-17 ★1 **csvreader/csvyaml** (15 kb)
 - 2018-10-17 ★1 **rubycoco/typeconv** (2 kb)
+- 2018-10-17 ★2 **csvspecs/csv-yaml** (10 kb)
 - 2018-10-14 ★2 **csvreader/csvjson** (18 kb)
-- 2018-10-12 ★4 **csvspecs/csv-json** (22 kb)
+- 2018-10-12 ★5 **csvspecs/csv-json** (22 kb)
 
 ### 8
 
 - 2018-08-22 ★27 **csvreader/docs** (235 kb)
 - 2018-08-17 ★3 **csvreader/tabreader** (30 kb)
-- 2018-08-15 ★3 **rubycoco/record** (14 kb)
-- 2018-08-15 ★165 **csvreader/csvreader** (187 kb)
 - 2018-08-15 ★2 **csvspecs/csv-v10** (53 kb)
-- 2018-08-11 ★11 **csvreader/csvrecord** (37 kb)
+- 2018-08-15 ★165 **csvreader/csvreader** (187 kb)
+- 2018-08-15 ★3 **rubycoco/record** (14 kb)
+- 2018-08-11 ★12 **csvreader/csvrecord** (37 kb)
 - 2018-08-08 ★12 **csvreader/csvutils** (42 kb)
 
 ### 7
 
-- 2018-07-29 ★4 **footballcsv/europe-champions-league** (770 kb)
-- 2018-07-20 ★3 **sportdb/docs** (38 kb)
-- 2018-07-19 ★2 **footballcsv/world** (309 kb)
-- 2018-07-19 ★1 **footballcsv/major-league-soccer** (181 kb)
-- 2018-07-16 ★1 **footballcsv/mexico** (69 kb)
-- 2018-07-16 ★1 **footballcsv/austria** (35 kb)
+- 2018-07-29 ★6 **footballcsv/europe-champions-league** (538 kb)
+- 2018-07-20 ★3 **sportdb/docs** (56 kb)
+- 2018-07-19 ★2 **footballcsv/major-league-soccer** (186 kb)
+- 2018-07-19 ★2 **footballcsv/world** (367 kb)
+- 2018-07-16 ★1 **footballcsv/austria** (39 kb)
+- 2018-07-16 ★2 **footballcsv/mexico** (75 kb)
 - 2018-07-07 ★1 **openfootball/opendata-theme** (4 kb)
-- 2018-07-04 ★6 **footballcsv/footballcsv.github.io** (13 kb)
+- 2018-07-04 ★7 **footballcsv/footballcsv.github.io** (13 kb)
 
 ### 6
 
-- 2018-06-05 ★149 **openfootball/world-cup.json** (102 kb)
+- 2018-06-05 ★151 **openfootball/world-cup.json** (102 kb)
 
 ### 5
 
 - 2018-05-16 ★1 **bitsblocks/islandcoin-whitepaper** (238 kb)
-- 2018-05-14 ★2 **bitsblocks/crypto-facts** (267 kb)
 - 2018-05-14 ★1 **bitsblocks/bitcoin-whitepaper** (107 kb)
-- 2018-05-12 ★5 **bitsblocks/bitcoin-maximalist** (1128 kb)
+- 2018-05-14 ★2 **bitsblocks/crypto-facts** (36 kb)
+- 2018-05-12 ★6 **bitsblocks/bitcoin-maximalist** (1128 kb)
 - 2018-05-11 ★2 **bitsblocks/ethereum** (50 kb)
-- 2018-05-09 ★1 **bitsblocks/bitsblocks.github.io** (4087 kb)
+- 2018-05-09 ★1 **bitsblocks/bitsblocks.github.io** (4080 kb)
 - 2018-05-08 ★1 **bitsblocks/ethereum-whitepaper** (334 kb)
-- 2018-05-07 ★21 **openblockchains/awesome-ico-truths** (1385 kb)
+- 2018-05-07 ★22 **openblockchains/awesome-ico-truths** (1385 kb)
 
 ### 4
 
 - 2018-04-29 ★17 **s6ruby/universum** (161 kb)
-- 2018-04-28 ★14 **s6ruby/universum-contracts** (116 kb)
-- 2018-04-26 ★9 **openblockchains/awesome-tokens** (30 kb)
-- 2018-04-19 ★4 **openblockchains/blockchain-whitepapers** (18241 kb)
-- 2018-04-16 ★9 **bitsblocks/get-rich-quick-bible** (2700 kb)
-- 2018-04-07 ★10 **bigkorupto/awesome-nocode** (368 kb)
-- 2018-04-01 ★2 **openblockchains/awesome-sha256** (12 kb)
+- 2018-04-28 ★13 **s6ruby/universum-contracts** (116 kb)
+- 2018-04-26 ★11 **openblockchains/awesome-tokens** (30 kb)
+- 2018-04-19 ★5 **openblockchains/blockchain-whitepapers** (26095 kb)
+- 2018-04-16 ★10 **bitsblocks/get-rich-quick-bible** (2700 kb)
+- 2018-04-07 ★16 **bigkorupto/awesome-nocode** (368 kb)
+- 2018-04-01 ★3 **openblockchains/awesome-sha256** (12 kb)
 
 ### 3
 
@@ -95,35 +101,35 @@
 - 2018-03-25 ★2 **cryptocopycats/base32-alphabets** (56 kb)
 - 2018-03-25 ★5 **viennacrypto/blockchain-whitepapers** (23253 kb)
 - 2018-03-24 ★2 **cryptocopycats/bitcat** (20 kb)
-- 2018-03-15 ★534 **openblockchains/programming-blockchains** (552 kb)
+- 2018-03-15 ★546 **openblockchains/programming-blockchains** (552 kb)
 - 2018-03-09 ★7 **cryptocopycats/kitties** (26994 kb)
 
 ### 2
 
 - 2018-02-28 ★2 **austriacodes/austria.txt** (23 kb)
-- 2018-02-25 ★1 **planetruby/calendar-theme** (10 kb)
-- 2018-02-24 ★79 **typesigs/enums** (132 kb)
+- 2018-02-25 ★1 **planetruby/calendar-theme** (12 kb)
+- 2018-02-24 ★82 **typesigs/enums** (132 kb)
 - 2018-02-14 ★1 **drjekyllthemes/test-theme** (65 kb)
 
 ### 1
 
-- 2018-01-30 ★3 **openblockchains/awesome-cheezewizards** (127 kb)
+- 2018-01-30 ★4 **openblockchains/awesome-cheezewizards** (127 kb)
 - 2018-01-27 ★1 **yukimotopress/fizzbuzz** (19 kb)
 - 2018-01-22 ★2 **rubycoco/fizzbuzzer** (105 kb)
-- 2018-01-19 ★30 **yukimotopress/langs** (122 kb)
-- 2018-01-17 ★17 **s6ruby/pragmas** (91 kb)
-- 2018-01-16 ★16 **yukimotopress/gem-tasks** (64 kb)
+- 2018-01-19 ★31 **yukimotopress/langs** (122 kb)
+- 2018-01-17 ★20 **s6ruby/pragmas** (91 kb)
+- 2018-01-16 ★17 **yukimotopress/gem-tasks** (64 kb)
+- 2018-01-15 ★1 **yukimotopress/examples** (28 kb)
 - 2018-01-15 ★12 **yukimotopress/http** (10 kb)
 - 2018-01-15 ★2 **yukimotopress/start** (165 kb)
-- 2018-01-15 ★1 **yukimotopress/examples** (28 kb)
-- 2018-01-14 ★50 **yukimotopress/practicing** (93 kb)
+- 2018-01-14 ★53 **yukimotopress/practicing** (93 kb)
 - 2018-01-14 ★1 **yukimotopress/practices** (324 kb)
-- 2018-01-10 ★25 **cryptocopycats/copycats** (2788 kb)
+- 2018-01-10 ★24 **cryptocopycats/copycats** (2788 kb)
 - 2018-01-09 ★5 **openblockchains/peer-to-peer.rb** (2 kb)
 - 2018-01-06 ★1 **austriacodes/showcase** (656 kb)
 - 2018-01-05 ★28 **s6ruby/units-time** (37 kb)
-- 2018-01-04 ★2 **octobook/gitbook-to-octobook-sample** (366 kb)
 - 2018-01-04 ★7 **openblockchains/ledger.lite.rb** (24 kb)
+- 2018-01-04 ★2 **octobook/gitbook-to-octobook-sample** (366 kb)
 - 2018-01-03 ★1 **yukimotopress/micro** (179 kb)
 - 2018-01-02 ★2 **yukimotopress/auto** (72 kb)
 - 2018-01-01 ★55 **yukimotopress/blockchains** (455 kb)
@@ -133,72 +139,72 @@
 
 ### 12
 
-- 2017-12-31 ★4 **viennarb/viennarb.github.io** (45 kb)
+- 2017-12-31 ★5 **viennarb/viennarb.github.io** (104 kb)
 - 2017-12-26 ★12 **bitshilling/bitshilling.tools** (140 kb)
-- 2017-12-23 ★30 **s6ruby/awesome-crypto** (22 kb)
+- 2017-12-23 ★32 **s6ruby/awesome-crypto** (22 kb)
 - 2017-12-18 ★23 **openblockchains/merkletree.rb** (16 kb)
 - 2017-12-18 ★8 **openblockchains/tulipmania** (141 kb)
-- 2017-12-14 ★33 **openblockchains/centralbank** (104 kb)
-- 2017-12-09 ★470 **cryptocopycats/awesome-cryptokitties** (4154 kb)
+- 2017-12-14 ★35 **openblockchains/centralbank** (104 kb)
+- 2017-12-09 ★483 **cryptocopycats/awesome-cryptokitties** (4154 kb)
 - 2017-12-05 ★34 **rubycoco/almost-sinatra** (16 kb)
 
 ### 11
 
 - 2017-11-26 ★3 **octobook/book-2018-theme** (212 kb)
-- 2017-11-14 ★5 **slidekit/talks-starter** (167 kb)
 - 2017-11-14 ★1 **slidekit/jekyll-talks-theme** (9 kb)
+- 2017-11-14 ★8 **slidekit/talks-starter** (167 kb)
 - 2017-11-07 ★1 **slideshow-templates/slideshow-s6-blank-v1** (90 kb)
 - 2017-11-05 ★2 **austriacodes/austriacodes.github.io** (7 kb)
 
 ### 10
 
 - 2017-10-26 ★4 **slideshow-s9/docs** (156 kb)
-- 2017-10-02 ★4 **viennacrypto/viennacrypto.github.io** (37 kb)
+- 2017-10-02 ★6 **viennacrypto/viennacrypto.github.io** (110 kb)
 
 ### 9
 
 - 2017-09-24 ★10 **openblockchains/tulips** (10 kb)
-- 2017-09-23 ★35 **openblockchains/awesome-libra** (1632 kb)
-- 2017-09-22 ★38 **openblockchains/blockchain.lite.js** (8 kb)
+- 2017-09-23 ★39 **openblockchains/awesome-libra** (1632 kb)
+- 2017-09-22 ★40 **openblockchains/blockchain.lite.js** (8 kb)
 - 2017-09-19 ★12 **bitshilling/bitshilling** (10 kb)
-- 2017-09-16 ★113 **openblockchains/blockchain.lite.rb** (48 kb)
-- 2017-09-13 ★2837 **openblockchains/awesome-blockchains** (2261 kb)
+- 2017-09-16 ★115 **openblockchains/blockchain.lite.rb** (48 kb)
+- 2017-09-13 ★2905 **openblockchains/awesome-blockchains** (2514 kb)
 
 ### 7
 
 - 2017-07-27 ★1 **openfootball/women-euro-cup** (8 kb)
 - 2017-07-24 ★7 **officetxt/officetxt** (7 kb)
-- 2017-07-23 ★43 **officetxt/awesome-txt** (23 kb)
 - 2017-07-23 ★1 **officetxt/officetxt.github.io** (35 kb)
+- 2017-07-23 ★51 **officetxt/awesome-txt** (23 kb)
 - 2017-07-20 ★1 **journaltxt/blog** (21 kb)
-- 2017-07-20 ★15 **journaltxt/journaltxt** (15 kb)
+- 2017-07-20 ★16 **journaltxt/journaltxt** (15 kb)
 - 2017-07-19 ★4 **journaltxt/journaltxt.github.io** (22 kb)
 - 2017-07-17 ★1 **markupmadness/markupmadness.github.io** (19 kb)
 - 2017-07-17 ★1 **markupmadness/markupmadness** (29 kb)
 - 2017-07-15 ★4 **texti/texti** (45 kb)
-- 2017-07-14 ★8 **texti/texti.github.io** (36 kb)
+- 2017-07-14 ★9 **texti/texti.github.io** (36 kb)
 - 2017-07-11 ★1 **json-next/json-feed** (10 kb)
 - 2017-07-09 ★1 **json-next/json-next-tests** (16 kb)
 - 2017-07-09 ★6 **json-next/json-next.github.io** (20 kb)
-- 2017-07-06 ★16 **json-next/json-next** (29 kb)
 - 2017-07-06 ★3 **yukimotopress/smalldata** (39 kb)
+- 2017-07-06 ★17 **json-next/json-next** (29 kb)
 - 2017-07-02 ★7 **csvreader/csv11** (11 kb)
 - 2017-07-01 ★5 **csvspecs/csv-v11** (12 kb)
-- 2017-07-01 ★34 **csvspecs/awesome-csv** (137 kb)
+- 2017-07-01 ★40 **csvspecs/awesome-csv** (137 kb)
 
 ### 6
 
-- 2017-06-29 ★1 **datatxt/iniparser** (6 kb)
-- 2017-06-28 ★23 **json-next/awesome-json-next** (39 kb)
+- 2017-06-29 ★2 **datatxt/iniparser** (45 kb)
+- 2017-06-28 ★25 **json-next/awesome-json-next** (39 kb)
 - 2017-06-28 ★21 **datatxt/awseome-yaml** (8 kb)
 - 2017-06-27 ★1 **datatxt/datatxt.github.io** (6 kb)
 - 2017-06-11 ★4 **feedtxt/feedtxt** (28 kb)
 - 2017-06-11 ★1 **feedhtml/hyperdata** (7 kb)
 - 2017-06-10 ★1 **feedhtml/feedhtml.github.io** (4 kb)
-- 2017-06-05 ★3 **feedparser/feedfinder** (3 kb)
 - 2017-06-05 ★2 **feedtxt/feedtxt.github.io** (44 kb)
+- 2017-06-05 ★3 **feedparser/feedfinder** (3 kb)
 - 2017-06-04 ★3 **feedparser/feeds** (719 kb)
-- 2017-06-02 ★16 **feedparser/awesome-feeds** (54 kb)
+- 2017-06-02 ★19 **feedparser/awesome-feeds** (54 kb)
 
 ### 5
 
@@ -209,13 +215,13 @@
 
 ### 4
 
-- 2017-04-09 ★4 **feedreader/pluto.starter** (12 kb)
-- 2017-04-04 ★4 **feedreader/docs** (266 kb)
+- 2017-04-09 ★5 **feedreader/pluto.starter** (38 kb)
+- 2017-04-04 ★5 **feedreader/feedreader.github.io** (279 kb)
 
 ### 3
 
 - 2017-03-27 ★1 **playhtml/tictactoe** (183 kb)
-- 2017-03-20 ★2 **mundimark/markdown.pl** (108 kb)
+- 2017-03-20 ★1 **mundimark/markdown.pl** (108 kb)
 - 2017-03-14 ★2 **playhtml/memory** (665 kb)
 - 2017-03-02 ★1 **slidekit/s6-v1** (53 kb)
 
@@ -227,7 +233,7 @@
 
 - 2017-01-13 ★3 **henrythemes/hello-pages-theme-v2** (8 kb)
 - 2017-01-11 ★1 **henrythemes/hello-pages-theme** (11 kb)
-- 2017-01-10 ★4 **henrythemes/jekyll-talks-theme** (740 kb)
+- 2017-01-10 ★5 **henrythemes/jekyll-talks-theme** (740 kb)
 
 ## 2016
 
@@ -243,7 +249,7 @@
 ### 9
 
 - 2016-09-19 ★7 **henrythemes/hello-jekyll-theme** (6 kb)
-- 2016-09-19 ★10 **henrythemes/hello-minima-theme** (7 kb)
+- 2016-09-19 ★9 **henrythemes/hello-minima-theme** (7 kb)
 - 2016-09-13 ★1 **yorobot/logs** (2 kb)
 
 ### 8
@@ -253,47 +259,47 @@
 
 ### 7
 
-- 2016-07-29 ★328 **planetjekyll/awesome-jekyll-themes** (22 kb)
-- 2016-07-28 ★1 **writekit/writekit.github.io** (0 kb)
+- 2016-07-29 ★371 **planetjekyll/awesome-jekyll-themes** (22 kb)
+- 2016-07-28 ★1 **texti/pandoc** (5 kb)
 - 2016-07-04 ★1 **updownpress/updownpress.github.io** (7 kb)
 
 ### 6
 
 - 2016-06-23 ★2 **octobook/awesome-typography** (0 kb)
-- 2016-06-23 ★3 **mundimark/markdown-tools-books** (5 kb)
+- 2016-06-23 ★5 **mundimark/markdown-tools-books** (5 kb)
+- 2016-06-13 ★22 **yukimotopress/gem-dev** (31 kb)
 - 2016-06-13 ★1 **funpress/elm-by-example** (209 kb)
-- 2016-06-13 ★20 **yukimotopress/gem-dev** (31 kb)
 - 2016-06-12 ★12 **funpress/mostly-adequate-guide-to-fp** (3620 kb)
 - 2016-06-12 ★11 **yukimotopress/yukimotopress.github.io** (847 kb)
-- 2016-06-11 ★14 **yukimotopress/sinatra-intro** (20 kb)
+- 2016-06-11 ★13 **yukimotopress/sinatra-intro** (20 kb)
 - 2016-06-10 ★2 **funpress/es6-features** (32 kb)
 - 2016-06-10 ★1 **funpress/babel** (21 kb)
 - 2016-06-08 ★4 **worldclassics/worldclassics.github.io** (12 kb)
 - 2016-06-07 ★1 **funpress/funpress.github.io** (3728 kb)
-- 2016-06-06 ★6 **octobook/book-classics-theme** (145 kb)
 - 2016-06-06 ★4 **funpress/up-n-going** (229 kb)
-- 2016-06-06 ★3 **octobook/book-2017-theme** (183 kb)
+- 2016-06-06 ★3 **octobook/book-2017-theme** (182 kb)
+- 2016-06-06 ★6 **octobook/book-classics-theme** (145 kb)
 - 2016-06-05 ★5 **octobook/octobook** (2 kb)
 - 2016-06-05 ★1 **octobook/book-blank-theme** (72 kb)
 - 2016-06-03 ★3 **hydepress/octopod** (129 kb)
 
 ### 5
 
-- 2016-05-27 ★28 **mundimark/awesome-kramdown** (19 kb)
+- 2016-05-27 ★29 **mundimark/awesome-kramdown** (19 kb)
 - 2016-05-25 ★1 **slideshow-templates/media** (51227 kb)
 - 2016-05-17 ★1 **slideshow-templates/slideshow-google-io-2011-slides** (555 kb)
-- 2016-05-15 ★15 **slideshow-templates/slideshow-reveal.js** (1536 kb)
+- 2016-05-15 ★16 **slideshow-templates/slideshow-reveal.js** (1536 kb)
 - 2016-05-07 ★2 **slideshow-s9/slideshow-service** (355 kb)
 
 ### 4
 
-- 2016-04-21 ★272 **planetjekyll/awesome-jekyll-editors** (15 kb)
-- 2016-04-20 ★658 **planetjekyll/awesome-jekyll-plugins** (130 kb)
+- 2016-04-21 ★302 **planetjekyll/awesome-jekyll-editors** (15 kb)
+- 2016-04-20 ★784 **planetjekyll/awesome-jekyll-plugins** (179 kb)
 - 2016-04-18 ★4 **mundimark/markdown-tools** (5 kb)
 - 2016-04-15 ★8 **writekit/kramdown-service** (79 kb)
 - 2016-04-11 ★4 **slideshow-s9/slideshow-starter** (64 kb)
 - 2016-04-09 ★15 **austriacodes/awesome-austria** (66 kb)
-- 2016-04-04 ★27 **slideshow-s9/awesome-slideshows** (4 kb)
+- 2016-04-04 ★28 **slideshow-s9/awesome-slideshows** (4 kb)
 
 ### 3
 
@@ -301,51 +307,51 @@
 - 2016-03-22 ★1 **hydepress/liquid** (18 kb)
 - 2016-03-20 ★5 **mundimark/markdown-can-i-use** (16 kb)
 - 2016-03-17 ★2 **rubycoco/gutenberg** (2 kb)
-- 2016-03-16 ★29 **mundimark/awesome-markdown-alternatives** (2 kb)
-- 2016-03-15 ★47 **mundimark/markdown-vs-latex** (18 kb)
-- 2016-03-15 ★148 **mundimark/awesome-markdown-editors** (20 kb)
-- 2016-03-14 ★8 **bookdesigns/book-git** (67 kb)
-- 2016-03-13 ★6 **pagedesigns/jasonm23-dark** (6 kb)
-- 2016-03-13 ★6 **pagedesigns/markedapp-byword** (5 kb)
+- 2016-03-16 ★31 **mundimark/awesome-markdown-alternatives** (2 kb)
+- 2016-03-15 ★53 **mundimark/markdown-vs-latex** (18 kb)
+- 2016-03-15 ★174 **mundimark/awesome-markdown-editors** (25 kb)
+- 2016-03-14 ★9 **bookdesigns/book-git** (67 kb)
 - 2016-03-13 ★5 **bookdesigns/book-rust** (67 kb)
+- 2016-03-13 ★6 **pagedesigns/markedapp-byword** (5 kb)
+- 2016-03-13 ★6 **pagedesigns/jasonm23-dark** (6 kb)
 - 2016-03-12 ★6 **bookdesigns/book-epsilon** (128 kb)
 - 2016-03-10 ★4 **bookdesigns/book-hamilton** (215 kb)
-- 2016-03-10 ★8 **manuscripts/book-starter** (4 kb)
-- 2016-03-06 ★2 **bibtxt/bibtxt.github.io** (3 kb)
-- 2016-03-06 ★18 **updownpress/markdown-lint** (46 kb)
-- 2016-03-03 ★2 **manuscripts/manuscripts.github.io** (24 kb)
+- 2016-03-10 ★9 **manuscripts/book-starter** (4 kb)
+- 2016-03-06 ★26 **updownpress/markdown-lint** (49 kb)
+- 2016-03-06 ★3 **bibtxt/bibtxt.github.io** (3 kb)
 - 2016-03-03 ★5 **bookdesigns/designs** (0 kb)
-- 2016-03-01 ★5 **manuscripts/manuscripts** (24 kb)
-- 2016-03-01 ★1 **hydepress/jekyll-deploy** (12 kb)
+- 2016-03-03 ★2 **manuscripts/manuscripts.github.io** (24 kb)
 - 2016-03-01 ★1 **hydepress/jekyll-install** (6 kb)
+- 2016-03-01 ★1 **hydepress/jekyll-deploy** (12 kb)
+- 2016-03-01 ★7 **manuscripts/manuscripts** (24 kb)
 - 2016-03-01 ★1 **hydepress/jekyll-dev** (8 kb)
 
 ### 2
 
-- 2016-02-29 ★1 **shellpress/raspberrypi** (38238 kb)
 - 2016-02-29 ★1 **viennarb/questions** (24 kb)
 - 2016-02-29 ★1 **hydepress/jekyll-themes** (40 kb)
+- 2016-02-29 ★1 **shellpress/raspberrypi** (38238 kb)
 - 2016-02-28 ★1 **hydepress/jekyll-import** (18 kb)
+- 2016-02-26 ★4 **hydepress/hydepress.github.io** (160 kb)
 - 2016-02-26 ★3 **hydepress/jekyll-style** (6 kb)
-- 2016-02-26 ★3 **hydepress/hydepress.github.io** (160 kb)
 - 2016-02-22 ★1 **hydepress/jekyll-plugins** (34 kb)
 - 2016-02-21 ★2 **hydepress/jekyll** (117 kb)
 - 2016-02-20 ★2 **planetjekyll/sandbox-collections** (11 kb)
 - 2016-02-19 ★1 **printhtml/quickrefs** (2 kb)
+- 2016-02-18 ★1 **printhtml/awesome-print** (16 kb)
 - 2016-02-18 ★5 **s6ruby/units-money** (79 kb)
 - 2016-02-18 ★2 **henrythemes/jekyll-boom-theme-v2** (124 kb)
-- 2016-02-18 ★1 **printhtml/awesome-print** (2 kb)
 - 2016-02-17 ★2 **henrythemes/jekyll-boom-theme** (137 kb)
-- 2016-02-15 ★2 **planetjekyll/sandbox-github-pages** (30 kb)
 - 2016-02-15 ★18 **henrythemes/jekyll-gutenberg-theme** (77 kb)
 - 2016-02-15 ★1 **planetjekyll/sandbox-syntax-highlighter** (12 kb)
+- 2016-02-15 ★2 **planetjekyll/sandbox-github-pages** (30 kb)
 - 2016-02-09 ★3 **hydepress/octopress** (37 kb)
-- 2016-02-01 ★36 **staystatic/awesome-static** (18 kb)
+- 2016-02-01 ★34 **staystatic/awesome-static** (18 kb)
 
 ### 1
 
 - 2016-01-13 ★3 **staystatic/quickrefs** (8 kb)
-- 2016-01-11 ★54 **staystatic/staystatic** (212 kb)
+- 2016-01-11 ★53 **staystatic/staystatic** (212 kb)
 - 2016-01-08 ★9 **staystatic/staystatic.github.io** (1565 kb)
 
 ## 2015
@@ -358,57 +364,57 @@
 
 ### 11
 
+- 2015-11-22 ★4 **s6ruby/ethereum-contracts** (89 kb)
 - 2015-11-22 ★1 **rubycoco/fotos** (4 kb)
-- 2015-11-22 ★2 **s6ruby/ethereum-contracts** (89 kb)
 - 2015-11-16 ★1 **gittiscripts/gitti** (22 kb)
-- 2015-11-10 ★2 **yorobot/cache** (1566 kb)
 - 2015-11-10 ★1 **gittiscripts/hubba** (21 kb)
-- 2015-11-01 ★35 **factbook/factbook.sql** (148 kb)
+- 2015-11-10 ★2 **yorobot/cache** (1566 kb)
+- 2015-11-01 ★38 **factbook/factbook.sql** (148 kb)
 
 ### 9
 
-- 2015-09-23 ★2 **yorobot/factbook** (62 kb)
 - 2015-09-23 ★10 **factbook/factbook.github.io** (22742 kb)
+- 2015-09-23 ★2 **yorobot/factbook** (62 kb)
 - 2015-09-20 ★4 **opensport/rugby.db** (156 kb)
-- 2015-09-17 ★4 **yorobot/football.csv** (1336 kb)
-- 2015-09-17 ★497 **openfootball/football.json** (365 kb)
+- 2015-09-17 ★12 **yorobot/football.csv** (2287 kb)
 - 2015-09-17 ★2 **yorobot/football.db.rsssf** (62 kb)
-- 2015-09-15 ★7 **sportdb/rsssf** (164 kb)
-- 2015-09-01 ★1 **sportdb/scripts** (158 kb)
+- 2015-09-17 ★553 **openfootball/football.json** (520 kb)
+- 2015-09-15 ★7 **sportdb/sport.db.sources** (62 kb)
+- 2015-09-01 ★5 **sportdb/football.db** (160 kb)
 
 ### 8
 
-- 2015-08-31 ★3 **openfootball/ru-russia** (146 kb)
-- 2015-08-25 ★7 **openfootball/league-starter** (62 kb)
+- 2015-08-31 ★3 **openfootball/russia** (148 kb)
+- 2015-08-25 ★9 **openfootball/league-starter** (62 kb)
 - 2015-08-23 ★8 **quikstart/sinatra-starter-template** (136 kb)
 - 2015-08-20 ★2 **quikstart/gem-starter-template-hoe** (172 kb)
 - 2015-08-18 ★5 **quikstart/scripts** (11 kb)
 - 2015-08-17 ★27 **quikstart/quik** (27 kb)
 - 2015-08-17 ★2 **quikstart/gem-starter-template** (140 kb)
-- 2015-08-12 ★1 **rubycoco/jekylldoc** (136 kb)
-- 2015-08-12 ★8 **mrhydescripts/scripts** (8 kb)
 - 2015-08-12 ★15 **mrhydescripts/mrhyde** (18 kb)
+- 2015-08-12 ★8 **mrhydescripts/scripts** (8 kb)
+- 2015-08-12 ★1 **rubycoco/jekylldoc** (136 kb)
 - 2015-08-11 ★40 **drjekyllthemes/drjekyll** (28 kb)
-- 2015-08-08 ★27 **henrythemes/jekyll-starter-theme** (11 kb)
-- 2015-08-08 ★16 **henrythemes/jekyll-starter-theme-v2** (16 kb)
+- 2015-08-08 ★29 **henrythemes/jekyll-starter-theme** (11 kb)
+- 2015-08-08 ★17 **henrythemes/jekyll-starter-theme-v2** (16 kb)
 - 2015-08-03 ★13 **mundimark/quickrefs** (289 kb)
-- 2015-08-02 ★4 **planetjekyll/showcase** (2395 kb)
+- 2015-08-02 ★5 **planetjekyll/showcase** (2555 kb)
 - 2015-08-01 ★3 **typesigs/records** (14 kb)
-- 2015-08-01 ★2 **planetjekyll/sandbox** (81 kb)
-- 2015-08-01 ★17 **openblockchains/programming-bitcoin-script** (506 kb)
 - 2015-08-01 ★9 **typesigs/programming-bits-bytes** (76 kb)
+- 2015-08-01 ★2 **planetjekyll/sandbox** (81 kb)
+- 2015-08-01 ★21 **openblockchains/programming-bitcoin-script** (436 kb)
 
 ### 7
 
-- 2015-07-25 ★1 **rsssf/at-austria** (57 kb)
+- 2015-07-25 ★1 **rsssf/austria** (57 kb)
 - 2015-07-20 ★10 **austriacodes/vienna.html** (1541 kb)
+- 2015-07-16 ★25 **henrythemes/jekyll-book-theme** (141 kb)
 - 2015-07-16 ★3 **yorobot/planetjekyll** (243 kb)
-- 2015-07-16 ★21 **henrythemes/jekyll-book-theme** (141 kb)
 - 2015-07-15 ★15 **drjekyllthemes/drjekyllthemes.github.io** (3932 kb)
 - 2015-07-11 ★12 **planetruby/awesome** (41 kb)
 - 2015-07-09 ★7 **s6ruby/ruby-to-solidity** (30 kb)
-- 2015-07-02 ★189 **planetruby/awesome-webservers** (75 kb)
-- 2015-07-01 ★17 **s6ruby/safestruct** (92 kb)
+- 2015-07-02 ★195 **planetruby/awesome-webservers** (75 kb)
+- 2015-07-01 ★18 **s6ruby/safestruct** (92 kb)
 
 ### 6
 
@@ -416,43 +422,43 @@
 - 2015-06-29 ★1 **textkit/catalog.db** (140 kb)
 - 2015-06-27 ★14 **s6ruby/ruby-to-michelson** (187 kb)
 - 2015-06-27 ★2 **planetopendata/awesome-austria** (48 kb)
+- 2015-06-26 ★119 **typesigs/safedata** (60 kb)
 - 2015-06-26 ★6 **s6ruby/safemath** (15 kb)
-- 2015-06-26 ★120 **typesigs/safedata** (60 kb)
-- 2015-06-23 ★12 **textkit/whatson** (20 kb)
+- 2015-06-23 ★13 **textkit/whatson** (21 kb)
 - 2015-06-22 ★4 **footballbook/calendar** (160 kb)
+- 2015-06-21 ★8 **textkit/event.db** (137 kb)
 - 2015-06-21 ★1 **beerbook/calendar** (14 kb)
-- 2015-06-21 ★8 **textkit/event.db** (136 kb)
 
 ### 5
 
 - 2015-05-28 ★2 **openbeer/oberbayern** (336 kb)
-- 2015-05-13 ★3 **worldclassics/dr-jekyll-and-mr-hyde** (135 kb)
-- 2015-05-11 ★516 **planetjekyll/awesome-jekyll** (89 kb)
-- 2015-05-11 ★1 **planetopendata/planetopendata.github.io** (132 kb)
+- 2015-05-13 ★3 **worldclassics/dr-jekyll-and-mr-hyde** (136 kb)
+- 2015-05-11 ★528 **planetjekyll/awesome-jekyll** (92 kb)
 - 2015-05-11 ★4 **worldclassics/the-trial** (185 kb)
+- 2015-05-11 ★1 **planetopendata/planetopendata.github.io** (132 kb)
 - 2015-05-10 ★1 **planetruby/apps** (161 kb)
-- 2015-05-09 ★2 **planetruby/links** (203 kb)
-- 2015-05-05 ★36 **mundimark/awesome-books** (204 kb)
-- 2015-05-03 ★413 **mundimark/awesome-markdown** (77 kb)
+- 2015-05-09 ★3 **planetruby/links** (120 kb)
+- 2015-05-05 ★38 **mundimark/awesome-books** (204 kb)
+- 2015-05-03 ★496 **mundimark/awesome-markdown** (85 kb)
 - 2015-05-02 ★3 **planetruby/books** (661 kb)
 
 ### 4
 
-- 2015-04-30 ★303 **typesigs/safebool** (118 kb)
-- 2015-04-28 ★65 **planetopendata/awesome-sqlite** (28 kb)
-- 2015-04-27 ★264 **planetruby/awesome-rubies** (107 kb)
-- 2015-04-26 ★2 **geraldb/catalog** (156 kb)
-- 2015-04-24 ★171 **planetopendata/awesome-world** (204 kb)
-- 2015-04-24 ★117 **planetopendata/awesome-football** (8 kb)
-- 2015-04-23 ★68 **csvreader/csvpack** (31 kb)
-- 2015-04-21 ★242 **planetruby/calendar** (986 kb)
-- 2015-04-20 ★1 **beerkit/beer.db.service** (5 kb)
-- 2015-04-20 ★1 **sportdb/sport.db.service** (120 kb)
+- 2015-04-30 ★302 **typesigs/safebool** (118 kb)
+- 2015-04-28 ★78 **planetopendata/awesome-sqlite** (41 kb)
+- 2015-04-27 ★276 **planetruby/awesome-rubies** (180 kb)
+- 2015-04-26 ★3 **geraldb/catalog** (156 kb)
+- 2015-04-24 ★176 **planetopendata/awesome-world** (204 kb)
+- 2015-04-24 ★125 **planetopendata/awesome-football** (9 kb)
+- 2015-04-23 ★70 **csvreader/csvpack** (31 kb)
+- 2015-04-21 ★248 **planetruby/calendar** (1078 kb)
 - 2015-04-20 ★1 **worlddb/world.db.service** (1 kb)
+- 2015-04-20 ★1 **sportdb/sport.db.service** (10 kb)
+- 2015-04-20 ★1 **beerkit/beer.db.service** (5 kb)
 - 2015-04-19 ★8 **rubycoco/webservice** (48 kb)
 - 2015-04-16 ★4 **openfootball/women-world-cup** (144 kb)
 - 2015-04-07 ★1 **textkit/dataman** (136 kb)
-- 2015-04-04 ★4 **yorobot/backup** (1378 kb)
+- 2015-04-04 ★4 **yorobot/backup** (1482 kb)
 - 2015-04-02 ★1 **hybook/bookman** (140 kb)
 
 ### 3
@@ -468,30 +474,30 @@
 - 2015-02-23 ★1 **wikiscript/beer** (28 kb)
 - 2015-02-22 ★2 **yorobot/auto** (47 kb)
 - 2015-02-17 ★1 **openbeer/collections** (4 kb)
-- 2015-02-11 ★84 **planetjekyll/quickrefs** (78 kb)
+- 2015-02-11 ★85 **planetjekyll/quickrefs** (78 kb)
 - 2015-02-11 ★1 **planetruby/quickrefs** (37 kb)
-- 2015-02-08 ★1 **planetbeer/planetbeer.github.io** (172 kb)
 - 2015-02-08 ★1 **planetbeer/books** (1616 kb)
+- 2015-02-08 ★1 **planetbeer/planetbeer.github.io** (172 kb)
 - 2015-02-05 ★6 **openfootball/schema** (7 kb)
-- 2015-02-04 ★54 **schemadoc/schemadoc** (28 kb)
+- 2015-02-04 ★55 **schemadoc/schemadoc** (28 kb)
 - 2015-02-03 ★7 **schemadoc/schemadoc-theme** (28 kb)
 - 2015-02-03 ★4 **openbeer/schema** (6 kb)
-- 2015-02-02 ★13 **planetjekyll/snippets** (16 kb)
-- 2015-02-02 ★2 **planetruby/planetruby.github.io** (682 kb)
-- 2015-02-02 ★2 **planetruby/planet** (232 kb)
-- 2015-02-02 ★10 **planetjekyll/planetjekyll.github.io** (112 kb)
 - 2015-02-02 ★1 **planetjekyll/planet** (170 kb)
-- 2015-02-01 ★87 **henrythemes/jekyll-minimal-theme** (46 kb)
+- 2015-02-02 ★1 **planetruby/planetruby.github.io** (682 kb)
+- 2015-02-02 ★7 **planetruby/planet** (162 kb)
+- 2015-02-02 ★10 **planetjekyll/planetjekyll.github.io** (112 kb)
+- 2015-02-02 ★13 **planetjekyll/snippets** (16 kb)
+- 2015-02-01 ★91 **henrythemes/jekyll-minimal-theme** (46 kb)
 
 ### 1
 
 - 2015-01-30 ★52 **henrythemes/jekyll-bootstrap-theme** (460630 kb)
-- 2015-01-15 ★1 **book-templates/world** (176 kb)
 - 2015-01-15 ★1 **book-templates/football** (196 kb)
+- 2015-01-15 ★1 **book-templates/world** (176 kb)
 - 2015-01-15 ★1 **book-templates/beer** (208 kb)
 - 2015-01-11 ★1 **textkit/notes** (120 kb)
 - 2015-01-09 ★1 **textkit/preproc** (136 kb)
-- 2015-01-08 ★19 **feedparser/feedfilter** (11 kb)
+- 2015-01-08 ★18 **feedparser/feedfilter** (11 kb)
 - 2015-01-02 ★1 **planet-templates/planet-forty** (89 kb)
 
 ## 2014
@@ -501,23 +507,23 @@
 
 - 2014-12-30 ★1 **planet-templates/planet-paper** (85 kb)
 - 2014-12-27 ★1 **planetopendata/planet** (206 kb)
-- 2014-12-26 ★21 **planetruby/gems** (550 kb)
-- 2014-12-22 ★2 **feedreader/notes** (196 kb)
-- 2014-12-21 ★19 **feedreader/jekyll-planet** (6 kb)
-- 2014-12-20 ★93 **drjekyllthemes/themes** (9552 kb)
+- 2014-12-26 ★22 **planetruby/gems** (550 kb)
+- 2014-12-22 ★2 **feedreader/jekyll.planet.sample** (44 kb)
+- 2014-12-21 ★25 **feedreader/planet.rb** (47 kb)
+- 2014-12-20 ★94 **drjekyllthemes/themes** (9589 kb)
 - 2014-12-14 ★1 **planetbeer/planet** (132 kb)
 - 2014-12-09 ★1 **slideshow-s9/slideshow-plugins** (4 kb)
 - 2014-12-08 ★2 **slideshow-templates/slideshow-templates.github.io** (31 kb)
 - 2014-12-08 ★3 **planet-templates/planet-templates.github.io** (366 kb)
 - 2014-12-07 ★4 **openbeer/datafile** (172 kb)
-- 2014-12-06 ★1 **writekit/markdown-service** (60 kb)
 - 2014-12-06 ★1 **writekit/markdown-tools** (136 kb)
+- 2014-12-06 ★1 **writekit/markdown-service** (60 kb)
 
 ### 11
 
-- 2014-11-30 ★5 **geraldb/web-proxy-win** (152 kb)
+- 2014-11-30 ★7 **geraldb/web-proxy-win** (152 kb)
 - 2014-11-27 ★1 **textkit/datafile** (45 kb)
-- 2014-11-26 ★58 **openfootball/quick-starter** (30 kb)
+- 2014-11-26 ★60 **openfootball/quick-starter** (31 kb)
 - 2014-11-13 ★2 **openmundi/deutschland.db** (212 kb)
 - 2014-11-13 ★1 **worlddb/world.db.cities** (136 kb)
 - 2014-11-11 ★7 **worlddb/world.db.codes** (161 kb)
@@ -528,8 +534,8 @@
 
 - 2014-10-27 ★4 **beerbook/maps** (43 kb)
 - 2014-10-26 ★1 **openbeer/market** (148 kb)
-- 2014-10-22 ★1 **openbeer/menus** (136 kb)
 - 2014-10-22 ★1 **openbeer/wa-washington** (148 kb)
+- 2014-10-22 ★1 **openbeer/menus** (136 kb)
 - 2014-10-22 ★2 **openbeer/co-colorado** (204 kb)
 - 2014-10-21 ★2 **openbeer/or-oregon** (184 kb)
 - 2014-10-20 ★2 **openbeer/by-bayern** (89 kb)
@@ -550,76 +556,76 @@
 - 2014-08-30 ★1 **slidekit/s6-samples** (408 kb)
 - 2014-08-30 ★1 **slidekit/s6-minimalistic** (3 kb)
 - 2014-08-30 ★1 **slidekit/slidekit.github.io** (10 kb)
-- 2014-08-29 ★1 **writekit/markdown.themes** (140 kb)
-- 2014-08-29 ★1 **writekit/markdown.lib.js** (140 kb)
-- 2014-08-29 ★1 **writekit/markdown.api.js** (140 kb)
 - 2014-08-29 ★2 **writekit/markdown.note.starter** (212 kb)
+- 2014-08-29 ★1 **writekit/markdown.themes** (140 kb)
+- 2014-08-29 ★1 **writekit/markdown.api.js** (140 kb)
+- 2014-08-29 ★1 **writekit/markdown.lib.js** (140 kb)
 - 2014-08-28 ★1 **geraldb/webcomponents** (164 kb)
 - 2014-08-22 ★14 **openmundi/world.csv** (176 kb)
 - 2014-08-19 ★51 **worlddb/world.lite** (327 kb)
-- 2014-08-15 ★3 **sportdb/sport.db.web** (175 kb)
+- 2014-08-15 ★3 **sportdb/sport.db.web** (172 kb)
 - 2014-08-10 ★4 **openmundi/austria.db** (396 kb)
 - 2014-08-09 ★5 **slideshow-s9/demos** (10809 kb)
-- 2014-08-09 ★195 **geraldb/talks** (16363 kb)
-- 2014-08-08 ★28 **openfootball/schema.sql** (176 kb)
-- 2014-08-08 ★1 **slideshow-s9/samples** (122 kb)
+- 2014-08-09 ★200 **geraldb/talks** (16363 kb)
 - 2014-08-08 ★6 **openbeer/schema.sql** (140 kb)
-- 2014-08-05 ★2 **beercsv/be-belgium** (212 kb)
+- 2014-08-08 ★30 **openfootball/schema.sql** (176 kb)
+- 2014-08-08 ★1 **slideshow-s9/samples** (122 kb)
 - 2014-08-05 ★2 **openmundi/world-heritage** (144 kb)
 - 2014-08-05 ★5 **beercsv/us-united-states** (392 kb)
+- 2014-08-05 ★2 **beercsv/be-belgium** (212 kb)
+- 2014-08-04 ★6 **beercsv/statistics** (268 kb)
 - 2014-08-04 ★1 **beercsv/build** (308 kb)
-- 2014-08-04 ★7 **beercsv/statistics** (268 kb)
 
 ### 7
 
-- 2014-07-31 ★1 **sportdb/racing.db.models** (164 kb)
-- 2014-07-27 ★18 **openfootball/docs** (721 kb)
-- 2014-07-25 ★1 **footballcsv/scotland** (471 kb)
-- 2014-07-25 ★1 **footballcsv/belgium** (296 kb)
-- 2014-07-25 ★3 **footballcsv/turkey** (283 kb)
-- 2014-07-25 ★2 **footballcsv/portugal** (325 kb)
-- 2014-07-25 ★1 **footballcsv/netherlands** (283 kb)
-- 2014-07-25 ★5 **footballcsv/deutschland** (1121 kb)
-- 2014-07-25 ★3 **footballcsv/greece** (235 kb)
-- 2014-07-24 ★8 **footballcsv/france** (1188 kb)
-- 2014-07-24 ★4 **footballcsv/italy** (673 kb)
-- 2014-07-23 ★88 **footballcsv/england** (8030 kb)
-- 2014-07-23 ★2 **sportdb/football.db.models** (204 kb)
-- 2014-07-23 ★11 **footballcsv/espana** (1030 kb)
+- 2014-07-31 ★1 **sportdb/sportdb.github.io** (87 kb)
+- 2014-07-27 ★17 **openfootball/docs** (721 kb)
+- 2014-07-25 ★1 **footballcsv/scotland** (490 kb)
+- 2014-07-25 ★3 **footballcsv/turkey** (308 kb)
+- 2014-07-25 ★3 **footballcsv/greece** (251 kb)
+- 2014-07-25 ★2 **footballcsv/portugal** (333 kb)
+- 2014-07-25 ★5 **footballcsv/deutschland** (1141 kb)
+- 2014-07-25 ★1 **footballcsv/belgium** (306 kb)
+- 2014-07-25 ★1 **footballcsv/netherlands** (292 kb)
+- 2014-07-24 ★5 **footballcsv/italy** (692 kb)
+- 2014-07-24 ★10 **footballcsv/france** (1205 kb)
+- 2014-07-23 ★2 **sportdb/datasets** (19 kb)
+- 2014-07-23 ★94 **footballcsv/england** (8150 kb)
+- 2014-07-23 ★12 **footballcsv/espana** (1061 kb)
 - 2014-07-22 ★2 **openfootball/world** (234 kb)
-- 2014-07-12 ★597 **factbook/factbook.json** (7355 kb)
+- 2014-07-12 ★603 **factbook/factbook.json** (7355 kb)
 - 2014-07-10 ★2 **sportlabs/major-league-soccer** (819 kb)
-- 2014-07-07 ★96 **factbook/factbook** (445 kb)
+- 2014-07-07 ★100 **factbook/factbook** (433 kb)
 - 2014-07-03 ★5 **wikiscript/wikiscript** (101 kb)
 
 ### 6
 
+- 2014-06-29 ★31 **openfootball/leagues** (650 kb)
 - 2014-06-29 ★13 **sportdb/footty** (27 kb)
 - 2014-06-29 ★2 **openfootball/assocs** (148 kb)
-- 2014-06-29 ★6 **openfootball/france** (86 kb)
-- 2014-06-29 ★30 **openfootball/leagues** (625 kb)
+- 2014-06-29 ★7 **openfootball/france** (93 kb)
 - 2014-06-09 ★1 **wikiscript/football.players** (7 kb)
 - 2014-06-09 ★1 **geraldb/chelitas** (168 kb)
 - 2014-06-09 ★1 **beerkit/beer.db.mobile** (400 kb)
 - 2014-06-06 ★1 **wikiscript/football.squads** (471 kb)
-- 2014-06-03 ★2 **rsssf/es-espana** (264 kb)
-- 2014-06-03 ★1 **rsssf/eng-england** (117 kb)
-- 2014-06-02 ★1 **rsssf/br-brazil** (284 kb)
-- 2014-06-02 ★1 **rsssf/de-deutschland** (1654 kb)
+- 2014-06-03 ★1 **rsssf/england** (117 kb)
+- 2014-06-03 ★2 **rsssf/espana** (264 kb)
+- 2014-06-02 ★1 **rsssf/deutschland** (1654 kb)
+- 2014-06-02 ★1 **rsssf/brazil** (284 kb)
 
 ### 5
 
 - 2014-05-19 ★15 **sportkit/sport.db.starter.ruby** (13 kb)
 - 2014-05-07 ★1 **beerkit/beer.api.js** (140 kb)
-- 2014-05-06 ★3 **sportkit/football.api.js** (140 kb)
 - 2014-05-06 ★6 **sportkit/football.html** (204 kb)
 - 2014-05-06 ★3 **sportkit/football.js.starter** (33 kb)
+- 2014-05-06 ★3 **sportkit/football.api.js** (140 kb)
 - 2014-05-02 ★2 **openfootball/confed-cup** (25 kb)
 
 ### 4
 
 - 2014-04-18 ★3 **openfootball/club-world-cup** (7 kb)
-- 2014-04-16 ★11 **openfootball/national-teams** (48 kb)
+- 2014-04-16 ★11 **openfootball/national-teams** (63 kb)
 
 ### 3
 
@@ -634,15 +640,15 @@
 - 2014-02-23 ★2 **openfootball/futbol-es** (164 kb)
 - 2014-02-20 ★3 **sportlogos/sportlogos.github.io** (132 kb)
 - 2014-02-16 ★2 **hybook/hybook** (204 kb)
-- 2014-02-13 ★2 **openfootball/sandbox** (148 kb)
+- 2014-02-13 ★2 **openfootball/help** (6 kb)
 - 2014-02-08 ★11 **footballbook/footballbook.github.io** (1156 kb)
 - 2014-02-08 ★10 **openbeer/docs** (132 kb)
 - 2014-02-07 ★2 **worldbook/worldbook.github.io** (392 kb)
 
 ### 1
 
-- 2014-01-29 ★1 **openwine/at-austria** (196 kb)
 - 2014-01-29 ★7 **beerbook/beerbook.github.io** (954 kb)
+- 2014-01-29 ★1 **openwine/at-austria** (196 kb)
 - 2014-01-24 ★1 **beerkit/beerbook** (220 kb)
 - 2014-01-22 ★1 **openbeer/notes** (204 kb)
 - 2014-01-15 ★4 **yorobot/beer.db** (68 kb)
@@ -661,37 +667,37 @@
 - 2013-12-28 ★3 **openfootball/copa-america** (7 kb)
 - 2013-12-27 ★2 **openbookie/notes** (108 kb)
 - 2013-12-26 ★3 **csvspecs/csv-next** (12 kb)
-- 2013-12-24 ★1 **openmundi/notes** (132 kb)
 - 2013-12-24 ★5 **openmundi/openmundi.github.io** (329 kb)
-- 2013-12-16 ★36 **yorobot/football.db** (314 kb)
-- 2013-12-14 ★23 **openfootball/europe-champions-league** (123 kb)
-- 2013-12-14 ★2 **openfootball/north-america-champions-league** (8 kb)
+- 2013-12-24 ★1 **openmundi/notes** (132 kb)
+- 2013-12-16 ★36 **yorobot/football.db** (348 kb)
 - 2013-12-14 ★4 **openfootball/copa-libertadores** (22 kb)
-- 2013-12-14 ★3 **openfootball/copa-sudamericana** (3 kb)
 - 2013-12-14 ★2 **openbookie/market.at-austria** (112 kb)
-- 2013-12-10 ★1 **openbookie/market.euro-cup** (108 kb)
+- 2013-12-14 ★3 **openfootball/copa-sudamericana** (3 kb)
+- 2013-12-14 ★27 **openfootball/europe-champions-league** (159 kb)
+- 2013-12-14 ★2 **openfootball/north-america-champions-league** (8 kb)
 - 2013-12-10 ★1 **openbookie/market.world-cup** (108 kb)
+- 2013-12-10 ★1 **openbookie/market.euro-cup** (108 kb)
 - 2013-12-09 ★11 **openfootball/stadiums** (37 kb)
 
 ### 11
 
-- 2013-11-22 ★2 **rubycoco/activerecord-utils** (164 kb)
+- 2013-11-22 ★2 **rubycoco/activerecord-utils** (16 kb)
 - 2013-11-19 ★1 **webstart/upman-win** (160 kb)
 - 2013-11-17 ★1 **planet-templates/planet-zen** (35 kb)
-- 2013-11-16 ★1 **planet-templates/planet-digest** (105 kb)
 - 2013-11-16 ★1 **planet-templates/planet-hacker** (45 kb)
-- 2013-11-12 ★2 **feedreader/feedreader.github.io** (365 kb)
-- 2013-11-09 ★1 **feedreader/pluto.tools** (176 kb)
+- 2013-11-16 ★1 **planet-templates/planet-digest** (105 kb)
+- 2013-11-12 ★2 **feedreader/website.old** (366 kb)
+- 2013-11-09 ★1 **feedreader/pluto.more.tools** (53 kb)
 
 ### 10
 
-- 2013-10-31 ★2 **rubycoco/activityutils** (6 kb)
+- 2013-10-31 ★2 **rubycoco/activityutils** (7 kb)
 - 2013-10-30 ★1 **webstart/upman** (200 kb)
 - 2013-10-26 ★1 **webstart/webstart.github.io** (148 kb)
 - 2013-10-25 ★1 **viennarb/planet** (2917 kb)
-- 2013-10-24 ★1 **webstart/webstart-notifier** (116 kb)
+- 2013-10-24 ★1 **geraldb/logos** (363 kb)
 - 2013-10-21 ★6 **typesigs/typesigs** (12 kb)
-- 2013-10-19 ★5 **plutolive/pluto.live.starter** (14 kb)
+- 2013-10-19 ★5 **plutolive/pluto.live.starter** (19 kb)
 - 2013-10-12 ★46 **rubycoco/dbbrowser** (207 kb)
 - 2013-10-12 ★1 **rubycoco/about** (112 kb)
 - 2013-10-03 ★2 **planet-templates/planet-feeds** (7 kb)
@@ -699,24 +705,24 @@
 ### 9
 
 - 2013-09-27 ★1 **planet-templates/planet-classic** (98 kb)
-- 2013-09-20 ★1 **planet-templates/planet-top** (94 kb)
-- 2013-09-20 ★1 **plutolive/pluto.admin** (21 kb)
+- 2013-09-20 ★1 **planet-templates/planet-top** (95 kb)
 - 2013-09-20 ★2 **planet-templates/planet-news** (125 kb)
-- 2013-09-19 ★2 **planet-templates/planet-blank** (449 kb)
-- 2013-09-19 ★17 **feedreader/planets** (45 kb)
+- 2013-09-20 ★1 **plutolive/pluto.admin** (21 kb)
+- 2013-09-19 ★2 **planet-templates/planet-blank** (462 kb)
+- 2013-09-19 ★151 **feedparser/feedparser** (899 kb)
 - 2013-09-19 ★2 **rubycoco/tagutils** (31 kb)
-- 2013-09-19 ★146 **feedparser/feedparser** (844 kb)
-- 2013-09-15 ★1 **openmundi/langs** (116 kb)
-- 2013-09-15 ★1 **openmundi/mundo-es** (112 kb)
+- 2013-09-19 ★16 **feedreader/planets** (61 kb)
 - 2013-09-15 ★1 **openmundi/welt-de** (112 kb)
 - 2013-09-15 ★6 **yorobot/world.db** (25 kb)
+- 2013-09-15 ★1 **openmundi/mundo-es** (112 kb)
+- 2013-09-15 ★1 **openmundi/langs** (116 kb)
+- 2013-09-14 ★1 **sportlogos/sport.db.logos.ruby** (1392 kb)
 - 2013-09-14 ★1 **sportlogos/hockey.db.logos** (192 kb)
 - 2013-09-14 ★1 **sportlogos/sport.db.logos** (1084 kb)
-- 2013-09-14 ★1 **sportlogos/sport.db.logos.ruby** (1392 kb)
-- 2013-09-13 ★11 **opensport/american-football.db** (160 kb)
 - 2013-09-13 ★5 **opensport/hockey.db** (160 kb)
+- 2013-09-13 ★12 **opensport/american-football.db** (160 kb)
 - 2013-09-09 ★8 **plutolive/pluto.live** (403 kb)
-- 2013-09-07 ★22 **openfootball/italy** (630 kb)
+- 2013-09-07 ★24 **openfootball/italy** (731 kb)
 - 2013-09-02 ★1 **opensport/build** (140 kb)
 
 ### 8
@@ -724,7 +730,7 @@
 - 2013-08-29 ★2 **openfootball/lang** (228 kb)
 - 2013-08-27 ★3 **geraldb/webpub-reader** (11 kb)
 - 2013-08-25 ★4 **openbeer/be-belgium** (34 kb)
-- 2013-08-13 ★56 **openfootball/br-brazil** (223 kb)
+- 2013-08-13 ★59 **openfootball/brazil** (234 kb)
 - 2013-08-12 ★8 **sportlogos/football.db.logos** (5791 kb)
 - 2013-08-12 ★4 **rsssf/rsssf.github.io** (204 kb)
 - 2013-08-12 ★1 **beerlabels/beer.db.labels** (240 kb)
@@ -741,28 +747,28 @@
 
 ### 5
 
-- 2013-05-30 ★2 **opensport/ski.db** (154 kb)
 - 2013-05-30 ★14 **opensport/formula1.db** (204 kb)
-- 2013-05-27 ★1 **webstart/links-sinatra** (112 kb)
-- 2013-05-27 ★1 **webstart/webstart-browser** (128 kb)
-- 2013-05-27 ★1 **webstart/webstart** (2913 kb)
-- 2013-05-27 ★1 **webstart/links-rails** (132 kb)
-- 2013-05-25 ★4 **writekit/markdown.note** (248 kb)
+- 2013-05-30 ★2 **opensport/ski.db** (154 kb)
+- 2013-05-27 ★1 **bitsblocks/crypto-bubbles** (218 kb)
+- 2013-05-27 ★1 **webstart/links** (24 kb)
+- 2013-05-27 ★16 **feedreader/news.rb** (19 kb)
+- 2013-05-27 ★1 **webstart/webstart** (2939 kb)
+- 2013-05-25 ★5 **writekit/markdown.note** (248 kb)
 - 2013-05-22 ★2 **openfootball/africa-cup** (11 kb)
 - 2013-05-22 ★2 **openfootball/north-america-gold-cup** (18 kb)
-- 2013-05-22 ★53 **openfootball/espana** (760 kb)
-- 2013-05-22 ★432 **openfootball/world-cup** (597 kb)
-- 2013-05-21 ★293 **openfootball/england** (1042 kb)
-- 2013-05-21 ★26 **openfootball/euro-cup** (39 kb)
-- 2013-05-21 ★2 **openfootball/mx-mexico** (18 kb)
-- 2013-05-20 ★47 **openfootball/deutschland** (1733 kb)
-- 2013-05-20 ★12 **openfootball/austria** (810 kb)
-- 2013-05-20 ★133 **openfootball/openfootball.github.io** (1620 kb)
-- 2013-05-18 ★14 **slideshow-s9/slideshow-s9.github.io** (3739 kb)
+- 2013-05-22 ★57 **openfootball/espana** (833 kb)
+- 2013-05-22 ★439 **openfootball/world-cup** (605 kb)
+- 2013-05-21 ★26 **openfootball/euro-cup** (50 kb)
+- 2013-05-21 ★314 **openfootball/england** (1163 kb)
+- 2013-05-21 ★2 **openfootball/mexico** (45 kb)
+- 2013-05-20 ★134 **openfootball/openfootball.github.io** (1620 kb)
+- 2013-05-20 ★50 **openfootball/deutschland** (2022 kb)
+- 2013-05-20 ★12 **openfootball/austria** (958 kb)
+- 2013-05-18 ★9 **openbeer/at-austria** (384 kb)
+- 2013-05-18 ★12 **openbeer/us-united-states** (339 kb)
 - 2013-05-18 ★15 **openbeer/openbeer.github.io** (744 kb)
-- 2013-05-18 ★11 **openbeer/us-united-states** (339 kb)
-- 2013-05-18 ★8 **openbeer/at-austria** (384 kb)
 - 2013-05-18 ★2 **openbeer/cz-czech-republic** (312 kb)
+- 2013-05-18 ★13 **slideshow-s9/slideshow-s9.github.io** (3739 kb)
 - 2013-05-18 ★2 **openbeer/de-deutschland** (493 kb)
 - 2013-05-10 ★1 **beerlabels/beer.db.labels.ruby** (840 kb)
 
@@ -772,8 +778,8 @@
 
 ### 3
 
-- 2013-03-28 ★27 **beerkit/beer.db** (260 kb)
-- 2013-03-19 ★1 **webstart/webstart-utils** (224 kb)
+- 2013-03-28 ★28 **beerkit/beer.db** (260 kb)
+- 2013-03-19 ★1 **bitsblocks/colored-coins-whitepaper** (175 kb)
 - 2013-03-13 ★8 **worlddb/world.db.flags** (1644 kb)
 - 2013-03-02 ★12 **worlddb/world.db.starter** (12 kb)
 
@@ -783,7 +789,7 @@
 
 ### 1
 
-- 2013-01-20 ★37 **openfootball/clubs** (1806 kb)
+- 2013-01-20 ★40 **openfootball/clubs** (2510 kb)
 
 ## 2012
 
@@ -792,8 +798,8 @@
 
 - 2012-12-03 ★2 **openbookie/sport.db.play** (204 kb)
 - 2012-12-03 ★1 **openbookie/sport.db.market** (172 kb)
-- 2012-12-02 ★168 **sportdb/sport.db** (1691 kb)
-- 2012-12-02 ★64 **worlddb/world.db** (383 kb)
+- 2012-12-02 ★177 **sportdb/sport.db** (2381 kb)
+- 2012-12-02 ★65 **worlddb/world.db** (385 kb)
 - 2012-12-01 ★2 **rubycoco/hoe-manifest** (128 kb)
 
 ### 11
@@ -801,15 +807,15 @@
 - 2012-11-29 ★1 **rubycoco/activerecord-importer** (144 kb)
 - 2012-11-12 ★3 **openbookie/market.europe-champions-league** (336 kb)
 - 2012-11-06 ★9 **worlddb/world.db.admin** (1840 kb)
-- 2012-11-05 ★570 **openmundi/world.db** (1088 kb)
+- 2012-11-05 ★573 **openmundi/world.db** (1088 kb)
 
 ### 10
 
 - 2012-10-20 ★3 **planetruby/hellohoe** (2 kb)
 - 2012-10-20 ★1 **geraldb/geraldb.github.io** (520 kb)
-- 2012-10-17 ★67 **openbeer/world** (1235 kb)
-- 2012-10-04 ★16 **sportdb/sport.db.admin** (1719 kb)
+- 2012-10-17 ★66 **openbeer/world** (1235 kb)
 - 2012-10-04 ★45 **opensport/opensport.github.io** (1181 kb)
+- 2012-10-04 ★16 **sportdb/sport.db.admin** (1719 kb)
 
 ### 9
 
@@ -818,7 +824,7 @@
 ### 7
 
 - 2012-07-14 ★1 **webstart/manman** (132 kb)
-- 2012-07-14 ★67 **feedreader/pluto** (264 kb)
+- 2012-07-14 ★164 **feedreader/pluto** (596 kb)
 
 ### 6
 
@@ -833,13 +839,13 @@
 
 ### 4
 
-- 2012-04-03 ★1 **webstart/sandbox** (252 kb)
+- 2012-04-03 ★1 **bitsblocks/mastercoin-whitepaper** (181 kb)
 
 ### 3
 
 - 2012-03-10 ★6 **beerkit/beer.db.admin** (536 kb)
-- 2012-03-05 ★106 **openbookie/sportbook** (2929 kb)
-- 2012-03-03 ★99 **slideshow-templates/slideshow-impress.js** (77 kb)
+- 2012-03-05 ★109 **openbookie/sportbook** (2929 kb)
+- 2012-03-03 ★96 **slideshow-templates/slideshow-impress.js** (77 kb)
 
 ## 2011
 
@@ -850,7 +856,7 @@
 
 ### 11
 
-- 2011-11-22 ★36 **typesigs/awesome-types** (95 kb)
+- 2011-11-22 ★40 **typesigs/awesome-types** (95 kb)
 
 ### 10
 
@@ -871,14 +877,14 @@
 ### 7
 
 - 2010-07-08 ★3 **slideshow-templates/slideshow-s6-syntax-highlighter** (194 kb)
-- 2010-07-04 ★5 **slideshow-templates/slideshow-s6-blank** (215 kb)
+- 2010-07-04 ★6 **slideshow-templates/slideshow-s6-blank** (215 kb)
 
 ### 6
 
-- 2010-06-27 ★5 **slideshow-templates/slideshow-s5-blank** (90 kb)
-- 2010-06-27 ★21 **slideshow-templates/slideshow-slidy** (300 kb)
+- 2010-06-27 ★22 **slideshow-templates/slideshow-slidy** (300 kb)
 - 2010-06-27 ★2 **slideshow-templates/slideshow-s5-themes** (160 kb)
-- 2010-06-26 ★44 **slideshow-templates/slideshow-google-html5-slides** (3528 kb)
+- 2010-06-27 ★6 **slideshow-templates/slideshow-s5-blank** (90 kb)
+- 2010-06-26 ★43 **slideshow-templates/slideshow-google-html5-slides** (3528 kb)
 
 ## 2009
 
@@ -889,5 +895,5 @@
 
 ### 2
 
-- 2009-02-10 ★93 **slidekit/s6** (930 kb)
-- 2009-02-10 ★168 **slideshow-s9/slideshow** (1334 kb)
+- 2009-02-10 ★92 **slidekit/s6** (930 kb)
+- 2009-02-10 ★169 **slideshow-s9/slideshow** (1334 kb)
