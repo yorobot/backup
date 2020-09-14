@@ -4,16 +4,30 @@ scripts to backup repos, etc.
 
 
 
+## Setup
+
+Add the `backup` command line tool via the `gitti-backup` gem.
+To update / install use:
+
+```
+$ gem install gitti-backup
+```
+
+
+
 ## Usage
+
 
 To backup all repos use:
 
 ```
-$ ruby ./backup.rb
+$ backup repos.yml
 ```
 
-All repos get git cloned in the backup folder in home (e.g. `~/backup`)
-with an extra folder for the date e.g. (`2015-08-21`):
+All repos get git cloned in the backup folder in home (e.g. `~/backup`).
+
+Bonus: Use the `--daily` flag to
+auto-add an extra folder for today's date e.g. (`2020-09-14`):
 
 ``` ruby
 backup_dir = "~/backup/#{Date.today.strftime('%Y-%m-%d')}"
