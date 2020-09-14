@@ -55,22 +55,25 @@
     },
     "2020-06-05": {
       "stargazers_count": 28
+    },
+    "2020-09-14": {
+      "stargazers_count": 31
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-02-06T09:02:37Z",
-        "name": "Gerald Bauer"
+        "date": "2020-07-09T17:17:29Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2018-02-06T03:54:35Z",
-        "name": "David Russell"
+        "date": "2020-07-09T17:17:29Z",
+        "name": "panglesd"
       },
-      "message": "Added GitPitch and GitPitch Pro to the list."
+      "message": "Added slipshow to the list (#3)"
     }
   ],
-  "size": 4,
-  "updated_at": "2020-04-24T13:00:58Z",
-  "pushed_at": "2018-02-06T09:02:38Z"
+  "size": 5,
+  "updated_at": "2020-09-02T06:00:40Z",
+  "pushed_at": "2020-07-09T17:17:31Z"
 }

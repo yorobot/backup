@@ -1,0 +1,25 @@
+{
+  "full_name": "footballcsv/cache.soccerdata",
+  "created_at": "2014-07-25T13:39:20Z",
+  "updated_at": "2020-06-22T19:28:04Z",
+  "pushed_at": "2020-06-22T19:28:00Z",
+  "size": 1934,
+  "history": {
+    "2020-09-14": {
+      "stargazers_count": 2
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2020-06-22T19:26:51Z",
+        "name": "Yo Robot"
+      },
+      "author": {
+        "date": "2020-06-22T19:26:51Z",
+        "name": "Yo Robot"
+      },
+      "message": "up"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "full_name": "openblockchains/programming-cryptocollectibles",
   "created_at": "2018-12-25T17:28:35Z",
-  "updated_at": "2020-05-25T22:35:06Z",
+  "updated_at": "2020-07-25T13:15:42Z",
   "pushed_at": "2019-01-15T20:13:49Z",
   "size": 700,
   "history": {
@@ -19,6 +19,9 @@
     },
     "2020-06-05": {
       "stargazers_count": 26
+    },
+    "2020-09-14": {
+      "stargazers_count": 27
     }
   },
   "commits": [

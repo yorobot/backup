@@ -55,22 +55,25 @@
     },
     "2020-06-05": {
       "stargazers_count": 528
+    },
+    "2020-09-14": {
+      "stargazers_count": 529
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-04-08T16:59:23Z",
+        "date": "2020-06-25T19:25:35Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2020-04-08T16:59:23Z",
-        "name": "KirillSokur"
+        "date": "2020-06-25T19:25:35Z",
+        "name": "⧉ infominer"
       },
-      "message": "Add gem jekyll-news-sitemap (#26)\n\n- Add jekyll-news-sitemap gem to Awesome Jekyll list."
+      "message": "update link (#27)"
     }
   ],
-  "size": 92,
-  "updated_at": "2020-05-29T06:21:38Z",
-  "pushed_at": "2020-04-08T16:59:24Z"
+  "size": 101,
+  "updated_at": "2020-08-31T11:48:21Z",
+  "pushed_at": "2020-06-25T19:25:36Z"
 }

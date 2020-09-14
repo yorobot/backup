@@ -1,9 +1,9 @@
 {
   "full_name": "footballcsv/world",
   "created_at": "2018-07-19T07:39:25Z",
-  "updated_at": "2020-04-07T18:10:27Z",
-  "pushed_at": "2020-04-07T18:10:24Z",
-  "size": 367,
+  "updated_at": "2020-06-19T15:17:32Z",
+  "pushed_at": "2020-06-19T15:17:30Z",
+  "size": 377,
   "history": {
     "2019-07-22": {
       "stargazers_count": 2
@@ -16,19 +16,22 @@
     },
     "2020-06-05": {
       "stargazers_count": 2
+    },
+    "2020-09-14": {
+      "stargazers_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-04-07T18:10:18Z",
-        "name": "Gerald Bauer"
+        "date": "2020-06-19T15:17:29Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2020-04-07T18:10:18Z",
+        "date": "2020-06-19T15:17:29Z",
         "name": "Gerald Bauer"
       },
-      "message": "up"
+      "message": "Update fr.NOTES.md"
     }
   ]
 }

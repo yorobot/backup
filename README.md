@@ -31,9 +31,11 @@ to backup use the online script e.g.
 $ ruby ./online.rb
 ```
 
-Note: Set your GitHub env credentials e.g.
+Note: Set your GitHub env credentials (personal access token preferred) e.g.
 
 ```
+set HUBBA_TOKEN=abcdef0123456789
+#   - or -
 set HUBBA_USER=you
 set HUBBA_PASSWORD=topsecret
 ```

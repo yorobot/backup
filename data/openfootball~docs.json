@@ -55,22 +55,25 @@
     },
     "2020-06-05": {
       "stargazers_count": 17
+    },
+    "2020-09-14": {
+      "stargazers_count": 17
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-06-27T18:40:52Z",
+        "date": "2020-06-25T20:15:24Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2018-06-27T18:40:52Z",
+        "date": "2020-06-25T20:15:24Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update index.md"
+      "message": "Delete questions.md"
     }
   ],
-  "size": 721,
-  "updated_at": "2020-05-19T03:42:43Z",
-  "pushed_at": "2018-06-27T18:40:53Z"
+  "size": 707,
+  "updated_at": "2020-06-25T20:15:59Z",
+  "pushed_at": "2020-06-25T20:15:25Z"
 }

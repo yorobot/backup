@@ -1,7 +1,7 @@
 {
   "full_name": "factbook/factbook.json",
   "created_at": "2014-07-12T12:43:52Z",
-  "updated_at": "2020-05-22T05:46:16Z",
+  "updated_at": "2020-07-18T22:48:41Z",
   "pushed_at": "2017-03-29T17:23:30Z",
   "size": 7355,
   "history": {
@@ -34,6 +34,9 @@
     },
     "2020-06-05": {
       "stargazers_count": 603
+    },
+    "2020-09-14": {
+      "stargazers_count": 605
     }
   },
   "commits": [

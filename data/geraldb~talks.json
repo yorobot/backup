@@ -55,22 +55,25 @@
     },
     "2020-06-05": {
       "stargazers_count": 200
+    },
+    "2020-09-14": {
+      "stargazers_count": 200
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-07-17T13:03:37Z",
+        "date": "2020-09-12T17:20:52Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2019-07-17T13:03:37Z",
+        "date": "2020-09-12T17:20:52Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update crypto.md"
+      "message": "Update docker_java.md"
     }
   ],
-  "size": 16363,
-  "updated_at": "2020-05-30T19:18:31Z",
-  "pushed_at": "2019-07-17T13:03:37Z"
+  "size": 16203,
+  "updated_at": "2020-09-12T17:20:55Z",
+  "pushed_at": "2020-09-12T17:20:53Z"
 }

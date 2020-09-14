@@ -55,22 +55,25 @@
     },
     "2020-06-05": {
       "stargazers_count": 174
+    },
+    "2020-09-14": {
+      "stargazers_count": 196
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-01-22T19:02:42Z",
-        "name": "Gerald Bauer"
+        "date": "2020-07-17T17:58:01Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2020-01-22T19:02:42Z",
-        "name": "Anthony Garvan"
+        "date": "2020-07-17T17:58:01Z",
+        "name": "alagrede"
       },
-      "message": "Adding MarkTwo to online editors (#13)\n\n* Adding MarkTwo to online editors\r\n\r\nMarkTwo is a new, free and open source markdown editor that offers seamless toggling between read and edit mode, snappy performance even for long documents, and efficient syncing via your own google drive. It's a progressive web app that works great on desktop and mobile and offers a host of productivity enhancements with ruthlessly minimal clutter, making it ideal for long form notes and journals.\r\n\r\nDisclosure: I am the creator of MarkTwo :)\r\n\r\n* Adding some additional details about MarkTwo"
+      "message": "Update znote website url (#15)"
     }
   ],
-  "size": 25,
-  "updated_at": "2020-05-30T19:17:46Z",
-  "pushed_at": "2020-01-22T19:02:43Z"
+  "size": 36,
+  "updated_at": "2020-09-14T07:21:07Z",
+  "pushed_at": "2020-07-17T17:58:03Z"
 }

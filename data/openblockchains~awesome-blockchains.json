@@ -44,6 +44,9 @@
     },
     "2020-06-05": {
       "stargazers_count": 2905
+    },
+    "2020-09-14": {
+      "stargazers_count": 2930
     }
   },
   "commits": [
@@ -59,6 +62,6 @@
       "message": "Update BITCOIN-SCRIPT.md"
     }
   ],
-  "updated_at": "2020-06-04T05:33:30Z",
+  "updated_at": "2020-09-13T12:03:19Z",
   "pushed_at": "2020-01-31T08:56:39Z"
 }

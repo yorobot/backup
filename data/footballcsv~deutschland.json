@@ -1,9 +1,9 @@
 {
   "full_name": "footballcsv/deutschland",
   "created_at": "2014-07-25T11:54:43Z",
-  "updated_at": "2020-04-06T13:37:19Z",
-  "pushed_at": "2020-04-06T13:37:17Z",
-  "size": 1141,
+  "updated_at": "2020-07-05T08:56:31Z",
+  "pushed_at": "2020-07-05T08:56:28Z",
+  "size": 1327,
   "history": {
     "2019-07-22": {
       "stargazers_count": 5
@@ -16,17 +16,20 @@
     },
     "2020-06-05": {
       "stargazers_count": 5
+    },
+    "2020-09-14": {
+      "stargazers_count": 5
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-04-06T13:37:12Z",
-        "name": "Gerald Bauer"
+        "date": "2020-07-05T08:56:14Z",
+        "name": "Yo Robot"
       },
       "author": {
-        "date": "2020-04-06T13:37:12Z",
-        "name": "Gerald Bauer"
+        "date": "2020-07-05T08:56:14Z",
+        "name": "Yo Robot"
       },
       "message": "up"
     }

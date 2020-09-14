@@ -55,22 +55,25 @@
     },
     "2020-06-05": {
       "stargazers_count": 371
+    },
+    "2020-09-14": {
+      "stargazers_count": 383
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-10-21T13:11:07Z",
-        "name": "Gerald Bauer"
+        "date": "2020-08-30T11:01:46Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2019-10-21T13:11:08Z",
-        "name": "b2a3e8"
+        "date": "2020-08-30T11:01:46Z",
+        "name": "Ed Heltzel"
       },
-      "message": "Add jekyll-theme-console (#21)"
+      "message": "Merge pull request #24 from ngzhio/ngzhio-patch-1\n\nAdd jekyll-theme-hamilton"
     }
   ],
-  "size": 22,
-  "updated_at": "2020-05-30T00:34:51Z",
-  "pushed_at": "2019-10-21T13:11:09Z"
+  "size": 30,
+  "updated_at": "2020-09-03T13:25:14Z",
+  "pushed_at": "2020-08-30T11:01:47Z"
 }

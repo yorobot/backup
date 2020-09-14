@@ -55,22 +55,25 @@
     },
     "2020-06-05": {
       "stargazers_count": 784
+    },
+    "2020-09-14": {
+      "stargazers_count": 836
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-05-26T17:00:53Z",
+        "date": "2020-08-29T16:40:41Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2020-05-26T17:00:53Z",
+        "date": "2020-08-29T16:40:41Z",
         "name": "JT"
       },
-      "message": "docs: update jekyll-spaceship plugin (#41)\n\n* docs: add a new plugin called jekyll-spaceship\r\n\r\n* docs: update jekyll-spaceship plugin"
+      "message": "docs: update jekyll-spaceship and jekyll-deploy-action (#47)\n\n* docs: add a new plugin called jekyll-spaceship\r\n\r\n* docs: update jekyll-spaceship plugin\r\n\r\n* docs: update jekyll-spaceship plugin\r\n\r\n* docs: update jekyll-spaceship plugin\r\n\r\n* feat: add jekyll-deploy-action to deploy section\r\n\r\n* docs: update jekyll-spaceship plugin\r\n\r\n* docs: update jekyll-deploy-action"
     }
   ],
-  "size": 179,
-  "updated_at": "2020-06-02T23:32:28Z",
-  "pushed_at": "2020-05-26T17:00:54Z"
+  "size": 137,
+  "updated_at": "2020-09-01T23:02:49Z",
+  "pushed_at": "2020-08-29T16:40:42Z"
 }

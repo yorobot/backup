@@ -1,9 +1,9 @@
 {
   "full_name": "openblockchains/blockchain-whitepapers",
   "created_at": "2018-04-19T07:43:42Z",
-  "updated_at": "2020-04-19T12:18:55Z",
-  "pushed_at": "2020-04-19T12:18:52Z",
-  "size": 26095,
+  "updated_at": "2020-09-05T06:04:17Z",
+  "pushed_at": "2020-09-05T06:04:13Z",
+  "size": 26877,
   "history": {
     "2018-05-18": {
       "stargazers_count": 2
@@ -31,16 +31,19 @@
     },
     "2020-06-05": {
       "stargazers_count": 5
+    },
+    "2020-09-14": {
+      "stargazers_count": 5
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-04-19T12:18:51Z",
+        "date": "2020-09-05T06:04:12Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2020-04-19T12:18:51Z",
+        "date": "2020-09-05T06:04:12Z",
         "name": "Gerald Bauer"
       },
       "message": "Add files via upload"

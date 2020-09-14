@@ -55,6 +55,9 @@
     },
     "2020-06-05": {
       "stargazers_count": 30
+    },
+    "2020-09-14": {
+      "stargazers_count": 32
     }
   },
   "commits": [
@@ -71,6 +74,6 @@
     }
   ],
   "size": 176,
-  "updated_at": "2020-05-03T22:11:04Z",
+  "updated_at": "2020-08-14T13:32:06Z",
   "pushed_at": "2014-08-15T14:22:29Z"
 }

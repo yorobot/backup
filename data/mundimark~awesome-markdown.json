@@ -55,22 +55,25 @@
     },
     "2020-06-05": {
       "stargazers_count": 496
+    },
+    "2020-09-14": {
+      "stargazers_count": 537
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-01-07T07:13:40Z",
-        "name": "Gerald Bauer"
+        "date": "2020-08-17T17:27:22Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2020-01-07T07:13:40Z",
-        "name": "Oliver Kopp"
+        "date": "2020-08-17T17:27:22Z",
+        "name": "Taneli Hukkinen"
       },
-      "message": "Add markdown linters (#26)"
+      "message": "Add mdformat (#28)"
     }
   ],
-  "size": 85,
-  "updated_at": "2020-05-30T19:17:49Z",
-  "pushed_at": "2020-01-07T07:13:41Z"
+  "size": 65,
+  "updated_at": "2020-09-12T21:55:39Z",
+  "pushed_at": "2020-08-17T17:27:23Z"
 }

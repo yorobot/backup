@@ -50,6 +50,9 @@
     },
     "2020-06-05": {
       "stargazers_count": 28
+    },
+    "2020-09-14": {
+      "stargazers_count": 30
     }
   },
   "commits": [
@@ -65,6 +68,6 @@
       "message": "add favicon"
     }
   ],
-  "updated_at": "2020-01-22T17:09:29Z",
+  "updated_at": "2020-09-08T17:47:00Z",
   "pushed_at": "2017-08-31T16:14:21Z"
 }

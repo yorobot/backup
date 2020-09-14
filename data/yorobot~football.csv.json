@@ -55,22 +55,25 @@
     },
     "2020-06-05": {
       "stargazers_count": 12
+    },
+    "2020-09-14": {
+      "stargazers_count": 12
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-05-28T10:37:27Z",
-        "name": "Gerald Bauer"
+        "date": "2020-07-26T10:49:06Z",
+        "name": "Yo Robot"
       },
       "author": {
-        "date": "2020-05-28T10:37:27Z",
-        "name": "Gerald Bauer"
+        "date": "2020-07-26T10:49:06Z",
+        "name": "Yo Robot"
       },
       "message": "up"
     }
   ],
-  "size": 2287,
-  "updated_at": "2020-05-28T10:37:46Z",
-  "pushed_at": "2020-05-28T10:37:44Z"
+  "size": 2326,
+  "updated_at": "2020-07-26T10:49:16Z",
+  "pushed_at": "2020-07-26T10:49:13Z"
 }

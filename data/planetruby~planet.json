@@ -55,22 +55,25 @@
     },
     "2020-06-05": {
       "stargazers_count": 7
+    },
+    "2020-09-14": {
+      "stargazers_count": 8
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-03-09T21:03:12Z",
+        "date": "2020-08-01T14:46:45Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2020-03-09T21:03:12Z",
-        "name": "Gerald Bauer"
+        "date": "2020-08-01T14:46:45Z",
+        "name": "matt swanson"
       },
-      "message": "Update planet.ini"
+      "message": "Update planet.ini (#3)"
     }
   ],
-  "size": 162,
-  "updated_at": "2020-03-10T23:56:47Z",
-  "pushed_at": "2020-03-09T21:03:13Z"
+  "size": 165,
+  "updated_at": "2020-08-21T17:03:48Z",
+  "pushed_at": "2020-08-01T14:46:46Z"
 }

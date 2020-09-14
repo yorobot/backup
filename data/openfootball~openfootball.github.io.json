@@ -55,22 +55,25 @@
     },
     "2020-06-05": {
       "stargazers_count": 134
+    },
+    "2020-09-14": {
+      "stargazers_count": 135
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-08-01T12:36:27Z",
+        "date": "2020-09-03T09:53:54Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2019-08-01T12:36:27Z",
+        "date": "2020-09-03T09:53:54Z",
         "name": "Gerald Bauer"
       },
       "message": "Update announce.html"
     }
   ],
-  "size": 1620,
-  "updated_at": "2020-05-26T23:04:23Z",
-  "pushed_at": "2019-08-01T12:36:27Z"
+  "size": 1623,
+  "updated_at": "2020-09-03T09:53:57Z",
+  "pushed_at": "2020-09-03T09:53:55Z"
 }

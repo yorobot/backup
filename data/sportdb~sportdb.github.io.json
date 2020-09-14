@@ -1,22 +1,25 @@
 {
   "full_name": "sportdb/sportdb.github.io",
   "created_at": "2014-07-31T20:40:40Z",
-  "updated_at": "2020-05-17T09:19:12Z",
-  "pushed_at": "2020-05-17T09:19:09Z",
-  "size": 87,
+  "updated_at": "2020-06-16T09:20:30Z",
+  "pushed_at": "2020-06-16T09:20:27Z",
+  "size": 91,
   "history": {
     "2020-06-05": {
+      "stargazers_count": 1
+    },
+    "2020-09-14": {
       "stargazers_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-05-17T09:19:09Z",
+        "date": "2020-06-16T09:20:26Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2020-05-17T09:19:09Z",
+        "date": "2020-06-16T09:20:26Z",
         "name": "Gerald Bauer"
       },
       "message": "Update README.md"

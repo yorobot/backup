@@ -1,5 +1,8 @@
 # encoding: utf-8
 
+## hack: use "local" hubba dev version for now
+$LOAD_PATH.unshift( 'C:/Sites/rubycoco/hubba/lib' )
+
 require 'hubba'
 
 

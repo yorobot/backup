@@ -1,0 +1,25 @@
+{
+  "full_name": "rubycoco/gitti",
+  "created_at": "2015-11-16T22:06:07Z",
+  "updated_at": "2020-09-09T15:28:12Z",
+  "pushed_at": "2020-09-06T19:55:33Z",
+  "size": 45,
+  "history": {
+    "2020-09-14": {
+      "stargazers_count": 9
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2020-09-06T19:55:32Z",
+        "name": "GitHub"
+      },
+      "author": {
+        "date": "2020-09-06T19:55:32Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "Update README.md"
+    }
+  ]
+}
