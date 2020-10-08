@@ -1,79 +1,112 @@
-# encoding: utf-8
-
 ## hack: use "local" hubba dev version for now
-$LOAD_PATH.unshift( 'C:/Sites/rubycoco/hubba/lib' )
-
+$LOAD_PATH.unshift( 'C:/Sites/rubycoco/git/hubba/lib' )
 require 'hubba'
 
+puts Hubba.banner
+puts Hubba.root
+puts Hubba.config.data_dir
 
 ##  todo/fix:
 ##  use/add gh.cache.put( )  or gh.cache.save()
 ##     instead of  save_json !!!
 
 
-CACHE_DIR = '../cache'   # note: is its own repo (thus, ..)
+
+CACHE_DIR = './cache'
 DATA_DIR  = './data'     # note: is just a subfolder for now inside this reop (thus, .) - stores stats/history (e.g. stars, last commit, size, etc.)
 
 
-def save_json( name, data )    ## data - hash or array
-  File.open( "#{CACHE_DIR}/#{name}.json", 'w:utf-8' ) do |f|
-    f.write JSON.pretty_generate( data )
+
+def save_json( path, data )    ## data - hash or array
+  File.open( path, 'w:utf-8' ) do |f|
+    f.write( JSON.pretty_generate( data ))
   end
 end
 
-def save_yaml( name, data )
-  File.open( "./#{name}.yml", 'w:utf-8' ) do |f|
-    f.write data.to_yaml
+def save_yaml( path, data )
+  File.open( path, 'w:utf-8' ) do |f|
+    f.write( data.to_yaml )
   end
 end
+
 
 
 
 def save_repos
-  gh = Hubba::Github.new( cache_dir: CACHE_DIR )
+  gh = Hubba::Github.new
+
+  forks = []
 
   h = {}
-  users = %w(geraldb yorobot)
+  users = %w[geraldb yorobot]
   users.each do |user|
     res = gh.user_repos( user )
-    save_json( "users~#{user}~repos", res.data )
+    save_json( "#{CACHE_DIR}/users~#{user}~repos.json", res.data )
 
-    repos = res.names
-    h[ "#{user} (#{repos.size})" ] = repos
+    repos = []
+    ####
+    #  check for forked repos (auto-exclude personal by default)
+    #   note: forked repos in orgs get NOT auto-excluded!!!
+    res.data.each do |repo|
+      fork = repo['fork']
+      if fork
+        print "FORK "
+        forks << "#{repo['full_name']} (AUTO-EXCLUDED)"
+      else
+        print "     "
+        repos << repo['name']
+      end
+      print repo['full_name']
+      print "\n"
+    end
+
+
+    h[ "#{user} (#{repos.size})" ] = repos.sort
   end
+
 
   ## all repos from orgs
   user = 'geraldb'
   res = gh.user_orgs( user )
-  save_json( "users~#{user}~orgs", res.data )
+  save_json( "#{CACHE_DIR}/users~#{user}~orgs.json", res.data )
 
 
   logins = res.logins.each do |login|
-    next if ['vienna-rb', 'RubyHabits', 'rugl-at', 'jekyll-octopod'].include?( login )      ## skip vienna-rb for now
-    res = gh.org_repos( login )
-    save_json( "orgs~#{login}~repos", res.data )
+    ## next if ['xxx'].include?( login )      ## add orgs here to skip
 
-    repos = res.names
-    h[ "#{login} (#{repos.size})" ] = repos
+    res = gh.org_repos( login )
+    save_json( "#{CACHE_DIR}/orgs~#{login}~repos.json", res.data )
+
+    repos = []
+    res.data.each do |repo|
+      fork = repo['fork']
+      if fork
+        print "FORK "
+        forks << repo['full_name']
+        repos << repo['name']
+      else
+        print "     "
+        repos << repo['name']
+      end
+      print repo['full_name']
+      print "\n"
+    end
+
+    h[ "#{login} (#{repos.size})" ] = repos.sort
   end
 
-  save_yaml( "repos", h )
+
+  save_yaml( "./repos.yml", h )
+
+
+  if forks.size > 0
+    puts
+    puts "#{forks.size} fork(s):"
+    puts forks
+  end
 end  ## method save_repos
 
 
-def save_orgs
-  gh = Hubba::Github.new( cache_dir: CACHE_DIR )
-
-  h = {}
-  user = 'geraldb'
-  res = gh.user_orgs( user )
-  save_json( "users~#{user}~orgs", res.data )
-  orgs = res.logins
-
-  h[ "#{user} (#{orgs.size})" ] = orgs
-
-  save_yaml( "orgs", h )
-end  ## method save_repos
 
 
 ####
@@ -118,11 +151,9 @@ end   # method  update_repo_stats
 
 
 save_repos()
-save_orgs()
 
 ### todo - ask user (gets??) - if update repo stats (yes/no) might take a while (make it optional??)
-
-update_repo_stats()
+## update_repo_stats()
 
 
 puts "Done."

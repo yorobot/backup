@@ -1,3 +1,12 @@
 ## Skip/Ignore Errors Log
-
 errors.log
+
+
+### skip output redirects
+out.txt
+output.txt
+test.txt
+
+### skip/ignore cache
+cache/
+

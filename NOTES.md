@@ -2,10 +2,6 @@
 ## Todos
 
 
-- [ ] check if orgs.yml is used anywhere? remove/delete?
-
-
-
 ## add stars / starcount to SUMMARY.md
 
 
@@ -62,7 +58,7 @@ use a /config folder for   repos.yml, org.yml etc.  - why? why not??
 
 ## handle errors - resume backup on error ???
 
-~~~
+```
  #24 [2/7] build
      beercsv/build
 try >git clone --mirror -n http://github.com/beercsv/build< in (C:/Users/VHHBG02/backup/2015-11-11/beercsv)...
@@ -77,4 +73,4 @@ false
         from ./backup.rb:78:in `block in <main>'
         from ./backup.rb:64:in `each'
         from ./backup.rb:64:in `<main>'
-~~~
+```
