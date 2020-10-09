@@ -39,19 +39,12 @@ backup_dir = "~/backup/#{Date.today.strftime('%Y-%m-%d')}"
 #### Update Datafiles
 
 To update / generate the reposet / list (`./repos.yml`)
-to backup use the online script e.g.:
+to backup and to update all stats (stars, commits, etc.) in `./data`
+use the online script e.g.:
 
 ```
 $ ruby ./online.rb
 ```
-
-and to update all stats (stars, commits, etc.) in `./data`
-use the online stats script e.g.:
-
-```
-$ ruby ./online_stats.rb
-```
-
 
 Note: Set your GitHub env credentials (personal access token preferred) e.g.
 

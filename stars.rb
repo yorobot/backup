@@ -1,6 +1,6 @@
-# encoding: utf-8
-
-require_relative 'lib/stats'
+## hack: use "local" hubba dev version for now
+$LOAD_PATH.unshift( 'C:/Sites/rubycoco/git/hubba/lib' )
+require 'hubba'
 
 
 ## create a (summary report)
@@ -8,39 +8,7 @@ require_relative 'lib/stats'
 ##  add stars, last_updates, etc.
 ##  org description etc??
 
+report = Hubba::ReportStars.new( './repos.yml' )
+report.save( './STARS.md' )
 
-stats = GitHubStats.from_file( "./repos.yml" )
-
-## print stats
-
-puts "  #{stats.orgs.size} orgs, #{stats.repos.size} repos"
-
-
-## note: orgs is orgs+users e.g. geraldb,skriptbot, etc
-buf = ''
-buf << "# #{stats.orgs.size} orgs, #{stats.repos.size} repos\n"
-buf << "\n"
-
-
-
-entries = stats.repos.dup   ## duplicate array (will resort etc.)
-
-
-entries = entries.sort do |l,r|
-  ## note: use reverse sort (right,left) - e.g. most stars first
-  r.stats.stars <=> l.stats.stars
-end
-
-## pp entries
-
-
-entries.each_with_index do |repo,i|
-  buf << "#{i+1}. ★#{repo.stats.stars} **#{repo.full_name}** (#{repo.stats.size} kb)\n"
-end
-
-
-puts buf
-
-File.open( "./STARS.md", "w" ) do |f|
-  f.write buf
-end
+puts "Done."
