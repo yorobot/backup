@@ -1,6 +1,7 @@
-# encoding: utf-8
+## hack: use "local" hubba dev version for now
+$LOAD_PATH.unshift( 'C:/Sites/rubycoco/git/hubba/lib' )
+require 'hubba'
 
-require_relative 'lib/stats'
 
 
 ## create a (summary report)
@@ -11,22 +12,23 @@ require_relative 'lib/stats'
 ##  org description etc??
 
 
-stats = GitHubStats.from_file( "./repos.yml" )
+stats = Hubba.stats( './repos.yml' )
 
 ## print stats
 
-puts "  #{stats.orgs.size} orgs, #{stats.repos.size} repos"
+puts "  #{stats.repos.size} repos @ #{stats.orgs.size} orgs"
 
 
-## note: orgs is orgs+users e.g. geraldb,skriptbot, etc
-buf = ''
-buf << "# #{stats.orgs.size} orgs, #{stats.repos.size} repos\n"
+## note: orgs is orgs+users e.g. geraldb, yorobot etc
+buf = String.new('')
+buf << "# #{stats.repos.size} repos @ #{stats.orgs.size} orgs\n"
 buf << "\n"
 
 
-stats.orgs.each do |values|
-  name  = values[0]
-  repos = values[1]
+
+stats.orgs.each do |org|
+  name  = org[0]
+  repos = org[1]
   buf << "### #{name} _(#{repos.size})_\n"
   buf << "\n"
 
@@ -36,7 +38,7 @@ stats.orgs.each do |values|
     entries << "**#{repo.name}** ★#{repo.stats.stars} (#{repo.stats.size} kb)"
   end
 
-  buf << entries.join( ' • ' )
+  buf << entries.join( ' · ' )   ## use interpunct? - was: • (bullet)
   buf << "\n"
   buf << "\n"
 end
@@ -44,6 +46,8 @@ end
 
 puts buf
 
-File.open( "./SUMMARY.md", "w" ) do |f|
+File.open( "./SUMMARY.md", "w:utf-8" ) do |f|
   f.write buf
 end
+
+puts "bye"
