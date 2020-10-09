@@ -58,22 +58,25 @@
     },
     "2020-09-14": {
       "stargazers_count": 196
+    },
+    "2020-10-09": {
+      "stargazers_count": 199
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-07-17T17:58:01Z",
+        "date": "2020-10-01T06:37:31Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2020-07-17T17:58:01Z",
-        "name": "alagrede"
+        "date": "2020-10-01T06:37:31Z",
+        "name": "Peter Thaleikis"
       },
-      "message": "Update znote website url (#15)"
+      "message": "Removing uText (#16)"
     }
   ],
-  "size": 36,
-  "updated_at": "2020-09-14T07:21:07Z",
-  "pushed_at": "2020-07-17T17:58:03Z"
+  "size": 41,
+  "updated_at": "2020-10-01T06:37:34Z",
+  "pushed_at": "2020-10-01T06:37:32Z"
 }

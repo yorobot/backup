@@ -58,22 +58,25 @@
     },
     "2020-09-14": {
       "stargazers_count": 537
+    },
+    "2020-10-09": {
+      "stargazers_count": 547
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-08-17T17:27:22Z",
+        "date": "2020-10-06T16:41:52Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2020-08-17T17:27:22Z",
-        "name": "Taneli Hukkinen"
+        "date": "2020-10-06T16:41:52Z",
+        "name": "Peter Thaleikis"
       },
-      "message": "Add mdformat (#28)"
+      "message": "Typo (#30)"
     }
   ],
-  "size": 65,
-  "updated_at": "2020-09-12T21:55:39Z",
-  "pushed_at": "2020-08-17T17:27:23Z"
+  "size": 83,
+  "updated_at": "2020-10-09T09:01:14Z",
+  "pushed_at": "2020-10-06T16:41:53Z"
 }

@@ -1,7 +1,7 @@
 {
   "full_name": "cryptocopycats/awesome-cryptocollectibles",
   "created_at": "2018-03-26T13:35:22Z",
-  "updated_at": "2020-08-03T01:31:32Z",
+  "updated_at": "2020-09-27T15:40:05Z",
   "pushed_at": "2018-03-28T16:35:56Z",
   "size": 706,
   "history": {
@@ -37,6 +37,9 @@
     },
     "2020-09-14": {
       "stargazers_count": 19
+    },
+    "2020-10-09": {
+      "stargazers_count": 20
     }
   },
   "commits": [

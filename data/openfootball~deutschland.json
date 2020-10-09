@@ -1,9 +1,9 @@
 {
   "full_name": "openfootball/deutschland",
   "created_at": "2013-05-20T08:24:36Z",
-  "updated_at": "2020-09-07T15:42:13Z",
-  "pushed_at": "2020-09-07T15:42:10Z",
-  "size": 2353,
+  "updated_at": "2020-10-05T15:15:53Z",
+  "pushed_at": "2020-10-05T15:15:49Z",
+  "size": 2210,
   "history": {
     "2019-12-08": {
       "stargazers_count": 47
@@ -13,19 +13,22 @@
     },
     "2020-09-14": {
       "stargazers_count": 57
+    },
+    "2020-10-09": {
+      "stargazers_count": 57
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-09-07T15:42:07Z",
+        "date": "2020-10-05T15:15:46Z",
         "name": "Yo Robot"
       },
       "author": {
-        "date": "2020-09-07T15:42:07Z",
+        "date": "2020-10-05T15:15:46Z",
         "name": "Yo Robot"
       },
-      "message": "auto-update week 37"
+      "message": "auto-update week 41"
     }
   ]
 }

@@ -58,22 +58,25 @@
     },
     "2020-09-14": {
       "stargazers_count": 529
+    },
+    "2020-10-09": {
+      "stargazers_count": 532
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-06-25T19:25:35Z",
+        "date": "2020-09-21T06:42:55Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2020-06-25T19:25:35Z",
-        "name": "⧉ infominer"
+        "date": "2020-09-21T06:42:55Z",
+        "name": "JT"
       },
-      "message": "update link (#27)"
+      "message": "Update README.md (#28)\n\nAdd Jekyll Spaceship to Plugins / Extensions section."
     }
   ],
-  "size": 101,
-  "updated_at": "2020-08-31T11:48:21Z",
-  "pushed_at": "2020-06-25T19:25:36Z"
+  "size": 110,
+  "updated_at": "2020-10-08T16:18:00Z",
+  "pushed_at": "2020-09-21T06:42:56Z"
 }

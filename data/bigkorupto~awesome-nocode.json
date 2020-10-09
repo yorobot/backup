@@ -1,7 +1,7 @@
 {
   "full_name": "bigkorupto/awesome-nocode",
   "created_at": "2018-04-07T19:27:54Z",
-  "updated_at": "2020-08-19T08:29:57Z",
+  "updated_at": "2020-09-30T05:19:26Z",
   "pushed_at": "2018-07-31T12:30:38Z",
   "size": 368,
   "history": {
@@ -37,6 +37,9 @@
     },
     "2020-09-14": {
       "stargazers_count": 18
+    },
+    "2020-10-09": {
+      "stargazers_count": 20
     }
   },
   "commits": [

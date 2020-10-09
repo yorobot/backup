@@ -1,9 +1,9 @@
 {
   "full_name": "footballcsv/belgium",
   "created_at": "2014-07-25T15:11:30Z",
-  "updated_at": "2020-04-06T14:42:51Z",
-  "pushed_at": "2020-04-06T14:42:49Z",
-  "size": 306,
+  "updated_at": "2020-10-06T06:07:39Z",
+  "pushed_at": "2020-10-06T06:07:37Z",
+  "size": 314,
   "history": {
     "2019-07-22": {
       "stargazers_count": 1
@@ -19,19 +19,22 @@
     },
     "2020-09-14": {
       "stargazers_count": 1
+    },
+    "2020-10-09": {
+      "stargazers_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-04-06T14:42:44Z",
-        "name": "Gerald Bauer"
+        "date": "2020-10-06T06:07:33Z",
+        "name": "Yo Robot"
       },
       "author": {
-        "date": "2020-04-06T14:42:44Z",
-        "name": "Gerald Bauer"
+        "date": "2020-10-06T06:07:33Z",
+        "name": "Yo Robot"
       },
-      "message": "up"
+      "message": "auto-update week 41"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "full_name": "openfootball/world",
   "created_at": "2014-07-22T05:40:14Z",
-  "updated_at": "2020-09-03T10:07:46Z",
-  "pushed_at": "2020-09-03T10:07:43Z",
-  "size": 411,
+  "updated_at": "2020-10-06T16:09:23Z",
+  "pushed_at": "2020-10-06T16:09:20Z",
+  "size": 709,
   "history": {
     "2019-07-22": {
       "stargazers_count": 30
@@ -19,19 +19,22 @@
     },
     "2020-09-14": {
       "stargazers_count": 2
+    },
+    "2020-10-09": {
+      "stargazers_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-09-03T10:07:43Z",
-        "name": "GitHub"
+        "date": "2020-10-06T16:09:14Z",
+        "name": "Yo Robot"
       },
       "author": {
-        "date": "2020-09-03T10:07:43Z",
-        "name": "Gerald Bauer"
+        "date": "2020-10-06T16:09:14Z",
+        "name": "Yo Robot"
       },
-      "message": "Update README.md"
+      "message": "mv argentina"
     }
   ]
 }

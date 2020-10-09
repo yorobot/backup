@@ -58,22 +58,25 @@
     },
     "2020-09-14": {
       "stargazers_count": 45
+    },
+    "2020-10-09": {
+      "stargazers_count": 45
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-09-13T17:40:13Z",
+        "date": "2020-10-01T09:53:26Z",
         "name": "Yo Robot"
       },
       "author": {
-        "date": "2020-09-13T17:40:13Z",
+        "date": "2020-10-01T09:53:26Z",
         "name": "Yo Robot"
       },
       "message": "up"
     }
   ],
-  "size": 2514,
-  "updated_at": "2020-09-13T17:40:26Z",
-  "pushed_at": "2020-09-13T17:40:24Z"
+  "size": 2572,
+  "updated_at": "2020-10-01T09:53:36Z",
+  "pushed_at": "2020-10-01T09:53:34Z"
 }

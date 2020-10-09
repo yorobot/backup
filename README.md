@@ -38,12 +38,20 @@ backup_dir = "~/backup/#{Date.today.strftime('%Y-%m-%d')}"
 
 #### Update Datafiles
 
-To update the datafiles (orgs.yml and repos.yml) for organizations and repos
-to backup use the online script e.g.
+To update / generate the reposet / list (`./repos.yml`)
+to backup use the online script e.g.:
 
 ```
 $ ruby ./online.rb
 ```
+
+and to update all stats (stars, commits, etc.) in `./data`
+use the online stats script e.g.:
+
+```
+$ ruby ./online_stats.rb
+```
+
 
 Note: Set your GitHub env credentials (personal access token preferred) e.g.
 
@@ -54,31 +62,9 @@ set HUBBA_USER=you
 set HUBBA_PASSWORD=topsecret
 ```
 
-Note: For now these repos get auto-excluded in repos.yml:
 
-```
-RubyHabits (9):
-- Graphics
-- Slides
-- movie-catalog
-- nyan-cat
-- recipes
-- ruby-habits-library
-- rubyhabits.github.io
-- secret-collect
-- webpage
-jekyll-octopod (6):
-- jekyll-bootflat
-- jekyll-octopod
-- jekyll-octopod.github.io
-- jekyll-octopod.github.io.source
-- jekyllthemes
-- staging
-vienna-rb (5):
-- ....
-```
 
-And exclude (comment out) these by-hand:
+Note: For now exclude (comment out) these by-hand:
 
 ```
 henrythemes (13):
@@ -86,6 +72,7 @@ henrythemes (13):
 cryptocopycats (6):
 - kitties                    ## download to big
 ```
+
 
 
 

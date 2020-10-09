@@ -58,22 +58,25 @@
     },
     "2020-09-14": {
       "stargazers_count": 836
+    },
+    "2020-10-09": {
+      "stargazers_count": 851
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-08-29T16:40:41Z",
+        "date": "2020-10-04T16:17:19Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2020-08-29T16:40:41Z",
+        "date": "2020-10-04T16:17:19Z",
         "name": "JT"
       },
-      "message": "docs: update jekyll-spaceship and jekyll-deploy-action (#47)\n\n* docs: add a new plugin called jekyll-spaceship\r\n\r\n* docs: update jekyll-spaceship plugin\r\n\r\n* docs: update jekyll-spaceship plugin\r\n\r\n* docs: update jekyll-spaceship plugin\r\n\r\n* feat: add jekyll-deploy-action to deploy section\r\n\r\n* docs: update jekyll-spaceship plugin\r\n\r\n* docs: update jekyll-deploy-action"
+      "message": "Update jekyll-spaceship plugin (#50)\n\n* docs: add a new plugin called jekyll-spaceship\r\n\r\n* docs: update jekyll-spaceship plugin\r\n\r\n* docs: update jekyll-spaceship plugin\r\n\r\n* docs: update jekyll-spaceship plugin\r\n\r\n* feat: add jekyll-deploy-action to deploy section\r\n\r\n* docs: update jekyll-spaceship plugin\r\n\r\n* docs: update jekyll-deploy-action\r\n\r\n* docs: update jekyll-spaceship plugin information"
     }
   ],
-  "size": 137,
-  "updated_at": "2020-09-01T23:02:49Z",
-  "pushed_at": "2020-08-29T16:40:42Z"
+  "size": 148,
+  "updated_at": "2020-10-09T08:00:57Z",
+  "pushed_at": "2020-10-04T16:17:20Z"
 }

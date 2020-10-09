@@ -1,9 +1,9 @@
 {
   "full_name": "footballcsv/mexico",
   "created_at": "2018-07-16T14:59:18Z",
-  "updated_at": "2020-04-07T17:49:26Z",
-  "pushed_at": "2020-04-07T17:49:24Z",
-  "size": 75,
+  "updated_at": "2020-10-06T06:07:42Z",
+  "pushed_at": "2020-10-06T06:07:40Z",
+  "size": 84,
   "history": {
     "2019-07-22": {
       "stargazers_count": 1
@@ -19,19 +19,22 @@
     },
     "2020-09-14": {
       "stargazers_count": 2
+    },
+    "2020-10-09": {
+      "stargazers_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-04-07T17:49:19Z",
-        "name": "Gerald Bauer"
+        "date": "2020-10-06T06:07:37Z",
+        "name": "Yo Robot"
       },
       "author": {
-        "date": "2020-04-07T17:49:19Z",
-        "name": "Gerald Bauer"
+        "date": "2020-10-06T06:07:37Z",
+        "name": "Yo Robot"
       },
-      "message": "up"
+      "message": "auto-update week 41"
     }
   ]
 }

@@ -58,22 +58,25 @@
     },
     "2020-09-14": {
       "stargazers_count": 383
+    },
+    "2020-10-09": {
+      "stargazers_count": 394
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-08-30T11:01:46Z",
+        "date": "2020-10-04T11:05:16Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2020-08-30T11:01:46Z",
+        "date": "2020-10-04T11:05:16Z",
         "name": "Ed Heltzel"
       },
-      "message": "Merge pull request #24 from ngzhio/ngzhio-patch-1\n\nAdd jekyll-theme-hamilton"
+      "message": "Merge pull request #25 from jeffreytse/master\n\nUpdate jekyll-theme-yat theme"
     }
   ],
   "size": 30,
-  "updated_at": "2020-09-03T13:25:14Z",
-  "pushed_at": "2020-08-30T11:01:47Z"
+  "updated_at": "2020-10-04T11:05:19Z",
+  "pushed_at": "2020-10-04T11:05:17Z"
 }

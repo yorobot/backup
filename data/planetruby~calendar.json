@@ -44,6 +44,9 @@
     },
     "2020-09-14": {
       "stargazers_count": 247
+    },
+    "2020-10-09": {
+      "stargazers_count": 247
     }
   },
   "commits": [
@@ -59,6 +62,6 @@
       "message": "Update conferences2020.yml (#72)"
     }
   ],
-  "updated_at": "2020-08-09T09:09:46Z",
+  "updated_at": "2020-10-08T16:20:01Z",
   "pushed_at": "2020-06-16T16:54:05Z"
 }

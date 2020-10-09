@@ -1,7 +1,7 @@
 {
   "full_name": "cryptocopycats/awesome-cryptokitties",
   "created_at": "2017-12-09T19:12:04Z",
-  "updated_at": "2020-09-04T07:19:46Z",
+  "updated_at": "2020-10-04T07:04:14Z",
   "pushed_at": "2019-02-03T23:45:48Z",
   "size": 4154,
   "history": {
@@ -37,6 +37,9 @@
     },
     "2020-09-14": {
       "stargazers_count": 486
+    },
+    "2020-10-09": {
+      "stargazers_count": 489
     }
   },
   "commits": [

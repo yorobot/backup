@@ -58,22 +58,25 @@
     },
     "2020-09-14": {
       "stargazers_count": 92
+    },
+    "2020-10-09": {
+      "stargazers_count": 92
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-04-28T08:07:35Z",
+        "date": "2020-09-21T06:42:20Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2020-04-28T08:07:35Z",
-        "name": "Dean Attali"
+        "date": "2020-09-21T06:42:20Z",
+        "name": "JT"
       },
-      "message": "update beautitufl-jekyll's demo URL to dedicated domain (#143)"
+      "message": "Theme Submission: jekyll-theme-yat (#144)\n\n* chore: add jekyll-theme-yat thumbnail\r\n\r\n* feat: add jekyll-theme-yat theme"
     }
   ],
-  "size": 9589,
-  "updated_at": "2020-08-23T16:20:36Z",
-  "pushed_at": "2020-04-28T08:07:36Z"
+  "size": 9626,
+  "updated_at": "2020-09-21T06:42:24Z",
+  "pushed_at": "2020-09-21T06:42:21Z"
 }
