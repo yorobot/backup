@@ -1,9 +1,5 @@
-# encoding: utf-8
 
-require 'githubi'
-
-
-gh = Githubi::Github.new( cache_dir: '../cache' )
+gh = Hubba::Github.new( cache_dir: '../cache' )
 gh.offline!   # switch to offline (mode)
 
 pp gh.user('geraldb')
