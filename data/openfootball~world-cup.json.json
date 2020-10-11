@@ -48,5 +48,158 @@
       },
       "message": "fix scores"
     }
-  ]
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 46,
+        "uniques": 24
+      },
+      "clones": {
+        "count": 3,
+        "uniques": 3
+      },
+      "paths": [
+        {
+          "path": "/openfootball/world-cup.json",
+          "title": "openfootball/world-cup.json: Free open public domain football data for the wo...",
+          "count": 29,
+          "uniques": 23
+        },
+        {
+          "path": "/openfootball/world-cup.json/tree/master/2018",
+          "title": "world-cup.json/2018 at master · openfootball/world-cup.json · GitHub",
+          "count": 8,
+          "uniques": 8
+        },
+        {
+          "path": "/openfootball/world-cup.json/blob/master/2018/worldcup.json",
+          "title": "world-cup.json/worldcup.json at master · openfootball/world-cup.json · GitHub",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/openfootball/world-cup.json/blob/master/2018/worldcup.groups.json",
+          "title": "world-cup.json/worldcup.groups.json at master · openfootball/world-cup.json ·...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/world-cup.json/tree/master/2014",
+          "title": "world-cup.json/2014 at master · openfootball/world-cup.json",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/world-cup.json/blob/master/2014/worldcup.json",
+          "title": "world-cup.json/worldcup.json at master · openfootball/world-cup.json · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 15,
+          "uniques": 10
+        },
+        {
+          "referrer": "github.com",
+          "count": 5,
+          "uniques": 5
+        },
+        {
+          "referrer": "chandoo.org",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "morioh.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "rzencoder.github.io",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 7,
+          "uniques": 3
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

@@ -5,9 +5,6 @@
   "pushed_at": "2020-10-06T16:09:20Z",
   "size": 709,
   "history": {
-    "2019-07-22": {
-      "stargazers_count": 30
-    },
     "2019-09-29": {
       "stargazers_count": 2
     },
@@ -22,6 +19,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 6
     }
   },
   "commits": [
@@ -36,5 +37,249 @@
       },
       "message": "mv argentina"
     }
-  ]
+  ],
+  "description": "Free open public domain football data incl. major leagues from North America, Asia, Australia and much more",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "paths": [
+        {
+          "path": "/openfootball/world",
+          "title": "openfootball/world: Free open public domain football data incl. major leagues...",
+          "count": 132,
+          "uniques": 73
+        },
+        {
+          "path": "/openfootball/world/tree/master/europe",
+          "title": "world/europe at master · openfootball/world · GitHub",
+          "count": 41,
+          "uniques": 32
+        },
+        {
+          "path": "/openfootball/world/tree/master/north-america/major-league-soccer",
+          "title": "world/north-america/major-league-soccer at master · openfootball/world · GitHub",
+          "count": 12,
+          "uniques": 8
+        },
+        {
+          "path": "/openfootball/world/tree/master/europe/belgium",
+          "title": "world/europe/belgium at master · openfootball/world · GitHub",
+          "count": 11,
+          "uniques": 9
+        },
+        {
+          "path": "/openfootball/world/tree/master/europe/belgium/2020-21",
+          "title": "world/europe/belgium/2020-21 at master · openfootball/world · GitHub",
+          "count": 9,
+          "uniques": 6
+        },
+        {
+          "path": "/openfootball/world/blob/master/europe/belgium/2020-21/1-firstdivisiona-i.txt",
+          "title": "world/1-firstdivisiona-i.txt at master · openfootball/world · GitHub",
+          "count": 8,
+          "uniques": 5
+        },
+        {
+          "path": "/openfootball/world/tree/master/europe/turkey",
+          "title": "world/europe/turkey at master · openfootball/world · GitHub",
+          "count": 7,
+          "uniques": 3
+        },
+        {
+          "path": "/openfootball/world/tree/master/asia",
+          "title": "world/asia at master · openfootball/world · GitHub",
+          "count": 6,
+          "uniques": 6
+        },
+        {
+          "path": "/openfootball/world/tree/master/europe/turkey/2020-21",
+          "title": "world/europe/turkey/2020-21 at master · openfootball/world · GitHub",
+          "count": 6,
+          "uniques": 3
+        },
+        {
+          "path": "/openfootball/world/tree/master/europe/greece",
+          "title": "world/europe/greece at master · openfootball/world",
+          "count": 6,
+          "uniques": 2
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 113,
+          "uniques": 70
+        },
+        {
+          "referrer": "groups.google.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "views": {
+        "count": 448,
+        "uniques": 77
+      },
+      "clones": {
+        "count": 40,
+        "uniques": 8
+      }
+    },
+    "history": {
+      "2020-09-27": {
+        "views": {
+          "count": 25,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-09-28": {
+        "views": {
+          "count": 50,
+          "uniques": 10
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 70,
+          "uniques": 10
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 55,
+          "uniques": 10
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 5
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 53,
+          "uniques": 12
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 15,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 28,
+          "uniques": 6
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 25,
+          "uniques": 6
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 81,
+          "uniques": 9
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 28,
+          "uniques": 6
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 12,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-11": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      }
+    }
+  }
 }

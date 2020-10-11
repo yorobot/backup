@@ -16,6 +16,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 26
+    },
+    "2020-10-11": {
+      "stargazers_count": 26,
+      "forks_count": 17
     }
   },
   "commits": [
@@ -30,5 +34,235 @@
       },
       "message": "auto-update week 41"
     }
-  ]
+  ],
+  "description": "Free open public domain football data (football.db) for Italy / Europe - Serie A etc.",
+  "language": null,
+  "topics": [
+    "opendata",
+    "football",
+    "seriea",
+    "italia",
+    "italy",
+    "juve",
+    "inter",
+    "napoli",
+    "roma",
+    "sqlite"
+  ],
+  "traffic": {
+    "summary": {
+      "paths": [
+        {
+          "path": "/openfootball/italy",
+          "title": "openfootball/italy: Free open public domain football data (football.db) for I...",
+          "count": 17,
+          "uniques": 12
+        },
+        {
+          "path": "/openfootball/italy/tree/master/2020-21",
+          "title": "italy/2020-21 at master · openfootball/italy · GitHub",
+          "count": 12,
+          "uniques": 7
+        },
+        {
+          "path": "/openfootball/italy/blob/master/2020-21/1-seriea.txt",
+          "title": "italy/1-seriea.txt at master · openfootball/italy · GitHub",
+          "count": 7,
+          "uniques": 6
+        },
+        {
+          "path": "/openfootball/italy/tree/master/clubs",
+          "title": "italy/clubs at master · openfootball/italy · GitHub",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/italy/tree/master/2013-14",
+          "title": "italy/2013-14 at master · openfootball/italy",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/italy/blob/master/2020-21/2-serieb.txt",
+          "title": "italy/2-serieb.txt at master · openfootball/italy · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/italy/blob/master/clubs/clubs.props.txt",
+          "title": "italy/clubs.props.txt at master · openfootball/italy · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/italy/issues",
+          "title": "Issues · openfootball/italy · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/italy/blob/master/2013-14/1-seriea.txt",
+          "title": "italy/1-seriea.txt at master · openfootball/italy",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/italy/blob/master/2013-14/2-serieb.txt",
+          "title": "italy/2-serieb.txt at master · openfootball/italy",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 17,
+          "uniques": 12
+        },
+        {
+          "referrer": "openfootball.github.io",
+          "count": 8,
+          "uniques": 7
+        }
+      ],
+      "views": {
+        "count": 58,
+        "uniques": 19
+      },
+      "clones": {
+        "count": 36,
+        "uniques": 3
+      }
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 14,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 8,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 22,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "clones": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2020-10-01": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

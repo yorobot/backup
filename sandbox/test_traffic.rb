@@ -5,6 +5,10 @@ require 'hubba'
 
 gh = Hubba::GitHub.new
 
+
+res = gh.repo_traffic_views( 'openfootball/england' )
+pp res
+
 # res = gh.repo_traffic_clones( 'openfootball/england' )
 # pp res
 
@@ -134,8 +138,8 @@ gh = Hubba::GitHub.new
 
 # res = gh.repo_traffic_popular_referrers( 'openfootball/england' )
 # pp res
-# res = gh.repo_traffic_popular_referrers( 'rubycoco/git' )
-# pp res
+res = gh.repo_traffic_popular_referrers( 'rubycoco/git' )
+pp res
 
 =begin
  [{"referrer"=>"github.com", "count"=>327, "uniques"=>198},
