@@ -47,6 +47,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 23
+    },
+    "2020-10-11": {
+      "stargazers_count": 23,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -63,5 +67,53 @@
     }
   ],
   "updated_at": "2019-11-25T08:23:09Z",
-  "pushed_at": "2019-03-17T18:02:32Z"
+  "pushed_at": "2019-03-17T18:02:32Z",
+  "description": "merkletree library / gem - build your own crypto hash trees; named after Ralph Merkle who patented hash trees in 1979; grow your own money on trees  (Ruby Edition)",
+  "language": "Ruby",
+  "topics": [
+    "merkletree",
+    "cryptohash",
+    "hashtree",
+    "sha256",
+    "tx",
+    "transactions"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 3,
+        "uniques": 3
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-30": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

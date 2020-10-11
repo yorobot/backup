@@ -53,6 +53,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 22
+    },
+    "2020-10-11": {
+      "stargazers_count": 22,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -69,5 +73,95 @@
     }
   ],
   "updated_at": "2020-07-18T22:50:59Z",
-  "pushed_at": "2018-09-19T06:29:31Z"
+  "pushed_at": "2018-09-19T06:29:31Z",
+  "description": "A Collection of Awesome YAML (Ain't Markup Language) Goodies for Structured (Meta) Data in Text",
+  "language": null,
+  "topics": [
+    "yaml",
+    "metadata",
+    "data",
+    "txt",
+    "json",
+    "opendata"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 11,
+        "uniques": 9
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/datatxt/awseome-yaml",
+          "title": "GitHub - datatxt/awseome-yaml: A Collection of Awesome YAML (Ain't Markup Lan...",
+          "count": 9,
+          "uniques": 9
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

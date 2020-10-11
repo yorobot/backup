@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -78,5 +82,48 @@
   ],
   "size": 552,
   "updated_at": "2015-03-31T21:03:02Z",
-  "pushed_at": "2015-03-31T21:03:02Z"
+  "pushed_at": "2015-03-31T21:03:02Z",
+  "description": "open data and scripts for austria (österreich)",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 3,
+        "uniques": 3
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-01": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

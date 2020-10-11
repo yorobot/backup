@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 5
+    },
+    "2020-10-11": {
+      "stargazers_count": 5,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,63 @@
   ],
   "size": 101,
   "updated_at": "2019-10-13T13:37:57Z",
-  "pushed_at": "2019-09-22T14:00:16Z"
+  "pushed_at": "2019-09-22T14:00:16Z",
+  "description": "wikiscript gem - scripts for wikipedia (get wikitext for page, parse tables & links, etc.)",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 3,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/wikiscript/wikiscript",
+          "title": "GitHub - wikiscript/wikiscript: wikiscript gem - scripts for wikipedia (get w...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

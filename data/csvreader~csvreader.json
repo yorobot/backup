@@ -31,6 +31,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 164
+    },
+    "2020-10-11": {
+      "stargazers_count": 164,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -45,5 +49,217 @@
       },
       "message": "add end-of-line comments"
     }
-  ]
+  ],
+  "description": "csvreader library / gem -  read tabular data in the comma-separated values (csv) format the right way (uses best practices out-of-the-box with zero-configuration)",
+  "language": "Ruby",
+  "topics": [
+    "csv",
+    "csv11",
+    "json",
+    "tab",
+    "tabular",
+    "tabular-data",
+    "csvhash",
+    "csvrecord",
+    "numerics",
+    "import",
+    "export"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 70,
+        "uniques": 30
+      },
+      "clones": {
+        "count": 5,
+        "uniques": 5
+      },
+      "paths": [
+        {
+          "path": "/csvreader/csvreader",
+          "title": "GitHub - csvreader/csvreader: csvreader library / gem - read tabular data in ...",
+          "count": 33,
+          "uniques": 25
+        },
+        {
+          "path": "/csvreader/csvreader/tree/master/lib",
+          "title": "csvreader/lib at master · csvreader/csvreader · GitHub",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/csvreader/csvreader/tree/master/lib/csvreader",
+          "title": "csvreader/lib/csvreader at master · csvreader/csvreader · GitHub",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/csvreader/csvreader/blob/master/datasets/beer.csv",
+          "title": "csvreader/beer.csv at master · csvreader/csvreader",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/csvreader/csvreader/blob/master/DIALECTS.md",
+          "title": "csvreader/DIALECTS.md at master · csvreader/csvreader · GitHub",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/csvreader/csvreader/issues",
+          "title": "Issues · csvreader/csvreader",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/csvreader/csvreader/blob/master/lib/csvreader/base.rb",
+          "title": "csvreader/base.rb at master · csvreader/csvreader · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/csvreader/csvreader/blob/master/lib/csvreader/version.rb",
+          "title": "csvreader/version.rb at master · csvreader/csvreader",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/csvreader/csvreader/tree/master/datasets",
+          "title": "csvreader/datasets at master · csvreader/csvreader",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/csvreader/csvreader/blob/master/datasets/beer11.csv",
+          "title": "csvreader/beer11.csv at master · csvreader/csvreader",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 15,
+          "uniques": 15
+        },
+        {
+          "referrer": "github.com",
+          "count": 7,
+          "uniques": 5
+        },
+        {
+          "referrer": "rubygems.org",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "Bing",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "csvy.org",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 20,
+          "uniques": 3
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 7,
+          "uniques": 5
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 15,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

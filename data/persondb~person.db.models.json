@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,42 @@
   ],
   "size": 184,
   "updated_at": "2014-12-06T13:13:33Z",
-  "pushed_at": "2015-07-22T07:13:32Z"
+  "pushed_at": "2015-07-22T07:13:32Z",
+  "description": "persondb gem - person schema & models for easy reuse in Ruby ",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 3,
+        "uniques": 3
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

@@ -10,6 +10,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -24,5 +28,141 @@
       },
       "message": "auto-update week 41"
     }
-  ]
+  ],
+  "description": "stage - temporary training base",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 45,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 20,
+        "uniques": 6
+      },
+      "paths": [
+        {
+          "path": "/yorobot/stage",
+          "title": "yorobot/stage: stage - temporary training base",
+          "count": 10,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/stage/tree/master/one",
+          "title": "stage/one at master · yorobot/stage",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/stage/tree/master/one/2020-21",
+          "title": "stage/one/2020-21 at master · yorobot/stage",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/stage/tree/master/two",
+          "title": "stage/two at master · yorobot/stage",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/stage/tree/master/two/2020-21",
+          "title": "stage/two/2020-21 at master · yorobot/stage",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/stage/blob/master/one/2020-21/br.1.csv",
+          "title": "stage/br.1.csv at master · yorobot/stage",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/stage/commits/master",
+          "title": "Commits · yorobot/stage",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/stage/tree/master/one/2020",
+          "title": "stage/one/2020 at master · yorobot/stage",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/stage/tree/master/two/2020",
+          "title": "stage/two/2020 at master · yorobot/stage",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/stage/blob/master/one/2020-21/eng.1.csv",
+          "title": "stage/eng.1.csv at master · yorobot/stage",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 6,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 19,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 14,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 12,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 2
+        }
+      },
+      "2020-09-29": {
+        "clones": {
+          "count": 5,
+          "uniques": 5
+        }
+      },
+      "2020-10-02": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

@@ -53,6 +53,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -69,5 +73,81 @@
     }
   ],
   "updated_at": "2017-07-20T15:13:18Z",
-  "pushed_at": "2017-07-21T18:35:02Z"
+  "pushed_at": "2017-07-21T18:35:02Z",
+  "description": "Vienna.TXT Blog - Journal.TXT Blog Live Sample w/ Jekyll (and GitHub Pages) - Auto-Built from Vienna.TXT",
+  "language": "HTML",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 9,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/journaltxt/blog",
+          "title": "journaltxt/blog: Vienna.TXT Blog - Journal.TXT Blog Live Sample w/ Jekyll (an...",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/journaltxt/blog/tree/master/_posts",
+          "title": "blog/_posts at master · journaltxt/blog",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/journaltxt/blog/blob/master/_posts/2017-07-17-vienna.md",
+          "title": "blog/2017-07-17-vienna.md at master · journaltxt/blog",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/journaltxt/blog/blob/master/index.html",
+          "title": "blog/index.html at master · journaltxt/blog",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 2
+        }
+      ]
+    },
+    "history": {
+      "2020-10-06": {
+        "views": {
+          "count": 8,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

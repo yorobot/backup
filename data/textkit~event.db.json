@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 7
+    },
+    "2020-10-11": {
+      "stargazers_count": 7,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,53 @@
   ],
   "size": 137,
   "updated_at": "2020-06-06T11:33:20Z",
-  "pushed_at": "2019-12-08T21:24:19Z"
+  "pushed_at": "2019-12-08T21:24:19Z",
+  "description": "eventdb gem - event.db schema 'n' models for easy (re)use",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 3,
+        "uniques": 3
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/textkit/event.db",
+          "title": "GitHub - textkit/event.db: eventdb gem - event.db schema 'n' models for easy ...",
+          "count": 2,
+          "uniques": 2
+        }
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-10-10": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

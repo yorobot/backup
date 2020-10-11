@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 18
+    },
+    "2020-10-11": {
+      "stargazers_count": 18,
+      "forks_count": 13
     }
   },
   "commits": [
@@ -78,5 +82,101 @@
   ],
   "size": 16,
   "updated_at": "2020-10-07T05:05:36Z",
-  "pushed_at": "2018-12-28T14:42:32Z"
+  "pushed_at": "2018-12-28T14:42:32Z",
+  "description": "jekyll starter theme v2",
+  "language": "HTML",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 11,
+        "uniques": 10
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/henrythemes/jekyll-starter-theme-v2",
+          "title": "henrythemes/jekyll-starter-theme-v2: jekyll starter theme v2",
+          "count": 11,
+          "uniques": 10
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 8,
+          "uniques": 7
+        },
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "hydepress.github.io",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

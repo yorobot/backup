@@ -53,6 +53,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -69,5 +73,65 @@
     }
   ],
   "updated_at": "2017-07-09T17:35:41Z",
-  "pushed_at": "2017-07-09T17:36:01Z"
+  "pushed_at": "2017-07-09T17:36:01Z",
+  "description": "Structured (Meta) Data in Text Website",
+  "language": null,
+  "topics": [
+    "yaml",
+    "json",
+    "json5",
+    "toml",
+    "ini",
+    "metadata",
+    "frontmatter",
+    "datafile",
+    "datatxt"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/datatxt/datatxt.github.io",
+          "title": "datatxt/datatxt.github.io: Structured (Meta) Data in Text Website",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

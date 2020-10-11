@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -78,5 +82,79 @@
   ],
   "size": 24,
   "updated_at": "2019-04-23T06:15:57Z",
-  "pushed_at": "2018-05-14T15:51:51Z"
+  "pushed_at": "2018-05-14T15:51:51Z",
+  "description": "Manuscripts Site",
+  "language": "CSS",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 6,
+        "uniques": 3
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/manuscripts/manuscripts.github.io",
+          "title": "manuscripts/manuscripts.github.io: Manuscripts Site",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/manuscripts/manuscripts.github.io/blob/master/css/style.scss",
+          "title": "manuscripts.github.io/style.scss at master · manuscripts/manuscripts.github.i...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/manuscripts/manuscripts.github.io/tree/master/css",
+          "title": "manuscripts.github.io/css at master · manuscripts/manuscripts.github.io · Git...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 2
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

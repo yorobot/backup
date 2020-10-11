@@ -56,6 +56,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 30
+    },
+    "2020-10-11": {
+      "stargazers_count": 31,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -71,6 +75,128 @@
       "message": "add favicon"
     }
   ],
-  "updated_at": "2020-09-08T17:47:00Z",
-  "pushed_at": "2017-08-31T16:14:21Z"
+  "updated_at": "2020-10-10T01:59:43Z",
+  "pushed_at": "2017-08-31T16:14:21Z",
+  "description": "beerdb gems - open beer database (beer.db) command line tool and libraries ",
+  "language": "Ruby",
+  "topics": [
+    "beer",
+    "brewery",
+    "bier",
+    "cerveza",
+    "pivo",
+    "opendata",
+    "brewpub"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 22,
+        "uniques": 3
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/beerkit/beer.db",
+          "title": "beerkit/beer.db: beerdb gems - open beer database (beer.db) command line tool...",
+          "count": 9,
+          "uniques": 3
+        },
+        {
+          "path": "/beerkit/beer.db/tree/master/beerdb",
+          "title": "beer.db/beerdb at master · beerkit/beer.db",
+          "count": 7,
+          "uniques": 3
+        },
+        {
+          "path": "/beerkit/beer.db/blob/master/beerdb/bin/beerdb",
+          "title": "beer.db/beerdb at master · beerkit/beer.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/tree/master/beerdb/attic",
+          "title": "beer.db/beerdb/attic at master · beerkit/beer.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/tree/master/beerdb/bin",
+          "title": "beer.db/beerdb/bin at master · beerkit/beer.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/tree/master/beerdb-models",
+          "title": "beer.db/beerdb-models at master · beerkit/beer.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/tree/master/beerdb/script",
+          "title": "beer.db/beerdb/script at master · beerkit/beer.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/tree/master/beerdb/script/service",
+          "title": "beer.db/beerdb/script/service at master · beerkit/beer.db",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "openbeer.github.io",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-01": {
+        "views": {
+          "count": 11,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-30": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

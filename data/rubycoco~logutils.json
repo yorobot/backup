@@ -34,6 +34,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 3
+    },
+    "2020-10-11": {
+      "stargazers_count": 3,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -48,5 +52,57 @@
       },
       "message": "add logutils-admin"
     }
-  ]
+  ],
+  "description": "logutils gem - another logger in ruby",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 2,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/rubycoco/logutils",
+          "title": "GitHub - rubycoco/logutils: logutils gem - another logger in ruby",
+          "count": 2,
+          "uniques": 2
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "rubygems.org",
+          "count": 2,
+          "uniques": 2
+        }
+      ]
+    },
+    "history": {
+      "2020-09-29": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

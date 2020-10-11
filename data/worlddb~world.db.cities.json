@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,36 @@
   ],
   "size": 136,
   "updated_at": "2014-11-14T14:33:03Z",
-  "pushed_at": "2014-11-14T00:06:39Z"
+  "pushed_at": "2014-11-14T00:06:39Z",
+  "description": "world.db web app sample listing the world's greatest cities",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      }
+    }
+  }
 }

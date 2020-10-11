@@ -22,6 +22,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 5
+    },
+    "2020-10-11": {
+      "stargazers_count": 5,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -36,5 +40,37 @@
       },
       "message": "Update README.md"
     }
-  ]
+  ],
+  "description": "A collection about Awesome Cheeze Wizards on the blockchain!  A battle royale with cheese (or a high-risk ponzi with a grand prize jackpot)",
+  "language": "Solidity",
+  "topics": [
+    "cheezewizards",
+    "blockchain"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

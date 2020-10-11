@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,46 @@
   ],
   "size": 47,
   "updated_at": "2016-10-31T08:23:39Z",
-  "pushed_at": "2016-11-13T21:47:58Z"
+  "pushed_at": "2016-11-13T21:47:58Z",
+  "description": "auto - scripts to automate building databases, books, etc.",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

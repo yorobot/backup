@@ -47,6 +47,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 53
+    },
+    "2020-10-11": {
+      "stargazers_count": 54,
+      "forks_count": 18
     }
   },
   "commits": [
@@ -62,6 +66,43 @@
       "message": "up"
     }
   ],
-  "updated_at": "2020-02-24T06:24:42Z",
-  "pushed_at": "2018-01-14T18:15:36Z"
+  "updated_at": "2020-10-11T03:33:33Z",
+  "pushed_at": "2018-01-14T18:15:36Z",
+  "description": "Best of Practicing Ruby (Book Edition) by Gregory Brown, Luke Francl, Magnus Holm, Aaron Patterson, Solomon White et al",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 3,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-10-11": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

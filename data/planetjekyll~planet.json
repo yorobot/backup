@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,57 @@
   ],
   "size": 170,
   "updated_at": "2015-05-11T22:24:16Z",
-  "pushed_at": "2015-02-22T14:07:07Z"
+  "pushed_at": "2015-02-22T14:07:07Z",
+  "description": "planet jekyll news readers subscriptions",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 2,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/planetjekyll/planet",
+          "title": "planetjekyll/planet: planet jekyll news readers subscriptions",
+          "count": 2,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-02": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

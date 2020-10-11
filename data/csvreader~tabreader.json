@@ -31,6 +31,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 3
+    },
+    "2020-10-11": {
+      "stargazers_count": 3,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -45,5 +49,36 @@
       },
       "message": "Update Rakefile"
     }
-  ]
+  ],
+  "description": "tabreader library / gem - read in tabular datafiles in text in the tabulator (TAB) format; yes, uses values = line.split(\"/t\")",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

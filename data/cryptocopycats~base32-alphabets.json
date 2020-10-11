@@ -28,6 +28,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -42,5 +46,110 @@
       },
       "message": "Update README.md"
     }
-  ]
+  ],
+  "description": "base32-alphabets library - base32 encoding / decoding in 5-bit groups (2^5=32) with kai, crockford or electrologica notations / alphabets",
+  "language": "Ruby",
+  "topics": [
+    "base32",
+    "kai",
+    "crockford",
+    "cryptokitties",
+    "kittyverse",
+    "5bit"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 14,
+        "uniques": 3
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/cryptocopycats/base32-alphabets/tree/master/lib/base32-alphabets",
+          "title": "base32-alphabets/lib/base32-alphabets at master · cryptocopycats/base32-alpha...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/base32-alphabets",
+          "title": "GitHub - cryptocopycats/base32-alphabets: base32-alphabets library - base32 e...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptocopycats/base32-alphabets/blob/master/lib/base32-alphabets/base32.rb",
+          "title": "base32-alphabets/base32.rb at master · cryptocopycats/base32-alphabets",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/base32-alphabets/blob/master/lib/base32-alphabets/base.rb",
+          "title": "base32-alphabets/base.rb at master · cryptocopycats/base32-alphabets",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/base32-alphabets/blob/master/lib/base32-alphabets/crockford.rb",
+          "title": "base32-alphabets/crockford.rb at master · cryptocopycats/base32-alphabets",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/base32-alphabets/blob/master/lib/base32-alphabets/kai.rb",
+          "title": "base32-alphabets/kai.rb at master · cryptocopycats/base32-alphabets",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/base32-alphabets/blob/master/lib/base32-alphabets.rb",
+          "title": "base32-alphabets/base32-alphabets.rb at master · cryptocopycats/base32-alphab...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/base32-alphabets/tree/master/lib",
+          "title": "base32-alphabets/lib at master · cryptocopycats/base32-alphabets",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-03": {
+        "views": {
+          "count": 12,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

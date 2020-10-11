@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -78,5 +82,51 @@
   ],
   "size": 224,
   "updated_at": "2015-04-02T09:22:14Z",
-  "pushed_at": "2015-04-02T09:22:14Z"
+  "pushed_at": "2015-04-02T09:22:14Z",
+  "description": "bookfile gem - builder for books",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/hybook/bookfile",
+          "title": "GitHub - hybook/bookfile: bookfile gem - builder for books",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-10": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

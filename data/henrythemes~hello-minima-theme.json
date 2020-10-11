@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 9
+    },
+    "2020-10-11": {
+      "stargazers_count": 9,
+      "forks_count": 9
     }
   },
   "commits": [
@@ -78,5 +82,124 @@
   ],
   "size": 7,
   "updated_at": "2020-04-17T15:52:15Z",
-  "pushed_at": "2017-02-23T14:46:30Z"
+  "pushed_at": "2017-02-23T14:46:30Z",
+  "description": "Hello, Minima! Theme - Get Started w/ GitHub Pages (Jekyll) in 60 Seconds using the Minima (Gem-Packaged) Theme",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 25,
+        "uniques": 15
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/henrythemes/hello-minima-theme",
+          "title": "henrythemes/hello-minima-theme: Hello, Minima! Theme - Get Started w/ GitHub ...",
+          "count": 22,
+          "uniques": 13
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 13,
+          "uniques": 9
+        },
+        {
+          "referrer": "Google",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "referrer": "drjekyllthemes.github.io",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "news.ycombinator.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

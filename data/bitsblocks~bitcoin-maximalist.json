@@ -37,6 +37,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 6
+    },
+    "2020-10-11": {
+      "stargazers_count": 6,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -51,5 +55,47 @@
       },
       "message": "Update README.md"
     }
-  ]
+  ],
+  "description": "Best of Bitcoin Maximalist - Scammers, Morons, Clowns, Shills & BagHODLers - Inside The New New Crypto Ponzi Economics (Book Edition) by Trolly McTrollface, et al",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/bitsblocks/bitcoin-maximalist",
+          "title": "GitHub - bitsblocks/bitcoin-maximalist: Best of Bitcoin Maximalist - Scammers...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-10-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      }
+    }
+  }
 }

@@ -50,6 +50,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 32
+    },
+    "2020-10-11": {
+      "stargazers_count": 32,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -66,5 +70,69 @@
     }
   ],
   "updated_at": "2020-09-02T06:59:44Z",
-  "pushed_at": "2018-02-27T13:52:48Z"
+  "pushed_at": "2018-02-27T13:52:48Z",
+  "description": "A collection of awesome kramdown goodies for the converter for (structured) text with formatting markup in markdown conventions",
+  "language": null,
+  "topics": [
+    "awesome",
+    "kramdown",
+    "markdown",
+    "txt",
+    "structured",
+    "formatting",
+    "markup"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 8,
+        "uniques": 6
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/mundimark/awesome-kramdown",
+          "title": "mundimark/awesome-kramdown: A collection of awesome kramdown goodies for the ...",
+          "count": 6,
+          "uniques": 5
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 6,
+          "uniques": 5
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

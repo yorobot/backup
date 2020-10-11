@@ -47,6 +47,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -63,5 +67,42 @@
     }
   ],
   "updated_at": "2017-07-11T06:13:37Z",
-  "pushed_at": "2017-07-11T06:34:04Z"
+  "pushed_at": "2017-07-11T06:34:04Z",
+  "description": "Tests, Tests, Tests - next generation json versions (HanSON, SON, JSONX/JSON11, etc.) with comments, unquoted keys, multi-line strings, trailing commas, optional commas, and more",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

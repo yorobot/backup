@@ -13,6 +13,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -27,5 +31,36 @@
       },
       "message": "Update README.md"
     }
-  ]
+  ],
+  "description": "old pluto project web site (anno 2020)",
+  "language": "CSS",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

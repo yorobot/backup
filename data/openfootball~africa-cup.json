@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 6
     }
   },
   "commits": [
@@ -78,5 +82,65 @@
   ],
   "size": 11,
   "updated_at": "2017-01-17T03:04:08Z",
-  "pushed_at": "2017-07-29T14:41:52Z"
+  "pushed_at": "2017-07-29T14:41:52Z",
+  "description": "Free open public domain football data (football.db) for Africa / Cup of Nations 2013, Cup of Nations 2015, etc.",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 2,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 3,
+        "uniques": 3
+      },
+      "paths": [
+        {
+          "path": "/openfootball/africa-cup",
+          "title": "openfootball/africa-cup: Free open public domain football data (football.db) ...",
+          "count": 2,
+          "uniques": 2
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "openfootball.github.io",
+          "count": 2,
+          "uniques": 2
+        }
+      ]
+    },
+    "history": {
+      "2020-10-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

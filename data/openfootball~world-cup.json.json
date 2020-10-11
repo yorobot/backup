@@ -34,6 +34,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 152
+    },
+    "2020-10-11": {
+      "stargazers_count": 152,
+      "forks_count": 18
     }
   },
   "commits": [
@@ -52,8 +56,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 46,
-        "uniques": 24
+        "count": 47,
+        "uniques": 25
       },
       "clones": {
         "count": 3,
@@ -199,7 +203,24 @@
           "count": 2,
           "uniques": 1
         }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
-  }
+  },
+  "description": "Free open public domain football data for the world cups in JSON incl. Russia 2018 and more - No API key required ;-)",
+  "language": null,
+  "topics": [
+    "worldcup",
+    "worldcup2018",
+    "russia2018",
+    "json",
+    "api",
+    "football",
+    "opendata"
+  ]
 }

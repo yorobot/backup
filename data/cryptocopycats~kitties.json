@@ -40,6 +40,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 6
+    },
+    "2020-10-11": {
+      "stargazers_count": 6,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -54,5 +58,195 @@
       },
       "message": "Update README.md"
     }
-  ]
+  ],
+  "description": "(crypto) kitties on the blockchain - incl. id, gen(eration), matron+sire ids, birthdate, 48 (12x4) genes in kai (base32) notation, ...",
+  "language": null,
+  "topics": [
+    "cryptokitties",
+    "cryptocollectibles",
+    "cryptocopycats",
+    "blockchain",
+    "copycats",
+    "opendata",
+    "kittyverse"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 53,
+        "uniques": 38
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/cryptocopycats/kitties",
+          "title": "GitHub - cryptocopycats/kitties: (crypto) kitties on the blockchain - incl. i...",
+          "count": 12,
+          "uniques": 12
+        },
+        {
+          "path": "/cryptocopycats/kitties/blob/master/400_000-499_999/429.csv",
+          "title": "kitties/429.csv at master · cryptocopycats/kitties · GitHub",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/kitties/blob/master/500_000-599_999/599.csv",
+          "title": "kitties/599.csv at master · cryptocopycats/kitties · GitHub",
+          "count": 5,
+          "uniques": 5
+        },
+        {
+          "path": "/cryptocopycats/kitties/blob/master/1-99_999/001.csv",
+          "title": "kitties/001.csv at master · cryptocopycats/kitties · GitHub",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/cryptocopycats/kitties/blob/master/1-99_999/015.csv",
+          "title": "kitties/015.csv at master · cryptocopycats/kitties · GitHub",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptocopycats/kitties/blob/master/1-99_999/007.csv",
+          "title": "kitties/007.csv at master · cryptocopycats/kitties · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptocopycats/kitties/blob/master/500_000-599_999/533.csv",
+          "title": "kitties/533.csv at master · cryptocopycats/kitties · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptocopycats/kitties/blob/master/400_000-499_999/488.csv",
+          "title": "kitties/488.csv at master · cryptocopycats/kitties · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/kitties/blob/master/500_000-599_999/509.csv",
+          "title": "kitties/509.csv at master · cryptocopycats/kitties · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/kitties/blob/master/100_000-199_999/108.csv",
+          "title": "kitties/108.csv at master · cryptocopycats/kitties · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 24,
+          "uniques": 16
+        },
+        {
+          "referrer": "sogou.com",
+          "count": 7,
+          "uniques": 6
+        },
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "referrer": "int.search.myway.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 5,
+          "uniques": 4
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 5,
+          "uniques": 5
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 7,
+          "uniques": 3
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 5,
+          "uniques": 5
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 13,
+          "uniques": 6
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      }
+    }
+  }
 }

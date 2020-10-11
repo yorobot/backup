@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 3
+    },
+    "2020-10-11": {
+      "stargazers_count": 3,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -78,5 +82,71 @@
   ],
   "size": 8,
   "updated_at": "2017-07-24T14:24:15Z",
-  "pushed_at": "2017-01-13T01:45:22Z"
+  "pushed_at": "2017-01-13T01:45:22Z",
+  "description": "Hello, Pages! Theme v2",
+  "language": "HTML",
+  "topics": [
+    "jekyll",
+    "jekyll-theme",
+    "theme",
+    "pages"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 3,
+        "uniques": 3
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/henrythemes/hello-pages-theme-v2",
+          "title": "henrythemes/hello-pages-theme-v2: Hello, Pages! Theme v2",
+          "count": 3,
+          "uniques": 3
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "drjekyllthemes.github.io",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "reddit.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

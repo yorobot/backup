@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,36 @@
   ],
   "size": 172,
   "updated_at": "2017-07-16T08:00:48Z",
-  "pushed_at": "2015-08-24T17:17:43Z"
+  "pushed_at": "2015-08-24T17:17:43Z",
+  "description": "gem quick starter template - classic hoe edition",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

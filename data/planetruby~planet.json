@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 8
+    },
+    "2020-10-11": {
+      "stargazers_count": 8,
+      "forks_count": 6
     }
   },
   "commits": [
@@ -78,5 +82,36 @@
   ],
   "size": 165,
   "updated_at": "2020-08-21T17:03:48Z",
-  "pushed_at": "2020-08-01T14:46:46Z"
+  "pushed_at": "2020-08-01T14:46:46Z",
+  "description": "planet ruby news reader subscriptions (incl. command line rubynews tool - what's news in the ruby world? browse week by week)",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

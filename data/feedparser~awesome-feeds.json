@@ -56,6 +56,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 19
+    },
+    "2020-10-11": {
+      "stargazers_count": 19,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -72,5 +76,74 @@
     }
   ],
   "updated_at": "2020-05-30T22:38:08Z",
-  "pushed_at": "2017-06-10T16:30:03Z"
+  "pushed_at": "2017-06-10T16:30:03Z",
+  "description": "A collection of awesome feeds (formats, parsers, filters, readers, services & tools, templates 'n' more) - JSON Feed, RSS, Atom, HTML w/ Microformats, Feed.TXT",
+  "language": null,
+  "topics": [
+    "atom",
+    "rss",
+    "jsonfeed",
+    "json",
+    "json-feed",
+    "html",
+    "microformats",
+    "hentry",
+    "hfeed",
+    "feedtxt",
+    "txt",
+    "yaml"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 4,
+        "uniques": 3
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/feedparser/awesome-feeds",
+          "title": "GitHub - feedparser/awesome-feeds: A collection of awesome feeds (formats, pa...",
+          "count": 4,
+          "uniques": 3
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "DuckDuckGo",
+          "count": 2,
+          "uniques": 2
+        }
+      ]
+    },
+    "history": {
+      "2020-10-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

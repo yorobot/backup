@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 3
+    },
+    "2020-10-11": {
+      "stargazers_count": 3,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,63 @@
   ],
   "size": 95,
   "updated_at": "2020-08-17T13:25:08Z",
-  "pushed_at": "2020-04-15T15:56:20Z"
+  "pushed_at": "2020-04-15T15:56:20Z",
+  "description": "top - planet template pack",
+  "language": "HTML",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 3,
+        "uniques": 3
+      },
+      "paths": [
+        {
+          "path": "/planet-templates/planet-top",
+          "title": "planet-templates/planet-top: top - planet template pack",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-30": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

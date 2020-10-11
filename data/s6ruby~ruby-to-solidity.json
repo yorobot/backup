@@ -25,6 +25,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 8
+    },
+    "2020-10-11": {
+      "stargazers_count": 8,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -39,5 +43,60 @@
       },
       "message": "up"
     }
-  ]
+  ],
+  "description": "(Secure) Ruby to Solidity (Source-to-Source) Cross-Compiler Cheat Sheet / White Paper",
+  "language": "Ruby",
+  "topics": [
+    "solidity",
+    "contracts",
+    "evm",
+    "ethereum"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/s6ruby/ruby-to-solidity",
+          "title": "GitHub - s6ruby/ruby-to-solidity: (Secure) Ruby to Solidity (Source-to-Source...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

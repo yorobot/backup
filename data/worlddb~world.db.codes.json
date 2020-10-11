@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 7
+    },
+    "2020-10-11": {
+      "stargazers_count": 7,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -78,5 +82,42 @@
   ],
   "size": 161,
   "updated_at": "2019-06-11T14:55:11Z",
-  "pushed_at": "2014-11-29T13:24:51Z"
+  "pushed_at": "2014-11-29T13:24:51Z",
+  "description": "world.db web app for country codes (alpha 2, alpha 3, internet top level domains, motor vehicle license plates, etc.)",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

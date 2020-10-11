@@ -7,6 +7,10 @@
   "history": {
     "2020-10-09": {
       "stargazers_count": 7
+    },
+    "2020-10-11": {
+      "stargazers_count": 7,
+      "forks_count": 10
     }
   },
   "commits": [
@@ -21,5 +25,240 @@
       },
       "message": "up"
     }
-  ]
+  ],
+  "description": "Free open public domain football data for Europe (incl. France, Netherlands, Belgium, Russia, Ukraine, and much more)",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 270,
+        "uniques": 54
+      },
+      "clones": {
+        "count": 45,
+        "uniques": 8
+      },
+      "paths": [
+        {
+          "path": "/openfootball/europe",
+          "title": "openfootball/europe: Free open public domain football data for Europe (incl. ...",
+          "count": 79,
+          "uniques": 42
+        },
+        {
+          "path": "/openfootball/france/blob/master/2020-21/1-ligue1.txt",
+          "title": "france/1-ligue1.txt at master · openfootball/france · GitHub",
+          "count": 16,
+          "uniques": 5
+        },
+        {
+          "path": "/openfootball/france",
+          "title": "openfootball/france: Free open public domain football data for France (incl. ...",
+          "count": 15,
+          "uniques": 11
+        },
+        {
+          "path": "/openfootball/europe/tree/master/france",
+          "title": "europe/france at master · openfootball/europe · GitHub",
+          "count": 11,
+          "uniques": 10
+        },
+        {
+          "path": "/openfootball/europe/tree/master/belgium",
+          "title": "europe/belgium at master · openfootball/europe · GitHub",
+          "count": 11,
+          "uniques": 4
+        },
+        {
+          "path": "/openfootball/france/tree/master/2020-21",
+          "title": "france/2020-21 at master · openfootball/france · GitHub",
+          "count": 9,
+          "uniques": 6
+        },
+        {
+          "path": "/openfootball/europe/tree/master/turkey",
+          "title": "europe/turkey at master · openfootball/europe · GitHub",
+          "count": 9,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/europe/blob/master/belgium/2020-21/1-firstdivisiona-i.txt",
+          "title": "europe/1-firstdivisiona-i.txt at master · openfootball/europe",
+          "count": 7,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/europe/tree/master/france/2020-21",
+          "title": "europe/france/2020-21 at master · openfootball/europe · GitHub",
+          "count": 6,
+          "uniques": 6
+        },
+        {
+          "path": "/openfootball/europe/tree/master/belgium/2020-21",
+          "title": "europe/belgium/2020-21 at master · openfootball/europe",
+          "count": 6,
+          "uniques": 2
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 75,
+          "uniques": 43
+        },
+        {
+          "referrer": "Google",
+          "count": 5,
+          "uniques": 5
+        },
+        {
+          "referrer": "groups.google.com",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "referrer": "openfootball.github.io",
+          "count": 3,
+          "uniques": 3
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 25,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 9,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 8,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 11,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 57,
+          "uniques": 13
+        },
+        "clones": {
+          "count": 8,
+          "uniques": 4
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 62,
+          "uniques": 11
+        },
+        "clones": {
+          "count": 7,
+          "uniques": 2
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 48,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 15,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 25,
+          "uniques": 7
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 6,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

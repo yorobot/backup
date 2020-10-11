@@ -56,6 +56,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -72,5 +76,45 @@
     }
   ],
   "updated_at": "2017-06-06T08:03:14Z",
-  "pushed_at": "2017-06-10T20:16:28Z"
+  "pushed_at": "2017-06-10T20:16:28Z",
+  "description": "Feeds in Text Website",
+  "language": "HTML",
+  "topics": [
+    "feeds",
+    "rss",
+    "atom",
+    "jsonfeed",
+    "feedtxt",
+    "txt",
+    "unicode",
+    "yaml",
+    "json",
+    "markdown"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

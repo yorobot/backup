@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 4
+    },
+    "2020-10-11": {
+      "stargazers_count": 4,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -78,5 +82,69 @@
   ],
   "size": 43,
   "updated_at": "2017-02-05T22:20:40Z",
-  "pushed_at": "2016-11-04T07:45:35Z"
+  "pushed_at": "2016-11-04T07:45:35Z",
+  "description": "Free open public domain beer, brewery n brewpub maps",
+  "language": "JavaScript",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 2,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 3,
+        "uniques": 3
+      },
+      "paths": [
+        {
+          "path": "/beerbook/maps",
+          "title": "beerbook/maps: Free open public domain beer, brewery n brewpub maps",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerbook/maps/issues/1",
+          "title": "BUG: mapbox returns 404 · Issue #1 · beerbook/maps",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "openbeer.github.io",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      }
+    }
+  }
 }

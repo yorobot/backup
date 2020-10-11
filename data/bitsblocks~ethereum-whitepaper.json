@@ -37,6 +37,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -51,5 +55,36 @@
       },
       "message": "Update index.md"
     }
-  ]
+  ],
+  "description": "Ethereum White Paper - A Next-Generation Blockchain Service Contract and Decentralized Application Platform (Book Edition) by Vitalik Buterin et al",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      }
+    }
+  }
 }

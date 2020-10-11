@@ -28,6 +28,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -42,5 +46,37 @@
       },
       "message": "Create LICENSE.md"
     }
-  ]
+  ],
+  "description": "csvhuman library / gem - read tabular data in the CSV Humanitarian eXchange Language (HXL)  format, that is, comma-separated values (CSV) line-by-line records with a hashtag (meta data) line using the Humanitarian eXchange Language (HXL) rules",
+  "language": "Ruby",
+  "topics": [
+    "hxl",
+    "csv"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

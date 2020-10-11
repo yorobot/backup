@@ -47,6 +47,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 3
+    },
+    "2020-10-11": {
+      "stargazers_count": 3,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -63,5 +67,66 @@
     }
   ],
   "updated_at": "2020-05-03T16:47:28Z",
-  "pushed_at": "2020-05-03T16:47:26Z"
+  "pushed_at": "2020-05-03T16:47:26Z",
+  "description": "book git theme",
+  "language": "CSS",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 3,
+        "uniques": 3
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/octobook/book-2017-theme",
+          "title": "octobook/book-2017-theme: book git theme",
+          "count": 3,
+          "uniques": 3
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

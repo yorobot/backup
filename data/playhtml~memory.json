@@ -56,6 +56,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -72,5 +76,62 @@
     }
   ],
   "updated_at": "2017-04-05T16:11:53Z",
-  "pushed_at": "2017-03-26T19:09:49Z"
+  "pushed_at": "2017-03-26T19:09:49Z",
+  "description": "Memory Card Game (4x4) - Web Components Showcase / Samples - JavaScript 5 • JavaScript 6+ • React • Elm • ReasonML - Add Your Sample!",
+  "language": "JavaScript",
+  "topics": [
+    "memory",
+    "elm",
+    "javascript5",
+    "webcomponents",
+    "javascript6",
+    "react"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/playhtml/memory",
+          "title": "playhtml/memory: Memory Card Game (4x4) - Web Components Showcase / Samples -...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

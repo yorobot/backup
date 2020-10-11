@@ -13,6 +13,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -27,5 +31,69 @@
       },
       "message": "up standings"
     }
-  ]
+  ],
+  "description": "football.db RSSSF (Rec.Sport.Soccer Statistics Foundation) Archive Data for Austria (Österreich) / Europe - Österr. Bundesliga, Erste Liga, ÖFB Pokal etc.",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 3,
+        "uniques": 3
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/rsssf/austria",
+          "title": "GitHub - rsssf/austria: football.db RSSSF (Rec.Sport.Soccer Statistics Founda...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/rsssf/at-austria",
+          "title": "GitHub - rsssf/at-austria: football.db RSSSF (Rec.Sport.Soccer Statistics Fou...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-29": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

@@ -34,6 +34,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 13
+    },
+    "2020-10-11": {
+      "stargazers_count": 13,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -48,5 +52,51 @@
       },
       "message": "Merge pull request #1 from tapalilov/refactor_method_aliasing\n\nRefactor method aliasing"
     }
-  ]
+  ],
+  "description": "linkto gem - link_to helpers for google search, bing search, flickr photo search, flickr photo tag, and many more",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/rubycoco/linkto",
+          "title": "GitHub - rubycoco/linkto: linkto gem - link_to helpers for google search, bin...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-10": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

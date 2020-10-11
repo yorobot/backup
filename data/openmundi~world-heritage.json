@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,36 @@
   ],
   "size": 144,
   "updated_at": "2015-03-24T17:06:33Z",
-  "pushed_at": "2014-08-06T17:13:28Z"
+  "pushed_at": "2014-08-06T17:13:28Z",
+  "description": "Free open public domain world heritage sites data (e.g. monument, building, city, mountain, lake, island, desert, forest, etc.)",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

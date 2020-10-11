@@ -10,6 +10,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 11
+    },
+    "2020-10-11": {
+      "stargazers_count": 11,
+      "forks_count": 7
     }
   },
   "commits": [
@@ -24,5 +28,98 @@
       },
       "message": "up"
     }
-  ]
+  ],
+  "description": "Cache - Soccerverse",
+  "language": null,
+  "topics": [
+    "football",
+    "csv",
+    "opendata"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 7,
+        "uniques": 3
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/footballcsv/cache.soccerverse",
+          "title": "GitHub - footballcsv/cache.soccerverse: Cache - Soccerverse",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/footballcsv/cache.soccerverse/blob/master/2015-16/fr.csv",
+          "title": "cache.soccerverse/fr.csv at master · footballcsv/cache.soccerverse · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/footballcsv/cache.soccerverse/blob/master/2019/br.csv",
+          "title": "cache.soccerverse/br.csv at master · footballcsv/cache.soccerverse · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/footballcsv/cache.soccerverse/tree/master/2015-16",
+          "title": "cache.soccerverse/2015-16 at master · footballcsv/cache.soccerverse · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/footballcsv/cache.soccerverse/tree/master/2019",
+          "title": "cache.soccerverse/2019 at master · footballcsv/cache.soccerverse · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "footballcsv.github.io",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

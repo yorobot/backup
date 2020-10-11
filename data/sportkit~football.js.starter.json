@@ -16,6 +16,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 4
+    },
+    "2020-10-11": {
+      "stargazers_count": 4,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -30,5 +34,91 @@
       },
       "message": "add github ribbon"
     }
-  ]
+  ],
+  "description": "Football matchday widget in JavaScript using the football.db HTTP JSON(P) API",
+  "language": "JavaScript",
+  "topics": [
+    "worldcup",
+    "worldcup2018",
+    "football",
+    "footballdb",
+    "opendata"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 17,
+        "uniques": 5
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/sportkit/football.js.starter",
+          "title": "GitHub - sportkit/football.js.starter: Football matchday widget in JavaScript...",
+          "count": 9,
+          "uniques": 4
+        },
+        {
+          "path": "/sportkit/football.js.starter/blob/master/football.js",
+          "title": "football.js.starter/football.js at master · sportkit/football.js.starter · Gi...",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/sportkit/football.js.starter/blob/master/matchday.html",
+          "title": "football.js.starter/matchday.html at master · sportkit/football.js.starter · ...",
+          "count": 3,
+          "uniques": 2
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 8,
+          "uniques": 4
+        }
+      ]
+    },
+    "history": {
+      "2020-09-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

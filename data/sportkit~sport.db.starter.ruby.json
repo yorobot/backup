@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 15
+    },
+    "2020-10-11": {
+      "stargazers_count": 15,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -78,5 +82,68 @@
   ],
   "size": 13,
   "updated_at": "2019-08-13T15:41:59Z",
-  "pushed_at": "2016-03-09T15:57:26Z"
+  "pushed_at": "2016-03-09T15:57:26Z",
+  "description": "sportdb web service starter sample - build your own HTTP JSON API using the football.db, worldcup.db, ski.db, formulal1.db, etc.",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 3,
+        "uniques": 3
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/sportkit/sport.db.starter.ruby",
+          "title": "GitHub - sportkit/sport.db.starter.ruby: sportdb web service starter sample -...",
+          "count": 3,
+          "uniques": 3
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "reddit.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-29": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

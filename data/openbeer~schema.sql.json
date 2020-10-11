@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 6
+    },
+    "2020-10-11": {
+      "stargazers_count": 6,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,79 @@
   ],
   "size": 140,
   "updated_at": "2018-08-27T19:13:19Z",
-  "pushed_at": "2014-08-08T22:38:54Z"
+  "pushed_at": "2014-08-08T22:38:54Z",
+  "description": "beer.db database schema (tables, views, etc.) scripts (in SQL) and documentation",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 6,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/openbeer/schema.sql",
+          "title": "GitHub - openbeer/schema.sql: beer.db database schema (tables, views, etc.) s...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/schema.sql/find/master",
+          "title": "File Finder · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/schema.sql/blob/master/beer.db.sql",
+          "title": "schema.sql/beer.db.sql at master · openbeer/schema.sql · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/schema.sql/blob/master/README.md",
+          "title": "schema.sql/README.md at master · openbeer/schema.sql · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

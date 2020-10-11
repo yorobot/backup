@@ -10,6 +10,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -24,5 +28,78 @@
       },
       "message": "up"
     }
-  ]
+  ],
+  "description": "Cache - Internationals - Year by Year",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 31,
+        "uniques": 3
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/footballcsv/cache.internationals",
+          "title": "GitHub - footballcsv/cache.internationals: Cache - Internationals - Year by Y...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/footballcsv/cache.internationals/blob/master/1800s/1872.csv",
+          "title": "cache.internationals/1872.csv at master · footballcsv/cache.internationals",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/footballcsv/cache.internationals/tree/master/1800s",
+          "title": "cache.internationals/1800s at master · footballcsv/cache.internationals",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "footballcsv.github.io",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-04": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 27,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

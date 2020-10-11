@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -78,5 +82,36 @@
   ],
   "size": 819,
   "updated_at": "2015-09-15T11:10:33Z",
-  "pushed_at": "2014-09-16T17:29:07Z"
+  "pushed_at": "2014-09-16T17:29:07Z",
+  "description": "scripts for major league soccer (MLS) ",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

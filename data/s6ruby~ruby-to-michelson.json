@@ -25,6 +25,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 14
+    },
+    "2020-10-11": {
+      "stargazers_count": 14,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -39,5 +43,48 @@
       },
       "message": "Update README.md"
     }
-  ]
+  ],
+  "description": "(Secure) Ruby to Liquidity w/ ReasonML Syntax / Michelson (Source-to-Source) Cross-Compiler Cheat Sheet / White Paper",
+  "language": "Ruby",
+  "topics": [
+    "liquidity",
+    "reasonml",
+    "michelson",
+    "tezos",
+    "contracts",
+    "smartpy",
+    "smartml"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

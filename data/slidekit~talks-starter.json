@@ -50,6 +50,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 8
+    },
+    "2020-10-11": {
+      "stargazers_count": 8,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -66,5 +70,50 @@
     }
   ],
   "updated_at": "2020-04-27T05:22:30Z",
-  "pushed_at": "2017-11-17T15:11:10Z"
+  "pushed_at": "2017-11-17T15:11:10Z",
+  "description": "talks starter (s6 blank) - write your talks / presentations / slides in plain text w/ markdown formatting conventions ++ setup uses the jekyll talks theme (using the s6 slideshow templates / machinery  ) via remote-theme",
+  "language": null,
+  "topics": [
+    "s6",
+    "jekyll",
+    "bespokejs",
+    "kramdown",
+    "markdown",
+    "text",
+    "slides",
+    "presentation",
+    "talks"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

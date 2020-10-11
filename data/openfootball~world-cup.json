@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 445
+    },
+    "2020-10-11": {
+      "stargazers_count": 445,
+      "forks_count": 157
     }
   },
   "commits": [
@@ -78,5 +82,284 @@
   ],
   "size": 638,
   "updated_at": "2020-10-02T05:32:48Z",
-  "pushed_at": "2020-09-13T11:30:50Z"
+  "pushed_at": "2020-09-13T11:30:50Z",
+  "description": "Free open public domain football data for the World Cup (incl. Qatar 2022, Russia 2018, Brazil 2014, etc.) and World Cup Quali(fiers)",
+  "language": null,
+  "topics": [
+    "worldcup",
+    "worldcup2018",
+    "russia2018",
+    "opendata",
+    "football",
+    "brazil2014"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 508,
+        "uniques": 154
+      },
+      "clones": {
+        "count": 37,
+        "uniques": 6
+      },
+      "paths": [
+        {
+          "path": "/openfootball/world-cup",
+          "title": "openfootball/world-cup: Free open public domain football data for the World C...",
+          "count": 169,
+          "uniques": 126
+        },
+        {
+          "path": "/openfootball/world-cup/tree/master/2018--russia",
+          "title": "world-cup/2018--russia at master · openfootball/world-cup · GitHub",
+          "count": 49,
+          "uniques": 34
+        },
+        {
+          "path": "/openfootball/world-cup/blob/master/2018--russia/cup.txt",
+          "title": "world-cup/cup.txt at master · openfootball/world-cup · GitHub",
+          "count": 28,
+          "uniques": 22
+        },
+        {
+          "path": "/openfootball/world-cup/blob/master/2018--russia/cup_finals.txt",
+          "title": "world-cup/cup_finals.txt at master · openfootball/world-cup · GitHub",
+          "count": 26,
+          "uniques": 25
+        },
+        {
+          "path": "/openfootball/world-cup/blob/master/2014--brazil/cup.txt",
+          "title": "world-cup/cup.txt at master · openfootball/world-cup · GitHub",
+          "count": 24,
+          "uniques": 12
+        },
+        {
+          "path": "/openfootball/world-cup/tree/master/2022--qatar",
+          "title": "world-cup/2022--qatar at master · openfootball/world-cup · GitHub",
+          "count": 19,
+          "uniques": 17
+        },
+        {
+          "path": "/openfootball/world-cup/find/master",
+          "title": "File Finder · GitHub",
+          "count": 12,
+          "uniques": 9
+        },
+        {
+          "path": "/openfootball/world-cup/tree/master/2014--brazil",
+          "title": "world-cup/2014--brazil at master · openfootball/world-cup · GitHub",
+          "count": 12,
+          "uniques": 9
+        },
+        {
+          "path": "/openfootball/world-cup/blob/master/2022--qatar/cup.txt",
+          "title": "world-cup/cup.txt at master · openfootball/world-cup · GitHub",
+          "count": 9,
+          "uniques": 8
+        },
+        {
+          "path": "/openfootball/world-cup/tree/master/1930--uruguay",
+          "title": "world-cup/1930--uruguay at master · openfootball/world-cup · GitHub",
+          "count": 8,
+          "uniques": 6
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "datahub.io",
+          "count": 84,
+          "uniques": 74
+        },
+        {
+          "referrer": "openfootball.github.io",
+          "count": 30,
+          "uniques": 24
+        },
+        {
+          "referrer": "github.com",
+          "count": 28,
+          "uniques": 21
+        },
+        {
+          "referrer": "Google",
+          "count": 9,
+          "uniques": 8
+        },
+        {
+          "referrer": "trackmyhashtag.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "lms.thaimooc.org",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "t.co",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "Bing",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "com.google.android.gm",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-27": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "views": {
+          "count": 39,
+          "uniques": 13
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 80,
+          "uniques": 14
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 35,
+          "uniques": 13
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 35,
+          "uniques": 13
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 35,
+          "uniques": 13
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 23,
+          "uniques": 10
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 32,
+          "uniques": 9
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 37,
+          "uniques": 14
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 54,
+          "uniques": 14
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 33,
+          "uniques": 7
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 36,
+          "uniques": 10
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 21,
+          "uniques": 10
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 25,
+          "uniques": 9
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 20,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

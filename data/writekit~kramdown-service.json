@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 8
+    },
+    "2020-10-11": {
+      "stargazers_count": 8,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -78,5 +82,63 @@
   ],
   "size": 79,
   "updated_at": "2019-03-08T20:43:13Z",
-  "pushed_at": "2018-09-21T07:37:39Z"
+  "pushed_at": "2018-09-21T07:37:39Z",
+  "description": "kramdown-service gem - kramdown HTTP JSON API service - convert text with markdown formatting conventions to Hypertext Markup (HTML) or LaTeX",
+  "language": "Ruby",
+  "topics": [
+    "markdown",
+    "kramdown",
+    "latex",
+    "html",
+    "babelmark",
+    "text",
+    "txt"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 5,
+        "uniques": 5
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/writekit/kramdown-service",
+          "title": "GitHub - writekit/kramdown-service: kramdown-service gem - kramdown HTTP JSON...",
+          "count": 4,
+          "uniques": 4
+        }
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-10-10": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

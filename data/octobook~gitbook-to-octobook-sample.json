@@ -47,6 +47,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -63,5 +67,58 @@
     }
   ],
   "updated_at": "2018-10-28T15:38:37Z",
-  "pushed_at": "2018-01-05T12:49:27Z"
+  "pushed_at": "2018-01-05T12:49:27Z",
+  "description": "Gitbook to Octobook - How to publish your manuscripts (in text w/ formatting conventions in markdown) with book.yml and octobook book themes for jekyll (works w/ GitHub Pages and remote themes too)",
+  "language": "HTML",
+  "topics": [
+    "gitbook",
+    "octobook",
+    "jekyll",
+    "markdown",
+    "manuscripts",
+    "bookdesigns",
+    "jekyllthemes",
+    "txt"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 2,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/octobook/gitbook-to-octobook-sample",
+          "title": "GitHub - octobook/gitbook-to-octobook-sample: Gitbook to Octobook - How to pu...",
+          "count": 2,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-04": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

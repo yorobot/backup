@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 8
+    },
+    "2020-10-11": {
+      "stargazers_count": 8,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,61 @@
   ],
   "size": 24,
   "updated_at": "2020-07-22T15:07:33Z",
-  "pushed_at": "2017-01-04T03:57:23Z"
+  "pushed_at": "2017-01-04T03:57:23Z",
+  "description": "Manuscripts Handbook and Notes",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 2,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/manuscripts/manuscripts",
+          "title": "GitHub - manuscripts/manuscripts: Manuscripts Handbook and Notes",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

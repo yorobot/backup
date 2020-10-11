@@ -56,6 +56,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 3
+    },
+    "2020-10-11": {
+      "stargazers_count": 3,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -72,5 +76,42 @@
     }
   ],
   "updated_at": "2018-02-23T01:39:05Z",
-  "pushed_at": "2017-10-30T20:09:03Z"
+  "pushed_at": "2017-10-30T20:09:03Z",
+  "description": "bespoke.js - Slide Show (S9) Template Pack",
+  "language": "JavaScript",
+  "topics": [
+    "bespoke",
+    "bespokejs",
+    "slideshow",
+    "presentations",
+    "slides",
+    "markdown",
+    "kramdown"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

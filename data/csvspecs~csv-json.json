@@ -31,6 +31,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 5
+    },
+    "2020-10-11": {
+      "stargazers_count": 5,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -45,5 +49,36 @@
       },
       "message": "Update README.md"
     }
-  ]
+  ],
+  "description": "CSV ❤ JSON Format - Comma-Separated Values (CSV) Line-by-Line Records with JSON Encoding Rules - A Modern (Simple) Tabular Data Format incl. Arrays, Numbers, Booleans, Nulls, Nested Structures, Comments and More",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

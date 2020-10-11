@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 85
+    },
+    "2020-10-11": {
+      "stargazers_count": 85,
+      "forks_count": 31
     }
   },
   "commits": [
@@ -78,5 +82,117 @@
   ],
   "size": 78,
   "updated_at": "2020-04-17T10:50:41Z",
-  "pushed_at": "2016-11-09T19:19:27Z"
+  "pushed_at": "2016-11-09T19:19:27Z",
+  "description": "Jekyll Quick References (Cheat Sheets) 'n' F.A.Q.s",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 21,
+        "uniques": 18
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/planetjekyll/quickrefs/blob/master/FAQ.md",
+          "title": "quickrefs/FAQ.md at master · planetjekyll/quickrefs · GitHub",
+          "count": 12,
+          "uniques": 11
+        },
+        {
+          "path": "/planetjekyll/quickrefs/blob/master/YAML.md",
+          "title": "quickrefs/YAML.md at master · planetjekyll/quickrefs · GitHub",
+          "count": 9,
+          "uniques": 7
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 9,
+          "uniques": 9
+        },
+        {
+          "referrer": "talk.jekyllrb.com",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

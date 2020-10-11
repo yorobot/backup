@@ -50,6 +50,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -66,5 +70,57 @@
     }
   ],
   "updated_at": "2017-08-27T20:07:45Z",
-  "pushed_at": "2017-09-07T13:05:21Z"
+  "pushed_at": "2017-09-07T13:05:21Z",
+  "description": "beerdb web service starter sample - build your own HTTP JSON API using the beer.db",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 3,
+        "uniques": 3
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/beerkit/beer.db.starter",
+          "title": "GitHub - beerkit/beer.db.starter: beerdb web service starter sample - build y...",
+          "count": 3,
+          "uniques": 3
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

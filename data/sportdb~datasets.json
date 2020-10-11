@@ -13,6 +13,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 3
+    },
+    "2020-10-11": {
+      "stargazers_count": 3,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -27,5 +31,87 @@
       },
       "message": "recycle"
     }
-  ]
+  ],
+  "description": "datasets directory - add your datasets!",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 11,
+        "uniques": 9
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/sportdb/datasets",
+          "title": "sportdb/datasets: datasets directory - add your datasets!",
+          "count": 9,
+          "uniques": 8
+        },
+        {
+          "path": "/sportdb/datasets/blob/master/README.md",
+          "title": "datasets/README.md at master · sportdb/datasets",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 9,
+          "uniques": 8
+        }
+      ]
+    },
+    "history": {
+      "2020-09-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

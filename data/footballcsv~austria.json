@@ -22,6 +22,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -36,5 +40,166 @@
       },
       "message": "auto-update week 41"
     }
-  ]
+  ],
+  "description": "Football data for Austria (Österreich) incl. Bundesliga, etc.",
+  "language": null,
+  "topics": [
+    "football",
+    "austria",
+    "oesterreich",
+    "bundesliga",
+    "fussball",
+    "csv",
+    "opendata"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 8,
+        "uniques": 3
+      },
+      "clones": {
+        "count": 39,
+        "uniques": 8
+      },
+      "paths": [
+        {
+          "path": "/footballcsv/austria",
+          "title": "GitHub - footballcsv/austria: Football data for Austria (Österreich) incl. Bu...",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/footballcsv/austria/tree/master/2020s/2020-21",
+          "title": "austria/2020s/2020-21 at master · footballcsv/austria · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/footballcsv/austria/blob/master/2020s/2020-21/at.1.csv",
+          "title": "austria/at.1.csv at master · footballcsv/austria · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/footballcsv/austria/blob/master/2020s/2020-21/at.3.o.csv",
+          "title": "austria/at.3.o.csv at master · footballcsv/austria · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/footballcsv/austria/blob/master/2020s/2020-21/at.cup.csv",
+          "title": "austria/at.cup.csv at master · footballcsv/austria · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "footballcsv.github.io",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-30": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-09-29": {
+        "clones": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2020-10-01": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "clones": {
+          "count": 8,
+          "uniques": 5
+        }
+      },
+      "2020-10-07": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-09": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-10": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-11": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

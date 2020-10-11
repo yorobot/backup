@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 8
+    },
+    "2020-10-11": {
+      "stargazers_count": 8,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -78,5 +82,57 @@
   ],
   "size": 152,
   "updated_at": "2020-07-02T08:19:21Z",
-  "pushed_at": "2014-12-03T17:39:25Z"
+  "pushed_at": "2014-12-03T17:39:25Z",
+  "description": "Simple personal (authenticaton) web proxy for Windows (in C#/.NET) - supports Integrated Windows Authentication (IWA) a.k.a. Kerberos, HTTP Negotiate,  SPNEGO,  GSSAPI 'n' friends",
+  "language": "C#",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 2,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/geraldb/web-proxy-win",
+          "title": "geraldb/web-proxy-win: Simple personal (authenticaton) web proxy for Windows ...",
+          "count": 2,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-02": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-01": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

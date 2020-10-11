@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 7
+    },
+    "2020-10-11": {
+      "stargazers_count": 7,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -78,5 +82,59 @@
   ],
   "size": 954,
   "updated_at": "2018-05-22T21:05:58Z",
-  "pushed_at": "2016-11-04T07:37:11Z"
+  "pushed_at": "2016-11-04T07:37:11Z",
+  "description": "The Free World Beer Book",
+  "language": "CSS",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 3,
+        "uniques": 3
+      },
+      "paths": [
+        {
+          "path": "/beerbook/beerbook.github.io",
+          "title": "GitHub - beerbook/beerbook.github.io: The Free World Beer Book",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-10-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-01": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 13
+    },
+    "2020-10-11": {
+      "stargazers_count": 13,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -78,5 +82,91 @@
   ],
   "size": 160,
   "updated_at": "2020-09-27T23:40:40Z",
-  "pushed_at": "2014-01-22T21:05:32Z"
+  "pushed_at": "2014-01-22T21:05:32Z",
+  "description": "Free open public domain National Football League (NFL) database 'n' schema for use in any (programming) language e.g. uses plain text datasets",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 8,
+        "uniques": 6
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/opensport/american-football.db",
+          "title": "GitHub - opensport/american-football.db: Free open public domain National Foo...",
+          "count": 6,
+          "uniques": 6
+        },
+        {
+          "path": "/opensport/american-football.db/tree/master/2012",
+          "title": "american-football.db/2012 at master · opensport/american-football.db · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/opensport/american-football.db/tree/master/setups",
+          "title": "american-football.db/setups at master · opensport/american-football.db · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "referrer": "opensport.github.io",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

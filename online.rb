@@ -14,6 +14,7 @@ pp h
 save_yaml( "./repos.yml", h )
 
 
+
 ### update stats records for all repos (in ./repos.yml)
 
 ####
@@ -26,6 +27,6 @@ save_yaml( "./repos.yml", h )
 # pp h
 
 Hubba.update_stats( h )
-
+Hubba.update_traffic( h )
 
 puts "Done."

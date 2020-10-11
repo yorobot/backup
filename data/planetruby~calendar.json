@@ -47,6 +47,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 247
+    },
+    "2020-10-11": {
+      "stargazers_count": 247,
+      "forks_count": 73
     }
   },
   "commits": [
@@ -63,5 +67,127 @@
     }
   ],
   "updated_at": "2020-10-08T16:20:01Z",
-  "pushed_at": "2020-06-16T16:54:05Z"
+  "pushed_at": "2020-06-16T16:54:05Z",
+  "description": "What's Upcoming in 2020? - A collection of awesome ruby conferences & camps from around the world - Add your ruby conference or camp!",
+  "language": "HTML",
+  "topics": [
+    "ruby",
+    "eventdb",
+    "meetups",
+    "conferences",
+    "camps",
+    "awesome",
+    "ruby-conferences"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 11,
+        "uniques": 9
+      },
+      "clones": {
+        "count": 8,
+        "uniques": 7
+      },
+      "paths": [
+        {
+          "path": "/planetruby/calendar",
+          "title": "planetruby/calendar: What's Upcoming in 2020? - A collection of awesome ruby ...",
+          "count": 8,
+          "uniques": 8
+        },
+        {
+          "path": "/planetruby/calendar/blob/master/2018.md",
+          "title": "calendar/2018.md at master · planetruby/calendar",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/calendar/blob/master/_data/conferences2018.yml",
+          "title": "calendar/conferences2018.yml at master · planetruby/calendar",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/calendar/tree/master/_data",
+          "title": "calendar/_data at master · planetruby/calendar",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 8,
+          "uniques": 8
+        }
+      ]
+    },
+    "history": {
+      "2020-09-30": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-09-29": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-04": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-05": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

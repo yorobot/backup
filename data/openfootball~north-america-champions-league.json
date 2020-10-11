@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -78,5 +82,80 @@
   ],
   "size": 8,
   "updated_at": "2017-07-29T14:49:43Z",
-  "pushed_at": "2017-07-29T14:49:42Z"
+  "pushed_at": "2017-07-29T14:49:42Z",
+  "description": "Free open public domain football data (football.db) for Champions League (North America, Central America & Caribbean)",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 5,
+        "uniques": 3
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/openfootball/north-america-champions-league",
+          "title": "GitHub - openfootball/north-america-champions-league: Free open public domain...",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/openfootball/north-america-champions-league/blob/master/2011_12/cl.txt",
+          "title": "north-america-champions-league/cl.txt at master · openfootball/north-america-...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/north-america-champions-league/tree/master/2011_12",
+          "title": "north-america-champions-league/2011_12 at master · openfootball/north-america...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "openfootball.github.io",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-29": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

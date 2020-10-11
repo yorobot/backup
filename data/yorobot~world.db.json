@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 6
+    },
+    "2020-10-11": {
+      "stargazers_count": 6,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -78,5 +82,84 @@
   ],
   "size": 25,
   "updated_at": "2016-11-13T21:31:21Z",
-  "pushed_at": "2018-06-20T14:42:37Z"
+  "pushed_at": "2018-06-20T14:42:37Z",
+  "description": "Build scripts for world.db, wien.db, etc.",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 11,
+        "uniques": 4
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/yorobot/world.db/releases",
+          "title": "Releases · yorobot/world.db · GitHub",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/yorobot/world.db",
+          "title": "yorobot/world.db: Build scripts for world.db, wien.db, etc.",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/yorobot/world.db/tree/master/tasks",
+          "title": "world.db/tasks at master · yorobot/world.db",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "rubyflow.com",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

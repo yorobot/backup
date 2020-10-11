@@ -37,6 +37,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -51,5 +55,36 @@
       },
       "message": "up meta"
     }
-  ]
+  ],
+  "description": "Mastering Ethereum - Building Blockchain Service Contracts and Decentralized Apps by Andreas M. Antonopoulos, Gavin Wood   -  WORK-IN-PROGRESS / DRAFT",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      }
+    }
+  }
 }

@@ -25,6 +25,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 32
+    },
+    "2020-10-11": {
+      "stargazers_count": 32,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -39,5 +43,88 @@
       },
       "message": "Create LICENSE.md"
     }
-  ]
+  ],
+  "description": "A collection of awesome crypto goodies about cryptocurrencies and blockchains, public key infrastructure (pki), merkle trees and more",
+  "language": null,
+  "topics": [
+    "bitcoin",
+    "blockchain",
+    "merkletree",
+    "cryptohash",
+    "ruby",
+    "blockchain-lite",
+    "centralbank",
+    "tulipmania",
+    "proof-of-work"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 7,
+        "uniques": 6
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/s6ruby/awesome-crypto",
+          "title": "s6ruby/awesome-crypto: A collection of awesome crypto goodies about cryptocur...",
+          "count": 6,
+          "uniques": 6
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

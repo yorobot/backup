@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 6
+    },
+    "2020-10-11": {
+      "stargazers_count": 6,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,87 @@
   ],
   "size": 268,
   "updated_at": "2020-02-13T16:19:14Z",
-  "pushed_at": "2014-08-07T21:54:59Z"
+  "pushed_at": "2014-08-07T21:54:59Z",
+  "description": "beer statistics (production in hl, consumption per capita, etc.)",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 11,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/beercsv/statistics",
+          "title": "GitHub - beercsv/statistics: beer statistics (production in hl, consumption p...",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/beercsv/statistics/find/master",
+          "title": "File Finder · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/statistics/blob/master/breweries/dk_denmark.csv",
+          "title": "statistics/dk_denmark.csv at master · beercsv/statistics · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/statistics/blob/master/consumption.csv",
+          "title": "statistics/consumption.csv at master · beercsv/statistics · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/statistics/blob/master/SOURCES.md",
+          "title": "statistics/SOURCES.md at master · beercsv/statistics · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/statistics/projects",
+          "title": "Projects · beercsv/statistics · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 2
+        }
+      ]
+    },
+    "history": {
+      "2020-09-30": {
+        "views": {
+          "count": 10,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

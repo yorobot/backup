@@ -47,6 +47,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 3
+    },
+    "2020-10-11": {
+      "stargazers_count": 3,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -63,5 +67,60 @@
     }
   ],
   "updated_at": "2018-10-29T01:00:27Z",
-  "pushed_at": "2018-01-01T22:14:03Z"
+  "pushed_at": "2018-01-01T22:14:03Z",
+  "description": "Small Data Handbook by Gerald Bauer et al - Working with (Structured) Data (in Text) the Modern Way - CSV •  INI •  TOML •  JSON •  YAML •  XML!? -  Do-It-Yourself (DIY) - Design Your Own (Structured) Data Formats",
+  "language": null,
+  "topics": [
+    "csv",
+    "ini",
+    "opendata",
+    "frictionlessdata",
+    "yaml",
+    "json",
+    "rss",
+    "atom",
+    "sqlite",
+    "csv11",
+    "json5",
+    "hjson",
+    "hanson",
+    "toml",
+    "xml",
+    "sql",
+    "html",
+    "microformats",
+    "feedtxt"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

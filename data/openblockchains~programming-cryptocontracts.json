@@ -28,6 +28,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 29
+    },
+    "2020-10-11": {
+      "stargazers_count": 29,
+      "forks_count": 7
     }
   },
   "commits": [
@@ -42,5 +46,174 @@
       },
       "message": "Update README.md"
     }
-  ]
+  ],
+  "description": "Programming Crypto Blockchain Contracts Step-by-Step Book / Guide. Let's Start with Ponzi & Pyramid Schemes. Run Your Own Lotteries, Gambling Casinos and more on the Blockchain World Computer...",
+  "language": "Ruby",
+  "topics": [
+    "contracts",
+    "universum",
+    "blockchain",
+    "ponzis",
+    "pyramids",
+    "lotteries",
+    "casinos",
+    "casino",
+    "roulette",
+    "satoshi-dice",
+    "ponzi",
+    "ponzi-scheme",
+    "pyramid",
+    "pyramid-scheme",
+    "puzzle"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 33,
+        "uniques": 22
+      },
+      "clones": {
+        "count": 3,
+        "uniques": 3
+      },
+      "paths": [
+        {
+          "path": "/openblockchains/programming-cryptocontracts",
+          "title": "openblockchains/programming-cryptocontracts: Programming Crypto Blockchain Co...",
+          "count": 26,
+          "uniques": 21
+        },
+        {
+          "path": "/openblockchains/programming-cryptocontracts/actions",
+          "title": "Actions · openblockchains/programming-cryptocontracts · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/programming-cryptocontracts/blob/master/i/dappradar-highrisk.png",
+          "title": "programming-cryptocontracts/dappradar-highrisk.png at master · openblockchain...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/programming-cryptocontracts/blob/master/ponzi_governmental.rb",
+          "title": "programming-cryptocontracts/ponzi_governmental.rb at master · openblockchains...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/programming-cryptocontracts/blob/master/ponzi_simple.rb",
+          "title": "programming-cryptocontracts/ponzi_simple.rb at master · openblockchains/progr...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/programming-cryptocontracts/blob/master/run_satoshi_dice.rb",
+          "title": "programming-cryptocontracts/run_satoshi_dice.rb at master · openblockchains/p...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/programming-cryptocontracts/find/master",
+          "title": "File Finder · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 25,
+          "uniques": 20
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 6,
+          "uniques": 3
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

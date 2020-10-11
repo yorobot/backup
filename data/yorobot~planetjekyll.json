@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 3
+    },
+    "2020-10-11": {
+      "stargazers_count": 3,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,40 @@
   ],
   "size": 243,
   "updated_at": "2017-07-09T03:12:58Z",
-  "pushed_at": "2018-02-21T20:18:20Z"
+  "pushed_at": "2018-02-21T20:18:20Z",
+  "description": "Build scripts (fetch project info from github, import themes from wiki page, etc.)",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

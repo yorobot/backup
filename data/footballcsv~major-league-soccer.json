@@ -34,6 +34,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 3
+    },
+    "2020-10-11": {
+      "stargazers_count": 3,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -48,5 +52,66 @@
       },
       "message": "up"
     }
-  ]
+  ],
+  "description": "Football data for Major League Soccer (MLS) for the United States 'n' Canada ",
+  "language": null,
+  "topics": [
+    "mls",
+    "major-league-soccer",
+    "football",
+    "soccer",
+    "opendata",
+    "united-states",
+    "canada",
+    "csv",
+    "western-conference",
+    "eastern-conference"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 2,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/footballcsv/major-league-soccer",
+          "title": "GitHub - footballcsv/major-league-soccer: Football data for Major League Socc...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

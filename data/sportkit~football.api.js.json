@@ -16,6 +16,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 4
+    },
+    "2020-10-11": {
+      "stargazers_count": 4,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -30,5 +34,69 @@
       },
       "message": "try bower componentify"
     }
-  ]
+  ],
+  "description": "Football service in JavaScript using the football.db HTTP JSON(P) API",
+  "language": "JavaScript",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 4,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/sportkit/football.api.js",
+          "title": "GitHub - sportkit/football.api.js: Football service in JavaScript using the f...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sportkit/football.api.js/blob/master/bower.json",
+          "title": "football.api.js/bower.json at master · sportkit/football.api.js · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportkit/football.api.js/blob/master/football.api.js",
+          "title": "football.api.js/football.api.js at master · sportkit/football.api.js · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 2
+        }
+      ]
+    },
+    "history": {
+      "2020-10-06": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

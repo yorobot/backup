@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 45
+    },
+    "2020-10-11": {
+      "stargazers_count": 45,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -78,5 +82,66 @@
   ],
   "size": 1181,
   "updated_at": "2019-08-13T15:10:02Z",
-  "pushed_at": "2014-01-18T22:19:34Z"
+  "pushed_at": "2014-01-18T22:19:34Z",
+  "description": "Open Sports Data (sport.db) Web Site",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 6,
+        "uniques": 4
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/opensport/opensport.github.io",
+          "title": "GitHub - opensport/opensport.github.io: Open Sports Data (sport.db) Web Site",
+          "count": 5,
+          "uniques": 3
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      }
+    }
+  }
 }

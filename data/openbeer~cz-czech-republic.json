@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,81 @@
   ],
   "size": 312,
   "updated_at": "2014-01-20T20:13:55Z",
-  "pushed_at": "2014-11-02T18:06:44Z"
+  "pushed_at": "2014-11-02T18:06:44Z",
+  "description": "Free open public domain beer, brewery n brewpub data for the Czech Republic / Europe",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 7,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/openbeer/cz-czech-republic",
+          "title": "openbeer/cz-czech-republic: Free open public domain beer, brewery n brewpub d...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/cz-czech-republic/blob/master/1--pr-praha/beers.txt",
+          "title": "cz-czech-republic/beers.txt at master · openbeer/cz-czech-republic",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/cz-czech-republic/blob/master/1--pr-praha/breweries.txt",
+          "title": "cz-czech-republic/breweries.txt at master · openbeer/cz-czech-republic",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/cz-czech-republic/blob/master/beers_heineken.txt",
+          "title": "cz-czech-republic/beers_heineken.txt at master · openbeer/cz-czech-republic",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/cz-czech-republic/blob/master/beers_sab-miller.txt",
+          "title": "cz-czech-republic/beers_sab-miller.txt at master · openbeer/cz-czech-republic",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/cz-czech-republic/tree/master/1--pr-praha",
+          "title": "cz-czech-republic/1--pr-praha at master · openbeer/cz-czech-republic",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-01": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

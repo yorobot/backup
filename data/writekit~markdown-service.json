@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,57 @@
   ],
   "size": 60,
   "updated_at": "2016-04-15T06:05:22Z",
-  "pushed_at": "2016-04-15T06:05:21Z"
+  "pushed_at": "2016-04-15T06:05:21Z",
+  "description": "markdown-service gem - markdown HTTP JSON API service",
+  "language": "JavaScript",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 3,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/writekit/markdown-service",
+          "title": "writekit/markdown-service: markdown-service gem - markdown HTTP JSON API serv...",
+          "count": 3,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-08": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

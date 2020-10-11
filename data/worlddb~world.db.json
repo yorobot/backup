@@ -56,6 +56,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 65
+    },
+    "2020-10-11": {
+      "stargazers_count": 65,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -72,5 +76,184 @@
     }
   ],
   "updated_at": "2020-08-06T06:59:56Z",
-  "pushed_at": "2020-05-19T09:17:00Z"
+  "pushed_at": "2020-05-19T09:17:00Z",
+  "description": "world.db - open world database (world.db) command line tool and libraries",
+  "language": "Ruby",
+  "topics": [
+    "opendata",
+    "world",
+    "countries",
+    "provinces",
+    "states",
+    "cities",
+    "places",
+    "countrycodes"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 61,
+        "uniques": 16
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/worlddb/world.db",
+          "title": "worlddb/world.db: world.db - open world database (world.db) command line tool...",
+          "count": 24,
+          "uniques": 14
+        },
+        {
+          "path": "/worlddb/world.db/tree/master/worlddb",
+          "title": "world.db/worlddb at master · worlddb/world.db · GitHub",
+          "count": 12,
+          "uniques": 6
+        },
+        {
+          "path": "/worlddb/world.db/tree/master/worlddb-models",
+          "title": "world.db/worlddb-models at master · worlddb/world.db",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db/tree/master/worlddb-compat",
+          "title": "world.db/worlddb-compat at master · worlddb/world.db · GitHub",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/worlddb/world.db/tree/master/worlddb/assets",
+          "title": "world.db/worlddb/assets at master · worlddb/world.db · GitHub",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/worlddb/world.db/tree/master/worlddb-compat/lib/worlddb",
+          "title": "world.db/worlddb-compat/lib/worlddb at master · worlddb/world.db · GitHub",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/worlddb/world.db/tree/master/worlddb-compat/lib/worlddb/compat",
+          "title": "world.db/worlddb-compat/lib/worlddb/compat at master · worlddb/world.db · Git...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/worlddb/world.db/blob/master/worlddb/bin/worlddb",
+          "title": "world.db/worlddb at master · worlddb/world.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db/commit/3838cb044f34c05e5aa8a43e254feaebee8f11f2",
+          "title": "up country keys and codes · worlddb/world.db@3838cb0 · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db/find/master",
+          "title": "File Finder · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 14,
+          "uniques": 10
+        },
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "referrer": "yandex.ru",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 9,
+          "uniques": 3
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 9,
+          "uniques": 2
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 10,
+          "uniques": 3
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 21,
+          "uniques": 2
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

@@ -31,6 +31,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 42
+    },
+    "2020-10-11": {
+      "stargazers_count": 42,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -45,5 +49,105 @@
       },
       "message": "Update TAB-VS-CSV.md"
     }
-  ]
+  ],
+  "description": "Awesome Comma-Separated Values (CSV) - What's Next? - Frequently Asked Questions (F.A.Q.s) - Libraries & Tools",
+  "language": null,
+  "topics": [
+    "csv",
+    "txt",
+    "opendata",
+    "tabular",
+    "data",
+    "datafile",
+    "frictionlessdata",
+    "csvlint",
+    "csv11",
+    "space",
+    "tab",
+    "comma",
+    "values",
+    "records",
+    "fields",
+    "schema",
+    "types",
+    "csvutils",
+    "csvpack",
+    "csvtosql"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 5,
+        "uniques": 5
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/csvspecs/awesome-csv",
+          "title": "GitHub - csvspecs/awesome-csv: Awesome Comma-Separated Values (CSV) - What's ...",
+          "count": 5,
+          "uniques": 5
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "referrer": "Google",
+          "count": 2,
+          "uniques": 2
+        }
+      ]
+    },
+    "history": {
+      "2020-09-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

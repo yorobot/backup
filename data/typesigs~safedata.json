@@ -22,6 +22,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 118
+    },
+    "2020-10-11": {
+      "stargazers_count": 118,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -36,5 +40,69 @@
       },
       "message": "Update README.md"
     }
-  ]
+  ],
+  "description": "safedata gem / library - safe (algebraic) union data types with (enumerated) variants",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 4,
+        "uniques": 4
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/typesigs/safedata",
+          "title": "GitHub - typesigs/safedata: safedata gem / library - safe (algebraic) union d...",
+          "count": 3,
+          "uniques": 3
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "reddit.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

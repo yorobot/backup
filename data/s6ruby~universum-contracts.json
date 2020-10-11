@@ -25,6 +25,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 13
+    },
+    "2020-10-11": {
+      "stargazers_count": 13,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -39,5 +43,42 @@
       },
       "message": "Create Conference.sol"
     }
-  ]
+  ],
+  "description": "universum contract / transaction scripts (in plain vanilla / standard ruby) for the next generation ethereum 2.0 world computer",
+  "language": "Ruby",
+  "topics": [
+    "universum",
+    "contracts",
+    "transactions",
+    "blockchain",
+    "solidity",
+    "vyper",
+    "ruby"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

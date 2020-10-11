@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,53 @@
   ],
   "size": 204,
   "updated_at": "2015-02-16T15:07:53Z",
-  "pushed_at": "2015-02-16T17:19:22Z"
+  "pushed_at": "2015-02-16T17:19:22Z",
+  "description": "Open Beer (beer.db) Notes",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/openbeer/notes",
+          "title": "GitHub - openbeer/notes: Open Beer (beer.db) Notes",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-29": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

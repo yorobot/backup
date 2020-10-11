@@ -40,6 +40,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -54,5 +58,83 @@
       },
       "message": "up"
     }
-  ]
+  ],
+  "description": "bitcat - bit catalog browser - browse your digital bit(s) collections; browse your crypto kitties / cats and more",
+  "language": "Ruby",
+  "topics": [
+    "copycats",
+    "cryptokitties",
+    "cryptocollectibles",
+    "blockchain",
+    "kittyverse"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 8,
+        "uniques": 5
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/cryptocopycats/bitcat",
+          "title": "cryptocopycats / bitcat：bitcat-位目录浏览器-浏览您的数字位集合； 浏览您的加密猫/猫等等",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/cryptocopycats/bitcat/blob/master/bin/bitcat",
+          "title": "bitcat/bitcat at master · cryptocopycats/bitcat",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/bitcat/tree/master/bin",
+          "title": "bitcat/bin at master · cryptocopycats/bitcat",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 4,
+          "uniques": 4
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

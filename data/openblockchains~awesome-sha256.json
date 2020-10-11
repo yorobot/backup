@@ -40,6 +40,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 3
+    },
+    "2020-10-11": {
+      "stargazers_count": 3,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -54,5 +58,73 @@
       },
       "message": "Update hashrate.go"
     }
-  ]
+  ],
+  "description": "A collection about the most awesome crypto (one-way) hash function / digest / fingerprint - Secure Hash Algorithm 256-Bit (SHA256)",
+  "language": "Go",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 3,
+        "uniques": 3
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/openblockchains/awesome-sha256/blob/master/hash.go",
+          "title": "awesome-sha256/hash.go at master · openblockchains/awesome-sha256 · GitHub",
+          "count": 3,
+          "uniques": 3
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "dogedoge.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "StartPage",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

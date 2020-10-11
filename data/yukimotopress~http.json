@@ -47,6 +47,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 14
+    },
+    "2020-10-11": {
+      "stargazers_count": 14,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -63,5 +67,57 @@
     }
   ],
   "updated_at": "2020-07-24T17:45:49Z",
-  "pushed_at": "2018-01-18T09:22:16Z"
+  "pushed_at": "2018-01-18T09:22:16Z",
+  "description": "Net::HTTP by Example / Net::HTTP Cheat Sheet (Book Edition) by August Lilleaas, et al",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 2,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/yukimotopress/http",
+          "title": "yukimotopress/http: Net::HTTP by Example / Net::HTTP Cheat Sheet (Book Editio...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/yukimotopress/http/blob/master/index.md",
+          "title": "http/index.md at master · yukimotopress/http",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "yukimotopress.github.io",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-10": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

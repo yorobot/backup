@@ -10,6 +10,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 3
+    },
+    "2020-10-11": {
+      "stargazers_count": 3,
+      "forks_count": 4
     }
   },
   "commits": [
@@ -24,5 +28,45 @@
       },
       "message": "up"
     }
-  ]
+  ],
+  "description": "Cache - Football Match Updates - Week by Week",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 0,
+        "uniques": 0
+      },
+      "paths": [
+        {
+          "path": "/footballcsv/cache.updates",
+          "title": "GitHub - footballcsv/cache.updates: Cache - Football Match Updates - Week by ...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

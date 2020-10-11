@@ -10,6 +10,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -24,5 +28,124 @@
       },
       "message": "up export"
     }
-  ]
+  ],
+  "description": "sport.db.more - more open sports database tools & libraries",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 7,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 35,
+        "uniques": 2
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-27": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "clones": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2020-09-30": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-01": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "clones": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "clones": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-11": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 4
+    },
+    "2020-10-11": {
+      "stargazers_count": 4,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,57 @@
   ],
   "size": 6,
   "updated_at": "2018-10-05T03:08:55Z",
-  "pushed_at": "2017-01-13T20:22:09Z"
+  "pushed_at": "2017-01-13T20:22:09Z",
+  "description": "beer.db database schema docu",
+  "language": "HTML",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 3,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/openbeer/schema",
+          "title": "openbeer/schema: beer.db database schema docu",
+          "count": 3,
+          "uniques": 2
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 2
+        }
+      ]
+    },
+    "history": {
+      "2020-10-06": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

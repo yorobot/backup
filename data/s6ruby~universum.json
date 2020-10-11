@@ -25,6 +25,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 17
+    },
+    "2020-10-11": {
+      "stargazers_count": 17,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -39,5 +43,65 @@
       },
       "message": "Update NOTES.md"
     }
-  ]
+  ],
+  "description": "universum library / gem (ruby edition) - next generation ethereum 2.0 world computer runtime; run contract scripts / transactions (in plain vanilla / standard ruby) on the blockchain; update the (contract-protected / isolated) world states with plain vanilla / standard SQL - work-in-progress / experimental",
+  "language": "Ruby",
+  "topics": [
+    "universum",
+    "contracts",
+    "transactions",
+    "blockchain",
+    "sql",
+    "worldstate",
+    "worldcomputer",
+    "s6ruby",
+    "sruby"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/s6ruby/universum/blob/master/WHITEPAPER.md",
+          "title": "universum/WHITEPAPER.md at master · s6ruby/universum · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

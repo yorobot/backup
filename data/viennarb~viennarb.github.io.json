@@ -16,6 +16,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 5
+    },
+    "2020-10-11": {
+      "stargazers_count": 5,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -30,5 +34,55 @@
       },
       "message": "Update README.md"
     }
-  ]
+  ],
+  "description": "Website Source - Vienna.rb / Wien.rb - Ruby Meetup / Stammtisch in Vienna, Austria",
+  "language": null,
+  "topics": [
+    "ruby",
+    "vienna",
+    "austria",
+    "meetup",
+    "stammtisch",
+    "wien",
+    "scripting",
+    "programming"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 3,
+        "uniques": 3
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

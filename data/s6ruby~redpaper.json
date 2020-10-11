@@ -25,6 +25,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 16
+    },
+    "2020-10-11": {
+      "stargazers_count": 16,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -39,5 +43,58 @@
       },
       "message": "up maps and arrays"
     }
-  ]
+  ],
+  "description": "Red Paper ++ sruby - Small, Smart, Secure, Safe, Solid & Sound (S6) Ruby - The Ruby Programming Language for Contract / Transaction Scripts on the Blockchain World Computer - Yes, It's Just Ruby",
+  "language": null,
+  "topics": [
+    "sruby",
+    "contract",
+    "contracts",
+    "blockchain",
+    "solidity",
+    "universum",
+    "yul",
+    "vyper"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/s6ruby/redpaper",
+          "title": "GitHub - s6ruby/redpaper: Red Paper ++ sruby - Small, Smart, Secure, Safe, So...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

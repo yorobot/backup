@@ -7,6 +7,10 @@
   "history": {
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -21,5 +25,67 @@
       },
       "message": "up"
     }
-  ]
+  ],
+  "description": "cache  (for github api)",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 5,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 4,
+        "uniques": 4
+      },
+      "paths": [
+        {
+          "path": "/yorobot/cache.github",
+          "title": "yorobot/cache.github: cache (for github api)",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/cache",
+          "title": "yorobot/cache: cache (for github api)",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 3
+    },
+    "2020-10-11": {
+      "stargazers_count": 3,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,36 @@
   ],
   "size": 57,
   "updated_at": "2016-12-31T22:02:01Z",
-  "pushed_at": "2017-01-09T01:51:25Z"
+  "pushed_at": "2017-01-09T01:51:25Z",
+  "description": "Free open public domain beer, brewery n brewpub data for Mexico / North America",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

@@ -56,6 +56,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -72,5 +76,46 @@
     }
   ],
   "updated_at": "2017-11-11T20:57:43Z",
-  "pushed_at": "2017-03-02T08:18:12Z"
+  "pushed_at": "2017-03-02T08:18:12Z",
+  "description": "[ARCHIVE] S6 Blank v1 - Slideshow templates using HTML 5, CSS 3 'n' JavaScript (w/ jQuery) ",
+  "language": "CSS",
+  "topics": [
+    "slides",
+    "slideshow",
+    "presentation",
+    "presentations",
+    "s6"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

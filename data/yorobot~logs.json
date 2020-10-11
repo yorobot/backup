@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,179 @@
   ],
   "size": 172,
   "updated_at": "2020-10-08T05:14:18Z",
-  "pushed_at": "2020-10-08T05:14:16Z"
+  "pushed_at": "2020-10-08T05:14:16Z",
+  "description": "build logs",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 17,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 60,
+        "uniques": 12
+      },
+      "paths": [
+        {
+          "path": "/yorobot/logs",
+          "title": "yorobot/logs: build logs",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/logs/blob/master/lint.all.txt",
+          "title": "logs/lint.all.txt at master · yorobot/logs",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/logs/blob/master/lint.world.txt",
+          "title": "logs/lint.world.txt at master · yorobot/logs",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/logs/blob/master/lint.europe.txt",
+          "title": "logs/lint.europe.txt at master · yorobot/logs",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/logs/blob/master/lint.south_america.txt",
+          "title": "logs/lint.south_america.txt at master · yorobot/logs",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/logs/commit/d1b6add005d76d47470418f88878606f38281fcd",
+          "title": "auto-update week 41 · yorobot/logs@d1b6add",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/logs/commits/master",
+          "title": "Commits · yorobot/logs",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 9,
+          "uniques": 2
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 8,
+          "uniques": 4
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 9,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 3
+        }
+      },
+      "2020-09-30": {
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2020-10-01": {
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2020-10-02": {
+        "clones": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2020-10-09": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-10": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-11": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

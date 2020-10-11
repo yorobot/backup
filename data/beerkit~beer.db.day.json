@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -78,5 +82,53 @@
   ],
   "size": 186,
   "updated_at": "2014-12-17T09:32:49Z",
-  "pushed_at": "2014-12-17T09:32:49Z"
+  "pushed_at": "2014-12-17T09:32:49Z",
+  "description": "beer.db web app -  beer of the day, brewery of the day, breweries a-z, breweries by location",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/beerkit/beer.db.day",
+          "title": "GitHub - beerkit/beer.db.day: beer.db web app - beer of the day, brewery of t...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

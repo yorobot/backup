@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 56
+    },
+    "2020-10-11": {
+      "stargazers_count": 56,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -78,5 +82,51 @@
   ],
   "size": 28,
   "updated_at": "2020-06-18T12:00:02Z",
-  "pushed_at": "2018-02-16T06:43:52Z"
+  "pushed_at": "2018-02-16T06:43:52Z",
+  "description": "schemadoc gem - document your database schemas",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/schemadoc/schemadoc",
+          "title": "schemadoc/schemadoc: schemadoc gem - document your database schemas",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

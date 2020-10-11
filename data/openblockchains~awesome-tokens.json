@@ -37,6 +37,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 12
+    },
+    "2020-10-11": {
+      "stargazers_count": 12,
+      "forks_count": 12
     }
   },
   "commits": [
@@ -51,5 +55,92 @@
       },
       "message": "Create DecentralandManaToken.sol"
     }
-  ]
+  ],
+  "description": "A collection on how to build / run / issue / mint / print your own awesome (get-rich-quick) tokens in five / twenty / ninety minutes - Token sales! Initial coin offerings (ICOs)! Free easy money!",
+  "language": "Solidity",
+  "topics": [
+    "erc20",
+    "erc721",
+    "ethereum",
+    "ico",
+    "tokens",
+    "blockchain"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 9,
+        "uniques": 5
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/openblockchains/awesome-tokens",
+          "title": "openblockchains/awesome-tokens: A collection on how to build / run / issue / ...",
+          "count": 7,
+          "uniques": 5
+        },
+        {
+          "path": "/openblockchains/awesome-tokens/blob/master/contracts/TenXPayToken.sol",
+          "title": "awesome-tokens/TenXPayToken.sol at master · openblockchains/awesome-tokens · ...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/awesome-tokens/tree/master/contracts",
+          "title": "awesome-tokens/contracts at master · openblockchains/awesome-tokens · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 7,
+          "uniques": 5
+        }
+      ]
+    },
+    "history": {
+      "2020-10-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

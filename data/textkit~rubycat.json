@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,75 @@
   ],
   "size": 140,
   "updated_at": "2015-06-30T17:10:51Z",
-  "pushed_at": "2015-07-01T08:55:53Z"
+  "pushed_at": "2015-07-01T08:55:53Z",
+  "description": "rubycat gem - ruby (library) catalog (cards) command line tool (using the catalog.db machinery)",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 4,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/textkit/rubycat",
+          "title": "textkit/rubycat: rubycat gem - ruby (library) catalog (cards) command line to...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/textkit/rubycat/blob/master/lib/rubycat.rb",
+          "title": "rubycat/rubycat.rb at master · textkit/rubycat",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/textkit/rubycat/tree/master/lib",
+          "title": "rubycat/lib at master · textkit/rubycat",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/textkit/rubycat/tree/master/lib/rubycat",
+          "title": "rubycat/lib/rubycat at master · textkit/rubycat",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "yandex.ru",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-06": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

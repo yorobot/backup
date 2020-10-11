@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,57 @@
   ],
   "size": 164,
   "updated_at": "2016-03-30T21:11:50Z",
-  "pushed_at": "2014-04-16T17:20:39Z"
+  "pushed_at": "2014-04-16T17:20:39Z",
+  "description": "Free open public domain football.db addon - teams, leagues, etc. names in Spanish/Español (es)",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 2,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/openfootball/futbol-es",
+          "title": "GitHub - openfootball/futbol-es: Free open public domain football.db addon - ...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/futbol-es/tree/master/america-del-sur",
+          "title": "futbol-es/america-del-sur at master · openfootball/futbol-es · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-30": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

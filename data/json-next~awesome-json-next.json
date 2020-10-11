@@ -47,6 +47,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 27
+    },
+    "2020-10-11": {
+      "stargazers_count": 27,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -63,5 +67,89 @@
     }
   ],
   "updated_at": "2020-10-08T15:33:16Z",
-  "pushed_at": "2019-11-22T15:47:31Z"
+  "pushed_at": "2019-11-22T15:47:31Z",
+  "description": "A Collection of What's Next for Awesome JSON (JavaScript Object Notation) for Structured (Meta) Data in Text - JSON5, HJSON, HanSON, TJSON, SON, CSON, USON, JSONX/JSON11 & Many More",
+  "language": null,
+  "topics": [
+    "json",
+    "json5",
+    "son",
+    "hjson",
+    "opendata",
+    "data",
+    "txt",
+    "metadata",
+    "hanson",
+    "cson",
+    "uson",
+    "jsonlines",
+    "ndjson",
+    "hocon",
+    "hcl",
+    "ucl"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 4,
+        "uniques": 4
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/json-next/awesome-json-next",
+          "title": "json-next/awesome-json-next: A Collection of What's Next for Awesome JSON (Ja...",
+          "count": 3,
+          "uniques": 3
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "blog.kellybrazil.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

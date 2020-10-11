@@ -31,6 +31,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 5
+    },
+    "2020-10-11": {
+      "stargazers_count": 5,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -45,5 +49,48 @@
       },
       "message": "fix typo cvs to csv :-)"
     }
-  ]
+  ],
+  "description": "CSV v1.1 Format - Comma-Separated (Named) Values, Version: 1.1 - CSV Evolved (for Humans) - Easy-to-Write (with Your Hand), Easy-to-Read (with Your Eyes)",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 3,
+        "uniques": 3
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

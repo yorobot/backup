@@ -16,6 +16,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 13
+    },
+    "2020-10-11": {
+      "stargazers_count": 13,
+      "forks_count": 4
     }
   },
   "commits": [
@@ -199,5 +203,21 @@
         }
       }
     }
-  }
+  },
+  "description": "Free open public domain football data for Austria (Österreich) incl. Österr. Bundesliga, Zweite Liga, Regionalliga (Ost, Mitte, West), ÖFB Cup, etc.",
+  "language": null,
+  "topics": [
+    "football",
+    "opendata",
+    "austria",
+    "bundesliga",
+    "salzburg",
+    "wien",
+    "ersteliga",
+    "vienna",
+    "graz",
+    "linz",
+    "rapid",
+    "sqlite"
+  ]
 }

@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 3
+    },
+    "2020-10-11": {
+      "stargazers_count": 3,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,36 @@
   ],
   "size": 212,
   "updated_at": "2020-06-29T15:35:55Z",
-  "pushed_at": "2015-06-11T08:15:04Z"
+  "pushed_at": "2015-06-11T08:15:04Z",
+  "description": "Free open public domain data for Germany (Deutschland) / Europe incl. states (Länder), cities, counties (Landkreise), etc.",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

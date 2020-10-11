@@ -53,6 +53,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 9
+    },
+    "2020-10-11": {
+      "stargazers_count": 9,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -69,5 +73,73 @@
     }
   ],
   "updated_at": "2020-01-02T19:03:55Z",
-  "pushed_at": "2018-08-04T17:53:20Z"
+  "pushed_at": "2018-08-04T17:53:20Z",
+  "description": "Website and Spec(ification) - Text with Instructions (.texti) - Structured Documents in Text with Formatting Conventions - The Best of Markdown, Wikipedia Markup, LaTeX & Friends - All Together Now",
+  "language": null,
+  "topics": [
+    "markdown",
+    "markup",
+    "wikipedia",
+    "texti",
+    "text",
+    "txt",
+    "html",
+    "latex",
+    "tex",
+    "asciidoc",
+    "commonmark"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 4,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/texti/texti.github.io/blob/master/samples/Markup_language.texti.txt",
+          "title": "texti.github.io/Markup_language.texti.txt at master · texti/texti.github.io",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/texti/texti.github.io",
+          "title": "texti/texti.github.io: Website and Spec(ification) - Text with Instructions (...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/texti/texti.github.io/edit/master/README.md",
+          "title": "Editing texti.github.io/README.md at master · texti/texti.github.io",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "texti.github.io",
+          "count": 3,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-06": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

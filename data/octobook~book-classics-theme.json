@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 6
+    },
+    "2020-10-11": {
+      "stargazers_count": 6,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -78,5 +82,54 @@
   ],
   "size": 145,
   "updated_at": "2018-01-05T12:04:11Z",
-  "pushed_at": "2018-01-05T11:29:27Z"
+  "pushed_at": "2018-01-05T11:29:27Z",
+  "description": "Classics Book Theme (w/ Manuscripts Format)",
+  "language": "HTML",
+  "topics": [
+    "octobook",
+    "jekyll",
+    "manuscripts",
+    "books",
+    "txt",
+    "markdown",
+    "jekyllthemes",
+    "classics"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/octobook/book-classics-theme",
+          "title": "GitHub - octobook/book-classics-theme: Classics Book Theme (w/ Manuscripts Fo...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-10-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

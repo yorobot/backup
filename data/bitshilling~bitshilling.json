@@ -47,6 +47,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 12
+    },
+    "2020-10-11": {
+      "stargazers_count": 12,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -63,5 +67,45 @@
     }
   ],
   "updated_at": "2020-02-13T16:50:26Z",
-  "pushed_at": "2017-12-26T15:34:37Z"
+  "pushed_at": "2017-12-26T15:34:37Z",
+  "description": "Shilling (or Schilling) :moneybag::moneybag::moneybag: on the Blockchain! - Public Distributed (Hyper) :globe_with_meridians: Ledger Book :ledger::chart_with_upwards_trend: - Rock-Solid Alpine Dollar from Austria  ",
+  "language": null,
+  "topics": [
+    "blockchain",
+    "schilling",
+    "cryptocurrency",
+    "cryptohashes",
+    "austria",
+    "git",
+    "distributed-ledger",
+    "distributed-database",
+    "shilling",
+    "cryptos"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -78,5 +82,48 @@
   ],
   "size": 34,
   "updated_at": "2016-02-27T17:54:11Z",
-  "pushed_at": "2016-02-27T09:56:27Z"
+  "pushed_at": "2016-02-27T09:56:27Z",
+  "description": "Jekyll Plugins 'n' Tools (Book Edition) by Ben Balter, Parker Moore, Jordon Bedwell, Sylvester Keil, Gerald Bauer, et al",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 3,
+        "uniques": 3
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

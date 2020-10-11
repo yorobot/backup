@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 198
+    },
+    "2020-10-11": {
+      "stargazers_count": 198,
+      "forks_count": 10
     }
   },
   "commits": [
@@ -78,5 +82,156 @@
   ],
   "size": 75,
   "updated_at": "2020-10-02T08:58:50Z",
-  "pushed_at": "2019-10-07T16:41:47Z"
+  "pushed_at": "2019-10-07T16:41:47Z",
+  "description": "A collection of awesome Ruby web servers  (single-threaded, multi-threaded, multiplexed, etc.)",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 39,
+        "uniques": 18
+      },
+      "clones": {
+        "count": 5,
+        "uniques": 5
+      },
+      "paths": [
+        {
+          "path": "/planetruby/awesome-webservers",
+          "title": "planetruby/awesome-webservers: A collection of awesome Ruby web servers (sing...",
+          "count": 36,
+          "uniques": 16
+        },
+        {
+          "path": "/planetruby/awesome-webservers/blob/master/benchmark/benchmarks.md",
+          "title": "awesome-webservers/benchmarks.md at master · planetruby/awesome-webservers",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/awesome-webservers/pull/5",
+          "title": "Note support for pipelining by tarcieri · Pull Request #5 · planetruby/awesom...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 13,
+          "uniques": 10
+        },
+        {
+          "referrer": "github.daumkakao.com",
+          "count": 11,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "stackoverflow.com",
+          "count": 2,
+          "uniques": 2
+        }
+      ]
+    },
+    "history": {
+      "2020-09-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 7,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 10,
+          "uniques": 3
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

@@ -47,6 +47,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -63,5 +67,36 @@
     }
   ],
   "updated_at": "2018-01-03T07:01:50Z",
-  "pushed_at": "2018-01-02T10:05:14Z"
+  "pushed_at": "2018-01-02T10:05:14Z",
+  "description": "Gem Series ++ Project Automation & Database Documentation Tools by Gerald Bauer et al - quik • hoe • schemadoc • erd • annotate • and more",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

@@ -47,6 +47,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 12
+    },
+    "2020-10-11": {
+      "stargazers_count": 12,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -63,5 +67,45 @@
     }
   ],
   "updated_at": "2018-10-24T06:08:15Z",
-  "pushed_at": "2018-04-03T09:46:26Z"
+  "pushed_at": "2018-04-03T09:46:26Z",
+  "description": "shilling (or schilling) command line tool (and core library) - shilling (or schilling) :moneybag::moneybag::moneybag: on the blockchain! rock-solid alpine dollar from austria; print (mine) your own shillings; run your own federated shilling central bank nodes w/ public distributed (hyper) :globe_with_meridians: ledger book :ledger::chart_with_upwards_trend: on the blockchain peer-to-peer over HTTP; revolutionize the world one block at a time with cryptos",
+  "language": "Ruby",
+  "topics": [
+    "austria",
+    "cryptos",
+    "shilling",
+    "schilling",
+    "blockchain",
+    "merkletree",
+    "blockchain-lite",
+    "peer-to-peer",
+    "centralbank",
+    "hyperledger"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

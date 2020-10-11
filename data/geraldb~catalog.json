@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 3
+    },
+    "2020-10-11": {
+      "stargazers_count": 3,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -78,5 +82,36 @@
   ],
   "size": 156,
   "updated_at": "2020-01-18T00:09:03Z",
-  "pushed_at": "2015-07-12T17:13:00Z"
+  "pushed_at": "2015-07-12T17:13:00Z",
+  "description": "card catalog listings for datasets, books, tools, libraries, etc.",
+  "language": "JavaScript",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

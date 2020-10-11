@@ -31,6 +31,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 27
+    },
+    "2020-10-11": {
+      "stargazers_count": 27,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -45,5 +49,83 @@
       },
       "message": "Update smarter-csv.md"
     }
-  ]
+  ],
+  "description": "comma-separated values (csv) scripts & tools docs",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 6,
+        "uniques": 5
+      },
+      "clones": {
+        "count": 3,
+        "uniques": 3
+      },
+      "paths": [
+        {
+          "path": "/csvreader/docs/blob/master/sorry-sorry-sorry.md",
+          "title": "docs/sorry-sorry-sorry.md at master · csvreader/docs · GitHub",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/csvreader/docs/blob/master/csv-array-hash-struct.md",
+          "title": "docs/csv-array-hash-struct.md at master · csvreader/docs · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/csvreader/docs/blob/master/why-the-csv-stdlib-is-broken.md",
+          "title": "docs/why-the-csv-stdlib-is-broken.md at master · csvreader/docs",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-10-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

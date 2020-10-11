@@ -13,6 +13,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 18
+    },
+    "2020-10-11": {
+      "stargazers_count": 18,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -27,5 +31,53 @@
       },
       "message": "Update news.rb"
     }
-  ]
+  ],
+  "description": "news.rb  quick starter script - build your own facebook newsfeed in 1-2-3 steps in 5 minutes",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 3,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/feedreader/news.rb",
+          "title": "feedreader/news.rb: news.rb quick starter script - build your own facebook ne...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/news.rb/blob/master/news.rb",
+          "title": "news.rb/news.rb at master · feedreader/news.rb",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-10-03": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

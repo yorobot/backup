@@ -37,6 +37,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 5
+    },
+    "2020-10-11": {
+      "stargazers_count": 5,
+      "forks_count": 4
     }
   },
   "commits": [
@@ -51,5 +55,79 @@
       },
       "message": "Add files via upload"
     }
-  ]
+  ],
+  "description": "Bitcoin & Blockchain Whitepapers - Inside the New New Crypto Ponzi Economics",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 5,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/openblockchains/blockchain-whitepapers",
+          "title": "GitHub - openblockchains/blockchain-whitepapers: Bitcoin & Blockchain Whitepa...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openblockchains/blockchain-whitepapers/blob/master/bitcoin.pdf",
+          "title": "blockchain-whitepapers/bitcoin.pdf at master · openblockchains/blockchain-whi...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/blockchain-whitepapers/blob/master/bitcoin-v0.1-released.txt",
+          "title": "blockchain-whitepapers/bitcoin-v0.1-released.txt at master · openblockchains/...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/blockchain-whitepapers/blob/master/what-satoshi-did-not-know.pdf",
+          "title": "blockchain-whitepapers/what-satoshi-did-not-know.pdf at master · openblockcha...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-11": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

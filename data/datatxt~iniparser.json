@@ -53,6 +53,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -69,5 +73,105 @@
     }
   ],
   "updated_at": "2020-02-24T08:55:25Z",
-  "pushed_at": "2020-02-24T08:55:23Z"
+  "pushed_at": "2020-02-24T08:55:23Z",
+  "description": "iniparser gem - read /parse INI configuration, settings and data files into a hash (incl. named subsections)",
+  "language": "Ruby",
+  "topics": [
+    "ini",
+    "config",
+    "txt",
+    "hash",
+    "settings",
+    "ruby",
+    "datatxt"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 15,
+        "uniques": 3
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/datatxt/iniparser",
+          "title": "GitHub - datatxt/iniparser: iniparser gem - read /parse INI configuration, se...",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/datatxt/iniparser/tree/master/test",
+          "title": "iniparser/test at master · datatxt/iniparser · GitHub",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/datatxt/iniparser/blob/master/test/helper.rb",
+          "title": "iniparser/helper.rb at master · datatxt/iniparser · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/datatxt/iniparser/blob/master/NOTES.md",
+          "title": "iniparser/NOTES.md at master · datatxt/iniparser · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/datatxt/iniparser/blob/master/test/test_parser.rb",
+          "title": "iniparser/test_parser.rb at master · datatxt/iniparser · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 3,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 11,
+          "uniques": 2
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

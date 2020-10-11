@@ -47,6 +47,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -63,5 +67,61 @@
     }
   ],
   "updated_at": "2017-07-11T12:20:15Z",
-  "pushed_at": "2017-12-16T09:17:13Z"
+  "pushed_at": "2017-12-16T09:17:13Z",
+  "description": "JSON v1.1 Feed - JSON Feed Evolved for Humans thanks to JSON: 1.1 # JSON with Extensions (JSONX) - Easy-to-Write, Easy-to-Read",
+  "language": null,
+  "topics": [
+    "jsonfeed",
+    "json11feed",
+    "rss",
+    "atom",
+    "feedtxt",
+    "jsonx",
+    "json11",
+    "jsonxi",
+    "jsonii",
+    "jsoniifeed",
+    "jsonnext"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/json-next/json-feed",
+          "title": "json-next/json-feed: JSON v1.1 Feed - JSON Feed Evolved for Humans thanks to ...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

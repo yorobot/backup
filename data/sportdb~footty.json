@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 13
+    },
+    "2020-10-11": {
+      "stargazers_count": 13,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -78,5 +82,55 @@
   ],
   "size": 27,
   "updated_at": "2019-01-21T01:39:01Z",
-  "pushed_at": "2018-07-23T11:10:34Z"
+  "pushed_at": "2018-07-23T11:10:34Z",
+  "description": "footty gem - football.db command line client for world cup (russia 2018) and more - who's playing today?",
+  "language": "Ruby",
+  "topics": [
+    "worldcup",
+    "worldcup2018",
+    "russia2018"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/sportdb/footty",
+          "title": "GitHub - sportdb/footty: footty gem - football.db command line client for wor...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-10-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

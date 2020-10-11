@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 30
+    },
+    "2020-10-11": {
+      "stargazers_count": 30,
+      "forks_count": 66
     }
   },
   "commits": [
@@ -78,5 +82,118 @@
   ],
   "size": 11,
   "updated_at": "2020-06-25T10:52:43Z",
-  "pushed_at": "2017-01-11T05:35:18Z"
+  "pushed_at": "2017-01-11T05:35:18Z",
+  "description": "jekyll starter theme - minimial",
+  "language": "HTML",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 18,
+        "uniques": 11
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/henrythemes/jekyll-starter-theme",
+          "title": "henrythemes/jekyll-starter-theme: jekyll starter theme - minimial",
+          "count": 16,
+          "uniques": 10
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 9,
+          "uniques": 6
+        },
+        {
+          "referrer": "jekyllthemes.org",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "Bing",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "henrythemes.github.io",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-27": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

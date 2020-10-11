@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 96
+    },
+    "2020-10-11": {
+      "stargazers_count": 96,
+      "forks_count": 15
     }
   },
   "commits": [
@@ -78,5 +82,85 @@
   ],
   "size": 77,
   "updated_at": "2020-05-03T00:19:42Z",
-  "pushed_at": "2016-09-13T18:48:22Z"
+  "pushed_at": "2016-09-13T18:48:22Z",
+  "description": "impress.js - Slide Show (S9) Template Pack",
+  "language": "JavaScript",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 4,
+        "uniques": 3
+      },
+      "clones": {
+        "count": 3,
+        "uniques": 3
+      },
+      "paths": [
+        {
+          "path": "/slideshow-templates/slideshow-impress.js",
+          "title": "slideshow-templates/slideshow-impress.js: impress.js - Slide Show (S9) Templa...",
+          "count": 4,
+          "uniques": 3
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "news.ycombinator.com",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "htmldrive.net",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-30": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

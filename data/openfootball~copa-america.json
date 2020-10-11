@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 3
+    },
+    "2020-10-11": {
+      "stargazers_count": 3,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -78,5 +82,61 @@
   ],
   "size": 7,
   "updated_at": "2017-07-29T14:50:55Z",
-  "pushed_at": "2017-07-29T14:50:54Z"
+  "pushed_at": "2017-07-29T14:50:54Z",
+  "description": "Free open public domain football data (football.db) for national teams in South America (e.g. Copa América)",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 2,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/openfootball/copa-america",
+          "title": "GitHub - openfootball/copa-america: Free open public domain football data (fo...",
+          "count": 2,
+          "uniques": 2
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "openfootball.github.io",
+          "count": 2,
+          "uniques": 2
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

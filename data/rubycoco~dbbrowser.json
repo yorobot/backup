@@ -34,6 +34,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 46
+    },
+    "2020-10-11": {
+      "stargazers_count": 46,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -48,5 +52,69 @@
       },
       "message": "up manifest"
     }
-  ]
+  ],
+  "description": "dbbrowser gem - database browser (connections, schema, tables, records, etc.) as mountable web app",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 3,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/rubycoco/dbbrowser/tree/master/sandbox",
+          "title": "dbbrowser/sandbox at master · rubycoco/dbbrowser",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/dbbrowser",
+          "title": "rubycoco/dbbrowser: dbbrowser gem - database browser (connections, schema, ta...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-30": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

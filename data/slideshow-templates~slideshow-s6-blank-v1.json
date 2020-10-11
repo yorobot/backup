@@ -50,6 +50,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -66,5 +70,47 @@
     }
   ],
   "updated_at": "2017-11-07T20:36:40Z",
-  "pushed_at": "2017-11-07T20:36:39Z"
+  "pushed_at": "2017-11-07T20:36:39Z",
+  "description": "[ARCHIVE] S6 Blank v1 - Slide Show (S9) Template Pack",
+  "language": "JavaScript",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/slideshow-templates/slideshow-s6-blank-v1",
+          "title": "GitHub - slideshow-templates/slideshow-s6-blank-v1: [ARCHIVE] S6 Blank v1 - S...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

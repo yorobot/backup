@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 28
+    },
+    "2020-10-11": {
+      "stargazers_count": 28,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,92 @@
   ],
   "size": 27,
   "updated_at": "2020-10-07T00:14:17Z",
-  "pushed_at": "2019-08-30T17:03:24Z"
+  "pushed_at": "2019-08-30T17:03:24Z",
+  "description": "quik gem - ruby quick starter template script wizard .:. the missing code generator",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 7,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/quikstart/quik",
+          "title": "quikstart/quik: quik gem - ruby quick starter template script wizard .:. the ...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/quikstart/quik/blob/master/bin/qk",
+          "title": "quik/qk at master · quikstart/quik · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/quikstart/quik/blob/master/lib/quik.rb",
+          "title": "quik/quik.rb at master · quikstart/quik · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/quikstart/quik/tree/master/bin",
+          "title": "quik/bin at master · quikstart/quik · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/quikstart/quik/tree/master/lib",
+          "title": "quik/lib at master · quikstart/quik · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

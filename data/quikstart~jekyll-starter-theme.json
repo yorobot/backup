@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 3
+    },
+    "2020-10-11": {
+      "stargazers_count": 3,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -78,5 +82,47 @@
   ],
   "size": 5,
   "updated_at": "2018-06-04T21:26:26Z",
-  "pushed_at": "2016-10-10T14:28:18Z"
+  "pushed_at": "2016-10-10T14:28:18Z",
+  "description": "jekyll quick starter template / scaffold - build your own (gem-packaged) theme",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/quikstart/jekyll-starter-theme/tree/master/template",
+          "title": "jekyll-starter-theme/template at master · quikstart/jekyll-starter-theme · Gi...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-10-10": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

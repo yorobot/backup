@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 3
+    },
+    "2020-10-11": {
+      "stargazers_count": 3,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,75 @@
   ],
   "size": 336,
   "updated_at": "2014-02-18T15:45:37Z",
-  "pushed_at": "2014-02-18T15:45:36Z"
+  "pushed_at": "2014-02-18T15:45:36Z",
+  "description": "Free open public domain football data (football.db) addon for market quotes (odds, etc) for Champions League",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 5,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/openbookie/market.europe-champions-league",
+          "title": "openbookie/market.europe-champions-league: Free open public domain football d...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openbookie/market.europe-champions-league/tree/master/2012_13",
+          "title": "market.europe-champions-league/2012_13 at master · openbookie/market.europe-c...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbookie/market.europe-champions-league/tree/master/2013_14",
+          "title": "market.europe-champions-league/2013_14 at master · openbookie/market.europe-c...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbookie/market.europe-champions-league/tree/master/setups",
+          "title": "market.europe-champions-league/setups at master · openbookie/market.europe-ch...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 2
+        }
+      ]
+    },
+    "history": {
+      "2020-10-04": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

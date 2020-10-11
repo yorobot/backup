@@ -34,6 +34,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 34
+    },
+    "2020-10-11": {
+      "stargazers_count": 34,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -48,5 +52,72 @@
       },
       "message": "up"
     }
-  ]
+  ],
+  "description": "almost-sinatra gem - six lines of almost sinatra refactored and bundled up for easy (re)use - build your own webframework from scratch with rack and tilt",
+  "language": "Ruby",
+  "topics": [
+    "sinatra",
+    "ruby",
+    "rack",
+    "tilt"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 3,
+        "uniques": 3
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/rubycoco/almost-sinatra",
+          "title": "rubycoco/almost-sinatra: almost-sinatra gem - six lines of almost sinatra ref...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycoco/almost-sinatra/stargazers",
+          "title": "Stargazers · rubycoco/almost-sinatra",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 3
+        }
+      ]
+    },
+    "history": {
+      "2020-10-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

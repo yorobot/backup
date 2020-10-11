@@ -16,6 +16,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 63
+    },
+    "2020-10-11": {
+      "stargazers_count": 63,
+      "forks_count": 34
     }
   },
   "commits": [
@@ -30,5 +34,196 @@
       },
       "message": "up 2020"
     }
-  ]
+  ],
+  "description": "football.db quick starter datafile templates for worldcup.db, euro.db, england.db, etc. - build your own football.db with the sportdb command line tool",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 144,
+        "uniques": 53
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/openfootball/quick-starter",
+          "title": "openfootball/quick-starter: football.db quick starter datafile templates for ...",
+          "count": 83,
+          "uniques": 50
+        },
+        {
+          "path": "/openfootball/quick-starter/blob/master/eng2020-21.rb",
+          "title": "quick-starter/eng2020-21.rb at master · openfootball/quick-starter · GitHub",
+          "count": 20,
+          "uniques": 7
+        },
+        {
+          "path": "/openfootball/quick-starter/blob/master/cl2020-21.rb",
+          "title": "quick-starter/cl2020-21.rb at master · openfootball/quick-starter · GitHub",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/quick-starter/blob/master/at2020-21.rb",
+          "title": "quick-starter/at2020-21.rb at master · openfootball/quick-starter · GitHub",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/openfootball/quick-starter/blob/master/es.rb",
+          "title": "quick-starter/es.rb at master · openfootball/quick-starter · GitHub",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/openfootball/quick-starter/blob/master/worldcup.rb",
+          "title": "quick-starter/worldcup.rb at master · openfootball/quick-starter · GitHub",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/openfootball/quick-starter/find/master",
+          "title": "File Finder · GitHub",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/openfootball/quick-starter/blob/master/at.rb",
+          "title": "quick-starter/at.rb at master · openfootball/quick-starter · GitHub",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/quick-starter/blob/master/cl.rb",
+          "title": "quick-starter/cl.rb at master · openfootball/quick-starter · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/quick-starter/blob/master/it2020-21.rb",
+          "title": "quick-starter/it2020-21.rb at master · openfootball/quick-starter",
+          "count": 2,
+          "uniques": 2
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 68,
+          "uniques": 47
+        },
+        {
+          "referrer": "sportdb.github.io",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "referrer": "rubydoc.info",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "groups.google.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-27": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-09-28": {
+        "views": {
+          "count": 26,
+          "uniques": 10
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 31,
+          "uniques": 8
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 6,
+          "uniques": 5
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 43,
+          "uniques": 6
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 7,
+          "uniques": 6
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2020-10-10": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

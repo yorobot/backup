@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -78,5 +82,74 @@
   ],
   "size": 462,
   "updated_at": "2020-05-24T17:42:07Z",
-  "pushed_at": "2020-05-24T17:42:05Z"
+  "pushed_at": "2020-05-24T17:42:05Z",
+  "description": "blank - planet template pack",
+  "language": "CSS",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 3,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 3,
+        "uniques": 3
+      },
+      "paths": [
+        {
+          "path": "/planet-templates/planet-blank",
+          "title": "planet-templates/planet-blank: blank - planet template pack",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planet-templates/planet-blank/network/members",
+          "title": "Forks · planet-templates/planet-blank",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "feedreader.github.io",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-02": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-30": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

@@ -34,6 +34,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 6
+    },
+    "2020-10-11": {
+      "stargazers_count": 6,
+      "forks_count": 4
     }
   },
   "commits": [
@@ -48,5 +52,179 @@
       },
       "message": "Update champs.csv"
     }
-  ]
+  ],
+  "description": "Football data for European Champions League (incl. European Cup / European Champion Clubs' Cup)",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 158,
+        "uniques": 42
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/footballcsv/europe-champions-league",
+          "title": "GitHub - footballcsv/europe-champions-league: Football data for European Cham...",
+          "count": 60,
+          "uniques": 42
+        },
+        {
+          "path": "/footballcsv/europe-champions-league/blob/master/2015-16/champs.csv",
+          "title": "europe-champions-league/champs.csv at master · footballcsv/europe-champions-l...",
+          "count": 21,
+          "uniques": 17
+        },
+        {
+          "path": "/footballcsv/europe-champions-league/tree/master/2015-16",
+          "title": "europe-champions-league/2015-16 at master · footballcsv/europe-champions-league",
+          "count": 20,
+          "uniques": 18
+        },
+        {
+          "path": "/footballcsv/europe-champions-league/blob/master/1981-82/champs.csv",
+          "title": "europe-champions-league/champs.csv at master · footballcsv/europe-champions-l...",
+          "count": 9,
+          "uniques": 1
+        },
+        {
+          "path": "/footballcsv/europe-champions-league/find/master",
+          "title": "File Finder · GitHub",
+          "count": 7,
+          "uniques": 4
+        },
+        {
+          "path": "/footballcsv/europe-champions-league/blob/master/1955-56/champs.csv",
+          "title": "europe-champions-league/champs.csv at master · footballcsv/europe-champions-l...",
+          "count": 5,
+          "uniques": 5
+        },
+        {
+          "path": "/footballcsv/europe-champions-league/commit/90e4c92f133bc6c1342d271d299b120f36cef986",
+          "title": "up away goals · footballcsv/europe-champions-league@90e4c92 · GitHub",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/footballcsv/europe-champions-league/tree/master/1955-56",
+          "title": "europe-champions-league/1955-56 at master · footballcsv/europe-champions-league",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/footballcsv/europe-champions-league/tree/master/2014-15",
+          "title": "europe-champions-league/2014-15 at master · footballcsv/europe-champions-leag...",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/footballcsv/europe-champions-league/blob/master/2014-15/champs.csv",
+          "title": "europe-champions-league/champs.csv at master · footballcsv/europe-champions-l...",
+          "count": 2,
+          "uniques": 2
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 53,
+          "uniques": 38
+        },
+        {
+          "referrer": "footballcsv.github.io",
+          "count": 5,
+          "uniques": 5
+        },
+        {
+          "referrer": "kaggle.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 26,
+          "uniques": 6
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 17,
+          "uniques": 2
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 12,
+          "uniques": 5
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 37,
+          "uniques": 6
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 10,
+          "uniques": 3
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 13,
+          "uniques": 5
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 7,
+          "uniques": 3
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 18,
+          "uniques": 5
+        }
+      }
+    }
+  }
 }

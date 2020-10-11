@@ -47,6 +47,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -63,5 +67,42 @@
     }
   ],
   "updated_at": "2018-01-03T07:40:21Z",
-  "pushed_at": "2018-01-03T08:38:10Z"
+  "pushed_at": "2018-01-03T08:38:10Z",
+  "description": "Gem Series ++ Web Services (HTTP JSON APIs) the Modern Micro Way by Gerald Bauer et al - almost-sinatra • webservice • worlddb • beerdb • sportdb • feedparser • json-next • feedtxt and more",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

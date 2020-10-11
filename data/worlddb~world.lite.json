@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 51
+    },
+    "2020-10-11": {
+      "stargazers_count": 51,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -78,5 +82,63 @@
   ],
   "size": 327,
   "updated_at": "2019-09-16T16:13:39Z",
-  "pushed_at": "2014-08-22T17:25:57Z"
+  "pushed_at": "2014-08-22T17:25:57Z",
+  "description": "worldlite gem - lightweight public domain country data (all data included as good ol' ruby code - no database, no dependencies, no copyright)",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 2,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/worlddb/world.lite",
+          "title": "GitHub - worlddb/world.lite: worldlite gem - lightweight public domain countr...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.lite/commit/92048af04b63c92b8b6219c7d948de5fae826481",
+          "title": "up readme · worlddb/world.lite@92048af · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "m.search.naver.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

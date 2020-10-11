@@ -10,6 +10,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -24,5 +28,99 @@
       },
       "message": "up"
     }
-  ]
+  ],
+  "description": "Cache - Football Leagues - Season by Season",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 16,
+        "uniques": 5
+      },
+      "clones": {
+        "count": 0,
+        "uniques": 0
+      },
+      "paths": [
+        {
+          "path": "/footballcsv/cache.leagues",
+          "title": "GitHub - footballcsv/cache.leagues: Cache - Football Leagues - Season by Season",
+          "count": 6,
+          "uniques": 5
+        },
+        {
+          "path": "/footballcsv/cache.leagues/blob/master/2019-20/de.2.csv",
+          "title": "File Finder",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/footballcsv/cache.leagues/find/master",
+          "title": "File Finder",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/footballcsv/cache.leagues/tree/master/2019-20",
+          "title": "cache.leagues/2019-20 at master · footballcsv/cache.leagues · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/footballcsv/cache.leagues/blob/master/2003-04/de.1.csv",
+          "title": "cache.leagues/de.1.csv at master · footballcsv/cache.leagues",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/footballcsv/cache.leagues/blob/master/2019-20/fr.1.csv",
+          "title": "cache.leagues/fr.1.csv at master · footballcsv/cache.leagues",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 8,
+          "uniques": 5
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 10,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

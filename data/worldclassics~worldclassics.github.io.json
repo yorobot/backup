@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 4
+    },
+    "2020-10-11": {
+      "stargazers_count": 4,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,51 @@
   ],
   "size": 12,
   "updated_at": "2018-12-22T04:51:07Z",
-  "pushed_at": "2017-11-28T17:37:09Z"
+  "pushed_at": "2017-11-28T17:37:09Z",
+  "description": "World Classics Bookshelf",
+  "language": "HTML",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/worldclassics/worldclassics.github.io",
+          "title": "worldclassics/worldclassics.github.io: World Classics Bookshelf",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

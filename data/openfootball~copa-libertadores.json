@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 4
+    },
+    "2020-10-11": {
+      "stargazers_count": 4,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -78,5 +82,90 @@
   ],
   "size": 22,
   "updated_at": "2017-02-02T12:16:54Z",
-  "pushed_at": "2017-07-29T14:45:51Z"
+  "pushed_at": "2017-07-29T14:45:51Z",
+  "description": "Free open public domain football data (football.db) for Copa Libertadores (South America)",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 6,
+        "uniques": 4
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/openfootball/copa-libertadores",
+          "title": "GitHub - openfootball/copa-libertadores: Free open public domain football dat...",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/openfootball/copa-libertadores/blob/master/setups/all.txt",
+          "title": "copa-libertadores/all.txt at master · openfootball/copa-libertadores · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/copa-libertadores/tree/master/setups",
+          "title": "copa-libertadores/setups at master · openfootball/copa-libertadores · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "openfootball.github.io",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-30": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

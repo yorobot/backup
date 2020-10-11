@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 17
+    },
+    "2020-10-11": {
+      "stargazers_count": 17,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -78,5 +82,87 @@
   ],
   "size": 1536,
   "updated_at": "2020-07-04T16:04:05Z",
-  "pushed_at": "2016-12-06T14:49:18Z"
+  "pushed_at": "2016-12-06T14:49:18Z",
+  "description": "reveal.js - Slide Show (S9) Template Pack",
+  "language": "CSS",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 9,
+        "uniques": 4
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/slideshow-templates/slideshow-reveal.js",
+          "title": "GitHub - slideshow-templates/slideshow-reveal.js: reveal.js - Slide Show (S9)...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/slideshow-templates/slideshow-reveal.js/actions",
+          "title": "Actions · slideshow-templates/slideshow-reveal.js",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/slideshow-templates/slideshow-reveal.js/issues",
+          "title": "Issues · slideshow-templates/slideshow-reveal.js",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/slideshow-templates/slideshow-reveal.js/projects",
+          "title": "Projects · slideshow-templates/slideshow-reveal.js",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/slideshow-templates/slideshow-reveal.js/pulls",
+          "title": "Pull requests · slideshow-templates/slideshow-reveal.js",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "slideshow-templates.github.io",
+          "count": 2,
+          "uniques": 2
+        }
+      ]
+    },
+    "history": {
+      "2020-09-27": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

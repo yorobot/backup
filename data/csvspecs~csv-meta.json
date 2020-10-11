@@ -31,6 +31,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -45,5 +49,57 @@
       },
       "message": "Update README.md"
     }
-  ]
+  ],
+  "description": "CSV (Inline) Meta Data Formats - CSV in CSV, Attribute-Relation \"Classic\", Attribute-Relation \"Inline\", Front Matter in YAML and More",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 3,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/csvspecs/csv-meta",
+          "title": "GitHub - csvspecs/csv-meta: CSV (Inline) Meta Data Formats - CSV in CSV, Attr...",
+          "count": 3,
+          "uniques": 2
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 2,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-02": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

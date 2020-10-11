@@ -50,6 +50,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 12
+    },
+    "2020-10-11": {
+      "stargazers_count": 12,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -66,5 +70,36 @@
     }
   ],
   "updated_at": "2017-11-25T04:43:34Z",
-  "pushed_at": "2017-08-31T18:37:10Z"
+  "pushed_at": "2017-08-31T18:37:10Z",
+  "description": "world.db web service starter sample -  build your own HTTP JSON API using the world.db",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

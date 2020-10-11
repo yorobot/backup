@@ -47,6 +47,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 55
+    },
+    "2020-10-11": {
+      "stargazers_count": 55,
+      "forks_count": 11
     }
   },
   "commits": [
@@ -63,5 +67,42 @@
     }
   ],
   "updated_at": "2020-02-21T08:42:30Z",
-  "pushed_at": "2018-01-02T08:55:35Z"
+  "pushed_at": "2018-01-02T08:55:35Z",
+  "description": "Programming Cryptocurrencies and Blockchains by Gerald Bauer et al",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

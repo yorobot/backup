@@ -10,6 +10,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 5
+    },
+    "2020-10-11": {
+      "stargazers_count": 5,
+      "forks_count": 9
     }
   },
   "commits": [
@@ -24,5 +28,141 @@
       },
       "message": "Update README.md"
     }
-  ]
+  ],
+  "description": "Football.CSV Format Spec (& Tests)",
+  "language": null,
+  "topics": [
+    "football",
+    "opendata",
+    "csv"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 22,
+        "uniques": 12
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/footballcsv/spec",
+          "title": "GitHub - footballcsv/spec: Football.CSV Format Spec (& Tests)",
+          "count": 12,
+          "uniques": 11
+        },
+        {
+          "path": "/footballcsv/spec/tree/master/docs",
+          "title": "spec/docs at master · footballcsv/spec · GitHub",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/footballcsv/spec/actions",
+          "title": "Actions · footballcsv/spec · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/footballcsv/spec/branches",
+          "title": "Branches · footballcsv/spec · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/footballcsv/spec/branches/all",
+          "title": "Branches · footballcsv/spec · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 10,
+          "uniques": 9
+        },
+        {
+          "referrer": "so.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "Bing",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-30": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

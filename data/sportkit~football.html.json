@@ -16,6 +16,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 6
+    },
+    "2020-10-11": {
+      "stargazers_count": 6,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -30,5 +34,81 @@
       },
       "message": "Update README.md"
     }
-  ]
+  ],
+  "description": "Football matchday tag / element / web component using the football.db HTTP JSON(P) API",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 12,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/sportkit/football.html",
+          "title": "sportkit/football.html: Football matchday tag / element / web component using...",
+          "count": 6,
+          "uniques": 2
+        },
+        {
+          "path": "/sportkit/football.html/blob/gh-pages/football-matchday.html",
+          "title": "football.html/football-matchday.html at gh-pages · sportkit/football.html · G...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sportkit/football.html/tree/gh-pages/js/libs",
+          "title": "football.html/js/libs at gh-pages · sportkit/football.html · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sportkit/football.html/blob/gh-pages/index.html",
+          "title": "football.html/index.html at gh-pages · sportkit/football.html",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportkit/football.html/blob/gh-pages/js/libs/polymer.min.js",
+          "title": "football.html/polymer.min.js at gh-pages · sportkit/football.html · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 6,
+          "uniques": 2
+        }
+      ]
+    },
+    "history": {
+      "2020-10-01": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 8,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

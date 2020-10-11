@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 394
+    },
+    "2020-10-11": {
+      "stargazers_count": 394,
+      "forks_count": 32
     }
   },
   "commits": [
@@ -78,5 +82,230 @@
   ],
   "size": 30,
   "updated_at": "2020-10-04T11:05:19Z",
-  "pushed_at": "2020-10-04T11:05:17Z"
+  "pushed_at": "2020-10-04T11:05:17Z",
+  "description": "A collection of awesome (gem-packaged) Jekyll themes - Add your theme!",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 320,
+        "uniques": 153
+      },
+      "clones": {
+        "count": 7,
+        "uniques": 7
+      },
+      "paths": [
+        {
+          "path": "/planetjekyll/awesome-jekyll-themes",
+          "title": "planetjekyll/awesome-jekyll-themes: A collection of awesome (gem-packaged) Je...",
+          "count": 254,
+          "uniques": 123
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-themes/blob/master/README.md",
+          "title": "awesome-jekyll-themes/README.md at master · planetjekyll/awesome-jekyll-themes",
+          "count": 47,
+          "uniques": 29
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-themes/pull/25",
+          "title": "Update jekyll-theme-yat theme by jeffreytse · Pull Request #25 · planetjekyll...",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-themes/commit/6f2a173dd383981901ae89226b29269dbd0d7c8e",
+          "title": "docs: update jekyll-theme-yat theme · planetjekyll/awesome-jekyll-themes@6f2a...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-themes/compare/master...jeffreytse:master",
+          "title": "Comparing planetjekyll:master...jeffreytse:master · planetjekyll/awesome-jeky...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-themes/search",
+          "title": "Search · jekyll template · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-themes/stargazers",
+          "title": "Stargazers · planetjekyll/awesome-jekyll-themes",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 129,
+          "uniques": 56
+        },
+        {
+          "referrer": "github.community",
+          "count": 52,
+          "uniques": 31
+        },
+        {
+          "referrer": "reddit.com",
+          "count": 39,
+          "uniques": 24
+        },
+        {
+          "referrer": "github.com",
+          "count": 28,
+          "uniques": 23
+        },
+        {
+          "referrer": "rubyflow.com",
+          "count": 10,
+          "uniques": 2
+        },
+        {
+          "referrer": "amp.reddit.com",
+          "count": 6,
+          "uniques": 3
+        },
+        {
+          "referrer": "keep.google.com",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "amp-reddit-com.cdn.ampproject.org",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "web-work.tools",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-27": {
+        "views": {
+          "count": 10,
+          "uniques": 5
+        }
+      },
+      "2020-09-28": {
+        "views": {
+          "count": 26,
+          "uniques": 18
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 43,
+          "uniques": 13
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 23,
+          "uniques": 13
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 23,
+          "uniques": 10
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 42,
+          "uniques": 12
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 22,
+          "uniques": 11
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 29,
+          "uniques": 12
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 17,
+          "uniques": 12
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 21,
+          "uniques": 7
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 13,
+          "uniques": 9
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 9,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 19,
+          "uniques": 14
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 21,
+          "uniques": 12
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      }
+    }
+  }
 }

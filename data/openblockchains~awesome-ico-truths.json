@@ -37,6 +37,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 23
+    },
+    "2020-10-11": {
+      "stargazers_count": 23,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -51,5 +55,51 @@
       },
       "message": "Create LICENSE.md"
     }
-  ]
+  ],
+  "description": "Awesome Initial Coin Offerings (ICO) Truths - The Art of the Steal - The Scammers' Big Lies ++ ICO tokens are like bitcoins, ICOs are like IPOs,  ICO White Papers are like \"Due Diligence\" Inverstor Prospectus, ...",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/openblockchains/awesome-ico-truths",
+          "title": "openblockchains/awesome-ico-truths: Awesome Initial Coin Offerings (ICO) Trut...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

@@ -31,6 +31,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 12
+    },
+    "2020-10-11": {
+      "stargazers_count": 12,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -45,5 +49,57 @@
       },
       "message": "up csvreader"
     }
-  ]
+  ],
+  "description": "csvrecord library / gem - read in comma-separated values (csv) records with typed structs / schemas",
+  "language": "Ruby",
+  "topics": [
+    "csv",
+    "csvutils",
+    "csvpack",
+    "csvrecord",
+    "csv11"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 2,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/csvreader/csvrecord",
+          "title": "GitHub - csvreader/csvrecord: csvrecord library / gem - read in comma-separat...",
+          "count": 2,
+          "uniques": 2
+        }
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-10-10": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

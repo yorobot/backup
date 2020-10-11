@@ -13,6 +13,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 7
+    },
+    "2020-10-11": {
+      "stargazers_count": 7,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -27,5 +31,75 @@
       },
       "message": "up"
     }
-  ]
+  ],
+  "description": "sport.db.sources - helpers to prepare external source data for importing into the sport.db schema & formats",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 13,
+        "uniques": 7
+      },
+      "clones": {
+        "count": 0,
+        "uniques": 0
+      },
+      "paths": [
+        {
+          "path": "/sportdb/sport.db.sources",
+          "title": "sportdb/sport.db.sources: sport.db.sources - helpers to prepare external sour...",
+          "count": 6,
+          "uniques": 6
+        },
+        {
+          "path": "/sportdb/sport.db.sources/tree/master/sportdb-source-footballdata",
+          "title": "sport.db.sources/sportdb-source-footballdata at master · sportdb/sport.db.sou...",
+          "count": 6,
+          "uniques": 3
+        },
+        {
+          "path": "/sportdb/sport.db.sources/find/master",
+          "title": "File Finder · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 3,
+          "uniques": 3
+        }
+      ]
+    },
+    "history": {
+      "2020-09-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 6,
+          "uniques": 4
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

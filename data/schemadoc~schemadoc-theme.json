@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 7
+    },
+    "2020-10-11": {
+      "stargazers_count": 7,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -78,5 +82,48 @@
   ],
   "size": 28,
   "updated_at": "2019-04-12T19:57:29Z",
-  "pushed_at": "2017-01-14T17:56:14Z"
+  "pushed_at": "2017-01-14T17:56:14Z",
+  "description": "Schema Theme - Database Docu for Tables, Fields, etc.",
+  "language": "HTML",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 3,
+        "uniques": 3
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

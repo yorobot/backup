@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -78,5 +82,51 @@
   ],
   "size": 208,
   "updated_at": "2015-03-25T16:13:34Z",
-  "pushed_at": "2015-03-25T16:13:34Z"
+  "pushed_at": "2015-03-25T16:13:34Z",
+  "description": "Beer, Brewery 'n'  Brewpubs Guide Book Template",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/book-templates/beer",
+          "title": "GitHub - book-templates/beer: Beer, Brewery 'n' Brewpubs Guide Book Template",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

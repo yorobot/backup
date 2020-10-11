@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 4
+    },
+    "2020-10-11": {
+      "stargazers_count": 4,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -78,5 +82,42 @@
   ],
   "size": 215,
   "updated_at": "2019-09-25T07:03:13Z",
-  "pushed_at": "2016-03-12T20:59:13Z"
+  "pushed_at": "2016-03-12T20:59:13Z",
+  "description": "Hamilton (Franklin) Book Theme by Bryan Braun",
+  "language": "CSS",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

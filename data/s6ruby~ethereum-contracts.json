@@ -25,6 +25,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 4
+    },
+    "2020-10-11": {
+      "stargazers_count": 4,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -39,5 +43,98 @@
       },
       "message": "Create CryptoPunksMarket.sol"
     }
-  ]
+  ],
+  "description": "Ethereum (crypto blockchain) contract / transaction scripts - ponzi & pyramid schemes, lotteries, gambling casinos and more",
+  "language": "Solidity",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 12,
+        "uniques": 6
+      },
+      "clones": {
+        "count": 3,
+        "uniques": 3
+      },
+      "paths": [
+        {
+          "path": "/s6ruby/ethereum-contracts",
+          "title": "s6ruby/ethereum-contracts: Ethereum (crypto blockchain) contract / transactio...",
+          "count": 8,
+          "uniques": 6
+        },
+        {
+          "path": "/s6ruby/ethereum-contracts/blob/master/SimplePonzi.sol",
+          "title": "ethereum-contracts/SimplePonzi.sol at master · s6ruby/ethereum-contracts · Gi...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/ethereum-contracts/blob/master/GradualPonzi.sol",
+          "title": "ethereum-contracts/GradualPonzi.sol at master · s6ruby/ethereum-contracts · G...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 5,
+          "uniques": 5
+        },
+        {
+          "referrer": "Google",
+          "count": 3,
+          "uniques": 2
+        }
+      ]
+    },
+    "history": {
+      "2020-09-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-08": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 32
+    },
+    "2020-10-11": {
+      "stargazers_count": 32,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -78,5 +82,157 @@
   ],
   "size": 2,
   "updated_at": "2020-08-01T04:54:56Z",
-  "pushed_at": "2018-02-17T16:30:16Z"
+  "pushed_at": "2018-02-17T16:30:16Z",
+  "description": "A collection of awesome light-weight markup markdown alternatives ",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 59,
+        "uniques": 49
+      },
+      "clones": {
+        "count": 3,
+        "uniques": 3
+      },
+      "paths": [
+        {
+          "path": "/mundimark/awesome-markdown-alternatives",
+          "title": "mundimark/awesome-markdown-alternatives: A collection of awesome light-weight...",
+          "count": 52,
+          "uniques": 45
+        },
+        {
+          "path": "/mundimark/awesome-markdown-alternatives/blob/master/README.md",
+          "title": "awesome-markdown-alternatives/README.md at master · mundimark/awesome-markdow...",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/mundimark/awesome-markdown-alternatives/blob/master/NOTES.md",
+          "title": "awesome-markdown-alternatives/NOTES.md at master · mundimark/awesome-markdown...",
+          "count": 2,
+          "uniques": 2
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 50,
+          "uniques": 45
+        },
+        {
+          "referrer": "StartPage",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "cn.bing.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 6,
+          "uniques": 6
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 11,
+          "uniques": 10
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 6,
+          "uniques": 6
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

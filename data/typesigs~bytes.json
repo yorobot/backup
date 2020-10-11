@@ -22,6 +22,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 3
+    },
+    "2020-10-11": {
+      "stargazers_count": 3,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -36,5 +40,87 @@
       },
       "message": "up"
     }
-  ]
+  ],
+  "description": "bytes gem / library",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 8,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 3,
+        "uniques": 3
+      },
+      "paths": [
+        {
+          "path": "/typesigs/bytes",
+          "title": "typesigs/bytes: bytes gem / library",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/typesigs/bytes/tree/master/lib",
+          "title": "bytes/lib at master · typesigs/bytes",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/typesigs/bytes/search",
+          "title": "Search · jquery table",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/typesigs/bytes/tree/master/lib/bytes",
+          "title": "bytes/lib/bytes at master · typesigs/bytes",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/typesigs/bytes/tree/master/test",
+          "title": "bytes/test at master · typesigs/bytes",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "plugins.jquery.com",
+          "count": 2,
+          "uniques": 2
+        }
+      ]
+    },
+    "history": {
+      "2020-09-29": {
+        "views": {
+          "count": 8,
+          "uniques": 2
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

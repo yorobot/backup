@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,117 @@
   ],
   "size": 204,
   "updated_at": "2014-06-26T06:47:52Z",
-  "pushed_at": "2014-07-16T09:30:20Z"
+  "pushed_at": "2014-07-16T09:30:20Z",
+  "description": "sportdb-play gem - open sports database (sport.db) plugin for plays (predictions, betting pools, etc.) in ruby",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 14,
+        "uniques": 4
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/openbookie/sport.db.play",
+          "title": "GitHub - openbookie/sport.db.play: sportdb-play gem - open sports database (s...",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/openbookie/sport.db.play/tree/master/lib/sportdb",
+          "title": "sport.db.play/lib/sportdb at master · openbookie/sport.db.play · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openbookie/sport.db.play/tree/master/lib/sportdb/play",
+          "title": "sport.db.play/lib/sportdb/play at master · openbookie/sport.db.play · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openbookie/sport.db.play/blob/master/.gitignore",
+          "title": "sport.db.play/.gitignore at master · openbookie/sport.db.play · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbookie/sport.db.play/blob/master/History.md",
+          "title": "sport.db.play/History.md at master · openbookie/sport.db.play · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbookie/sport.db.play/blob/master/lib/sportdb/play/models/play.rb",
+          "title": "sport.db.play/play.rb at master · openbookie/sport.db.play · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbookie/sport.db.play/blob/master/Manifest.txt",
+          "title": "sport.db.play/Manifest.txt at master · openbookie/sport.db.play · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbookie/sport.db.play/blob/master/README.md",
+          "title": "sport.db.play/README.md at master · openbookie/sport.db.play · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbookie/sport.db.play/tree/master/lib/sportdb/play/models",
+          "title": "sport.db.play/lib/sportdb/play/models at master · openbookie/sport.db.play · ...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 4,
+          "uniques": 4
+        }
+      ]
+    },
+    "history": {
+      "2020-09-29": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 10,
+          "uniques": 2
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

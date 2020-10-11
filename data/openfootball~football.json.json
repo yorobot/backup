@@ -1,7 +1,7 @@
 {
   "full_name": "openfootball/football.json",
   "created_at": "2015-09-17T16:40:37Z",
-  "updated_at": "2020-10-08T06:46:48Z",
+  "updated_at": "2020-10-11T08:45:09Z",
   "pushed_at": "2020-10-08T06:05:51Z",
   "size": 2135,
   "history": {
@@ -40,6 +40,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 593
+    },
+    "2020-10-11": {
+      "stargazers_count": 595,
+      "forks_count": 139
     }
   },
   "commits": [
@@ -58,8 +62,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2492,
-        "uniques": 453
+        "count": 2461,
+        "uniques": 448
       },
       "clones": {
         "count": 55,
@@ -183,8 +187,8 @@
     "history": {
       "2020-09-27": {
         "views": {
-          "count": 77,
-          "uniques": 24
+          "count": 29,
+          "uniques": 11
         }
       },
       "2020-09-28": {
@@ -319,8 +323,8 @@
       },
       "2020-10-11": {
         "views": {
-          "count": 52,
-          "uniques": 10
+          "count": 69,
+          "uniques": 16
         },
         "clones": {
           "count": 2,
@@ -328,5 +332,17 @@
         }
       }
     }
-  }
+  },
+  "description": "Free open public domain football data in JSON incl. English Premier League, Bundesliga, Primera División, Serie A and more - No API key required ;-)",
+  "language": null,
+  "topics": [
+    "football",
+    "opendata",
+    "json",
+    "publicdomain",
+    "bundesliga",
+    "premier-league",
+    "serie-a",
+    "primera-division"
+  ]
 }

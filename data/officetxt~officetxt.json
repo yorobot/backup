@@ -53,6 +53,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 7
+    },
+    "2020-10-11": {
+      "stargazers_count": 7,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -69,5 +73,51 @@
     }
   ],
   "updated_at": "2017-12-31T14:10:13Z",
-  "pushed_at": "2017-07-24T16:45:14Z"
+  "pushed_at": "2017-07-24T16:45:14Z",
+  "description": "officetxt (Office.TXT) - the free writer's command line tool suite",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/officetxt/officetxt",
+          "title": "GitHub - officetxt/officetxt: officetxt (Office.TXT) - the free writer's comm...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-29": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

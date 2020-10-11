@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 12
+    },
+    "2020-10-11": {
+      "stargazers_count": 12,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -78,5 +82,147 @@
   ],
   "size": 339,
   "updated_at": "2020-01-02T19:21:55Z",
-  "pushed_at": "2015-08-07T11:57:08Z"
+  "pushed_at": "2015-08-07T11:57:08Z",
+  "description": "Free open public domain beer, brewery n brewpub data for the United States / North America",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 32,
+        "uniques": 8
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/openbeer/us-united-states",
+          "title": "openbeer/us-united-states: Free open public domain beer, brewery n brewpub da...",
+          "count": 10,
+          "uniques": 7
+        },
+        {
+          "path": "/openbeer/us-united-states/blob/master/1--ct-connecticut--new-england/brewpubs.txt",
+          "title": "us-united-states/brewpubs.txt at master · openbeer/us-united-states · GitHub",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/openbeer/us-united-states/tree/master/1--ct-connecticut--new-england",
+          "title": "us-united-states/1--ct-connecticut--new-england at master · openbeer/us-unite...",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/openbeer/us-united-states/blob/master/1--ct-connecticut--new-england/breweries.txt",
+          "title": "us-united-states/breweries.txt at master · openbeer/us-united-states · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openbeer/us-united-states/blob/master/1--ct-connecticut--new-england/others.txt",
+          "title": "us-united-states/others.txt at master · openbeer/us-united-states · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openbeer/us-united-states/tree/master/1--ma-massachusetts--new-england",
+          "title": "us-united-states/1--ma-massachusetts--new-england at master · openbeer/us-uni...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/us-united-states/tree/master/9--wa-washington--pacific",
+          "title": "us-united-states/9--wa-washington--pacific at master · openbeer/us-united-sta...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/us-united-states/blob/master/1--ma-massachusetts--new-england/beers.txt",
+          "title": "us-united-states/beers.txt at master · openbeer/us-united-states · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/us-united-states/blob/master/4--wi-wisconsin--great-lakes/breweries.txt",
+          "title": "us-united-states/breweries.txt at master · openbeer/us-united-states",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/us-united-states/blob/master/9--ca-california--pacific/2--southern-california-coast--beers.txt",
+          "title": "us-united-states/2--southern-california-coast--beers.txt at master · openbeer...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 8,
+          "uniques": 6
+        }
+      ]
+    },
+    "history": {
+      "2020-09-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 11,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 9,
+          "uniques": 2
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,92 @@
   ],
   "size": 158,
   "updated_at": "2016-05-13T19:21:08Z",
-  "pushed_at": "2015-12-04T21:17:48Z"
+  "pushed_at": "2015-12-04T21:17:48Z",
+  "description": "textutils gem - text filters, helpers, readers and more in ruby",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 9,
+        "uniques": 3
+      },
+      "clones": {
+        "count": 3,
+        "uniques": 3
+      },
+      "paths": [
+        {
+          "path": "/textkit/textutils",
+          "title": "textkit/textutils: textutils gem - text filters, helpers, readers and more in...",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/textkit/textutils/blob/master/.gitignore",
+          "title": "textutils/.gitignore at master · textkit/textutils",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/textkit/textutils/issues",
+          "title": "Issues · textkit/textutils · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/textkit/textutils/tree/master/textutils",
+          "title": "textutils/textutils at master · textkit/textutils",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-30": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-07": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

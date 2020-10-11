@@ -56,6 +56,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -72,5 +76,50 @@
     }
   ],
   "updated_at": "2017-06-11T10:54:52Z",
-  "pushed_at": "2017-06-11T10:56:24Z"
+  "pushed_at": "2017-06-11T10:56:24Z",
+  "description": "hyperdata gem - turn hypertext from web pages into structured data (supports Feed.HTML 'n' friends)",
+  "language": "Ruby",
+  "topics": [
+    "hyperdata",
+    "html",
+    "article",
+    "feedhtml",
+    "json",
+    "rss",
+    "atom",
+    "microformats",
+    "feedtxt"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

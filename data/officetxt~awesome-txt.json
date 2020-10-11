@@ -53,6 +53,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 51
+    },
+    "2020-10-11": {
+      "stargazers_count": 51,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -69,5 +73,71 @@
     }
   ],
   "updated_at": "2020-04-20T18:15:13Z",
-  "pushed_at": "2017-07-23T22:04:11Z"
+  "pushed_at": "2017-07-23T22:04:11Z",
+  "description": "A collection of awesome .TXT / Text  tools, formats, services, tips & tricks and more.",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 4,
+        "uniques": 4
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/officetxt/awesome-txt",
+          "title": "officetxt/awesome-txt: A collection of awesome .TXT / Text tools, formats, se...",
+          "count": 4,
+          "uniques": 4
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "news.ycombinator.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

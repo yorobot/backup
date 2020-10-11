@@ -7,6 +7,10 @@
   "history": {
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -21,5 +25,232 @@
       },
       "message": "up"
     }
-  ]
+  ],
+  "description": "test github action workflows",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 254,
+        "uniques": 3
+      },
+      "clones": {
+        "count": 65,
+        "uniques": 11
+      },
+      "paths": [
+        {
+          "path": "/yorobot/workflow/actions",
+          "title": "Actions · yorobot/workflow",
+          "count": 116,
+          "uniques": 2
+        },
+        {
+          "path": "/yorobot/workflow",
+          "title": "yorobot/workflow: test github action workflows",
+          "count": 42,
+          "uniques": 2
+        },
+        {
+          "path": "/yorobot/workflow/commits/master",
+          "title": "Commits · yorobot/workflow",
+          "count": 9,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/workflow/tree/master/workflow/stage",
+          "title": "workflow/workflow/stage at master · yorobot/workflow",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/workflow/tree/master/workflow",
+          "title": "workflow/workflow at master · yorobot/workflow",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/workflow/actions/runs/276854703",
+          "title": "up gemfile · yorobot/workflow@014cfb4",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/workflow/runs/1177208978",
+          "title": "up gemfile · yorobot/workflow@014cfb4",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/workflow/actions/runs/276551267",
+          "title": "up · yorobot/workflow@35c49aa",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/workflow/actions/runs/290951248",
+          "title": "up · yorobot/workflow@01e1601",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/workflow/actions/runs/292824211",
+          "title": "up repos · yorobot/workflow@367e1bd",
+          "count": 2,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 27,
+          "uniques": 2
+        },
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "views": {
+          "count": 94,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 17,
+          "uniques": 6
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 25,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 11,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 84,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 14,
+          "uniques": 6
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 25,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 3
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "clones": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-11": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

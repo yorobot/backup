@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 312
+    },
+    "2020-10-11": {
+      "stargazers_count": 312,
+      "forks_count": 31
     }
   },
   "commits": [
@@ -78,5 +82,167 @@
   ],
   "size": 15,
   "updated_at": "2020-09-25T12:49:34Z",
-  "pushed_at": "2019-09-26T06:19:27Z"
+  "pushed_at": "2019-09-26T06:19:27Z",
+  "description": "A collection of awesome Jekyll editors",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 127,
+        "uniques": 88
+      },
+      "clones": {
+        "count": 4,
+        "uniques": 4
+      },
+      "paths": [
+        {
+          "path": "/planetjekyll/awesome-jekyll-editors",
+          "title": "planetjekyll/awesome-jekyll-editors: A collection of awesome Jekyll editors",
+          "count": 121,
+          "uniques": 85
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-editors/blob/master/README.md",
+          "title": "awesome-jekyll-editors/README.md at master · planetjekyll/awesome-jekyll-edit...",
+          "count": 4,
+          "uniques": 2
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 98,
+          "uniques": 71
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 8,
+          "uniques": 6
+        },
+        {
+          "referrer": "github.com",
+          "count": 5,
+          "uniques": 4
+        },
+        {
+          "referrer": "qwant.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "reddit.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 6,
+          "uniques": 4
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 17,
+          "uniques": 10
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 18,
+          "uniques": 11
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 16,
+          "uniques": 11
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 8,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 17,
+          "uniques": 12
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 9,
+          "uniques": 7
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 10,
+          "uniques": 7
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 8,
+          "uniques": 6
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 5,
+          "uniques": 4
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

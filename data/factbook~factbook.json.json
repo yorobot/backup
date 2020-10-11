@@ -40,6 +40,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 604
+    },
+    "2020-10-11": {
+      "stargazers_count": 604,
+      "forks_count": 75
     }
   },
   "commits": [
@@ -54,5 +58,229 @@
       },
       "message": "Update MONGO.md"
     }
-  ]
+  ],
+  "description": "World Factbook Country Profiles in JSON  - Free Open Public Domain Data - No API Key Required ;-)",
+  "language": null,
+  "topics": [
+    "factbook",
+    "opendata",
+    "world",
+    "countries",
+    "publicdomain",
+    "json"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 303,
+        "uniques": 55
+      },
+      "clones": {
+        "count": 18,
+        "uniques": 14
+      },
+      "paths": [
+        {
+          "path": "/factbook/factbook.json",
+          "title": "GitHub - factbook/factbook.json: World Factbook Country Profiles in JSON - Fr...",
+          "count": 140,
+          "uniques": 54
+        },
+        {
+          "path": "/factbook/factbook.json/tree/master/africa",
+          "title": "factbook.json/africa at master · factbook/factbook.json · GitHub",
+          "count": 24,
+          "uniques": 8
+        },
+        {
+          "path": "/factbook/factbook.json/blob/master/package.json",
+          "title": "factbook.json/package.json at master · factbook/factbook.json · GitHub",
+          "count": 12,
+          "uniques": 6
+        },
+        {
+          "path": "/factbook/factbook.json/tree/master/europe",
+          "title": "factbook.json/europe at master · factbook/factbook.json · GitHub",
+          "count": 10,
+          "uniques": 6
+        },
+        {
+          "path": "/factbook/factbook.json/find/master",
+          "title": "File Finder · GitHub",
+          "count": 9,
+          "uniques": 5
+        },
+        {
+          "path": "/factbook/factbook.json/blob/master/ALMANAC.md",
+          "title": "factbook.json/ALMANAC.md at master · factbook/factbook.json · GitHub",
+          "count": 7,
+          "uniques": 4
+        },
+        {
+          "path": "/factbook/factbook.json/blob/master/africa/ag.json",
+          "title": "factbook.json/ag.json at master · factbook/factbook.json · GitHub",
+          "count": 7,
+          "uniques": 3
+        },
+        {
+          "path": "/factbook/factbook.json/tree/master/world",
+          "title": "factbook.json/world at master · factbook/factbook.json · GitHub",
+          "count": 6,
+          "uniques": 4
+        },
+        {
+          "path": "/factbook/factbook.json/blob/master/MONGO.md",
+          "title": "factbook.json/MONGO.md at master · factbook/factbook.json · GitHub",
+          "count": 6,
+          "uniques": 3
+        },
+        {
+          "path": "/factbook/factbook.json/tree/master/north-america",
+          "title": "factbook.json/north-america at master · factbook/factbook.json · GitHub",
+          "count": 5,
+          "uniques": 4
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 19,
+          "uniques": 14
+        },
+        {
+          "referrer": "Google",
+          "count": 8,
+          "uniques": 3
+        },
+        {
+          "referrer": "kaggle.com",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "referrer": "gist.github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-27": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2020-09-28": {
+        "views": {
+          "count": 16,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 23,
+          "uniques": 5
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 12,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 16,
+          "uniques": 9
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 32,
+          "uniques": 7
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 17,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 53,
+          "uniques": 13
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 5
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 90,
+          "uniques": 10
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 8,
+          "uniques": 5
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 12,
+          "uniques": 3
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 9,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 8,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

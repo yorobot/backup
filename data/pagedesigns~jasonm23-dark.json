@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 6
+    },
+    "2020-10-11": {
+      "stargazers_count": 6,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -78,5 +82,86 @@
   ],
   "size": 6,
   "updated_at": "2019-11-19T07:27:22Z",
-  "pushed_at": "2016-03-13T18:43:58Z"
+  "pushed_at": "2016-03-13T18:43:58Z",
+  "description": "Page Design",
+  "language": "CSS",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 8,
+        "uniques": 4
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/pagedesigns/jasonm23-dark",
+          "title": "pagedesigns/jasonm23-dark: Page Design",
+          "count": 6,
+          "uniques": 4
+        },
+        {
+          "path": "/pagedesigns/jasonm23-dark/tree/gh-pages/css",
+          "title": "jasonm23-dark/css at gh-pages · pagedesigns/jasonm23-dark",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/pagedesigns/jasonm23-dark/tree/gh-pages/_layouts",
+          "title": "jasonm23-dark/_layouts at gh-pages · pagedesigns/jasonm23-dark · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-30": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,51 @@
   ],
   "size": 108,
   "updated_at": "2013-12-25T17:03:07Z",
-  "pushed_at": "2013-12-10T18:53:22Z"
+  "pushed_at": "2013-12-10T18:53:22Z",
+  "description": "Free open public domain football data (football.db) addon for market quotes (odds, etc) for World Cup (Brazil 2014), World Cup Quali, Confederations Cup (Brazil 2013) etc.",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/openbookie/market.world-cup",
+          "title": "GitHub - openbookie/market.world-cup: Free open public domain football data (...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

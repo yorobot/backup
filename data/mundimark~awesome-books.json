@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 38
+    },
+    "2020-10-11": {
+      "stargazers_count": 38,
+      "forks_count": 4
     }
   },
   "commits": [
@@ -78,5 +82,97 @@
   ],
   "size": 204,
   "updated_at": "2020-08-01T04:57:51Z",
-  "pushed_at": "2015-07-19T16:04:22Z"
+  "pushed_at": "2015-07-19T16:04:22Z",
+  "description": "A collection of awesome books (handwritten guides, auto-build almanacs w/ open data, etc.) in wikitext",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 9,
+        "uniques": 9
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/mundimark/awesome-books",
+          "title": "mundimark/awesome-books: A collection of awesome books (handwritten guides, a...",
+          "count": 8,
+          "uniques": 8
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 5,
+          "uniques": 5
+        },
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-29": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

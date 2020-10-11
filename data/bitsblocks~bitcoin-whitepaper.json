@@ -37,6 +37,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -51,5 +55,57 @@
       },
       "message": "add meta"
     }
-  ]
+  ],
+  "description": "Bitcoin White Paper - A Peer-to-Peer Electronic Cash System by Satoshi Nakamoto (Book Edition)",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 2,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/bitsblocks/bitcoin-whitepaper",
+          "title": "GitHub - bitsblocks/bitcoin-whitepaper: Bitcoin White Paper - A Peer-to-Peer ...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/bitsblocks/bitcoin-whitepaper/blob/master/index.md",
+          "title": "bitcoin-whitepaper/index.md at master · bitsblocks/bitcoin-whitepaper · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-30": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      }
+    }
+  }
 }

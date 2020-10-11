@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -78,5 +82,63 @@
   ],
   "size": 18,
   "updated_at": "2017-07-29T14:50:27Z",
-  "pushed_at": "2017-07-29T14:50:26Z"
+  "pushed_at": "2017-07-29T14:50:26Z",
+  "description": "Free open public domain football data (football.db) for national teams in North America, Central America & Caribbean Islands (e.g. Gold Cup / Copa de Oro)",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 3,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/openfootball/north-america-gold-cup",
+          "title": "GitHub - openfootball/north-america-gold-cup: Free open public domain footbal...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/north-america-gold-cup/tree/master/2011--united-states",
+          "title": "north-america-gold-cup/2011--united-states at master · openfootball/north-ame...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-10": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

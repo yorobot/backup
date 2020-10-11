@@ -47,6 +47,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -63,5 +67,36 @@
     }
   ],
   "updated_at": "2018-03-14T20:06:46Z",
-  "pushed_at": "2018-03-14T20:06:45Z"
+  "pushed_at": "2018-03-14T20:06:45Z",
+  "description": "Learn by Example - Static Website Compiler Showcase - Jekyll • Hugo • Gatsby and Friends",
+  "language": "HTML",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

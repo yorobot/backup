@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 155
+    },
+    "2020-10-11": {
+      "stargazers_count": 155,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -78,5 +82,178 @@
   ],
   "size": 899,
   "updated_at": "2020-09-10T15:59:53Z",
-  "pushed_at": "2020-05-29T11:12:27Z"
+  "pushed_at": "2020-05-29T11:12:27Z",
+  "description": "feedparser gem - (universal) web feed parser and normalizer (XML w/ Atom or RSS, JSON Feed, HTML w/ Microformats e.g. h-entry/h-feed or Feed.HTML, Feed.TXT w/ YAML, JSON or INI & Markdown, etc.)",
+  "language": "Ruby",
+  "topics": [
+    "feed",
+    "atom",
+    "rss",
+    "feedparser",
+    "jsonfeed",
+    "microformats",
+    "hentry",
+    "hfeed",
+    "html",
+    "feedtxt",
+    "txt",
+    "yaml",
+    "json",
+    "markdown",
+    "webfeed"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 30,
+        "uniques": 21
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/feedparser/feedparser",
+          "title": "GitHub - feedparser/feedparser: feedparser gem - (universal) web feed parser ...",
+          "count": 21,
+          "uniques": 20
+        },
+        {
+          "path": "/feedparser/feedparser/tree/master/lib",
+          "title": "feedparser/lib at master · feedparser/feedparser · GitHub",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/feedparser/feedparser/tree/master/lib/feedparser",
+          "title": "feedparser/lib/feedparser at master · feedparser/feedparser · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/feedparser/feedparser/blob/master/test/media_rss_example.txt",
+          "title": "feedparser/media_rss_example.txt at master · feedparser/feedparser · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedparser/feedparser/tree/master/sandbox",
+          "title": "feedparser/sandbox at master · feedparser/feedparser · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedparser/feedparser/tree/master/test",
+          "title": "feedparser/test at master · feedparser/feedparser · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 10,
+          "uniques": 10
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "referrer": "ruby-toolbox.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 7,
+          "uniques": 3
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

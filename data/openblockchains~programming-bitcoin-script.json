@@ -25,6 +25,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 23
+    },
+    "2020-10-11": {
+      "stargazers_count": 23,
+      "forks_count": 7
     }
   },
   "commits": [
@@ -39,5 +43,85 @@
       },
       "message": "Delete NOTES.md"
     }
-  ]
+  ],
+  "description": "Programming Bitcoin Script Transaction (Crypto) Contracts Step-by-Step - Let's start with building your own bitcoin stack machine from zero / scratch and let's run your own bitcoin ops (operations)...",
+  "language": "Ruby",
+  "topics": [
+    "bitcoin",
+    "bitcoin-script",
+    "opcodes",
+    "ivy",
+    "simplicity"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 12,
+        "uniques": 5
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/openblockchains/programming-bitcoin-script",
+          "title": "openblockchains/programming-bitcoin-script: Programming Bitcoin Script Transa...",
+          "count": 10,
+          "uniques": 4
+        },
+        {
+          "path": "/openblockchains/programming-bitcoin-script/tree/master/bitcoin-script",
+          "title": "programming-bitcoin-script/bitcoin-script at master · openblockchains/program...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 6,
+          "uniques": 4
+        }
+      ]
+    },
+    "history": {
+      "2020-10-03": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

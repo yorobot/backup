@@ -25,6 +25,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 28
+    },
+    "2020-10-11": {
+      "stargazers_count": 28,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -39,5 +43,47 @@
       },
       "message": "up"
     }
-  ]
+  ],
+  "description": "units-time library / gem - units of time (in epoch time) incl. seconds, minutes, hours, days, weeks, fortnights, years and more",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 2,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/s6ruby/units-time",
+          "title": "GitHub - s6ruby/units-time: units-time library / gem - units of time (in epoc...",
+          "count": 2,
+          "uniques": 2
+        }
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-10-10": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

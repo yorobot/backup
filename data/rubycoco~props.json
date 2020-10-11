@@ -34,6 +34,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 3
+    },
+    "2020-10-11": {
+      "stargazers_count": 3,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -48,5 +52,81 @@
       },
       "message": "prep 2.0"
     }
-  ]
+  ],
+  "description": "props gem - Manage Setting Hierachies (Commandline, User, Home, Defaults, etc.) in Ruby",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 7,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/rubycoco/props/tree/master/props",
+          "title": "props/props at master · rubycoco/props",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/props",
+          "title": "rubycoco/props: props gem - Manage Setting Hierachies (Commandline, User, Hom...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/props/blob/master/props/lib/props/env.rb",
+          "title": "props/env.rb at master · rubycoco/props",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/props/blob/master/props/lib/props.rb",
+          "title": "props/props.rb at master · rubycoco/props",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/props/tree/master/props/lib",
+          "title": "props/props/lib at master · rubycoco/props",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/props/tree/master/props/lib/props",
+          "title": "props/props/lib/props at master · rubycoco/props",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-04": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      }
+    }
+  }
 }

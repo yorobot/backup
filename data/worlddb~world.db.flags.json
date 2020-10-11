@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 8
+    },
+    "2020-10-11": {
+      "stargazers_count": 8,
+      "forks_count": 7
     }
   },
   "commits": [
@@ -78,5 +82,74 @@
   ],
   "size": 1644,
   "updated_at": "2019-05-27T12:14:40Z",
-  "pushed_at": "2013-03-13T21:49:40Z"
+  "pushed_at": "2013-03-13T21:49:40Z",
+  "description": "worlddb-flags gem - country flags (24x24, 32x32, 48x48, 64x64) bundled for reuse w/ asset pipeline",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 5,
+        "uniques": 3
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/worlddb/world.db.flags",
+          "title": "worlddb/world.db.flags: worlddb-flags gem - country flags (24x24, 32x32, 48x4...",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/worlddb/world.db.flags/tree/master/lib/worlddb",
+          "title": "world.db.flags/lib/worlddb at master · worlddb/world.db.flags",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db.flags/tree/master/lib/worlddb/flags",
+          "title": "world.db.flags/lib/worlddb/flags at master · worlddb/world.db.flags",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-30": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

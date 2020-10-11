@@ -31,6 +31,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -45,5 +49,45 @@
       },
       "message": "up"
     }
-  ]
+  ],
+  "description": "csvyaml library / gem - read tabular data in the CSV ❤ YAML format, that is, comma-separated values (CSV) line-by-line records with yaml ain't markup language (YAML) encoding rules",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/csvreader/csvyaml/issues",
+          "title": "Issues · csvreader/csvyaml · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

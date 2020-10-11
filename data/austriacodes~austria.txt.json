@@ -40,6 +40,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -54,5 +58,44 @@
       },
       "message": "Update README.md"
     }
-  ]
+  ],
+  "description": "Austria.TXT - Open Access / Open Publishing / Open Books Meetup in Vienna • Wien - Text, Text, Text - The Past, Present & Future of Publishing & Knowledge",
+  "language": null,
+  "topics": [
+    "open-access",
+    "open-publishing",
+    "open-books",
+    "austria",
+    "vienna",
+    "txt",
+    "text",
+    "open-knowledge",
+    "manuscripts"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

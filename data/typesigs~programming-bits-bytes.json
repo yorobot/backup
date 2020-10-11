@@ -22,6 +22,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 9
+    },
+    "2020-10-11": {
+      "stargazers_count": 9,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -36,5 +40,48 @@
       },
       "message": "move bytes to its own repo"
     }
-  ]
+  ],
+  "description": "Programming Bits, Bytes 'n' Blocks Step-by-Step Book / Guide. Let's start with the three types of strings, that is, bytes, (string) buffers, and (frozen) strings, ...",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 3,
+        "uniques": 3
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

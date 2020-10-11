@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 12
+    },
+    "2020-10-11": {
+      "stargazers_count": 12,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -78,5 +82,73 @@
   ],
   "size": 3620,
   "updated_at": "2019-07-15T10:47:08Z",
-  "pushed_at": "2016-06-12T20:20:49Z"
+  "pushed_at": "2016-06-12T20:20:49Z",
+  "description": "Professor Frisby's Mostly Adequate Guide to Functional Programming in JavaScript by Brian Lonsdorf",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 3,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/funpress/mostly-adequate-guide-to-fp",
+          "title": "funpress/mostly-adequate-guide-to-fp: Professor Frisby's Mostly Adequate Guid...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/funpress/mostly-adequate-guide-to-fp/blob/master/01__What_ever_are_we_doing.md",
+          "title": "mostly-adequate-guide-to-fp/01__What_ever_are_we_doing.md at master · funpres...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

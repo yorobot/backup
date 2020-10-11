@@ -47,6 +47,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 6
+    },
+    "2020-10-11": {
+      "stargazers_count": 6,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -63,5 +67,63 @@
     }
   ],
   "updated_at": "2018-08-04T07:58:16Z",
-  "pushed_at": "2018-08-04T07:58:14Z"
+  "pushed_at": "2018-08-04T07:58:14Z",
+  "description": "JSON: 1.1 # JSON with Extensions (JSONX) Website & Spec(ification)",
+  "language": null,
+  "topics": [
+    "json",
+    "jsonx",
+    "jsonxi",
+    "json-next",
+    "jsonii",
+    "json11",
+    "son",
+    "hanson",
+    "txt",
+    "opendata",
+    "frictionlessdata"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/json-next/json-next.github.io",
+          "title": "json-next/json-next.github.io: JSON: 1.1 # JSON with Extensions (JSONX) Websi...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-10-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

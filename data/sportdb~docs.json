@@ -34,6 +34,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 3
+    },
+    "2020-10-11": {
+      "stargazers_count": 3,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -48,5 +52,104 @@
       },
       "message": "Update generating-json-datasets.md"
     }
-  ]
+  ],
+  "description": "sport.db (incl. football.db) scripts & tools docs",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 24,
+        "uniques": 15
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/sportdb/docs/blob/master/working-with-csv-files.md",
+          "title": "docs/working-with-csv-files.md at master · sportdb/docs · GitHub",
+          "count": 12,
+          "uniques": 10
+        },
+        {
+          "path": "/sportdb/docs",
+          "title": "sportdb/docs: sport.db (incl. football.db) scripts & tools docs",
+          "count": 6,
+          "uniques": 5
+        },
+        {
+          "path": "/sportdb/docs/blob/master/generating-json-datasets.md",
+          "title": "docs/generating-json-datasets.md at master · sportdb/docs · GitHub",
+          "count": 3,
+          "uniques": 2
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "referrer": "sportdb.github.io",
+          "count": 2,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-27": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 9,
+          "uniques": 8
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

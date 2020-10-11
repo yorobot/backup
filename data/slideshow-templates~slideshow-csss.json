@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 8
+    },
+    "2020-10-11": {
+      "stargazers_count": 8,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -78,5 +82,69 @@
   ],
   "size": 103,
   "updated_at": "2017-04-19T06:56:10Z",
-  "pushed_at": "2016-09-13T18:20:34Z"
+  "pushed_at": "2016-09-13T18:20:34Z",
+  "description": "CSSS - Slide Show (S9) Template Pack",
+  "language": "JavaScript",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 2,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 3,
+        "uniques": 3
+      },
+      "paths": [
+        {
+          "path": "/slideshow-templates/slideshow-csss",
+          "title": "slideshow-templates/slideshow-csss: CSSS - Slide Show (S9) Template Pack",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/slideshow-templates/slideshow-csss/blob/master/preview.png",
+          "title": "slideshow-csss/preview.png at master · slideshow-templates/slideshow-csss",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-02": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-30": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

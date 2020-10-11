@@ -5,7 +5,7 @@ require 'hubba'
 
 stats = Hubba.stats( './repos.yml' )
 
-
+=begin
 report = Hubba::ReportSummary.new( stats )
 report.save( './SUMMARY.md' )
 
@@ -20,6 +20,15 @@ report.save( './TRENDING.md' )
 
 report = Hubba::ReportUpdates.new( stats )
 report.save( './UPDATES.md' )
+=end
+
+report = Hubba::ReportTraffic.new( stats )
+report.save( './TRAFFIC.md' )
+
+
+report = Hubba::ReportTrafficPages.new( stats )
+report.save( './PAGES.md' )
+
 
 
 puts "Done."

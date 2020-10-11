@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 26
+    },
+    "2020-10-11": {
+      "stargazers_count": 26,
+      "forks_count": 16
     }
   },
   "commits": [
@@ -78,5 +82,203 @@
   ],
   "size": 50,
   "updated_at": "2020-05-31T09:03:56Z",
-  "pushed_at": "2020-05-31T09:03:54Z"
+  "pushed_at": "2020-05-31T09:03:54Z",
+  "description": "Free open public domain football data (football.db) for Euro 2008, Euro 2012, Euro 2016, Euro 2020, etc.",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 32,
+        "uniques": 19
+      },
+      "clones": {
+        "count": 34,
+        "uniques": 3
+      },
+      "paths": [
+        {
+          "path": "/openfootball/euro-cup",
+          "title": "openfootball/euro-cup: Free open public domain football data (football.db) fo...",
+          "count": 18,
+          "uniques": 17
+        },
+        {
+          "path": "/openfootball/euro-cup/blob/master/2016--france/euro.txt",
+          "title": "euro-cup/euro.txt at master · openfootball/euro-cup · GitHub",
+          "count": 5,
+          "uniques": 4
+        },
+        {
+          "path": "/openfootball/euro-cup/tree/master/2016--france",
+          "title": "euro-cup/2016--france at master · openfootball/euro-cup · GitHub",
+          "count": 5,
+          "uniques": 4
+        },
+        {
+          "path": "/openfootball/euro-cup/blob/master/1960--france/euro.txt",
+          "title": "euro-cup/euro.txt at master · openfootball/euro-cup · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/euro-cup/commit/38906dc4750b759fc92d16b87e723ddf178be1c0",
+          "title": "up build · openfootball/euro-cup@38906dc · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/euro-cup/tree/master/1996--england",
+          "title": "euro-cup/1996--england at master · openfootball/euro-cup",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "openfootball.github.io",
+          "count": 10,
+          "uniques": 9
+        },
+        {
+          "referrer": "Google",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-29": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 9,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 6,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-01": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

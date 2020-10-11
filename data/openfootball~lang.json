@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -78,5 +82,36 @@
   ],
   "size": 228,
   "updated_at": "2016-03-30T21:11:45Z",
-  "pushed_at": "2014-07-27T13:19:41Z"
+  "pushed_at": "2014-07-27T13:19:41Z",
+  "description": "Football (soccer) fixture reader translations for English, Español, Deutsch, etc.",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

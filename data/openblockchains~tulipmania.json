@@ -47,6 +47,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 8
+    },
+    "2020-10-11": {
+      "stargazers_count": 8,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -63,5 +67,45 @@
     }
   ],
   "updated_at": "2019-09-24T12:20:17Z",
-  "pushed_at": "2018-01-08T08:13:38Z"
+  "pushed_at": "2018-01-08T08:13:38Z",
+  "description": "tulipmania command line tool (and core library) - tulips on the blockchain; learn by example from the real world (anno 1637) - buy! sell! hodl! enjoy the beauty of admiral of admirals, semper augustus, and more; run your own hyper ledger tulip exchange nodes on the blockchain peer-to-peer over HTTP; revolutionize the world one block at a time",
+  "language": "Ruby",
+  "topics": [
+    "tulips",
+    "tulipmania",
+    "blockchain",
+    "hyperledger",
+    "cryptotulips",
+    "cryptohash",
+    "blockchain-lite",
+    "1637",
+    "merkletree",
+    "peer-to-peer"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

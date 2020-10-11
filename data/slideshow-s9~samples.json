@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,57 @@
   ],
   "size": 122,
   "updated_at": "2016-07-18T12:47:44Z",
-  "pushed_at": "2016-07-19T17:40:43Z"
+  "pushed_at": "2016-07-19T17:40:43Z",
+  "description": "Slide Show (S9) Sample Talks in Markdown",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 2,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/slideshow-s9/samples/blob/master/10things.md",
+          "title": "samples/10things.md at master · slideshow-s9/samples",
+          "count": 2,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "reddit.com",
+          "count": 2,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-07": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

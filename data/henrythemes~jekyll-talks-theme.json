@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 5
+    },
+    "2020-10-11": {
+      "stargazers_count": 5,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -78,5 +82,55 @@
   ],
   "size": 740,
   "updated_at": "2020-05-15T11:01:08Z",
-  "pushed_at": "2018-11-08T07:34:24Z"
+  "pushed_at": "2018-11-08T07:34:24Z",
+  "description": "jekyll talks theme (using the s6 slideshow templates / machinery / kit )",
+  "language": "JavaScript",
+  "topics": [
+    "jekyll",
+    "jekyll-theme",
+    "theme",
+    "s6",
+    "slides",
+    "slidekit",
+    "bespokejs",
+    "presentations",
+    "slideshow"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 2,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/henrythemes/jekyll-talks-theme",
+          "title": "GitHub - henrythemes/jekyll-talks-theme: jekyll talks theme (using the s6 sli...",
+          "count": 2,
+          "uniques": 2
+        }
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-10-10": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

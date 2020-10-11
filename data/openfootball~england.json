@@ -16,6 +16,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 335
+    },
+    "2020-10-11": {
+      "stargazers_count": 335,
+      "forks_count": 111
     }
   },
   "commits": [
@@ -34,8 +38,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1519,
-        "uniques": 286
+        "count": 1538,
+        "uniques": 289
       },
       "clones": {
         "count": 50,
@@ -129,8 +133,8 @@
     "history": {
       "2020-09-27": {
         "views": {
-          "count": 45,
-          "uniques": 12
+          "count": 33,
+          "uniques": 8
         }
       },
       "2020-09-28": {
@@ -265,8 +269,8 @@
       },
       "2020-10-11": {
         "views": {
-          "count": 26,
-          "uniques": 4
+          "count": 57,
+          "uniques": 10
         },
         "clones": {
           "count": 2,
@@ -274,5 +278,20 @@
         }
       }
     }
-  }
+  },
+  "description": "Free open public domain football data for England (and Wales) incl. English Premier League (EPL) etc.",
+  "language": null,
+  "topics": [
+    "opendata",
+    "football",
+    "england",
+    "wales",
+    "premierleague",
+    "sqlite",
+    "manutd",
+    "liverpool",
+    "arsenal",
+    "mancity",
+    "chelsea"
+  ]
 }

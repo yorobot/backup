@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 13
+    },
+    "2020-10-11": {
+      "stargazers_count": 13,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -78,5 +82,196 @@
   ],
   "size": 204,
   "updated_at": "2020-07-13T23:14:36Z",
-  "pushed_at": "2013-09-15T15:44:47Z"
+  "pushed_at": "2013-09-15T15:44:47Z",
+  "description": "Free open public domain Formula 1/Formula One database 'n' schema (formula1.db) for use in any (programming) language (e.g. uses plain text fixtures/data sets)",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 87,
+        "uniques": 27
+      },
+      "clones": {
+        "count": 5,
+        "uniques": 5
+      },
+      "paths": [
+        {
+          "path": "/opensport/formula1.db",
+          "title": "opensport/formula1.db: Free open public domain Formula 1/Formula One database...",
+          "count": 40,
+          "uniques": 24
+        },
+        {
+          "path": "/opensport/formula1.db/tree/master/2013",
+          "title": "formula1.db/2013 at master · opensport/formula1.db · GitHub",
+          "count": 7,
+          "uniques": 5
+        },
+        {
+          "path": "/opensport/formula1.db/blob/master/README.md",
+          "title": "formula1.db/README.md at master · opensport/formula1.db · GitHub",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/opensport/formula1.db/blob/master/teams.txt",
+          "title": "formula1.db/teams.txt at master · opensport/formula1.db · GitHub",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/opensport/formula1.db/tree/master/setups",
+          "title": "formula1.db/setups at master · opensport/formula1.db · GitHub",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/opensport/formula1.db/blob/master/circuits.txt",
+          "title": "formula1.db/circuits.txt at master · opensport/formula1.db · GitHub",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/opensport/formula1.db/commits/master",
+          "title": "Commits · opensport/formula1.db · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/opensport/formula1.db/blob/master/2013/04-gp-bahrain.txt",
+          "title": "formula1.db/04-gp-bahrain.txt at master · opensport/formula1.db · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/opensport/formula1.db/blob/master/2013/06-gp-monaco.txt",
+          "title": "formula1.db/06-gp-monaco.txt at master · opensport/formula1.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/opensport/formula1.db/blob/master/2013/07-gp-canada.txt",
+          "title": "formula1.db/07-gp-canada.txt at master · opensport/formula1.db",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 33,
+          "uniques": 19
+        },
+        {
+          "referrer": "opensport.github.io",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "Bing",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 6,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 8,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 11,
+          "uniques": 3
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 12,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 5,
+          "uniques": 5
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 15,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 13,
+          "uniques": 3
+        }
+      }
+    }
+  }
 }

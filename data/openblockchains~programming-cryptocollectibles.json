@@ -25,6 +25,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 27
+    },
+    "2020-10-11": {
+      "stargazers_count": 27,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -39,5 +43,102 @@
       },
       "message": "Update A1_resources.md"
     }
-  ]
+  ],
+  "description": "Programming Crypto Collectibles Step-by-Step Book / Guide. Let's start with CryptoKitties & Copycats. Inside Unique Bits & Bytes on the Blockchain...",
+  "language": "Ruby",
+  "topics": [
+    "kittyverse",
+    "cryptocollectibles",
+    "cryptokitties",
+    "copycats",
+    "base32",
+    "blockchain",
+    "cryptocopycats"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 6,
+        "uniques": 5
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/openblockchains/programming-cryptocollectibles",
+          "title": "openblockchains/programming-cryptocollectibles: Programming Crypto Collectibl...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openblockchains/programming-cryptocollectibles/blob/master/A1_resources.md",
+          "title": "programming-cryptocollectibles/A1_resources.md at master · openblockchains/pr...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openblockchains/programming-cryptocollectibles/blob/master/01_genes.md",
+          "title": "programming-cryptocollectibles/01_genes.md at master · openblockchains/progra...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "reddit.com",
+          "count": 2,
+          "uniques": 2
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

@@ -7,6 +7,10 @@
   "history": {
     "2020-10-09": {
       "stargazers_count": 68
+    },
+    "2020-10-11": {
+      "stargazers_count": 68,
+      "forks_count": 19
     }
   },
   "commits": [
@@ -21,5 +25,244 @@
       },
       "message": "up"
     }
-  ]
+  ],
+  "description": "Free open public domain football data (football.db) for South America (incl. Brazil • Brasil, Argentina, and much more)",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 318,
+        "uniques": 60
+      },
+      "clones": {
+        "count": 44,
+        "uniques": 6
+      },
+      "paths": [
+        {
+          "path": "/openfootball/brazil",
+          "title": "openfootball/brazil: Free open public domain football data (football.db) for ...",
+          "count": 56,
+          "uniques": 31
+        },
+        {
+          "path": "/openfootball/south-america",
+          "title": "openfootball/south-america: Free open public domain football data (football.d...",
+          "count": 55,
+          "uniques": 28
+        },
+        {
+          "path": "/openfootball/south-america/tree/master/brazil",
+          "title": "south-america/brazil at master · openfootball/south-america · GitHub",
+          "count": 32,
+          "uniques": 19
+        },
+        {
+          "path": "/openfootball/south-america/tree/master/brazil/2020",
+          "title": "south-america/brazil/2020 at master · openfootball/south-america · GitHub",
+          "count": 17,
+          "uniques": 13
+        },
+        {
+          "path": "/openfootball/brazil/blob/master/2020/1-seriea.txt",
+          "title": "brazil/1-seriea.txt at master · openfootball/brazil · GitHub",
+          "count": 16,
+          "uniques": 15
+        },
+        {
+          "path": "/openfootball/brazil/tree/master/2020",
+          "title": "brazil/2020 at master · openfootball/brazil · GitHub",
+          "count": 16,
+          "uniques": 14
+        },
+        {
+          "path": "/openfootball/south-america/blob/master/brazil/2020/1-seriea.txt",
+          "title": "south-america/1-seriea.txt at master · openfootball/south-america · GitHub",
+          "count": 10,
+          "uniques": 10
+        },
+        {
+          "path": "/openfootball/brazil/tree/master/clubs",
+          "title": "brazil/clubs at master · openfootball/brazil · GitHub",
+          "count": 8,
+          "uniques": 7
+        },
+        {
+          "path": "/openfootball/brazil/blob/master/2019/1-seriea.txt",
+          "title": "brazil/1-seriea.txt at master · openfootball/brazil · GitHub",
+          "count": 7,
+          "uniques": 7
+        },
+        {
+          "path": "/openfootball/brazil/tree/master/2019",
+          "title": "brazil/2019 at master · openfootball/brazil · GitHub",
+          "count": 6,
+          "uniques": 6
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 47,
+          "uniques": 30
+        },
+        {
+          "referrer": "Google",
+          "count": 38,
+          "uniques": 26
+        }
+      ]
+    },
+    "history": {
+      "2020-09-27": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "views": {
+          "count": 13,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 48,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 10,
+          "uniques": 2
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 20,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 21,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 22,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 18,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 32,
+          "uniques": 7
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 64,
+          "uniques": 12
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 40,
+          "uniques": 7
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 25,
+          "uniques": 7
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 7,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      }
+    }
+  }
 }

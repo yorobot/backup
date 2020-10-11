@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 31
+    },
+    "2020-10-11": {
+      "stargazers_count": 31,
+      "forks_count": 4
     }
   },
   "commits": [
@@ -78,5 +82,79 @@
   ],
   "size": 5,
   "updated_at": "2020-09-02T06:00:40Z",
-  "pushed_at": "2020-07-09T17:17:31Z"
+  "pushed_at": "2020-07-09T17:17:31Z",
+  "description": "Awesome Slide Shows / Presentations / Talks - Tools, Themes & Templates, Articles, etc.",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 7,
+        "uniques": 4
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/slideshow-s9/awesome-slideshows",
+          "title": "slideshow-s9/awesome-slideshows: Awesome Slide Shows / Presentations / Talks ...",
+          "count": 7,
+          "uniques": 4
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "t.co",
+          "count": 2,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-29": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

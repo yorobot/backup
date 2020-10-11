@@ -25,6 +25,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 18
+    },
+    "2020-10-11": {
+      "stargazers_count": 18,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -39,5 +43,42 @@
       },
       "message": "Update README.md"
     }
-  ]
+  ],
+  "description": "safestruct library / gem -  safe data structures (array, hash, struct) - say goodbye to null / nil (and maybe) - say hello to zero",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

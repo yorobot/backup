@@ -47,6 +47,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 17
+    },
+    "2020-10-11": {
+      "stargazers_count": 17,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -63,5 +67,36 @@
     }
   ],
   "updated_at": "2020-02-19T12:40:35Z",
-  "pushed_at": "2018-01-18T19:57:51Z"
+  "pushed_at": "2018-01-18T19:57:51Z",
+  "description": " Hoe Developer's Guide - Build, Package and Publish Gems with Rake Tasks - Ready-to-Use Build Scripts (Book Edition) by Ryan Davis et al",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

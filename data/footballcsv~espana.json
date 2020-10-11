@@ -22,6 +22,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 15
+    },
+    "2020-10-11": {
+      "stargazers_count": 15,
+      "forks_count": 21
     }
   },
   "commits": [
@@ -36,5 +40,257 @@
       },
       "message": "auto-update week 41"
     }
-  ]
+  ],
+  "description": "Football data for España (Spain) incl. Primera División (La Liga), Segunda División etc.  ",
+  "language": null,
+  "topics": [
+    "football",
+    "futbol",
+    "spain",
+    "espana",
+    "laliga",
+    "primeradivision",
+    "opendata",
+    "csv",
+    "segundadivision"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 267,
+        "uniques": 61
+      },
+      "clones": {
+        "count": 34,
+        "uniques": 3
+      },
+      "paths": [
+        {
+          "path": "/footballcsv/espana",
+          "title": "GitHub - footballcsv/espana: Football data for España (Spain) incl. Primera D...",
+          "count": 93,
+          "uniques": 57
+        },
+        {
+          "path": "/footballcsv/espana/tree/master/2020s/2020-21",
+          "title": "espana/2020s/2020-21 at master · footballcsv/espana · GitHub",
+          "count": 43,
+          "uniques": 32
+        },
+        {
+          "path": "/footballcsv/espana/blob/master/2020s/2020-21/es.1.csv",
+          "title": "espana/es.1.csv at master · footballcsv/espana · GitHub",
+          "count": 35,
+          "uniques": 26
+        },
+        {
+          "path": "/footballcsv/espana/tree/master/2010s",
+          "title": "espana/2010s at master · footballcsv/espana · GitHub",
+          "count": 15,
+          "uniques": 11
+        },
+        {
+          "path": "/footballcsv/espana/find/master",
+          "title": "File Finder · GitHub",
+          "count": 7,
+          "uniques": 4
+        },
+        {
+          "path": "/footballcsv/espana/tree/master/2010s/2019-20",
+          "title": "espana/2010s/2019-20 at master · footballcsv/espana · GitHub",
+          "count": 6,
+          "uniques": 6
+        },
+        {
+          "path": "/footballcsv/espana/search",
+          "title": "Search · Rstudio Futball",
+          "count": 6,
+          "uniques": 2
+        },
+        {
+          "path": "/footballcsv/espana/blob/master/2020s/2020-21/es.2.csv",
+          "title": "espana/es.2.csv at master · footballcsv/espana · GitHub",
+          "count": 5,
+          "uniques": 5
+        },
+        {
+          "path": "/footballcsv/espana/blob/master/2010s/2013-14/es.1.csv",
+          "title": "espana/es.1.csv at master · footballcsv/espana · GitHub",
+          "count": 5,
+          "uniques": 4
+        },
+        {
+          "path": "/footballcsv/espana/blob/master/2010s/2019-20/es.1.csv",
+          "title": "espana/es.1.csv at master · footballcsv/espana · GitHub",
+          "count": 5,
+          "uniques": 4
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 80,
+          "uniques": 51
+        },
+        {
+          "referrer": "Google",
+          "count": 7,
+          "uniques": 5
+        },
+        {
+          "referrer": "footballcsv.github.io",
+          "count": 2,
+          "uniques": 2
+        }
+      ]
+    },
+    "history": {
+      "2020-09-27": {
+        "views": {
+          "count": 8,
+          "uniques": 3
+        }
+      },
+      "2020-09-28": {
+        "views": {
+          "count": 20,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 38,
+          "uniques": 6
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 24,
+          "uniques": 6
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 26,
+          "uniques": 7
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 12,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 68,
+          "uniques": 11
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 9,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 21,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 26,
+          "uniques": 7
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

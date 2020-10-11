@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 4
     }
   },
   "commits": [
@@ -78,5 +82,63 @@
   ],
   "size": 160,
   "updated_at": "2015-06-21T01:03:05Z",
-  "pushed_at": "2014-12-11T22:07:53Z"
+  "pushed_at": "2014-12-11T22:07:53Z",
+  "description": "S5 Themes (Blue, I18N and Pixel) - Slide Show (S9) Template Pack",
+  "language": "CSS",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 3,
+        "uniques": 3
+      },
+      "paths": [
+        {
+          "path": "/slideshow-templates/slideshow-s5-themes",
+          "title": "GitHub - slideshow-templates/slideshow-s5-themes: S5 Themes (Blue, I18N and P...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-30": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

@@ -40,6 +40,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 23
+    },
+    "2020-10-11": {
+      "stargazers_count": 23,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -54,5 +58,81 @@
       },
       "message": "Delete update.rb"
     }
-  ]
+  ],
+  "description": "copycats command line tool (and core library) - crypto cats / kitties collectibles unchained - buy! sell! hodl! sire! - play for free - runs off the blockchain w/ ledger lite - no ether / gas required; run your own peer-to-peer (P2P) network node over HTTP",
+  "language": "Ruby",
+  "topics": [
+    "cryptokitties",
+    "cryptocollectibles",
+    "cryptocopycats",
+    "copycats",
+    "blockchain",
+    "hyperledger",
+    "kittyverse"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 7,
+        "uniques": 5
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/cryptocopycats/copycats",
+          "title": "GitHub - cryptocopycats/copycats: copycats command line tool (and core librar...",
+          "count": 6,
+          "uniques": 5
+        },
+        {
+          "path": "/cryptocopycats/copycats/tree/master/script",
+          "title": "copycats/script at master · cryptocopycats/copycats · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 2
+        }
+      ]
+    },
+    "history": {
+      "2020-10-02": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

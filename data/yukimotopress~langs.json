@@ -47,6 +47,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 31
+    },
+    "2020-10-11": {
+      "stargazers_count": 31,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -63,5 +67,42 @@
     }
   ],
   "updated_at": "2020-01-21T23:31:37Z",
-  "pushed_at": "2018-01-21T19:09:02Z"
+  "pushed_at": "2018-01-21T19:09:02Z",
+  "description": "Ruby Compared to Other Languages incl. C • C++ •  Java  • JavaScript • Perl • Python • PHP • Lua • Erlang / Crystal • Elixir (on Erlang) • Rust • Go (Book Edition)",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

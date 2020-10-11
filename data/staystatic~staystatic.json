@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 55
+    },
+    "2020-10-11": {
+      "stargazers_count": 55,
+      "forks_count": 8
     }
   },
   "commits": [
@@ -78,5 +82,75 @@
   ],
   "size": 212,
   "updated_at": "2020-10-05T21:26:54Z",
-  "pushed_at": "2018-03-31T09:41:53Z"
+  "pushed_at": "2018-03-31T09:41:53Z",
+  "description": "Stay Static - Website Compiler Showcase - One Design, Many Samples - Jekyll • Middleman • Nanoc • Webgen • Metalsmith • Gatsby • Phenomic • Cuttlebelle • Harp • Nikola • Hugo • Jigsaw - Add Your Sample!",
+  "language": "JavaScript",
+  "topics": [
+    "jekyll",
+    "middleman",
+    "nanoc",
+    "webgen",
+    "metalsmith",
+    "gatsby",
+    "harp",
+    "nikola",
+    "hugo",
+    "jigsaw",
+    "static",
+    "staystatic",
+    "website-compiler"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 3,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/staystatic/staystatic/tree/master/metalsmith-nunjucks",
+          "title": "staystatic/metalsmith-nunjucks at master · staystatic/staystatic",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/staystatic/staystatic",
+          "title": "staystatic/staystatic: Stay Static - Website Compiler Showcase - One Design, ...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "demo-metalsmith-nunjucks.now.sh",
+          "count": 2,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-05": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

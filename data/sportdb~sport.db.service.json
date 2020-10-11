@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,63 @@
   ],
   "size": 10,
   "updated_at": "2020-05-24T13:53:57Z",
-  "pushed_at": "2020-05-24T13:53:54Z"
+  "pushed_at": "2020-05-24T13:53:54Z",
+  "description": "sport.db HTTP JSON API (web service) scripts",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 3,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/sportdb/sport.db.service",
+          "title": "sportdb/sport.db.service: sport.db HTTP JSON API (web service) scripts",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sportdb/sport.db.service/blob/master/service.rb",
+          "title": "sport.db.service/service.rb at master · sportdb/sport.db.service",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 2
+        }
+      ]
+    },
+    "history": {
+      "2020-10-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      }
+    }
+  }
 }

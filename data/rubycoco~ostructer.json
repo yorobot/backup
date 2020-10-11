@@ -34,6 +34,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -48,5 +52,63 @@
       },
       "message": "add json tests"
     }
-  ]
+  ],
+  "description": "ostructer gem - Open Struct Builder",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 3,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/rubycoco/ostructer",
+          "title": "rubycoco/ostructer: ostructer gem - Open Struct Builder",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/ostructer/blob/master/lib/ostructer.rb",
+          "title": "ostructer/ostructer.rb at master · rubycoco/ostructer",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/ostructer/tree/master/lib",
+          "title": "ostructer/lib at master · rubycoco/ostructer",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-06": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

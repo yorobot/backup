@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 12
+    },
+    "2020-10-11": {
+      "stargazers_count": 12,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -78,5 +82,134 @@
   ],
   "size": 2326,
   "updated_at": "2020-07-26T10:49:16Z",
-  "pushed_at": "2020-07-26T10:49:13Z"
+  "pushed_at": "2020-07-26T10:49:13Z",
+  "description": "football.csv Scripts",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 26,
+        "uniques": 8
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/yorobot/football.csv",
+          "title": "yorobot/football.csv: football.csv Scripts",
+          "count": 6,
+          "uniques": 4
+        },
+        {
+          "path": "/yorobot/football.csv/tree/master/leagues",
+          "title": "football.csv/leagues at master · yorobot/football.csv · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/yorobot/football.csv/blob/master/clubs/1000-clubs/clubs.txt",
+          "title": "football.csv/clubs.txt at master · yorobot/football.csv · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/football.csv/blob/master/clubs/uefa/leagues.txt",
+          "title": "football.csv/leagues.txt at master · yorobot/football.csv · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/football.csv/blob/master/leagues/check_leagues.rb",
+          "title": "football.csv/check_leagues.rb at master · yorobot/football.csv",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/football.csv/tree/master/clubs",
+          "title": "football.csv/clubs at master · yorobot/football.csv · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/football.csv/tree/master/clubs/1000-clubs",
+          "title": "football.csv/clubs/1000-clubs at master · yorobot/football.csv · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/football.csv/tree/master/clubs/uefa",
+          "title": "football.csv/clubs/uefa at master · yorobot/football.csv · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/football.csv/tree/master/reports",
+          "title": "football.csv/reports at master · yorobot/football.csv · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "referrer": "Bing",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-27": {
+        "views": {
+          "count": 9,
+          "uniques": 2
+        }
+      },
+      "2020-09-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-30": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

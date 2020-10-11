@@ -56,6 +56,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 3
+    },
+    "2020-10-11": {
+      "stargazers_count": 3,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -72,5 +76,43 @@
     }
   ],
   "updated_at": "2017-06-16T13:30:05Z",
-  "pushed_at": "2017-06-16T19:21:09Z"
+  "pushed_at": "2017-06-16T19:21:09Z",
+  "description": "Tests, Tests, Tests -  Feeds (in Atom, RSS, JSON Feed, Feed.TXT, Feed.HTML, HTML w/ Microformats e.g. h-entry, etc.) with Test Assertions e.g. feed.title: Planet News & Updates",
+  "language": "HTML",
+  "topics": [
+    "rss",
+    "atom",
+    "jsonfeed",
+    "feedtxt",
+    "feedhtml",
+    "microformats",
+    "hentry",
+    "webfeeds"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

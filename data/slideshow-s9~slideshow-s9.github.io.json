@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 13
+    },
+    "2020-10-11": {
+      "stargazers_count": 13,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -78,5 +82,57 @@
   ],
   "size": 3739,
   "updated_at": "2020-02-18T18:17:07Z",
-  "pushed_at": "2017-11-28T17:49:21Z"
+  "pushed_at": "2017-11-28T17:49:21Z",
+  "description": "Slide Show (S9) Website",
+  "language": "HTML",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 9,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/slideshow-s9/slideshow-s9.github.io",
+          "title": "slideshow-s9/slideshow-s9.github.io: Slide Show (S9) Website",
+          "count": 9,
+          "uniques": 2
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 9,
+          "uniques": 2
+        }
+      ]
+    },
+    "history": {
+      "2020-10-02": {
+        "views": {
+          "count": 8,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 24
+    },
+    "2020-10-11": {
+      "stargazers_count": 24,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -78,5 +82,101 @@
   ],
   "size": 141,
   "updated_at": "2020-10-07T18:07:28Z",
-  "pushed_at": "2016-09-04T12:45:48Z"
+  "pushed_at": "2016-09-04T12:45:48Z",
+  "description": "jekyll starter theme for classic books (ex. Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson)",
+  "language": "CSS",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 17,
+        "uniques": 15
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/henrythemes/jekyll-book-theme",
+          "title": "henrythemes/jekyll-book-theme: jekyll starter theme for classic books (ex. St...",
+          "count": 16,
+          "uniques": 14
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 9,
+          "uniques": 9
+        },
+        {
+          "referrer": "jekyllthemes.org",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 2,
+          "uniques": 2
+        }
+      ]
+    },
+    "history": {
+      "2020-09-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      }
+    }
+  }
 }

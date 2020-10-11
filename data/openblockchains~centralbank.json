@@ -47,6 +47,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 36
+    },
+    "2020-10-11": {
+      "stargazers_count": 36,
+      "forks_count": 19
     }
   },
   "commits": [
@@ -63,5 +67,79 @@
     }
   ],
   "updated_at": "2020-08-27T13:02:38Z",
-  "pushed_at": "2018-04-09T07:02:04Z"
+  "pushed_at": "2018-04-09T07:02:04Z",
+  "description": "centralbank command line tool (and core library) - print your own money / cryptocurrency; run your own federated central bank nodes on the blockchain peer-to-peer over HTTP; revolutionize the world one block at a time",
+  "language": "Ruby",
+  "topics": [
+    "centralbank",
+    "blockchain",
+    "merkletree",
+    "sha256",
+    "cryptocurrency",
+    "cryptohash",
+    "peer-to-peer",
+    "hyperledger",
+    "transactions",
+    "tx",
+    "blockchain-lite"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 4,
+        "uniques": 4
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/openblockchains/centralbank",
+          "title": "GitHub - openblockchains/centralbank: centralbank command line tool (and core...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openblockchains/centralbank/blob/master/lib/centralbank/blockchain.rb",
+          "title": "centralbank/blockchain.rb at master · openblockchains/centralbank · GitHub",
+          "count": 2,
+          "uniques": 2
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

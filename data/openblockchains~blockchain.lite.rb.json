@@ -50,6 +50,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 116
+    },
+    "2020-10-11": {
+      "stargazers_count": 116,
+      "forks_count": 21
     }
   },
   "commits": [
@@ -66,5 +70,104 @@
     }
   ],
   "updated_at": "2020-09-21T04:39:47Z",
-  "pushed_at": "2018-01-09T12:15:18Z"
+  "pushed_at": "2018-01-09T12:15:18Z",
+  "description": "blockchain-lite library / gem - build your own blockchain with crypto hashes -  revolutionize the world with blockchains, blockchains, blockchains one block at a time (Ruby Edition)",
+  "language": "Ruby",
+  "topics": [
+    "blockchain",
+    "cryptohash",
+    "distributed-database",
+    "proof-of-work",
+    "merkletree",
+    "sha256",
+    "tx",
+    "transactions",
+    "blockchain-lite"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 7,
+        "uniques": 7
+      },
+      "clones": {
+        "count": 4,
+        "uniques": 4
+      },
+      "paths": [
+        {
+          "path": "/openblockchains/blockchain.lite.rb",
+          "title": "openblockchains/blockchain.lite.rb: blockchain-lite library / gem - build you...",
+          "count": 6,
+          "uniques": 6
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "referrer": "qiita.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

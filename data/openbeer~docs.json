@@ -50,6 +50,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 10
+    },
+    "2020-10-11": {
+      "stargazers_count": 10,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -66,5 +70,120 @@
     }
   ],
   "updated_at": "2018-11-06T22:14:43Z",
-  "pushed_at": "2014-02-08T19:36:38Z"
+  "pushed_at": "2014-02-08T19:36:38Z",
+  "description": "Web Service / HTTP JSON API Docu",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 45,
+        "uniques": 12
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/openbeer/docs",
+          "title": "openbeer/docs: Web Service / HTTP JSON API Docu",
+          "count": 24,
+          "uniques": 12
+        },
+        {
+          "path": "/openbeer/docs/blob/master/BEERS.md",
+          "title": "docs/BEERS.md at master · openbeer/docs · GitHub",
+          "count": 14,
+          "uniques": 10
+        },
+        {
+          "path": "/openbeer/docs/blob/master/BREWERIES.md",
+          "title": "docs/BREWERIES.md at master · openbeer/docs",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/openbeer/docs/blob/master/README.md",
+          "title": "docs/README.md at master · openbeer/docs · GitHub",
+          "count": 2,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 16,
+          "uniques": 9
+        },
+        {
+          "referrer": "openbeer.github.io",
+          "count": 6,
+          "uniques": 4
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 11,
+          "uniques": 3
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 92
+    },
+    "2020-10-11": {
+      "stargazers_count": 92,
+      "forks_count": 11
     }
   },
   "commits": [
@@ -78,5 +82,105 @@
   ],
   "size": 930,
   "updated_at": "2020-02-29T14:22:43Z",
-  "pushed_at": "2017-11-18T20:14:41Z"
+  "pushed_at": "2017-11-18T20:14:41Z",
+  "description": "S6 Blank - Slideshow templates using HTML 5, CSS 3 'n' JavaScript 2017+ w/ Bespoke.js-compatible \"microkernel\"",
+  "language": "JavaScript",
+  "topics": [
+    "slides",
+    "presentation",
+    "slideshow",
+    "presentations",
+    "s6",
+    "bespokejs"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 9,
+        "uniques": 7
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/slidekit/s6",
+          "title": "GitHub - slidekit/s6: S6 Blank - Slideshow templates using HTML 5, CSS 3 'n' ...",
+          "count": 8,
+          "uniques": 7
+        },
+        {
+          "path": "/slidekit/s6/blob/master/blank.html",
+          "title": "s6/blank.html at master · slidekit/s6 · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "plugins.jquery.com",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "referrer": "pinboard.in",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "mattkopala.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      }
+    }
+  }
 }

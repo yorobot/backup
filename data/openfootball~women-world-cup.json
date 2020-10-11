@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 4
+    },
+    "2020-10-11": {
+      "stargazers_count": 4,
+      "forks_count": 4
     }
   },
   "commits": [
@@ -78,5 +82,68 @@
   ],
   "size": 144,
   "updated_at": "2017-07-25T21:25:45Z",
-  "pushed_at": "2015-04-22T17:10:42Z"
+  "pushed_at": "2015-04-22T17:10:42Z",
+  "description": "Free open public domain football data for the Women's World Cup (incl. Canada 2015, etc.)",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 3,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/openfootball/women-world-cup",
+          "title": "openfootball/women-world-cup: Free open public domain football data for the W...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/women-world-cup/stargazers",
+          "title": "Stargazers · openfootball/women-world-cup",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "jokecamp.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

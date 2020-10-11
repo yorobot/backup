@@ -47,6 +47,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 7
+    },
+    "2020-10-11": {
+      "stargazers_count": 7,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -63,5 +67,71 @@
     }
   ],
   "updated_at": "2019-10-09T01:59:43Z",
-  "pushed_at": "2018-01-09T20:52:33Z"
+  "pushed_at": "2018-01-09T20:52:33Z",
+  "description": "ledger-lite library / gem - hyper ledger book for the distributed blockchain internet era; add your transactions one block at a time; transfer crypto(currencie)s and balance the accounts (Ruby Edition)",
+  "language": "Ruby",
+  "topics": [
+    "ledger",
+    "blockchain",
+    "transactions",
+    "cryptos",
+    "cryptocurrencies",
+    "cryptoassets",
+    "cryptocollectibles",
+    "currencies",
+    "assets",
+    "collectibles",
+    "tulips",
+    "cryptotulips",
+    "hyperledger",
+    "ledgerlite",
+    "blockchainlite"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 2,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/openblockchains/ledger.lite.rb",
+          "title": "GitHub - openblockchains/ledger.lite.rb: ledger-lite library / gem - hyper le...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

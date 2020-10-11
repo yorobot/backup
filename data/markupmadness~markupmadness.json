@@ -53,6 +53,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -69,5 +73,42 @@
     }
   ],
   "updated_at": "2017-07-17T14:22:16Z",
-  "pushed_at": "2017-07-18T20:17:36Z"
+  "pushed_at": "2017-07-18T20:17:36Z",
+  "description": "Markup & Markdown Madness Samples (Showcase)  - Kramdown • Wikipedia Markup • Text with Instructions (.texti) • LaTeX • HTML • Many More - Add Your Sample!",
+  "language": "HTML",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

@@ -47,6 +47,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 2
+    },
+    "2020-10-11": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -63,5 +67,36 @@
     }
   ],
   "updated_at": "2018-01-29T21:59:28Z",
-  "pushed_at": "2018-01-18T20:12:48Z"
+  "pushed_at": "2018-01-18T20:12:48Z",
+  "description": "How I Start - Let's Build a Gem Together! (Book Edition) by Steve Klabnik",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

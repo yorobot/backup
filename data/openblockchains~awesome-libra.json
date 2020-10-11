@@ -22,6 +22,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 39
+    },
+    "2020-10-11": {
+      "stargazers_count": 39,
+      "forks_count": 16
     }
   },
   "commits": [
@@ -36,5 +40,86 @@
       },
       "message": "Update README.md"
     }
-  ]
+  ],
+  "description": "A collection about all things Libra, Move & Zuckerbucks - Let's reinvent money with fast and cheap world-wide transfers; let's bank the 1.7 billion unbanked, ...",
+  "language": null,
+  "topics": [
+    "libra",
+    "move",
+    "awesome",
+    "awesome-libra",
+    "blockchain",
+    "contracts"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 6,
+        "uniques": 3
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/openblockchains/awesome-libra/tree/master/contracts",
+          "title": "awesome-libra/contracts at master · openblockchains/awesome-libra",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/openblockchains/awesome-libra",
+          "title": "GitHub - openblockchains/awesome-libra: A collection about all things Libra, ...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openblockchains/awesome-libra/blob/master/contracts/earmarked.mvir",
+          "title": "awesome-libra/earmarked.mvir at master · openblockchains/awesome-libra · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 2
+        }
+      ]
+    },
+    "history": {
+      "2020-09-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

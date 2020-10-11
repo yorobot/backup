@@ -53,6 +53,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 4
+    },
+    "2020-10-11": {
+      "stargazers_count": 4,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -69,5 +73,86 @@
     }
   ],
   "updated_at": "2019-11-21T21:19:36Z",
-  "pushed_at": "2017-07-20T16:23:30Z"
+  "pushed_at": "2017-07-20T16:23:30Z",
+  "description": "Journal.TXT Website and Spec(ification) - Single-Text File Journals - The Human Multi-Document Format for Writers - Blogging Reinvented",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 8,
+        "uniques": 3
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/journaltxt/journaltxt.github.io",
+          "title": "journaltxt/journaltxt.github.io: Journal.TXT Website and Spec(ification) - Si...",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/journaltxt/journaltxt.github.io/blob/master/samples/Vienna.txt",
+          "title": "journaltxt.github.io/Vienna.txt at master · journaltxt/journaltxt.github.io ·...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/journaltxt/journaltxt.github.io/commits",
+          "title": "Commits · journaltxt/journaltxt.github.io",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "referrer": "journaltxt.github.io",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

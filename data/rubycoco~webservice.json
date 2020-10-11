@@ -34,6 +34,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 8
+    },
+    "2020-10-11": {
+      "stargazers_count": 8,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -48,5 +52,68 @@
       },
       "message": "up metal"
     }
-  ]
+  ],
+  "description": "webservice gem - yet another HTTP JSON API (web service) builder",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 4,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/rubycoco/webservice",
+          "title": "GitHub - rubycoco/webservice: webservice gem - yet another HTTP JSON API (web...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycoco/webservice/blob/master/script/app.rb",
+          "title": "webservice/app.rb at master · rubycoco/webservice",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/webservice/tree/master/script",
+          "title": "webservice/script at master · rubycoco/webservice",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-10": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

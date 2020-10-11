@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 37
+    },
+    "2020-10-11": {
+      "stargazers_count": 37,
+      "forks_count": 18
     }
   },
   "commits": [
@@ -78,5 +82,142 @@
   ],
   "size": 148,
   "updated_at": "2020-08-24T16:48:18Z",
-  "pushed_at": "2018-12-29T05:57:27Z"
+  "pushed_at": "2018-12-29T05:57:27Z",
+  "description": "World Factbook Country Profiles in SQL (Incl. factbook.db - Single-File SQLite Distro) - Free Open Public Domain Data",
+  "language": null,
+  "topics": [
+    "factbook",
+    "sql"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 24,
+        "uniques": 11
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/factbook/factbook.sql",
+          "title": "GitHub - factbook/factbook.sql: World Factbook Country Profiles in SQL (Incl....",
+          "count": 11,
+          "uniques": 9
+        },
+        {
+          "path": "/factbook/factbook.sql/blob/master/factbook.sql",
+          "title": "factbook.sql/factbook.sql at master · factbook/factbook.sql · GitHub",
+          "count": 6,
+          "uniques": 6
+        },
+        {
+          "path": "/factbook/factbook.sql/releases/tag/v0.1",
+          "title": "Release factbook.db · factbook/factbook.sql · GitHub",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/factbook/factbook.sql/releases",
+          "title": "Releases · factbook/factbook.sql · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/factbook/factbook.sql/blob/master/README.md",
+          "title": "factbook.sql/README.md at master · factbook/factbook.sql · GitHub",
+          "count": 2,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 6,
+          "uniques": 5
+        },
+        {
+          "referrer": "community.dataquest.io",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "gmayock.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      }
+    }
+  }
 }

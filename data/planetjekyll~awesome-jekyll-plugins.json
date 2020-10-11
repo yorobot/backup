@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 851
+    },
+    "2020-10-11": {
+      "stargazers_count": 851,
+      "forks_count": 64
     }
   },
   "commits": [
@@ -77,6 +81,249 @@
     }
   ],
   "size": 148,
-  "updated_at": "2020-10-09T08:00:57Z",
-  "pushed_at": "2020-10-04T16:17:20Z"
+  "updated_at": "2020-10-11T15:53:41Z",
+  "pushed_at": "2020-10-04T16:17:20Z",
+  "description": "A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 397,
+        "uniques": 254
+      },
+      "clones": {
+        "count": 8,
+        "uniques": 8
+      },
+      "paths": [
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins",
+          "title": "planetjekyll/awesome-jekyll-plugins: A collection of awesome Jekyll plugins (...",
+          "count": 353,
+          "uniques": 241
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/blob/master/PASTIES.md",
+          "title": "awesome-jekyll-plugins/PASTIES.md at master · planetjekyll/awesome-jekyll-plu...",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/issues",
+          "title": "Issues · planetjekyll/awesome-jekyll-plugins",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/pull/50",
+          "title": "Update jekyll-spaceship plugin by jeffreytse · Pull Request #50 · planetjekyl...",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/blob/master/README.md",
+          "title": "awesome-jekyll-plugins/README.md at master · planetjekyll/awesome-jekyll-plug...",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/commit/ce99d5f5265ee1db71b0dbf4e882eb431c91b93f",
+          "title": "Adding Pug converter plugin · planetjekyll/awesome-jekyll-plugins@ce99d5f · G...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/issues/48",
+          "title": "Needs more love · Issue #48 · planetjekyll/awesome-jekyll-plugins",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/commit/2c96b61443f1080ad6a3f76e60919587f3264341",
+          "title": "Add jekyll-postfile and jekyll-datapage-generator · planetjekyll/awesome-jeky...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/commit/79a1ed068abcbc955ddf6b250c5099948dbe2521",
+          "title": "Update jekyll-spaceship plugin (#50) · planetjekyll/awesome-jekyll-plugins@79...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/commits/master",
+          "title": "Commits · planetjekyll/awesome-jekyll-plugins",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "jekyllrb.com",
+          "count": 178,
+          "uniques": 129
+        },
+        {
+          "referrer": "Google",
+          "count": 96,
+          "uniques": 58
+        },
+        {
+          "referrer": "github.com",
+          "count": 29,
+          "uniques": 24
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 7,
+          "uniques": 5
+        },
+        {
+          "referrer": "Baidu",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "Bing",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "jekyllrb-ko.github.io",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "snipcart.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "reddit.com",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "dev-yakuza.github.io",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-27": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2020-09-28": {
+        "views": {
+          "count": 28,
+          "uniques": 20
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 36,
+          "uniques": 21
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 36,
+          "uniques": 15
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 31,
+          "uniques": 26
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 37,
+          "uniques": 28
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 26,
+          "uniques": 13
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 18,
+          "uniques": 13
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 38,
+          "uniques": 28
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 24,
+          "uniques": 19
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 22,
+          "uniques": 18
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 22,
+          "uniques": 21
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 38,
+          "uniques": 20
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 27,
+          "uniques": 19
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 10,
+          "uniques": 9
+        }
+      }
+    }
+  }
 }

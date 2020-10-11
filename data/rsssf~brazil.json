@@ -13,6 +13,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -27,5 +31,98 @@
       },
       "message": "add stats"
     }
-  ]
+  ],
+  "description": "football.db RSSSF (Rec.Sport.Soccer Statistics Foundation) Archive Data for Brazil (Brasil) - Campeonato Brasileiro Série A / Brasileirão etc.",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 10,
+        "uniques": 4
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/rsssf/brazil",
+          "title": "GitHub - rsssf/brazil: football.db RSSSF (Rec.Sport.Soccer Statistics Foundat...",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/rsssf/brazil/blob/master/2015/1-seriea.txt",
+          "title": "brazil/1-seriea.txt at master · rsssf/brazil · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rsssf/brazil/issues",
+          "title": "Issues · rsssf/brazil · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rsssf/brazil/find/master",
+          "title": "File Finder · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rsssf/brazil/tree/master/2014",
+          "title": "brazil/2014 at master · rsssf/brazil · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rsssf/brazil/tree/master/2015",
+          "title": "brazil/2015 at master · rsssf/brazil · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-29": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      }
+    }
+  }
 }

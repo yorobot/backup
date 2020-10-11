@@ -50,6 +50,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 4
+    },
+    "2020-10-11": {
+      "stargazers_count": 4,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -66,5 +70,57 @@
     }
   ],
   "updated_at": "2019-01-09T20:19:55Z",
-  "pushed_at": "2017-10-30T19:39:49Z"
+  "pushed_at": "2017-10-30T19:39:49Z",
+  "description": "slide show (s9) docs",
+  "language": "HTML",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 4,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/slideshow-s9/docs",
+          "title": "GitHub - slideshow-s9/docs: slide show (s9) docs",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/slideshow-s9/docs/blob/master/index.md",
+          "title": "docs/index.md at master · slideshow-s9/docs · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-02": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 7
+    },
+    "2020-10-11": {
+      "stargazers_count": 7,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,79 @@
   ],
   "size": 5,
   "updated_at": "2020-07-23T16:09:36Z",
-  "pushed_at": "2016-03-13T19:00:37Z"
+  "pushed_at": "2016-03-13T19:00:37Z",
+  "description": "Page Design",
+  "language": "CSS",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 11,
+        "uniques": 6
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/pagedesigns/markedapp-byword",
+          "title": "GitHub - pagedesigns/markedapp-byword: Page Design",
+          "count": 10,
+          "uniques": 6
+        },
+        {
+          "path": "/pagedesigns/markedapp-byword/blob/gh-pages/README.md",
+          "title": "markedapp-byword/README.md at gh-pages · pagedesigns/markedapp-byword · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 9,
+          "uniques": 5
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        }
+      }
+    }
+  }
 }

@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 7
+    },
+    "2020-10-11": {
+      "stargazers_count": 7,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -78,5 +82,61 @@
   ],
   "size": 5,
   "updated_at": "2020-08-01T04:55:01Z",
-  "pushed_at": "2017-07-01T06:34:01Z"
+  "pushed_at": "2017-07-01T06:34:01Z",
+  "description": "Book Builder / Maker / Generator / Compiler from Markdown Manuscripts (in Plain Text)  - Add Your Tool!",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 3,
+        "uniques": 3
+      },
+      "paths": [
+        {
+          "path": "/mundimark/markdown-tools-books",
+          "title": "mundimark/markdown-tools-books: Book Builder / Maker / Generator / Compiler f...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

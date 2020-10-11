@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 8
+    },
+    "2020-10-11": {
+      "stargazers_count": 8,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -78,5 +82,109 @@
   ],
   "size": 5791,
   "updated_at": "2018-11-15T16:54:27Z",
-  "pushed_at": "2018-04-26T13:39:58Z"
+  "pushed_at": "2018-04-26T13:39:58Z",
+  "description": "football league club logos",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 14,
+        "uniques": 6
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/sportlogos/football.db.logos",
+          "title": "sportlogos/football.db.logos: football league club logos",
+          "count": 5,
+          "uniques": 5
+        },
+        {
+          "path": "/sportlogos/football.db.logos/tree/master/europe",
+          "title": "football.db.logos/europe at master · sportlogos/football.db.logos · GitHub",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/sportlogos/football.db.logos/blob/master/europe/en-england/arsenal.png",
+          "title": "football.db.logos/arsenal.png at master · sportlogos/football.db.logos",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportlogos/football.db.logos/blob/master/europe/ru-russia/krasnodar.png",
+          "title": "football.db.logos/krasnodar.png at master · sportlogos/football.db.logos · Gi...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportlogos/football.db.logos/tree/master/europe/en-england",
+          "title": "football.db.logos/europe/en-england at master · sportlogos/football.db.logos",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportlogos/football.db.logos/tree/master/europe/nl-netherlands",
+          "title": "football.db.logos/europe/nl-netherlands at master · sportlogos/football.db.lo...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportlogos/football.db.logos/tree/master/europe/ru-russia",
+          "title": "football.db.logos/europe/ru-russia at master · sportlogos/football.db.logos ·...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 5,
+          "uniques": 5
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

@@ -125,19 +125,19 @@
         }
       ],
       "views": {
-        "count": 448,
+        "count": 427,
         "uniques": 77
       },
       "clones": {
-        "count": 40,
-        "uniques": 8
+        "count": 38,
+        "uniques": 7
       }
     },
     "history": {
       "2020-09-27": {
         "views": {
-          "count": 25,
-          "uniques": 3
+          "count": 4,
+          "uniques": 1
         },
         "clones": {
           "count": 2,

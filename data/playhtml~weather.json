@@ -56,6 +56,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -72,5 +76,36 @@
     }
   ],
   "updated_at": "2017-05-14T18:07:52Z",
-  "pushed_at": "2017-05-14T18:45:19Z"
+  "pushed_at": "2017-05-14T18:45:19Z",
+  "description": "Weather - Web Components Showcase / Samples - JavaScript 5 • JavaScript 6+ • React • Elm • ReasonML - Add Your Sample!",
+  "language": "JavaScript",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

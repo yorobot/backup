@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 8
+    },
+    "2020-10-11": {
+      "stargazers_count": 8,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -78,5 +82,57 @@
   ],
   "size": 8,
   "updated_at": "2018-09-18T18:25:44Z",
-  "pushed_at": "2016-11-14T18:34:35Z"
+  "pushed_at": "2016-11-14T18:34:35Z",
+  "description": "Mr. Hyde's Scripts - Automate, Automate, Automate - Add Your Script!",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+        {
+          "path": "/mrhydescripts/scripts",
+          "title": "mrhydescripts/scripts: Mr. Hyde's Scripts - Automate, Automate, Automate - Ad...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "planetjekyll.github.io",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-10-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -78,5 +82,47 @@
   ],
   "size": 332,
   "updated_at": "2015-05-28T09:33:05Z",
-  "pushed_at": "2015-06-01T20:24:02Z"
+  "pushed_at": "2015-06-01T20:24:02Z",
+  "description": "Free open public domain beer, brewery n brewpub data for Bamberg & Upper Franconia in Bavaria, Germany (Bamberg & Oberfranken in Bayern, Deutschland ) / Europe",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/openbeer/oberfranken",
+          "title": "GitHub - openbeer/oberfranken: Free open public domain beer, brewery n brewpu...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

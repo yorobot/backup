@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 9
+    },
+    "2020-10-11": {
+      "stargazers_count": 9,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -78,5 +82,57 @@
   ],
   "size": 164,
   "updated_at": "2019-05-20T13:27:29Z",
-  "pushed_at": "2014-09-28T18:38:24Z"
+  "pushed_at": "2014-09-28T18:38:24Z",
+  "description": "sportdb web service starter sample - build your own HTTP JSON API using the football.db, worldcup.db, ski.db, formulal1.db, etc.",
+  "language": "JavaScript",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 3,
+        "uniques": 2
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/sportkit/sport.db.starter.node.js",
+          "title": "GitHub - sportkit/sport.db.starter.node.js: sportdb web service starter sampl...",
+          "count": 3,
+          "uniques": 2
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 2
+        }
+      ]
+    },
+    "history": {
+      "2020-10-06": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

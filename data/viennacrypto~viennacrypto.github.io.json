@@ -16,6 +16,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 6
+    },
+    "2020-10-11": {
+      "stargazers_count": 6,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -30,5 +34,53 @@
       },
       "message": "Update README.md"
     }
-  ]
+  ],
+  "description": "Website Source - Vienna Crypto Programming Meetup / Stammtisch in Austria",
+  "language": null,
+  "topics": [
+    "austria",
+    "vienna",
+    "meetup",
+    "stammtisch",
+    "crypto",
+    "blockchain",
+    "public-key",
+    "private-key",
+    "signatures",
+    "consensus",
+    "contract-progamming",
+    "wien"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

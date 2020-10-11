@@ -40,6 +40,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 20
+    },
+    "2020-10-11": {
+      "stargazers_count": 20,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -54,5 +58,129 @@
       },
       "message": "Update README.md"
     }
-  ]
+  ],
+  "description": "A collection about Awesome Crypto Collectibles (& Assets) - Yes, Non Fungible Tokens (NFTs) - Yes, Unique Bits & Bytes on the Blockchain - Buy! Sell! Hodl!",
+  "language": "Solidity",
+  "topics": [
+    "cryptocollectibles",
+    "cryptopets",
+    "cryptopuppies",
+    "cryptotulips",
+    "awesome",
+    "cryptocopycats",
+    "blockchain",
+    "erc721"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 15,
+        "uniques": 6
+      },
+      "clones": {
+        "count": 7,
+        "uniques": 5
+      },
+      "paths": [
+        {
+          "path": "/cryptocopycats/awesome-cryptocollectibles",
+          "title": "GitHub - cryptocopycats/awesome-cryptocollectibles: A collection about Awesom...",
+          "count": 10,
+          "uniques": 5
+        },
+        {
+          "path": "/cryptocopycats/awesome-cryptocollectibles/blob/master/contracts/ERC721-V1.sol",
+          "title": "awesome-cryptocollectibles/ERC721-V1.sol at master · cryptocopycats/awesome-c...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/awesome-cryptocollectibles/blob/master/contracts/ERC721-V0.sol",
+          "title": "awesome-cryptocollectibles/ERC721-V0.sol at master · cryptocopycats/awesome-c...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/awesome-cryptocollectibles/find/master",
+          "title": "File Finder",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 9,
+          "uniques": 4
+        },
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 8,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-09-29": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

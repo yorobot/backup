@@ -10,6 +10,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -24,5 +28,195 @@
       },
       "message": "up"
     }
-  ]
+  ],
+  "description": "football.csv scripts",
+  "language": "Ruby",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 83,
+        "uniques": 3
+      },
+      "clones": {
+        "count": 43,
+        "uniques": 14
+      },
+      "paths": [
+        {
+          "path": "/yorobot/cache.csv",
+          "title": "yorobot/cache.csv: football.csv scripts",
+          "count": 28,
+          "uniques": 2
+        },
+        {
+          "path": "/yorobot/cache.csv/commits/master",
+          "title": "Commits · yorobot/cache.csv",
+          "count": 21,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/cache.csv/commit/670c6dda6d019b75375bd3e9c8e3bc3d252429dd",
+          "title": "up · yorobot/cache.csv@670c6dd",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/cache.csv/commit/a0d66af461ac204a05663a9c848f1c0eba53c6a0",
+          "title": "up · yorobot/cache.csv@a0d66af",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/cache.csv/commit/b51842aa150b3be3a0fdd75cd988cdffd03d86a1",
+          "title": "up · yorobot/cache.csv@b51842a",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/cache.csv/commit/f9b026e00c0cf0cceafd979778ef8e68634f8e90",
+          "title": "up go · yorobot/cache.csv@f9b026e",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/cache.csv/blob/master/up.history/NOTES.md",
+          "title": "cache.csv/NOTES.md at master · yorobot/cache.csv",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/cache.csv/commit/0e68b52df98e3da81d4b03cbc23dc158979a7c40",
+          "title": "up cache · yorobot/cache.csv@0e68b52",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/cache.csv/commit/1ee57bd4f1a6fcabc59f0fcac9edea794aaee753",
+          "title": "up hist · yorobot/cache.csv@1ee57bd",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/yorobot/cache.csv/commit/3233be190c7d270c444515fc1eb628895e43ff87",
+          "title": "up · yorobot/cache.csv@3233be1",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 25,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "views": {
+          "count": 10,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 9,
+          "uniques": 3
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 5
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 4
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 10,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 14,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 15,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 7,
+          "uniques": 2
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-08": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

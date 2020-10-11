@@ -40,6 +40,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 20
+    },
+    "2020-10-11": {
+      "stargazers_count": 20,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -54,5 +58,116 @@
       },
       "message": "Update README.md"
     }
-  ]
+  ],
+  "description": "A collection about awesome no code - Why code? Let's go shopping! Let's buy programs & processes & agile methodologies. All about the Chief Digital Officer's (CDO) clicky-clicky-clicky dream future. No code. No text. No numbers. Goodbye, code monkeys! Hello, business architects!",
+  "language": null,
+  "topics": [
+    "nocode",
+    "notext",
+    "nonumbers",
+    "business-architect",
+    "digital-transformation",
+    "chief-digital-officer",
+    "digital-future"
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 19,
+        "uniques": 11
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
+      "paths": [
+        {
+          "path": "/bigkorupto/awesome-nocode",
+          "title": "GitHub - bigkorupto/awesome-nocode: A collection about awesome no code - Why ...",
+          "count": 17,
+          "uniques": 11
+        },
+        {
+          "path": "/bigkorupto/awesome-nocode/network/members",
+          "title": "Forks · bigkorupto/awesome-nocode",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/bigkorupto/awesome-nocode/stargazers",
+          "title": "Stargazers · bigkorupto/awesome-nocode",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 15,
+          "uniques": 9
+        },
+        {
+          "referrer": "Google",
+          "count": 2,
+          "uniques": 2
+        }
+      ]
+    },
+    "history": {
+      "2020-09-29": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

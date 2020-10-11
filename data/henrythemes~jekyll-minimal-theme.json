@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 91
+    },
+    "2020-10-11": {
+      "stargazers_count": 91,
+      "forks_count": 68
     }
   },
   "commits": [
@@ -78,5 +82,173 @@
   ],
   "size": 46,
   "updated_at": "2020-10-07T05:05:37Z",
-  "pushed_at": "2020-03-23T22:31:51Z"
+  "pushed_at": "2020-03-23T22:31:51Z",
+  "description": "jekyll minimal theme (for blog posts with archive and feed)",
+  "language": "CSS",
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 47,
+        "uniques": 34
+      },
+      "clones": {
+        "count": 4,
+        "uniques": 4
+      },
+      "paths": [
+        {
+          "path": "/henrythemes/jekyll-minimal-theme",
+          "title": "henrythemes/jekyll-minimal-theme: jekyll minimal theme (for blog posts with a...",
+          "count": 41,
+          "uniques": 32
+        },
+        {
+          "path": "/henrythemes/jekyll-minimal-theme/tree/master/_layouts",
+          "title": "jekyll-minimal-theme/_layouts at master · henrythemes/jekyll-minimal-theme · ...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/henrythemes/jekyll-minimal-theme/blob/master/_layouts/post.html",
+          "title": "jekyll-minimal-theme/post.html at master · henrythemes/jekyll-minimal-theme",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 23,
+          "uniques": 18
+        },
+        {
+          "referrer": "jekyllthemes.org",
+          "count": 7,
+          "uniques": 6
+        },
+        {
+          "referrer": "henrythemes.github.io",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "referrer": "themes.jekyllrc.org",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "maumagnaguagno.github.io",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "history": {
+      "2020-09-27": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-09-28": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-09-29": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2020-09-30": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2020-10-01": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2020-10-02": {
+        "views": {
+          "count": 11,
+          "uniques": 7
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-05": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-06": {
+        "views": {
+          "count": 6,
+          "uniques": 4
+        }
+      },
+      "2020-10-07": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-09": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-10": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }

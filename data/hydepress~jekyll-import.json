@@ -61,6 +61,10 @@
     },
     "2020-10-09": {
       "stargazers_count": 1
+    },
+    "2020-10-11": {
+      "stargazers_count": 1,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -78,5 +82,42 @@
   ],
   "size": 18,
   "updated_at": "2016-02-28T18:02:42Z",
-  "pushed_at": "2016-02-28T18:06:47Z"
+  "pushed_at": "2016-02-28T18:06:47Z",
+  "description": "Jekyll Importers 'n' Syndicators (Book Edition) by Tom Preston-Werner, Nick Quaranto, Parker Moore, et al",
+  "language": null,
+  "topics": [
+
+  ],
+  "traffic": {
+    "summary": {
+      "views": {
+        "count": 0,
+        "uniques": 0
+      },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
+      "paths": [
+
+      ],
+      "referrers": [
+
+      ]
+    },
+    "history": {
+      "2020-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-07": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      }
+    }
+  }
 }
