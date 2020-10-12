@@ -71,10 +71,10 @@ cryptocopycats (6):
 
 ##### Update Summary
 
-To update the summary (SUMMARY.md) use the repos script e.g.
+To update the summary (SUMMARY.md) & co. reports use the reports script e.g.
 
 ```
-$ ruby ./summary.rb
+$ ruby ./reports.rb
 ```
 
 

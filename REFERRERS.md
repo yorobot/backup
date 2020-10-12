@@ -1,0 +1,1558 @@
+# 593 repos @ 83 orgs
+
+popular referrer sources over the last 14 days - page views / unique
+
+1. **github.com** 3023 / 1974  _(258)_:
+    - 319 / 194 -- openfootball/england
+    - 260 / 151 -- openfootball/football.json
+    - 217 / 138 -- footballcsv/england
+    - 113 / 70 -- openfootball/world
+    - 83 / 62 -- footballcsv/footballcsv.github.io
+    - 80 / 51 -- footballcsv/espana
+    - 75 / 43 -- openfootball/europe
+    - 68 / 47 -- openfootball/quick-starter
+    - 59 / 35 -- openblockchains/awesome-blockchains
+    - 54 / 31 -- openfootball/espana
+    - 53 / 38 -- footballcsv/europe-champions-league
+    - 51 / 40 -- openbookie/sportbook
+    - 50 / 30 -- mundimark/awesome-markdown
+    - 47 / 30 -- openfootball/south-america
+    - 46 / 24 -- openfootball/clubs
+    - 45 / 41 -- footballcsv/world
+    - 41 / 19 -- openfootball/deutschland
+    - 37 / 4 -- rubycoco/git
+    - 35 / 26 -- yorobot/football.json
+    - 31 / 27 -- openfootball/league-starter
+    - 30 / 2 -- rubycoco/webclient
+    - 29 / 24 -- planetjekyll/awesome-jekyll-plugins
+    - 29 / 8 -- openfootball/help
+    - 28 / 23 -- planetjekyll/awesome-jekyll-themes
+    - 28 / 21 -- openfootball/world-cup
+    - 27 / 2 -- yorobot/workflow
+    - 26 / 24 -- mundimark/awesome-markdown-editors
+    - 25 / 20 -- openblockchains/programming-cryptocontracts
+    - 25 / 1 -- yorobot/cache.csv
+    - 23 / 18 -- henrythemes/jekyll-minimal-theme
+    - 21 / 20 -- henrythemes/hello-jekyll-theme
+    - 21 / 10 -- openfootball/mexico
+    - 21 / 9 -- openbeer/datafile
+    - 20 / 17 -- footballcsv/deutschland
+    - 20 / 16 -- openfootball/leagues
+    - 20 / 16 -- sportdb/sport.db
+    - 20 / 14 -- openblockchains/programming-blockchains
+    - 19 / 14 -- factbook/factbook.json
+    - 18 / 14 -- cryptocopycats/awesome-cryptokitties
+    - 17 / 17 -- factbook/factbook
+    - 17 / 12 -- openfootball/italy
+    - 16 / 14 -- openfootball/openfootball.github.io
+    - 16 / 12 -- openfootball/schema.sql
+    - 16 / 11 -- openmundi/world.db
+    - 16 / 9 -- openbeer/docs
+    - 15 / 14 -- slideshow-templates/slideshow-templates.github.io
+    - 15 / 13 -- henrythemes/jekyll-bootstrap-theme
+    - 15 / 9 -- bigkorupto/awesome-nocode
+    - 15 / 2 -- yorobot/backup
+    - 14 / 11 -- planetopendata/awesome-football
+    - 13 / 9 -- henrythemes/hello-minima-theme
+    - 13 / 8 -- footballcsv/belgium
+    - 13 / 5 -- feedreader/pluto
+    - 12 / 7 -- slideshow-templates/slideshow-google-html5-slides
+    - 12 / 7 -- sportkit/football.js
+    - 11 / 8 -- footballcsv/mexico
+    - 10 / 9 -- footballcsv/spec
+    - 10 / 3 -- feedreader/pluto.starter
+    - 9 / 8 -- openfootball/players
+    - 9 / 8 -- sportdb/datasets
+    - 9 / 6 -- feedreader/planet.rb
+    - 9 / 6 -- henrythemes/jekyll-starter-theme
+    - 9 / 5 -- journaltxt/journaltxt
+    - 9 / 5 -- pagedesigns/markedapp-byword
+    - 9 / 5 -- planetruby/meetups
+    - 9 / 4 -- cryptocopycats/awesome-cryptocollectibles
+    - 9 / 2 -- slideshow-s9/slideshow-s9.github.io
+    - 8 / 8 -- planetruby/calendar
+    - 8 / 7 -- henrythemes/jekyll-starter-theme-v2
+    - 8 / 6 -- openbeer/us-united-states
+    - 8 / 5 -- footballcsv/cache.leagues
+    - 8 / 5 -- openfootball/europe-champions-league
+    - 8 / 5 -- sportdb/football.db
+    - 8 / 4 -- sportkit/football.js.starter
+    - 7 / 7 -- rsssf/espana
+    - 7 / 6 -- rsssf/england
+    - 7 / 5 -- csvreader/csvreader
+    - 7 / 5 -- openblockchains/awesome-tokens
+    - 7 / 5 -- planetjekyll/showcase
+    - 7 / 5 -- slideshow-s9/slideshow
+    - 6 / 6 -- planetjekyll/awesome-jekyll
+    - 6 / 5 -- footballcsv/cache.soccerdata
+    - 6 / 4 -- manuscripts/book-starter
+    - 6 / 4 -- openblockchains/programming-bitcoin-script
+    - 6 / 4 -- openfootball/national-teams
+    - 6 / 2 -- sportkit/football.html
+    - 6 / 1 -- yorobot/stage
+    - 5 / 5 -- openfootball/stadiums
+    - 5 / 5 -- openfootball/world-cup.json
+    - 5 / 5 -- s6ruby/ethereum-contracts
+    - 5 / 4 -- footballcsv/cache.footballdata
+    - 5 / 4 -- openbeer/world
+    - 5 / 4 -- planetjekyll/awesome-jekyll-editors
+    - 5 / 3 -- cryptocopycats/kittyverse
+    - 5 / 3 -- journaltxt/journaltxt.github.io
+    - 5 / 3 -- pagedesigns/jasonm23-dark
+    - 4 / 4 -- cryptocopycats/bitcat
+    - 4 / 4 -- openbookie/sport.db.play
+    - 4 / 4 -- opensport/american-football.db
+    - 4 / 4 -- planetopendata/awesome-sqlite
+    - 4 / 4 -- sportdb/docs
+    - 4 / 3 -- geraldb/talks
+    - 4 / 3 -- openbeer/openbeer.github.io
+    - 4 / 3 -- sportdb/sport.db.web
+    - 4 / 3 -- yorobot/football.csv
+    - 4 / 1 -- slideshow-templates/slideshow-shower
+    - 3 / 3 -- cryptocopycats/kitties
+    - 3 / 3 -- csvreader/csvpack
+    - 3 / 3 -- csvspecs/awesome-csv
+    - 3 / 3 -- drjekyllthemes/themes
+    - 3 / 3 -- openblockchains/blockchain.lite.rb
+    - 3 / 3 -- openfootball/austria
+    - 3 / 3 -- rubycoco/almost-sinatra
+    - 3 / 3 -- worlddb/world.db
+    - 3 / 2 -- beercsv/statistics
+    - 3 / 2 -- cryptocopycats/copycats
+    - 3 / 2 -- journaltxt/blog
+    - 3 / 2 -- manuscripts/manuscripts.github.io
+    - 3 / 2 -- openbeer/collections
+    - 3 / 2 -- openbeer/schema
+    - 3 / 2 -- openblockchains/awesome-libra
+    - 3 / 2 -- openfootball/docs
+    - 3 / 2 -- sportkit/sport.db.starter.node.js
+    - 3 / 1 -- slideshow-s9/awesome-slideshows
+    - 3 / 1 -- yorobot/cache.github
+    - 3 / 1 -- yorobot/logs
+    - 3 / 1 -- yorobot/world.db
+    - 2 / 2 -- austriacodes/vienna.html
+    - 2 / 2 -- beercsv/us-united-states
+    - 2 / 2 -- datatxt/awseome-yaml
+    - 2 / 2 -- factbook/factbook.sql
+    - 2 / 2 -- footballcsv/austria
+    - 2 / 2 -- footballcsv/cache.soccerverse
+    - 2 / 2 -- henrythemes/jekyll-gutenberg-theme
+    - 2 / 2 -- mundimark/awesome-books
+    - 2 / 2 -- openblockchains/programming-cryptocollectibles
+    - 2 / 2 -- openbookie/market.europe-champions-league
+    - 2 / 2 -- openbookie/sport.db.market
+    - 2 / 2 -- openmundi/datafile
+    - 2 / 2 -- openmundi/world.csv
+    - 2 / 2 -- planetopendata/awesome-world
+    - 2 / 2 -- planetruby/awesome-rubies
+    - 2 / 2 -- planetruby/awesome-webservers
+    - 2 / 2 -- rsssf/brazil
+    - 2 / 2 -- rsssf/deutschland
+    - 2 / 2 -- slidekit/s6
+    - 2 / 2 -- slideshow-templates/slideshow-s5-blank
+    - 2 / 2 -- slideshow-templates/slideshow-s6-blank
+    - 2 / 2 -- slideshow-templates/slideshow-slidy
+    - 2 / 2 -- sportdb/sport.db.service
+    - 2 / 2 -- sportkit/football.api.js
+    - 2 / 2 -- sportkit/sport.db.starter.ruby
+    - 2 / 2 -- writekit/markdown.note
+    - 2 / 1 -- csvreader/csvutils
+    - 2 / 1 -- feedparser/feedfilter
+    - 2 / 1 -- feedreader/jekyll.planet.sample
+    - 2 / 1 -- geraldb/web-proxy-win
+    - 2 / 1 -- octobook/gitbook-to-octobook-sample
+    - 2 / 1 -- openbeer/cz-czech-republic
+    - 2 / 1 -- openbeer/schema.sql
+    - 2 / 1 -- openfootball/fussball-de
+    - 2 / 1 -- opensport/rugby.db
+    - 2 / 1 -- planetjekyll/planet
+    - 2 / 1 -- planetjekyll/planetjekyll.github.io
+    - 2 / 1 -- planetjekyll/quickrefs
+    - 2 / 1 -- planetruby/quiz
+    - 2 / 1 -- slideshow-s9/docs
+    - 2 / 1 -- staystatic/awesome-static
+    - 2 / 1 -- texti/texti
+    - 2 / 1 -- textkit/textutils
+    - 1 / 1 -- austriacodes/awesome-austria
+    - 1 / 1 -- beerkit/beer.db
+    - 1 / 1 -- beerkit/beer.db.starter
+    - 1 / 1 -- beerkit/beer.js
+    - 1 / 1 -- bibtxt/bibtxt.github.io
+    - 1 / 1 -- book-templates/beer
+    - 1 / 1 -- bookdesigns/book-git
+    - 1 / 1 -- bookdesigns/designs
+    - 1 / 1 -- cryptocopycats/media
+    - 1 / 1 -- datatxt/datatxt.github.io
+    - 1 / 1 -- factbook/factbook.github.io
+    - 1 / 1 -- feedparser/feedparser
+    - 1 / 1 -- feedreader/feedreader.github.io
+    - 1 / 1 -- feedreader/planets
+    - 1 / 1 -- feedreader/pluto.more.tools
+    - 1 / 1 -- footballbook/footballbook.github.io
+    - 1 / 1 -- footballcsv/cache.internationals
+    - 1 / 1 -- footballcsv/cache.updates
+    - 1 / 1 -- funpress/mostly-adequate-guide-to-fp
+    - 1 / 1 -- hybook/hybook
+    - 1 / 1 -- json-next/awesome-json-next
+    - 1 / 1 -- json-next/json-feed
+    - 1 / 1 -- manuscripts/manuscripts
+    - 1 / 1 -- mundimark/markdown-tools-books
+    - 1 / 1 -- octobook/book-2017-theme
+    - 1 / 1 -- officetxt/awesome-txt
+    - 1 / 1 -- openbeer/at-austria
+    - 1 / 1 -- openbeer/by-bayern
+    - 1 / 1 -- openbeer/jp-japan
+    - 1 / 1 -- openblockchains/awesome-ico-truths
+    - 1 / 1 -- openblockchains/blockchain-whitepapers
+    - 1 / 1 -- openblockchains/centralbank
+    - 1 / 1 -- openblockchains/ledger.lite.rb
+    - 1 / 1 -- openblockchains/tulips
+    - 1 / 1 -- openbookie/market.euro-cup
+    - 1 / 1 -- openbookie/market.world-cup
+    - 1 / 1 -- openfootball/copa-libertadores
+    - 1 / 1 -- openfootball/euro-cup
+    - 1 / 1 -- openfootball/futbol-es
+    - 1 / 1 -- openfootball/north-america-champions-league
+    - 1 / 1 -- openfootball/north-america-gold-cup
+    - 1 / 1 -- openfootball/women-euro-cup
+    - 1 / 1 -- openfootball/women-world-cup
+    - 1 / 1 -- openmundi/mundo-es
+    - 1 / 1 -- opensport/formula1.db
+    - 1 / 1 -- opensport/hockey.db
+    - 1 / 1 -- opensport/opensport.github.io
+    - 1 / 1 -- opensport/ski.db
+    - 1 / 1 -- planet-templates/planet-blank
+    - 1 / 1 -- planet-templates/planet-classic
+    - 1 / 1 -- planet-templates/planet-digest
+    - 1 / 1 -- planet-templates/planet-forty
+    - 1 / 1 -- planet-templates/planet-paper
+    - 1 / 1 -- planet-templates/planet-templates.github.io
+    - 1 / 1 -- planet-templates/planet-top
+    - 1 / 1 -- planet-templates/planet-zen
+    - 1 / 1 -- planetjekyll/sandbox
+    - 1 / 1 -- publicdomainworks/publicdomainworks.github.io
+    - 1 / 1 -- quikstart/quik
+    - 1 / 1 -- rsssf/austria
+    - 1 / 1 -- rsssf/rsssf.github.io
+    - 1 / 1 -- rsssf/spec
+    - 1 / 1 -- rubycoco/dbbrowser
+    - 1 / 1 -- rubycoco/fizzbuzzer
+    - 1 / 1 -- rubycoco/fotos
+    - 1 / 1 -- rubycoco/linkto
+    - 1 / 1 -- rubycoco/ostructer
+    - 1 / 1 -- rubycoco/props
+    - 1 / 1 -- rubycoco/webservice
+    - 1 / 1 -- s6ruby/pragmas
+    - 1 / 1 -- s6ruby/redpaper
+    - 1 / 1 -- s6ruby/ruby-to-solidity
+    - 1 / 1 -- s6ruby/safemath
+    - 1 / 1 -- s6ruby/universum
+    - 1 / 1 -- schemadoc/schemadoc
+    - 1 / 1 -- slideshow-s9/demos
+    - 1 / 1 -- slideshow-templates/slideshow-csss
+    - 1 / 1 -- slideshow-templates/slideshow-google-io-2011-slides
+    - 1 / 1 -- slideshow-templates/slideshow-impress.js
+    - 1 / 1 -- sportkit/sport.db.starter.go
+    - 1 / 1 -- texti/pandoc
+    - 1 / 1 -- typesigs/safebool
+    - 1 / 1 -- wikiscript/wikiscript
+    - 1 / 1 -- worldclassics/dr-jekyll-and-mr-hyde
+    - 1 / 1 -- worldclassics/worldclassics.github.io
+    - 1 / 1 -- worlddb/world.db.flags
+    - 1 / 1 -- worlddb/world.db.service
+    - 1 / 1 -- yukimotopress/yukimotopress.github.io
+
+2. **Google** 2070 / 1489  _(119)_:
+    - 338 / 222 -- openfootball/football.json
+    - 254 / 200 -- updownpress/markdown-lint
+    - 130 / 84 -- mundimark/awesome-markdown-editors
+    - 129 / 56 -- planetjekyll/awesome-jekyll-themes
+    - 98 / 71 -- planetjekyll/awesome-jekyll-editors
+    - 96 / 68 -- openfootball/schema.sql
+    - 96 / 58 -- planetjekyll/awesome-jekyll-plugins
+    - 80 / 63 -- mundimark/awesome-markdown
+    - 60 / 55 -- mundimark/markdown-vs-latex
+    - 50 / 45 -- mundimark/awesome-markdown-alternatives
+    - 46 / 39 -- cryptocopycats/awesome-cryptokitties
+    - 43 / 29 -- planetopendata/awesome-world
+    - 38 / 26 -- openfootball/south-america
+    - 36 / 24 -- planetopendata/awesome-sqlite
+    - 36 / 18 -- openblockchains/awesome-blockchains
+    - 33 / 19 -- opensport/formula1.db
+    - 31 / 22 -- openfootball/europe-champions-league
+    - 29 / 25 -- planetruby/books
+    - 24 / 16 -- cryptocopycats/kitties
+    - 21 / 19 -- openfootball/espana
+    - 20 / 14 -- planetjekyll/awesome-jekyll
+    - 19 / 16 -- printhtml/awesome-print
+    - 19 / 14 -- sportdb/sport.db
+    - 19 / 13 -- funpress/up-n-going
+    - 19 / 12 -- openbookie/sportbook
+    - 15 / 15 -- csvreader/csvreader
+    - 15 / 10 -- openfootball/world-cup.json
+    - 14 / 10 -- worlddb/world.db
+    - 13 / 10 -- planetruby/awesome-webservers
+    - 11 / 10 -- openfootball/deutschland
+    - 10 / 10 -- feedparser/feedparser
+    - 9 / 9 -- henrythemes/jekyll-book-theme
+    - 9 / 9 -- planetjekyll/quickrefs
+    - 9 / 8 -- openfootball/world-cup
+    - 9 / 5 -- slideshow-templates/slideshow-google-html5-slides
+    - 8 / 7 -- planetopendata/awesome-football
+    - 8 / 5 -- footballcsv/deutschland
+    - 8 / 3 -- factbook/factbook.json
+    - 7 / 6 -- openmundi/world.db
+    - 7 / 6 -- shellpress/raspberrypi
+    - 7 / 5 -- footballcsv/espana
+    - 6 / 6 -- openfootball/england
+    - 6 / 5 -- factbook/factbook.sql
+    - 5 / 5 -- mundimark/awesome-books
+    - 5 / 5 -- openfootball/europe
+    - 5 / 5 -- sportlogos/football.db.logos
+    - 4 / 4 -- openfootball/euro-cup
+    - 4 / 2 -- geraldb/talks
+    - 4 / 2 -- henrythemes/hello-minima-theme
+    - 3 / 3 -- footballcsv/england
+    - 3 / 3 -- openfootball/leagues
+    - 3 / 3 -- openfootball/openfootball.github.io
+    - 3 / 3 -- s6ruby/awesome-crypto
+    - 3 / 3 -- sportdb/sport.db.sources
+    - 3 / 3 -- staystatic/awesome-static
+    - 3 / 3 -- writekit/markdown
+    - 3 / 2 -- csvreader/csv11
+    - 3 / 2 -- opensport/hockey.db
+    - 3 / 2 -- s6ruby/ethereum-contracts
+    - 3 / 2 -- slideshow-templates/slideshow-slidy
+    - 3 / 1 -- datatxt/iniparser
+    - 2 / 2 -- bigkorupto/awesome-nocode
+    - 2 / 2 -- csvspecs/awesome-csv
+    - 2 / 2 -- henrythemes/hello-jekyll-theme
+    - 2 / 2 -- hybook/hybook
+    - 2 / 2 -- octobook/book-2017-theme
+    - 2 / 2 -- openfootball/stadiums
+    - 2 / 2 -- slideshow-s9/awesome-slideshows
+    - 2 / 2 -- sportdb/football.db
+    - 2 / 2 -- typesigs/safebool
+    - 2 / 2 -- worlddb/world.db.flags
+    - 2 / 2 -- yorobot/football.json
+    - 2 / 1 -- csvspecs/csv-meta
+    - 2 / 1 -- opensport/opensport.github.io
+    - 2 / 1 -- planetruby/quiz
+    - 1 / 1 -- austriacodes/awesome-austria
+    - 1 / 1 -- beerkit/beer.db
+    - 1 / 1 -- beerkit/beer.db.admin
+    - 1 / 1 -- bitsblocks/bitcoin-whitepaper
+    - 1 / 1 -- book-templates/football
+    - 1 / 1 -- cryptocopycats/awesome-cryptocollectibles
+    - 1 / 1 -- cryptocopycats/base32-alphabets
+    - 1 / 1 -- cryptocopycats/kittyverse
+    - 1 / 1 -- csvspecs/csv-yaml
+    - 1 / 1 -- datatxt/awseome-yaml
+    - 1 / 1 -- drjekyllthemes/drjekyll
+    - 1 / 1 -- factbook/factbook.github.io
+    - 1 / 1 -- feedreader/pluto
+    - 1 / 1 -- footballcsv/major-league-soccer
+    - 1 / 1 -- geraldb/geraldb.github.io
+    - 1 / 1 -- henrythemes/jekyll-bootstrap-theme
+    - 1 / 1 -- henrythemes/jekyll-starter-theme-v2
+    - 1 / 1 -- hybook/bookfile
+    - 1 / 1 -- mundimark/awesome-kramdown
+    - 1 / 1 -- officetxt/awesome-txt
+    - 1 / 1 -- officetxt/officetxt
+    - 1 / 1 -- openblockchains/awesome-sha256
+    - 1 / 1 -- openblockchains/peer-to-peer.rb
+    - 1 / 1 -- openfootball/clubs
+    - 1 / 1 -- openfootball/fussball-de
+    - 1 / 1 -- openfootball/national-teams
+    - 1 / 1 -- openfootball/world
+    - 1 / 1 -- openmundi/world.csv
+    - 1 / 1 -- opensport/american-football.db
+    - 1 / 1 -- opensport/ski.db
+    - 1 / 1 -- pagedesigns/jasonm23-dark
+    - 1 / 1 -- planetjekyll/showcase
+    - 1 / 1 -- playhtml/memory
+    - 1 / 1 -- quikstart/quik
+    - 1 / 1 -- rsssf/brazil
+    - 1 / 1 -- rubycoco/git
+    - 1 / 1 -- rubycoco/pakman
+    - 1 / 1 -- rubycoco/webclient
+    - 1 / 1 -- rubycoco/webservice
+    - 1 / 1 -- slideshow-templates/slideshow-s5-themes
+    - 1 / 1 -- textkit/textutils
+    - 1 / 1 -- worlddb/world.db.admin
+    - 1 / 1 -- writekit/markdown-service
+    - 1 / 1 -- yorobot/workflow
+
+3. **openfootball.github.io** 259 / 200  _(21)_:
+    - 68 / 52 -- openfootball/england
+    - 30 / 24 -- openfootball/world-cup
+    - 24 / 18 -- openfootball/europe-champions-league
+    - 21 / 15 -- planetopendata/awesome-football
+    - 20 / 16 -- openfootball/espana
+    - 12 / 9 -- openbookie/sportbook
+    - 11 / 9 -- openfootball/deutschland
+    - 11 / 8 -- sportdb/sport.db.admin
+    - 10 / 9 -- openfootball/euro-cup
+    - 9 / 7 -- geraldb/talks
+    - 9 / 5 -- openfootball/docs
+    - 8 / 7 -- openfootball/italy
+    - 8 / 5 -- openfootball/help
+    - 4 / 3 -- openfootball/openfootball.github.io
+    - 3 / 3 -- openfootball/europe
+    - 3 / 2 -- yorobot/football.db
+    - 2 / 2 -- openfootball/africa-cup
+    - 2 / 2 -- openfootball/copa-america
+    - 2 / 2 -- openfootball/copa-sudamericana
+    - 1 / 1 -- openfootball/copa-libertadores
+    - 1 / 1 -- openfootball/north-america-champions-league
+
+4. **markdownguide.org** 183 / 127  _(1)_:
+    - 183 / 127 -- mundimark/awesome-markdown
+
+5. **jekyllrb.com** 178 / 129  _(1)_:
+    - 178 / 129 -- planetjekyll/awesome-jekyll-plugins
+
+6. **datahub.io** 129 / 108  _(2)_:
+    - 84 / 74 -- openfootball/world-cup
+    - 45 / 34 -- openfootball/stadiums
+
+7. **reddit.com** 93 / 68  _(22)_:
+    - 39 / 24 -- planetjekyll/awesome-jekyll-themes
+    - 14 / 11 -- rubycoco/git
+    - 11 / 7 -- openfootball/football.json
+    - 4 / 4 -- openfootball/england
+    - 2 / 2 -- geraldb/talks
+    - 2 / 2 -- openblockchains/programming-cryptocollectibles
+    - 2 / 2 -- openfootball/europe-champions-league
+    - 2 / 2 -- typesigs/enums
+    - 2 / 1 -- openblockchains/programming-blockchains
+    - 2 / 1 -- planetjekyll/awesome-jekyll-plugins
+    - 2 / 1 -- slideshow-s9/samples
+    - 1 / 1 -- cryptocopycats/kittyverse
+    - 1 / 1 -- drjekyllthemes/drjekyllthemes.github.io
+    - 1 / 1 -- feedreader/planet.rb
+    - 1 / 1 -- henrythemes/hello-pages-theme-v2
+    - 1 / 1 -- openblockchains/awesome-blockchains
+    - 1 / 1 -- openfootball/schema.sql
+    - 1 / 1 -- planetjekyll/awesome-jekyll-editors
+    - 1 / 1 -- planetruby/quiz
+    - 1 / 1 -- sportdb/sport.db
+    - 1 / 1 -- sportkit/sport.db.starter.ruby
+    - 1 / 1 -- typesigs/safedata
+
+8. **rubyflow.com** 57 / 33  _(8)_:
+    - 30 / 19 -- rubycoco/git
+    - 10 / 2 -- planetjekyll/awesome-jekyll-themes
+    - 8 / 5 -- openblockchains/awesome-blockchains
+    - 5 / 3 -- yorobot/world.db
+    - 1 / 1 -- planetruby/quiz
+    - 1 / 1 -- sportdb/football.db
+    - 1 / 1 -- typesigs/enums
+    - 1 / 1 -- yorobot/football.db
+
+9. **DuckDuckGo** 55 / 46  _(23)_:
+    - 8 / 6 -- planetjekyll/awesome-jekyll-editors
+    - 7 / 5 -- planetjekyll/awesome-jekyll-plugins
+    - 4 / 4 -- updownpress/markdown-lint
+    - 4 / 3 -- openfootball/football.json
+    - 4 / 2 -- openbookie/sportbook
+    - 3 / 3 -- feedparser/feedparser
+    - 3 / 2 -- planetruby/awesome-rubies
+    - 2 / 2 -- feedparser/awesome-feeds
+    - 2 / 2 -- henrythemes/jekyll-book-theme
+    - 2 / 2 -- mundimark/awesome-markdown
+    - 2 / 2 -- mundimark/markdown-vs-latex
+    - 2 / 2 -- planetjekyll/awesome-jekyll-themes
+    - 2 / 1 -- cryptocopycats/awesome-cryptokitties
+    - 1 / 1 -- cryptocopycats/kitties
+    - 1 / 1 -- factbook/factbook.sql
+    - 1 / 1 -- feedreader/planet.rb
+    - 1 / 1 -- feedtxt/feedtxt
+    - 1 / 1 -- mundimark/awesome-books
+    - 1 / 1 -- mundimark/markdown.pl
+    - 1 / 1 -- openblockchains/programming-cryptocontracts
+    - 1 / 1 -- openfootball/clubs
+    - 1 / 1 -- s6ruby/awesome-crypto
+    - 1 / 1 -- slideshow-s9/slideshow
+
+10. **github.community** 52 / 31  _(1)_:
+    - 52 / 31 -- planetjekyll/awesome-jekyll-themes
+
+11. **footballcsv.github.io** 39 / 31  _(10)_:
+    - 21 / 16 -- footballcsv/england
+    - 5 / 5 -- footballcsv/europe-champions-league
+    - 4 / 1 -- footballcsv/deutschland
+    - 2 / 2 -- footballcsv/espana
+    - 2 / 2 -- footballcsv/world
+    - 1 / 1 -- footballcsv/austria
+    - 1 / 1 -- footballcsv/cache.footballdata
+    - 1 / 1 -- footballcsv/cache.internationals
+    - 1 / 1 -- footballcsv/cache.soccerverse
+    - 1 / 1 -- footballcsv/mexico
+
+12. **Bing** 26 / 21  _(14)_:
+    - 8 / 5 -- openfootball/football.json
+    - 3 / 2 -- mundimark/awesome-markdown-editors
+    - 2 / 2 -- planetjekyll/awesome-jekyll-plugins
+    - 2 / 2 -- updownpress/markdown-lint
+    - 2 / 1 -- csvreader/csvreader
+    - 1 / 1 -- feedreader/pluto
+    - 1 / 1 -- footballcsv/spec
+    - 1 / 1 -- henrythemes/jekyll-starter-theme
+    - 1 / 1 -- mundimark/awesome-markdown
+    - 1 / 1 -- mundimark/markdown.pl
+    - 1 / 1 -- openfootball/world-cup
+    - 1 / 1 -- opensport/formula1.db
+    - 1 / 1 -- slideshow-templates/slideshow-s5-blank
+    - 1 / 1 -- yorobot/football.csv
+
+13. **ruby-lang.org** 23 / 21  _(1)_:
+    - 23 / 21 -- planetruby/awesome-rubies
+
+14. **rubygems.org** 19 / 15  _(7)_:
+    - 5 / 2 -- rubycoco/webclient
+    - 4 / 4 -- writekit/markdown
+    - 4 / 3 -- rubycoco/git
+    - 2 / 2 -- csvreader/csvreader
+    - 2 / 2 -- rubycoco/logutils
+    - 1 / 1 -- feedreader/pluto
+    - 1 / 1 -- journaltxt/journaltxt
+
+15. **henrythemes.github.io** 18 / 15  _(4)_:
+    - 12 / 9 -- henrythemes/jekyll-bootstrap-theme
+    - 4 / 4 -- henrythemes/jekyll-minimal-theme
+    - 1 / 1 -- henrythemes/hello-jekyll-theme
+    - 1 / 1 -- henrythemes/jekyll-starter-theme
+
+16. **jokecamp.com** 17 / 9  _(2)_:
+    - 16 / 8 -- planetopendata/awesome-football
+    - 1 / 1 -- openfootball/women-world-cup
+
+17. **jekyllthemes.org** 16 / 12  _(4)_:
+    - 7 / 6 -- henrythemes/jekyll-minimal-theme
+    - 4 / 3 -- henrythemes/jekyll-book-theme
+    - 3 / 1 -- henrythemes/jekyll-starter-theme
+    - 2 / 2 -- henrythemes/jekyll-bootstrap-theme
+
+18. **plugins.jquery.com** 16 / 8  _(4)_:
+    - 6 / 3 -- sportkit/football.js
+    - 5 / 1 -- typesigs/typesigs
+    - 3 / 2 -- slidekit/s6
+    - 2 / 2 -- typesigs/bytes
+
+19. **openbeer.github.io** 15 / 10  _(4)_:
+    - 6 / 4 -- openbeer/docs
+    - 6 / 3 -- beerkit/beer.db.admin
+    - 2 / 2 -- beerkit/beer.db
+    - 1 / 1 -- beerbook/maps
+
+20. **sportdb.github.io** 13 / 6  _(4)_:
+    - 4 / 2 -- openfootball/league-starter
+    - 4 / 1 -- sportdb/sport.db
+    - 3 / 2 -- openfootball/quick-starter
+    - 2 / 1 -- sportdb/docs
+
+21. **help.rubygems.org** 12 / 3  _(1)_:
+    - 12 / 3 -- rubycoco/webclient
+
+22. **github.daumkakao.com** 11 / 1  _(1)_:
+    - 11 / 1 -- planetruby/awesome-webservers
+
+23. **old.reddit.com** 11 / 2  _(1)_:
+    - 11 / 2 -- rubycoco/git
+
+24. **opendata.stackexchange.com** 11 / 5  _(1)_:
+    - 11 / 5 -- planetopendata/awesome-football
+
+25. **prost.herokuapp.com** 11 / 2  _(2)_:
+    - 10 / 1 -- openbeer/world
+    - 1 / 1 -- openmundi/world.db
+
+26. **Baidu** 10 / 8  _(2)_:
+    - 7 / 7 -- updownpress/markdown-lint
+    - 3 / 1 -- planetjekyll/awesome-jekyll-plugins
+
+27. **mail.google.com** 10 / 4  _(2)_:
+    - 9 / 3 -- openfootball/football.json
+    - 1 / 1 -- sportdb/sport.db
+
+28. **quora.com** 9 / 1  _(1)_:
+    - 9 / 1 -- openblockchains/awesome-blockchains
+
+29. **groups.google.com** 9 / 9  _(6)_:
+    - 3 / 3 -- openfootball/europe
+    - 2 / 2 -- openfootball/world
+    - 1 / 1 -- footballcsv/deutschland
+    - 1 / 1 -- openfootball/deutschland
+    - 1 / 1 -- openfootball/quick-starter
+    - 1 / 1 -- sportdb/football.db
+
+30. **aaltoscicomp.github.io** 8 / 7  _(1)_:
+    - 8 / 7 -- footballcsv/england
+
+31. **blog.desdelinux.net** 8 / 7  _(1)_:
+    - 8 / 7 -- planetopendata/awesome-football
+
+32. **medium.com** 8 / 6  _(2)_:
+    - 4 / 4 -- openfootball/football.json
+    - 4 / 2 -- openblockchains/awesome-blockchains
+
+33. **rdocumentation.org** 7 / 2  _(1)_:
+    - 7 / 2 -- factbook/factbook
+
+34. **sogou.com** 7 / 6  _(1)_:
+    - 7 / 6 -- cryptocopycats/kitties
+
+35. **amp.reddit.com** 7 / 4  _(2)_:
+    - 6 / 3 -- planetjekyll/awesome-jekyll-themes
+    - 1 / 1 -- planetruby/quiz
+
+36. **drjekyllthemes.github.io** 6 / 4  _(4)_:
+    - 3 / 1 -- drjekyllthemes/themes
+    - 1 / 1 -- drjekyllthemes/drjekyllthemes.github.io
+    - 1 / 1 -- henrythemes/hello-minima-theme
+    - 1 / 1 -- henrythemes/hello-pages-theme-v2
+
+37. **rubydoc.info** 6 / 4  _(4)_:
+    - 3 / 1 -- drjekyllthemes/drjekyll
+    - 1 / 1 -- openfootball/quick-starter
+    - 1 / 1 -- rubycoco/git
+    - 1 / 1 -- rubycoco/webclient
+
+38. **StartPage** 6 / 5  _(5)_:
+    - 2 / 1 -- updownpress/markdown-lint
+    - 1 / 1 -- mundimark/awesome-markdown-alternatives
+    - 1 / 1 -- mundimark/awesome-markdown-editors
+    - 1 / 1 -- openblockchains/awesome-sha256
+    - 1 / 1 -- openfootball/schema.sql
+
+39. **news.ycombinator.com** 6 / 5  _(5)_:
+    - 2 / 1 -- slideshow-templates/slideshow-impress.js
+    - 1 / 1 -- henrythemes/hello-minima-theme
+    - 1 / 1 -- mundimark/why-text
+    - 1 / 1 -- officetxt/awesome-txt
+    - 1 / 1 -- s6ruby/pragmas
+
+40. **planetjekyll.github.io** 5 / 5  _(4)_:
+    - 2 / 2 -- planetjekyll/showcase
+    - 1 / 1 -- feedreader/planet.rb
+    - 1 / 1 -- mrhydescripts/scripts
+    - 1 / 1 -- planetjekyll/awesome-jekyll
+
+41. **yandex.ru** 5 / 5  _(5)_:
+    - 1 / 1 -- mundimark/awesome-markdown
+    - 1 / 1 -- mundimark/markdown-vs-latex
+    - 1 / 1 -- openfootball/schema.sql
+    - 1 / 1 -- textkit/rubycat
+    - 1 / 1 -- worlddb/world.db
+
+42. **blog.csdn.net** 4 / 2  _(1)_:
+    - 4 / 2 -- planetopendata/awesome-world
+
+43. **qna.habr.com** 4 / 4  _(1)_:
+    - 4 / 4 -- openfootball/football.json
+
+44. **talk.jekyllrb.com** 4 / 4  _(1)_:
+    - 4 / 4 -- planetjekyll/quickrefs
+
+45. **kaggle.com** 4 / 4  _(2)_:
+    - 3 / 3 -- factbook/factbook.json
+    - 1 / 1 -- footballcsv/europe-champions-league
+
+46. **rubytalk.org** 4 / 2  _(2)_:
+    - 3 / 1 -- yorobot/backup
+    - 1 / 1 -- rubycoco/git
+
+47. **t.co** 4 / 2  _(2)_:
+    - 2 / 1 -- openfootball/world-cup
+    - 2 / 1 -- slideshow-s9/awesome-slideshows
+
+48. **xscode.com** 4 / 3  _(2)_:
+    - 3 / 2 -- planetopendata/awesome-world
+    - 1 / 1 -- planetjekyll/awesome-jekyll
+
+49. **cn.bing.com** 4 / 3  _(3)_:
+    - 2 / 1 -- planetopendata/awesome-world
+    - 1 / 1 -- mundimark/awesome-markdown-alternatives
+    - 1 / 1 -- planetopendata/awesome-sqlite
+
+50. **yukimotopress.github.io** 4 / 3  _(3)_:
+    - 2 / 1 -- openblockchains/programming-blockchains
+    - 1 / 1 -- rubycoco/webclient
+    - 1 / 1 -- yukimotopress/http
+
+51. **community.dataquest.io** 3 / 2  _(1)_:
+    - 3 / 2 -- factbook/factbook.sql
+
+52. **freecodecamp.org** 3 / 3  _(1)_:
+    - 3 / 3 -- openblockchains/awesome-blockchains
+
+53. **keep.google.com** 3 / 1  _(1)_:
+    - 3 / 1 -- planetjekyll/awesome-jekyll-themes
+
+54. **nelog.jp** 3 / 2  _(1)_:
+    - 3 / 2 -- typesigs/typesigs
+
+55. **texti.github.io** 3 / 1  _(1)_:
+    - 3 / 1 -- texti/texti.github.io
+
+56. **webkaru.net** 3 / 2  _(1)_:
+    - 3 / 2 -- typesigs/typesigs
+
+57. **yandex.com** 3 / 1  _(1)_:
+    - 3 / 1 -- sportdb/football.db
+
+58. **awesomeopensource.com** 3 / 3  _(2)_:
+    - 2 / 2 -- drjekyllthemes/themes
+    - 1 / 1 -- openblockchains/awesome-blockchains
+
+59. **lavasoft.gosearchresults.com** 3 / 2  _(2)_:
+    - 2 / 1 -- openbookie/sportbook
+    - 1 / 1 -- textkit/whatson
+
+60. **opensport.github.io** 3 / 3  _(2)_:
+    - 2 / 2 -- opensport/formula1.db
+    - 1 / 1 -- opensport/american-football.db
+
+61. **amp-reddit-com.cdn.ampproject.org** 2 / 1  _(1)_:
+    - 2 / 1 -- planetjekyll/awesome-jekyll-themes
+
+62. **blog.kellybrazil.com** 2 / 2  _(1)_:
+    - 2 / 2 -- json-next/awesome-json-next
+
+63. **chandoo.org** 2 / 1  _(1)_:
+    - 2 / 1 -- openfootball/world-cup.json
+
+64. **ctolib.com** 2 / 1  _(1)_:
+    - 2 / 1 -- drjekyllthemes/drjekyll
+
+65. **demo-metalsmith-nunjucks.now.sh** 2 / 1  _(1)_:
+    - 2 / 1 -- staystatic/staystatic
+
+66. **digitale-methodik.adwmainz.net** 2 / 2  _(1)_:
+    - 2 / 2 -- mundimark/awesome-markdown
+
+67. **git.kcura.com** 2 / 2  _(1)_:
+    - 2 / 2 -- updownpress/markdown-lint
+
+68. **infoworld.com** 2 / 2  _(1)_:
+    - 2 / 2 -- planetopendata/awesome-sqlite
+
+69. **iwando.com** 2 / 1  _(1)_:
+    - 2 / 1 -- bitsblocks/crypto-facts
+
+70. **jekyllrb-ko.github.io** 2 / 2  _(1)_:
+    - 2 / 2 -- planetjekyll/awesome-jekyll-plugins
+
+71. **lms.thaimooc.org** 2 / 1  _(1)_:
+    - 2 / 1 -- openfootball/world-cup
+
+72. **markdown.p2hp.com** 2 / 2  _(1)_:
+    - 2 / 2 -- mundimark/awesome-markdown
+
+73. **markdown.xyz** 2 / 2  _(1)_:
+    - 2 / 2 -- mundimark/awesome-markdown
+
+74. **onehack.us** 2 / 1  _(1)_:
+    - 2 / 1 -- openblockchains/programming-blockchains
+
+75. **pinboard.in** 2 / 2  _(1)_:
+    - 2 / 2 -- slidekit/s6
+
+76. **slideshow-templates.github.io** 2 / 2  _(1)_:
+    - 2 / 2 -- slideshow-templates/slideshow-reveal.js
+
+77. **snipcart.com** 2 / 2  _(1)_:
+    - 2 / 2 -- planetjekyll/awesome-jekyll-plugins
+
+78. **stackoverflow.com** 2 / 2  _(1)_:
+    - 2 / 2 -- planetruby/awesome-webservers
+
+79. **trackmyhashtag.com** 2 / 2  _(1)_:
+    - 2 / 2 -- openfootball/world-cup
+
+80. **wiki.openmod-initiative.org** 2 / 1  _(1)_:
+    - 2 / 1 -- openmundi/world.db
+
+81. **feedreader.github.io** 2 / 2  _(2)_:
+    - 1 / 1 -- feedreader/planets
+    - 1 / 1 -- planet-templates/planet-blank
+
+82. **qwant.com** 2 / 2  _(2)_:
+    - 1 / 1 -- planetjekyll/awesome-jekyll-editors
+    - 1 / 1 -- slideshow-templates/slideshow-slidy
+
+83. **so.com** 2 / 2  _(2)_:
+    - 1 / 1 -- csvreader/csvpack
+    - 1 / 1 -- footballcsv/spec
+
+84. **cezarywalenciuk.pl** 1 / 1  _(1)_:
+    - 1 / 1 -- slideshow-templates/slideshow-google-html5-slides
+
+85. **com.google.android.gm** 1 / 1  _(1)_:
+    - 1 / 1 -- openfootball/world-cup
+
+86. **confluence.esteeonline.com** 1 / 1  _(1)_:
+    - 1 / 1 -- openblockchains/awesome-blockchains
+
+87. **csvy.org** 1 / 1  _(1)_:
+    - 1 / 1 -- csvreader/csvreader
+
+88. **dev-yakuza.github.io** 1 / 1  _(1)_:
+    - 1 / 1 -- planetjekyll/awesome-jekyll-plugins
+
+89. **developer.aliyun.com** 1 / 1  _(1)_:
+    - 1 / 1 -- openfootball/football.json
+
+90. **dogedoge.com** 1 / 1  _(1)_:
+    - 1 / 1 -- openblockchains/awesome-sha256
+
+91. **downscripts.com** 1 / 1  _(1)_:
+    - 1 / 1 -- sportkit/football.js
+
+92. **ecosia.org** 1 / 1  _(1)_:
+    - 1 / 1 -- mundimark/markdown-vs-latex
+
+93. **elipousson.github.io** 1 / 1  _(1)_:
+    - 1 / 1 -- mundimark/awesome-markdown-editors
+
+94. **evernote.com** 1 / 1  _(1)_:
+    - 1 / 1 -- sportdb/sport.db
+
+95. **feedly.com** 1 / 1  _(1)_:
+    - 1 / 1 -- rubycoco/git
+
+96. **gist.github.com** 1 / 1  _(1)_:
+    - 1 / 1 -- factbook/factbook.json
+
+97. **github.oldjpg.com** 1 / 1  _(1)_:
+    - 1 / 1 -- planetopendata/awesome-world
+
+98. **gitmemory.com** 1 / 1  _(1)_:
+    - 1 / 1 -- footballcsv/england
+
+99. **gmayock.com** 1 / 1  _(1)_:
+    - 1 / 1 -- factbook/factbook.sql
+
+100. **htmldrive.net** 1 / 1  _(1)_:
+    - 1 / 1 -- slideshow-templates/slideshow-impress.js
+
+101. **hydepress.github.io** 1 / 1  _(1)_:
+    - 1 / 1 -- henrythemes/jekyll-starter-theme-v2
+
+102. **int.search.myway.com** 1 / 1  _(1)_:
+    - 1 / 1 -- cryptocopycats/kitties
+
+103. **janbernloehr.de** 1 / 1  _(1)_:
+    - 1 / 1 -- planetjekyll/awesome-jekyll
+
+104. **journaltxt.github.io** 1 / 1  _(1)_:
+    - 1 / 1 -- journaltxt/journaltxt.github.io
+
+105. **l.messenger.com** 1 / 1  _(1)_:
+    - 1 / 1 -- openfootball/football.json
+
+106. **learn-anything.xyz** 1 / 1  _(1)_:
+    - 1 / 1 -- planetopendata/awesome-world
+
+107. **lib4dev.in** 1 / 1  _(1)_:
+    - 1 / 1 -- henrythemes/hello-jekyll-theme
+
+108. **m.search.naver.com** 1 / 1  _(1)_:
+    - 1 / 1 -- worlddb/world.lite
+
+109. **mattkopala.com** 1 / 1  _(1)_:
+    - 1 / 1 -- slidekit/s6
+
+110. **maumagnaguagno.github.io** 1 / 1  _(1)_:
+    - 1 / 1 -- henrythemes/jekyll-minimal-theme
+
+111. **morioh.com** 1 / 1  _(1)_:
+    - 1 / 1 -- openfootball/world-cup.json
+
+112. **openmundi.github.io** 1 / 1  _(1)_:
+    - 1 / 1 -- openmundi/world.db
+
+113. **planetruby.github.io** 1 / 1  _(1)_:
+    - 1 / 1 -- planetruby/meetups
+
+114. **qiita.com** 1 / 1  _(1)_:
+    - 1 / 1 -- openblockchains/blockchain.lite.rb
+
+115. **ruby-toolbox.com** 1 / 1  _(1)_:
+    - 1 / 1 -- feedparser/feedparser
+
+116. **rubyreferences.github.io** 1 / 1  _(1)_:
+    - 1 / 1 -- planetruby/awesome-rubies
+
+117. **rzencoder.github.io** 1 / 1  _(1)_:
+    - 1 / 1 -- openfootball/world-cup.json
+
+118. **themes.jekyllrc.org** 1 / 1  _(1)_:
+    - 1 / 1 -- henrythemes/jekyll-minimal-theme
+
+119. **translate.googleusercontent.com** 1 / 1  _(1)_:
+    - 1 / 1 -- yorobot/football.db
+
+120. **web-work.tools** 1 / 1  _(1)_:
+    - 1 / 1 -- planetjekyll/awesome-jekyll-themes
+
+
+
+All referrers:
+
+- Google -- 338 / 222 -- openfootball/football.json
+- github.com -- 319 / 194 -- openfootball/england
+- github.com -- 260 / 151 -- openfootball/football.json
+- Google -- 254 / 200 -- updownpress/markdown-lint
+- github.com -- 217 / 138 -- footballcsv/england
+- markdownguide.org -- 183 / 127 -- mundimark/awesome-markdown
+- jekyllrb.com -- 178 / 129 -- planetjekyll/awesome-jekyll-plugins
+- Google -- 130 / 84 -- mundimark/awesome-markdown-editors
+- Google -- 129 / 56 -- planetjekyll/awesome-jekyll-themes
+- github.com -- 113 / 70 -- openfootball/world
+- Google -- 98 / 71 -- planetjekyll/awesome-jekyll-editors
+- Google -- 96 / 68 -- openfootball/schema.sql
+- Google -- 96 / 58 -- planetjekyll/awesome-jekyll-plugins
+- datahub.io -- 84 / 74 -- openfootball/world-cup
+- github.com -- 83 / 62 -- footballcsv/footballcsv.github.io
+- Google -- 80 / 63 -- mundimark/awesome-markdown
+- github.com -- 80 / 51 -- footballcsv/espana
+- github.com -- 75 / 43 -- openfootball/europe
+- openfootball.github.io -- 68 / 52 -- openfootball/england
+- github.com -- 68 / 47 -- openfootball/quick-starter
+- Google -- 60 / 55 -- mundimark/markdown-vs-latex
+- github.com -- 59 / 35 -- openblockchains/awesome-blockchains
+- github.com -- 54 / 31 -- openfootball/espana
+- github.com -- 53 / 38 -- footballcsv/europe-champions-league
+- github.community -- 52 / 31 -- planetjekyll/awesome-jekyll-themes
+- github.com -- 51 / 40 -- openbookie/sportbook
+- Google -- 50 / 45 -- mundimark/awesome-markdown-alternatives
+- github.com -- 50 / 30 -- mundimark/awesome-markdown
+- github.com -- 47 / 30 -- openfootball/south-america
+- Google -- 46 / 39 -- cryptocopycats/awesome-cryptokitties
+- github.com -- 46 / 24 -- openfootball/clubs
+- github.com -- 45 / 41 -- footballcsv/world
+- datahub.io -- 45 / 34 -- openfootball/stadiums
+- Google -- 43 / 29 -- planetopendata/awesome-world
+- github.com -- 41 / 19 -- openfootball/deutschland
+- reddit.com -- 39 / 24 -- planetjekyll/awesome-jekyll-themes
+- Google -- 38 / 26 -- openfootball/south-america
+- github.com -- 37 / 4 -- rubycoco/git
+- Google -- 36 / 24 -- planetopendata/awesome-sqlite
+- Google -- 36 / 18 -- openblockchains/awesome-blockchains
+- github.com -- 35 / 26 -- yorobot/football.json
+- Google -- 33 / 19 -- opensport/formula1.db
+- github.com -- 31 / 27 -- openfootball/league-starter
+- Google -- 31 / 22 -- openfootball/europe-champions-league
+- openfootball.github.io -- 30 / 24 -- openfootball/world-cup
+- rubyflow.com -- 30 / 19 -- rubycoco/git
+- github.com -- 30 / 2 -- rubycoco/webclient
+- Google -- 29 / 25 -- planetruby/books
+- github.com -- 29 / 24 -- planetjekyll/awesome-jekyll-plugins
+- github.com -- 29 / 8 -- openfootball/help
+- github.com -- 28 / 23 -- planetjekyll/awesome-jekyll-themes
+- github.com -- 28 / 21 -- openfootball/world-cup
+- github.com -- 27 / 2 -- yorobot/workflow
+- github.com -- 26 / 24 -- mundimark/awesome-markdown-editors
+- github.com -- 25 / 20 -- openblockchains/programming-cryptocontracts
+- github.com -- 25 / 1 -- yorobot/cache.csv
+- openfootball.github.io -- 24 / 18 -- openfootball/europe-champions-league
+- Google -- 24 / 16 -- cryptocopycats/kitties
+- ruby-lang.org -- 23 / 21 -- planetruby/awesome-rubies
+- github.com -- 23 / 18 -- henrythemes/jekyll-minimal-theme
+- github.com -- 21 / 20 -- henrythemes/hello-jekyll-theme
+- Google -- 21 / 19 -- openfootball/espana
+- footballcsv.github.io -- 21 / 16 -- footballcsv/england
+- openfootball.github.io -- 21 / 15 -- planetopendata/awesome-football
+- github.com -- 21 / 10 -- openfootball/mexico
+- github.com -- 21 / 9 -- openbeer/datafile
+- github.com -- 20 / 17 -- footballcsv/deutschland
+- github.com -- 20 / 16 -- openfootball/leagues
+- github.com -- 20 / 16 -- sportdb/sport.db
+- openfootball.github.io -- 20 / 16 -- openfootball/espana
+- Google -- 20 / 14 -- planetjekyll/awesome-jekyll
+- github.com -- 20 / 14 -- openblockchains/programming-blockchains
+- Google -- 19 / 16 -- printhtml/awesome-print
+- Google -- 19 / 14 -- sportdb/sport.db
+- github.com -- 19 / 14 -- factbook/factbook.json
+- Google -- 19 / 13 -- funpress/up-n-going
+- Google -- 19 / 12 -- openbookie/sportbook
+- github.com -- 18 / 14 -- cryptocopycats/awesome-cryptokitties
+- github.com -- 17 / 17 -- factbook/factbook
+- github.com -- 17 / 12 -- openfootball/italy
+- github.com -- 16 / 14 -- openfootball/openfootball.github.io
+- github.com -- 16 / 12 -- openfootball/schema.sql
+- github.com -- 16 / 11 -- openmundi/world.db
+- github.com -- 16 / 9 -- openbeer/docs
+- jokecamp.com -- 16 / 8 -- planetopendata/awesome-football
+- Google -- 15 / 15 -- csvreader/csvreader
+- github.com -- 15 / 14 -- slideshow-templates/slideshow-templates.github.io
+- github.com -- 15 / 13 -- henrythemes/jekyll-bootstrap-theme
+- Google -- 15 / 10 -- openfootball/world-cup.json
+- github.com -- 15 / 9 -- bigkorupto/awesome-nocode
+- github.com -- 15 / 2 -- yorobot/backup
+- github.com -- 14 / 11 -- planetopendata/awesome-football
+- reddit.com -- 14 / 11 -- rubycoco/git
+- Google -- 14 / 10 -- worlddb/world.db
+- Google -- 13 / 10 -- planetruby/awesome-webservers
+- github.com -- 13 / 9 -- henrythemes/hello-minima-theme
+- github.com -- 13 / 8 -- footballcsv/belgium
+- github.com -- 13 / 5 -- feedreader/pluto
+- henrythemes.github.io -- 12 / 9 -- henrythemes/jekyll-bootstrap-theme
+- openfootball.github.io -- 12 / 9 -- openbookie/sportbook
+- github.com -- 12 / 7 -- slideshow-templates/slideshow-google-html5-slides
+- github.com -- 12 / 7 -- sportkit/football.js
+- help.rubygems.org -- 12 / 3 -- rubycoco/webclient
+- Google -- 11 / 10 -- openfootball/deutschland
+- openfootball.github.io -- 11 / 9 -- openfootball/deutschland
+- github.com -- 11 / 8 -- footballcsv/mexico
+- openfootball.github.io -- 11 / 8 -- sportdb/sport.db.admin
+- reddit.com -- 11 / 7 -- openfootball/football.json
+- opendata.stackexchange.com -- 11 / 5 -- planetopendata/awesome-football
+- old.reddit.com -- 11 / 2 -- rubycoco/git
+- github.daumkakao.com -- 11 / 1 -- planetruby/awesome-webservers
+- Google -- 10 / 10 -- feedparser/feedparser
+- github.com -- 10 / 9 -- footballcsv/spec
+- openfootball.github.io -- 10 / 9 -- openfootball/euro-cup
+- github.com -- 10 / 3 -- feedreader/pluto.starter
+- rubyflow.com -- 10 / 2 -- planetjekyll/awesome-jekyll-themes
+- prost.herokuapp.com -- 10 / 1 -- openbeer/world
+- Google -- 9 / 9 -- henrythemes/jekyll-book-theme
+- Google -- 9 / 9 -- planetjekyll/quickrefs
+- Google -- 9 / 8 -- openfootball/world-cup
+- github.com -- 9 / 8 -- openfootball/players
+- github.com -- 9 / 8 -- sportdb/datasets
+- openfootball.github.io -- 9 / 7 -- geraldb/talks
+- github.com -- 9 / 6 -- feedreader/planet.rb
+- github.com -- 9 / 6 -- henrythemes/jekyll-starter-theme
+- Google -- 9 / 5 -- slideshow-templates/slideshow-google-html5-slides
+- github.com -- 9 / 5 -- journaltxt/journaltxt
+- github.com -- 9 / 5 -- pagedesigns/markedapp-byword
+- github.com -- 9 / 5 -- planetruby/meetups
+- openfootball.github.io -- 9 / 5 -- openfootball/docs
+- github.com -- 9 / 4 -- cryptocopycats/awesome-cryptocollectibles
+- mail.google.com -- 9 / 3 -- openfootball/football.json
+- github.com -- 9 / 2 -- slideshow-s9/slideshow-s9.github.io
+- quora.com -- 9 / 1 -- openblockchains/awesome-blockchains
+- github.com -- 8 / 8 -- planetruby/calendar
+- Google -- 8 / 7 -- planetopendata/awesome-football
+- aaltoscicomp.github.io -- 8 / 7 -- footballcsv/england
+- blog.desdelinux.net -- 8 / 7 -- planetopendata/awesome-football
+- github.com -- 8 / 7 -- henrythemes/jekyll-starter-theme-v2
+- openfootball.github.io -- 8 / 7 -- openfootball/italy
+- DuckDuckGo -- 8 / 6 -- planetjekyll/awesome-jekyll-editors
+- github.com -- 8 / 6 -- openbeer/us-united-states
+- Bing -- 8 / 5 -- openfootball/football.json
+- Google -- 8 / 5 -- footballcsv/deutschland
+- github.com -- 8 / 5 -- footballcsv/cache.leagues
+- github.com -- 8 / 5 -- openfootball/europe-champions-league
+- github.com -- 8 / 5 -- sportdb/football.db
+- openfootball.github.io -- 8 / 5 -- openfootball/help
+- rubyflow.com -- 8 / 5 -- openblockchains/awesome-blockchains
+- github.com -- 8 / 4 -- sportkit/football.js.starter
+- Google -- 8 / 3 -- factbook/factbook.json
+- Baidu -- 7 / 7 -- updownpress/markdown-lint
+- github.com -- 7 / 7 -- rsssf/espana
+- Google -- 7 / 6 -- openmundi/world.db
+- Google -- 7 / 6 -- shellpress/raspberrypi
+- github.com -- 7 / 6 -- rsssf/england
+- jekyllthemes.org -- 7 / 6 -- henrythemes/jekyll-minimal-theme
+- sogou.com -- 7 / 6 -- cryptocopycats/kitties
+- DuckDuckGo -- 7 / 5 -- planetjekyll/awesome-jekyll-plugins
+- Google -- 7 / 5 -- footballcsv/espana
+- github.com -- 7 / 5 -- csvreader/csvreader
+- github.com -- 7 / 5 -- openblockchains/awesome-tokens
+- github.com -- 7 / 5 -- planetjekyll/showcase
+- github.com -- 7 / 5 -- slideshow-s9/slideshow
+- rdocumentation.org -- 7 / 2 -- factbook/factbook
+- Google -- 6 / 6 -- openfootball/england
+- github.com -- 6 / 6 -- planetjekyll/awesome-jekyll
+- Google -- 6 / 5 -- factbook/factbook.sql
+- github.com -- 6 / 5 -- footballcsv/cache.soccerdata
+- github.com -- 6 / 4 -- manuscripts/book-starter
+- github.com -- 6 / 4 -- openblockchains/programming-bitcoin-script
+- github.com -- 6 / 4 -- openfootball/national-teams
+- openbeer.github.io -- 6 / 4 -- openbeer/docs
+- amp.reddit.com -- 6 / 3 -- planetjekyll/awesome-jekyll-themes
+- openbeer.github.io -- 6 / 3 -- beerkit/beer.db.admin
+- plugins.jquery.com -- 6 / 3 -- sportkit/football.js
+- github.com -- 6 / 2 -- sportkit/football.html
+- github.com -- 6 / 1 -- yorobot/stage
+- Google -- 5 / 5 -- mundimark/awesome-books
+- Google -- 5 / 5 -- openfootball/europe
+- Google -- 5 / 5 -- sportlogos/football.db.logos
+- footballcsv.github.io -- 5 / 5 -- footballcsv/europe-champions-league
+- github.com -- 5 / 5 -- openfootball/stadiums
+- github.com -- 5 / 5 -- openfootball/world-cup.json
+- github.com -- 5 / 5 -- s6ruby/ethereum-contracts
+- github.com -- 5 / 4 -- footballcsv/cache.footballdata
+- github.com -- 5 / 4 -- openbeer/world
+- github.com -- 5 / 4 -- planetjekyll/awesome-jekyll-editors
+- github.com -- 5 / 3 -- cryptocopycats/kittyverse
+- github.com -- 5 / 3 -- journaltxt/journaltxt.github.io
+- github.com -- 5 / 3 -- pagedesigns/jasonm23-dark
+- rubyflow.com -- 5 / 3 -- yorobot/world.db
+- rubygems.org -- 5 / 2 -- rubycoco/webclient
+- plugins.jquery.com -- 5 / 1 -- typesigs/typesigs
+- DuckDuckGo -- 4 / 4 -- updownpress/markdown-lint
+- Google -- 4 / 4 -- openfootball/euro-cup
+- github.com -- 4 / 4 -- cryptocopycats/bitcat
+- github.com -- 4 / 4 -- openbookie/sport.db.play
+- github.com -- 4 / 4 -- opensport/american-football.db
+- github.com -- 4 / 4 -- planetopendata/awesome-sqlite
+- github.com -- 4 / 4 -- sportdb/docs
+- henrythemes.github.io -- 4 / 4 -- henrythemes/jekyll-minimal-theme
+- medium.com -- 4 / 4 -- openfootball/football.json
+- qna.habr.com -- 4 / 4 -- openfootball/football.json
+- reddit.com -- 4 / 4 -- openfootball/england
+- rubygems.org -- 4 / 4 -- writekit/markdown
+- talk.jekyllrb.com -- 4 / 4 -- planetjekyll/quickrefs
+- DuckDuckGo -- 4 / 3 -- openfootball/football.json
+- github.com -- 4 / 3 -- geraldb/talks
+- github.com -- 4 / 3 -- openbeer/openbeer.github.io
+- github.com -- 4 / 3 -- sportdb/sport.db.web
+- github.com -- 4 / 3 -- yorobot/football.csv
+- jekyllthemes.org -- 4 / 3 -- henrythemes/jekyll-book-theme
+- openfootball.github.io -- 4 / 3 -- openfootball/openfootball.github.io
+- rubygems.org -- 4 / 3 -- rubycoco/git
+- DuckDuckGo -- 4 / 2 -- openbookie/sportbook
+- Google -- 4 / 2 -- geraldb/talks
+- Google -- 4 / 2 -- henrythemes/hello-minima-theme
+- blog.csdn.net -- 4 / 2 -- planetopendata/awesome-world
+- medium.com -- 4 / 2 -- openblockchains/awesome-blockchains
+- sportdb.github.io -- 4 / 2 -- openfootball/league-starter
+- footballcsv.github.io -- 4 / 1 -- footballcsv/deutschland
+- github.com -- 4 / 1 -- slideshow-templates/slideshow-shower
+- sportdb.github.io -- 4 / 1 -- sportdb/sport.db
+- DuckDuckGo -- 3 / 3 -- feedparser/feedparser
+- Google -- 3 / 3 -- footballcsv/england
+- Google -- 3 / 3 -- openfootball/leagues
+- Google -- 3 / 3 -- openfootball/openfootball.github.io
+- Google -- 3 / 3 -- s6ruby/awesome-crypto
+- Google -- 3 / 3 -- sportdb/sport.db.sources
+- Google -- 3 / 3 -- staystatic/awesome-static
+- Google -- 3 / 3 -- writekit/markdown
+- freecodecamp.org -- 3 / 3 -- openblockchains/awesome-blockchains
+- github.com -- 3 / 3 -- cryptocopycats/kitties
+- github.com -- 3 / 3 -- csvreader/csvpack
+- github.com -- 3 / 3 -- csvspecs/awesome-csv
+- github.com -- 3 / 3 -- drjekyllthemes/themes
+- github.com -- 3 / 3 -- openblockchains/blockchain.lite.rb
+- github.com -- 3 / 3 -- openfootball/austria
+- github.com -- 3 / 3 -- rubycoco/almost-sinatra
+- github.com -- 3 / 3 -- worlddb/world.db
+- groups.google.com -- 3 / 3 -- openfootball/europe
+- kaggle.com -- 3 / 3 -- factbook/factbook.json
+- openfootball.github.io -- 3 / 3 -- openfootball/europe
+- Bing -- 3 / 2 -- mundimark/awesome-markdown-editors
+- DuckDuckGo -- 3 / 2 -- planetruby/awesome-rubies
+- Google -- 3 / 2 -- csvreader/csv11
+- Google -- 3 / 2 -- opensport/hockey.db
+- Google -- 3 / 2 -- s6ruby/ethereum-contracts
+- Google -- 3 / 2 -- slideshow-templates/slideshow-slidy
+- community.dataquest.io -- 3 / 2 -- factbook/factbook.sql
+- github.com -- 3 / 2 -- beercsv/statistics
+- github.com -- 3 / 2 -- cryptocopycats/copycats
+- github.com -- 3 / 2 -- journaltxt/blog
+- github.com -- 3 / 2 -- manuscripts/manuscripts.github.io
+- github.com -- 3 / 2 -- openbeer/collections
+- github.com -- 3 / 2 -- openbeer/schema
+- github.com -- 3 / 2 -- openblockchains/awesome-libra
+- github.com -- 3 / 2 -- openfootball/docs
+- github.com -- 3 / 2 -- sportkit/sport.db.starter.node.js
+- nelog.jp -- 3 / 2 -- typesigs/typesigs
+- openfootball.github.io -- 3 / 2 -- yorobot/football.db
+- plugins.jquery.com -- 3 / 2 -- slidekit/s6
+- sportdb.github.io -- 3 / 2 -- openfootball/quick-starter
+- webkaru.net -- 3 / 2 -- typesigs/typesigs
+- xscode.com -- 3 / 2 -- planetopendata/awesome-world
+- Baidu -- 3 / 1 -- planetjekyll/awesome-jekyll-plugins
+- Google -- 3 / 1 -- datatxt/iniparser
+- drjekyllthemes.github.io -- 3 / 1 -- drjekyllthemes/themes
+- github.com -- 3 / 1 -- slideshow-s9/awesome-slideshows
+- github.com -- 3 / 1 -- yorobot/cache.github
+- github.com -- 3 / 1 -- yorobot/logs
+- github.com -- 3 / 1 -- yorobot/world.db
+- jekyllthemes.org -- 3 / 1 -- henrythemes/jekyll-starter-theme
+- keep.google.com -- 3 / 1 -- planetjekyll/awesome-jekyll-themes
+- rubydoc.info -- 3 / 1 -- drjekyllthemes/drjekyll
+- rubytalk.org -- 3 / 1 -- yorobot/backup
+- texti.github.io -- 3 / 1 -- texti/texti.github.io
+- yandex.com -- 3 / 1 -- sportdb/football.db
+- Bing -- 2 / 2 -- planetjekyll/awesome-jekyll-plugins
+- Bing -- 2 / 2 -- updownpress/markdown-lint
+- DuckDuckGo -- 2 / 2 -- feedparser/awesome-feeds
+- DuckDuckGo -- 2 / 2 -- henrythemes/jekyll-book-theme
+- DuckDuckGo -- 2 / 2 -- mundimark/awesome-markdown
+- DuckDuckGo -- 2 / 2 -- mundimark/markdown-vs-latex
+- DuckDuckGo -- 2 / 2 -- planetjekyll/awesome-jekyll-themes
+- Google -- 2 / 2 -- bigkorupto/awesome-nocode
+- Google -- 2 / 2 -- csvspecs/awesome-csv
+- Google -- 2 / 2 -- henrythemes/hello-jekyll-theme
+- Google -- 2 / 2 -- hybook/hybook
+- Google -- 2 / 2 -- octobook/book-2017-theme
+- Google -- 2 / 2 -- openfootball/stadiums
+- Google -- 2 / 2 -- slideshow-s9/awesome-slideshows
+- Google -- 2 / 2 -- sportdb/football.db
+- Google -- 2 / 2 -- typesigs/safebool
+- Google -- 2 / 2 -- worlddb/world.db.flags
+- Google -- 2 / 2 -- yorobot/football.json
+- awesomeopensource.com -- 2 / 2 -- drjekyllthemes/themes
+- blog.kellybrazil.com -- 2 / 2 -- json-next/awesome-json-next
+- digitale-methodik.adwmainz.net -- 2 / 2 -- mundimark/awesome-markdown
+- footballcsv.github.io -- 2 / 2 -- footballcsv/espana
+- footballcsv.github.io -- 2 / 2 -- footballcsv/world
+- git.kcura.com -- 2 / 2 -- updownpress/markdown-lint
+- github.com -- 2 / 2 -- austriacodes/vienna.html
+- github.com -- 2 / 2 -- beercsv/us-united-states
+- github.com -- 2 / 2 -- datatxt/awseome-yaml
+- github.com -- 2 / 2 -- factbook/factbook.sql
+- github.com -- 2 / 2 -- footballcsv/austria
+- github.com -- 2 / 2 -- footballcsv/cache.soccerverse
+- github.com -- 2 / 2 -- henrythemes/jekyll-gutenberg-theme
+- github.com -- 2 / 2 -- mundimark/awesome-books
+- github.com -- 2 / 2 -- openblockchains/programming-cryptocollectibles
+- github.com -- 2 / 2 -- openbookie/market.europe-champions-league
+- github.com -- 2 / 2 -- openbookie/sport.db.market
+- github.com -- 2 / 2 -- openmundi/datafile
+- github.com -- 2 / 2 -- openmundi/world.csv
+- github.com -- 2 / 2 -- planetopendata/awesome-world
+- github.com -- 2 / 2 -- planetruby/awesome-rubies
+- github.com -- 2 / 2 -- planetruby/awesome-webservers
+- github.com -- 2 / 2 -- rsssf/brazil
+- github.com -- 2 / 2 -- rsssf/deutschland
+- github.com -- 2 / 2 -- slidekit/s6
+- github.com -- 2 / 2 -- slideshow-templates/slideshow-s5-blank
+- github.com -- 2 / 2 -- slideshow-templates/slideshow-s6-blank
+- github.com -- 2 / 2 -- slideshow-templates/slideshow-slidy
+- github.com -- 2 / 2 -- sportdb/sport.db.service
+- github.com -- 2 / 2 -- sportkit/football.api.js
+- github.com -- 2 / 2 -- sportkit/sport.db.starter.ruby
+- github.com -- 2 / 2 -- writekit/markdown.note
+- groups.google.com -- 2 / 2 -- openfootball/world
+- infoworld.com -- 2 / 2 -- planetopendata/awesome-sqlite
+- jekyllrb-ko.github.io -- 2 / 2 -- planetjekyll/awesome-jekyll-plugins
+- jekyllthemes.org -- 2 / 2 -- henrythemes/jekyll-bootstrap-theme
+- markdown.p2hp.com -- 2 / 2 -- mundimark/awesome-markdown
+- markdown.xyz -- 2 / 2 -- mundimark/awesome-markdown
+- openbeer.github.io -- 2 / 2 -- beerkit/beer.db
+- openfootball.github.io -- 2 / 2 -- openfootball/africa-cup
+- openfootball.github.io -- 2 / 2 -- openfootball/copa-america
+- openfootball.github.io -- 2 / 2 -- openfootball/copa-sudamericana
+- opensport.github.io -- 2 / 2 -- opensport/formula1.db
+- pinboard.in -- 2 / 2 -- slidekit/s6
+- planetjekyll.github.io -- 2 / 2 -- planetjekyll/showcase
+- plugins.jquery.com -- 2 / 2 -- typesigs/bytes
+- reddit.com -- 2 / 2 -- geraldb/talks
+- reddit.com -- 2 / 2 -- openblockchains/programming-cryptocollectibles
+- reddit.com -- 2 / 2 -- openfootball/europe-champions-league
+- reddit.com -- 2 / 2 -- typesigs/enums
+- rubygems.org -- 2 / 2 -- csvreader/csvreader
+- rubygems.org -- 2 / 2 -- rubycoco/logutils
+- slideshow-templates.github.io -- 2 / 2 -- slideshow-templates/slideshow-reveal.js
+- snipcart.com -- 2 / 2 -- planetjekyll/awesome-jekyll-plugins
+- stackoverflow.com -- 2 / 2 -- planetruby/awesome-webservers
+- trackmyhashtag.com -- 2 / 2 -- openfootball/world-cup
+- Bing -- 2 / 1 -- csvreader/csvreader
+- DuckDuckGo -- 2 / 1 -- cryptocopycats/awesome-cryptokitties
+- Google -- 2 / 1 -- csvspecs/csv-meta
+- Google -- 2 / 1 -- opensport/opensport.github.io
+- Google -- 2 / 1 -- planetruby/quiz
+- StartPage -- 2 / 1 -- updownpress/markdown-lint
+- amp-reddit-com.cdn.ampproject.org -- 2 / 1 -- planetjekyll/awesome-jekyll-themes
+- chandoo.org -- 2 / 1 -- openfootball/world-cup.json
+- cn.bing.com -- 2 / 1 -- planetopendata/awesome-world
+- ctolib.com -- 2 / 1 -- drjekyllthemes/drjekyll
+- demo-metalsmith-nunjucks.now.sh -- 2 / 1 -- staystatic/staystatic
+- github.com -- 2 / 1 -- csvreader/csvutils
+- github.com -- 2 / 1 -- feedparser/feedfilter
+- github.com -- 2 / 1 -- feedreader/jekyll.planet.sample
+- github.com -- 2 / 1 -- geraldb/web-proxy-win
+- github.com -- 2 / 1 -- octobook/gitbook-to-octobook-sample
+- github.com -- 2 / 1 -- openbeer/cz-czech-republic
+- github.com -- 2 / 1 -- openbeer/schema.sql
+- github.com -- 2 / 1 -- openfootball/fussball-de
+- github.com -- 2 / 1 -- opensport/rugby.db
+- github.com -- 2 / 1 -- planetjekyll/planet
+- github.com -- 2 / 1 -- planetjekyll/planetjekyll.github.io
+- github.com -- 2 / 1 -- planetjekyll/quickrefs
+- github.com -- 2 / 1 -- planetruby/quiz
+- github.com -- 2 / 1 -- slideshow-s9/docs
+- github.com -- 2 / 1 -- staystatic/awesome-static
+- github.com -- 2 / 1 -- texti/texti
+- github.com -- 2 / 1 -- textkit/textutils
+- iwando.com -- 2 / 1 -- bitsblocks/crypto-facts
+- lavasoft.gosearchresults.com -- 2 / 1 -- openbookie/sportbook
+- lms.thaimooc.org -- 2 / 1 -- openfootball/world-cup
+- news.ycombinator.com -- 2 / 1 -- slideshow-templates/slideshow-impress.js
+- onehack.us -- 2 / 1 -- openblockchains/programming-blockchains
+- reddit.com -- 2 / 1 -- openblockchains/programming-blockchains
+- reddit.com -- 2 / 1 -- planetjekyll/awesome-jekyll-plugins
+- reddit.com -- 2 / 1 -- slideshow-s9/samples
+- sportdb.github.io -- 2 / 1 -- sportdb/docs
+- t.co -- 2 / 1 -- openfootball/world-cup
+- t.co -- 2 / 1 -- slideshow-s9/awesome-slideshows
+- wiki.openmod-initiative.org -- 2 / 1 -- openmundi/world.db
+- yukimotopress.github.io -- 2 / 1 -- openblockchains/programming-blockchains
+- Bing -- 1 / 1 -- feedreader/pluto
+- Bing -- 1 / 1 -- footballcsv/spec
+- Bing -- 1 / 1 -- henrythemes/jekyll-starter-theme
+- Bing -- 1 / 1 -- mundimark/awesome-markdown
+- Bing -- 1 / 1 -- mundimark/markdown.pl
+- Bing -- 1 / 1 -- openfootball/world-cup
+- Bing -- 1 / 1 -- opensport/formula1.db
+- Bing -- 1 / 1 -- slideshow-templates/slideshow-s5-blank
+- Bing -- 1 / 1 -- yorobot/football.csv
+- DuckDuckGo -- 1 / 1 -- cryptocopycats/kitties
+- DuckDuckGo -- 1 / 1 -- factbook/factbook.sql
+- DuckDuckGo -- 1 / 1 -- feedreader/planet.rb
+- DuckDuckGo -- 1 / 1 -- feedtxt/feedtxt
+- DuckDuckGo -- 1 / 1 -- mundimark/awesome-books
+- DuckDuckGo -- 1 / 1 -- mundimark/markdown.pl
+- DuckDuckGo -- 1 / 1 -- openblockchains/programming-cryptocontracts
+- DuckDuckGo -- 1 / 1 -- openfootball/clubs
+- DuckDuckGo -- 1 / 1 -- s6ruby/awesome-crypto
+- DuckDuckGo -- 1 / 1 -- slideshow-s9/slideshow
+- Google -- 1 / 1 -- austriacodes/awesome-austria
+- Google -- 1 / 1 -- beerkit/beer.db
+- Google -- 1 / 1 -- beerkit/beer.db.admin
+- Google -- 1 / 1 -- bitsblocks/bitcoin-whitepaper
+- Google -- 1 / 1 -- book-templates/football
+- Google -- 1 / 1 -- cryptocopycats/awesome-cryptocollectibles
+- Google -- 1 / 1 -- cryptocopycats/base32-alphabets
+- Google -- 1 / 1 -- cryptocopycats/kittyverse
+- Google -- 1 / 1 -- csvspecs/csv-yaml
+- Google -- 1 / 1 -- datatxt/awseome-yaml
+- Google -- 1 / 1 -- drjekyllthemes/drjekyll
+- Google -- 1 / 1 -- factbook/factbook.github.io
+- Google -- 1 / 1 -- feedreader/pluto
+- Google -- 1 / 1 -- footballcsv/major-league-soccer
+- Google -- 1 / 1 -- geraldb/geraldb.github.io
+- Google -- 1 / 1 -- henrythemes/jekyll-bootstrap-theme
+- Google -- 1 / 1 -- henrythemes/jekyll-starter-theme-v2
+- Google -- 1 / 1 -- hybook/bookfile
+- Google -- 1 / 1 -- mundimark/awesome-kramdown
+- Google -- 1 / 1 -- officetxt/awesome-txt
+- Google -- 1 / 1 -- officetxt/officetxt
+- Google -- 1 / 1 -- openblockchains/awesome-sha256
+- Google -- 1 / 1 -- openblockchains/peer-to-peer.rb
+- Google -- 1 / 1 -- openfootball/clubs
+- Google -- 1 / 1 -- openfootball/fussball-de
+- Google -- 1 / 1 -- openfootball/national-teams
+- Google -- 1 / 1 -- openfootball/world
+- Google -- 1 / 1 -- openmundi/world.csv
+- Google -- 1 / 1 -- opensport/american-football.db
+- Google -- 1 / 1 -- opensport/ski.db
+- Google -- 1 / 1 -- pagedesigns/jasonm23-dark
+- Google -- 1 / 1 -- planetjekyll/showcase
+- Google -- 1 / 1 -- playhtml/memory
+- Google -- 1 / 1 -- quikstart/quik
+- Google -- 1 / 1 -- rsssf/brazil
+- Google -- 1 / 1 -- rubycoco/git
+- Google -- 1 / 1 -- rubycoco/pakman
+- Google -- 1 / 1 -- rubycoco/webclient
+- Google -- 1 / 1 -- rubycoco/webservice
+- Google -- 1 / 1 -- slideshow-templates/slideshow-s5-themes
+- Google -- 1 / 1 -- textkit/textutils
+- Google -- 1 / 1 -- worlddb/world.db.admin
+- Google -- 1 / 1 -- writekit/markdown-service
+- Google -- 1 / 1 -- yorobot/workflow
+- StartPage -- 1 / 1 -- mundimark/awesome-markdown-alternatives
+- StartPage -- 1 / 1 -- mundimark/awesome-markdown-editors
+- StartPage -- 1 / 1 -- openblockchains/awesome-sha256
+- StartPage -- 1 / 1 -- openfootball/schema.sql
+- amp.reddit.com -- 1 / 1 -- planetruby/quiz
+- awesomeopensource.com -- 1 / 1 -- openblockchains/awesome-blockchains
+- cezarywalenciuk.pl -- 1 / 1 -- slideshow-templates/slideshow-google-html5-slides
+- cn.bing.com -- 1 / 1 -- mundimark/awesome-markdown-alternatives
+- cn.bing.com -- 1 / 1 -- planetopendata/awesome-sqlite
+- com.google.android.gm -- 1 / 1 -- openfootball/world-cup
+- confluence.esteeonline.com -- 1 / 1 -- openblockchains/awesome-blockchains
+- csvy.org -- 1 / 1 -- csvreader/csvreader
+- dev-yakuza.github.io -- 1 / 1 -- planetjekyll/awesome-jekyll-plugins
+- developer.aliyun.com -- 1 / 1 -- openfootball/football.json
+- dogedoge.com -- 1 / 1 -- openblockchains/awesome-sha256
+- downscripts.com -- 1 / 1 -- sportkit/football.js
+- drjekyllthemes.github.io -- 1 / 1 -- drjekyllthemes/drjekyllthemes.github.io
+- drjekyllthemes.github.io -- 1 / 1 -- henrythemes/hello-minima-theme
+- drjekyllthemes.github.io -- 1 / 1 -- henrythemes/hello-pages-theme-v2
+- ecosia.org -- 1 / 1 -- mundimark/markdown-vs-latex
+- elipousson.github.io -- 1 / 1 -- mundimark/awesome-markdown-editors
+- evernote.com -- 1 / 1 -- sportdb/sport.db
+- feedly.com -- 1 / 1 -- rubycoco/git
+- feedreader.github.io -- 1 / 1 -- feedreader/planets
+- feedreader.github.io -- 1 / 1 -- planet-templates/planet-blank
+- footballcsv.github.io -- 1 / 1 -- footballcsv/austria
+- footballcsv.github.io -- 1 / 1 -- footballcsv/cache.footballdata
+- footballcsv.github.io -- 1 / 1 -- footballcsv/cache.internationals
+- footballcsv.github.io -- 1 / 1 -- footballcsv/cache.soccerverse
+- footballcsv.github.io -- 1 / 1 -- footballcsv/mexico
+- gist.github.com -- 1 / 1 -- factbook/factbook.json
+- github.com -- 1 / 1 -- austriacodes/awesome-austria
+- github.com -- 1 / 1 -- beerkit/beer.db
+- github.com -- 1 / 1 -- beerkit/beer.db.starter
+- github.com -- 1 / 1 -- beerkit/beer.js
+- github.com -- 1 / 1 -- bibtxt/bibtxt.github.io
+- github.com -- 1 / 1 -- book-templates/beer
+- github.com -- 1 / 1 -- bookdesigns/book-git
+- github.com -- 1 / 1 -- bookdesigns/designs
+- github.com -- 1 / 1 -- cryptocopycats/media
+- github.com -- 1 / 1 -- datatxt/datatxt.github.io
+- github.com -- 1 / 1 -- factbook/factbook.github.io
+- github.com -- 1 / 1 -- feedparser/feedparser
+- github.com -- 1 / 1 -- feedreader/feedreader.github.io
+- github.com -- 1 / 1 -- feedreader/planets
+- github.com -- 1 / 1 -- feedreader/pluto.more.tools
+- github.com -- 1 / 1 -- footballbook/footballbook.github.io
+- github.com -- 1 / 1 -- footballcsv/cache.internationals
+- github.com -- 1 / 1 -- footballcsv/cache.updates
+- github.com -- 1 / 1 -- funpress/mostly-adequate-guide-to-fp
+- github.com -- 1 / 1 -- hybook/hybook
+- github.com -- 1 / 1 -- json-next/awesome-json-next
+- github.com -- 1 / 1 -- json-next/json-feed
+- github.com -- 1 / 1 -- manuscripts/manuscripts
+- github.com -- 1 / 1 -- mundimark/markdown-tools-books
+- github.com -- 1 / 1 -- octobook/book-2017-theme
+- github.com -- 1 / 1 -- officetxt/awesome-txt
+- github.com -- 1 / 1 -- openbeer/at-austria
+- github.com -- 1 / 1 -- openbeer/by-bayern
+- github.com -- 1 / 1 -- openbeer/jp-japan
+- github.com -- 1 / 1 -- openblockchains/awesome-ico-truths
+- github.com -- 1 / 1 -- openblockchains/blockchain-whitepapers
+- github.com -- 1 / 1 -- openblockchains/centralbank
+- github.com -- 1 / 1 -- openblockchains/ledger.lite.rb
+- github.com -- 1 / 1 -- openblockchains/tulips
+- github.com -- 1 / 1 -- openbookie/market.euro-cup
+- github.com -- 1 / 1 -- openbookie/market.world-cup
+- github.com -- 1 / 1 -- openfootball/copa-libertadores
+- github.com -- 1 / 1 -- openfootball/euro-cup
+- github.com -- 1 / 1 -- openfootball/futbol-es
+- github.com -- 1 / 1 -- openfootball/north-america-champions-league
+- github.com -- 1 / 1 -- openfootball/north-america-gold-cup
+- github.com -- 1 / 1 -- openfootball/women-euro-cup
+- github.com -- 1 / 1 -- openfootball/women-world-cup
+- github.com -- 1 / 1 -- openmundi/mundo-es
+- github.com -- 1 / 1 -- opensport/formula1.db
+- github.com -- 1 / 1 -- opensport/hockey.db
+- github.com -- 1 / 1 -- opensport/opensport.github.io
+- github.com -- 1 / 1 -- opensport/ski.db
+- github.com -- 1 / 1 -- planet-templates/planet-blank
+- github.com -- 1 / 1 -- planet-templates/planet-classic
+- github.com -- 1 / 1 -- planet-templates/planet-digest
+- github.com -- 1 / 1 -- planet-templates/planet-forty
+- github.com -- 1 / 1 -- planet-templates/planet-paper
+- github.com -- 1 / 1 -- planet-templates/planet-templates.github.io
+- github.com -- 1 / 1 -- planet-templates/planet-top
+- github.com -- 1 / 1 -- planet-templates/planet-zen
+- github.com -- 1 / 1 -- planetjekyll/sandbox
+- github.com -- 1 / 1 -- publicdomainworks/publicdomainworks.github.io
+- github.com -- 1 / 1 -- quikstart/quik
+- github.com -- 1 / 1 -- rsssf/austria
+- github.com -- 1 / 1 -- rsssf/rsssf.github.io
+- github.com -- 1 / 1 -- rsssf/spec
+- github.com -- 1 / 1 -- rubycoco/dbbrowser
+- github.com -- 1 / 1 -- rubycoco/fizzbuzzer
+- github.com -- 1 / 1 -- rubycoco/fotos
+- github.com -- 1 / 1 -- rubycoco/linkto
+- github.com -- 1 / 1 -- rubycoco/ostructer
+- github.com -- 1 / 1 -- rubycoco/props
+- github.com -- 1 / 1 -- rubycoco/webservice
+- github.com -- 1 / 1 -- s6ruby/pragmas
+- github.com -- 1 / 1 -- s6ruby/redpaper
+- github.com -- 1 / 1 -- s6ruby/ruby-to-solidity
+- github.com -- 1 / 1 -- s6ruby/safemath
+- github.com -- 1 / 1 -- s6ruby/universum
+- github.com -- 1 / 1 -- schemadoc/schemadoc
+- github.com -- 1 / 1 -- slideshow-s9/demos
+- github.com -- 1 / 1 -- slideshow-templates/slideshow-csss
+- github.com -- 1 / 1 -- slideshow-templates/slideshow-google-io-2011-slides
+- github.com -- 1 / 1 -- slideshow-templates/slideshow-impress.js
+- github.com -- 1 / 1 -- sportkit/sport.db.starter.go
+- github.com -- 1 / 1 -- texti/pandoc
+- github.com -- 1 / 1 -- typesigs/safebool
+- github.com -- 1 / 1 -- wikiscript/wikiscript
+- github.com -- 1 / 1 -- worldclassics/dr-jekyll-and-mr-hyde
+- github.com -- 1 / 1 -- worldclassics/worldclassics.github.io
+- github.com -- 1 / 1 -- worlddb/world.db.flags
+- github.com -- 1 / 1 -- worlddb/world.db.service
+- github.com -- 1 / 1 -- yukimotopress/yukimotopress.github.io
+- github.oldjpg.com -- 1 / 1 -- planetopendata/awesome-world
+- gitmemory.com -- 1 / 1 -- footballcsv/england
+- gmayock.com -- 1 / 1 -- factbook/factbook.sql
+- groups.google.com -- 1 / 1 -- footballcsv/deutschland
+- groups.google.com -- 1 / 1 -- openfootball/deutschland
+- groups.google.com -- 1 / 1 -- openfootball/quick-starter
+- groups.google.com -- 1 / 1 -- sportdb/football.db
+- henrythemes.github.io -- 1 / 1 -- henrythemes/hello-jekyll-theme
+- henrythemes.github.io -- 1 / 1 -- henrythemes/jekyll-starter-theme
+- htmldrive.net -- 1 / 1 -- slideshow-templates/slideshow-impress.js
+- hydepress.github.io -- 1 / 1 -- henrythemes/jekyll-starter-theme-v2
+- int.search.myway.com -- 1 / 1 -- cryptocopycats/kitties
+- janbernloehr.de -- 1 / 1 -- planetjekyll/awesome-jekyll
+- jokecamp.com -- 1 / 1 -- openfootball/women-world-cup
+- journaltxt.github.io -- 1 / 1 -- journaltxt/journaltxt.github.io
+- kaggle.com -- 1 / 1 -- footballcsv/europe-champions-league
+- l.messenger.com -- 1 / 1 -- openfootball/football.json
+- lavasoft.gosearchresults.com -- 1 / 1 -- textkit/whatson
+- learn-anything.xyz -- 1 / 1 -- planetopendata/awesome-world
+- lib4dev.in -- 1 / 1 -- henrythemes/hello-jekyll-theme
+- m.search.naver.com -- 1 / 1 -- worlddb/world.lite
+- mail.google.com -- 1 / 1 -- sportdb/sport.db
+- mattkopala.com -- 1 / 1 -- slidekit/s6
+- maumagnaguagno.github.io -- 1 / 1 -- henrythemes/jekyll-minimal-theme
+- morioh.com -- 1 / 1 -- openfootball/world-cup.json
+- news.ycombinator.com -- 1 / 1 -- henrythemes/hello-minima-theme
+- news.ycombinator.com -- 1 / 1 -- mundimark/why-text
+- news.ycombinator.com -- 1 / 1 -- officetxt/awesome-txt
+- news.ycombinator.com -- 1 / 1 -- s6ruby/pragmas
+- openbeer.github.io -- 1 / 1 -- beerbook/maps
+- openfootball.github.io -- 1 / 1 -- openfootball/copa-libertadores
+- openfootball.github.io -- 1 / 1 -- openfootball/north-america-champions-league
+- openmundi.github.io -- 1 / 1 -- openmundi/world.db
+- opensport.github.io -- 1 / 1 -- opensport/american-football.db
+- planetjekyll.github.io -- 1 / 1 -- feedreader/planet.rb
+- planetjekyll.github.io -- 1 / 1 -- mrhydescripts/scripts
+- planetjekyll.github.io -- 1 / 1 -- planetjekyll/awesome-jekyll
+- planetruby.github.io -- 1 / 1 -- planetruby/meetups
+- prost.herokuapp.com -- 1 / 1 -- openmundi/world.db
+- qiita.com -- 1 / 1 -- openblockchains/blockchain.lite.rb
+- qwant.com -- 1 / 1 -- planetjekyll/awesome-jekyll-editors
+- qwant.com -- 1 / 1 -- slideshow-templates/slideshow-slidy
+- reddit.com -- 1 / 1 -- cryptocopycats/kittyverse
+- reddit.com -- 1 / 1 -- drjekyllthemes/drjekyllthemes.github.io
+- reddit.com -- 1 / 1 -- feedreader/planet.rb
+- reddit.com -- 1 / 1 -- henrythemes/hello-pages-theme-v2
+- reddit.com -- 1 / 1 -- openblockchains/awesome-blockchains
+- reddit.com -- 1 / 1 -- openfootball/schema.sql
+- reddit.com -- 1 / 1 -- planetjekyll/awesome-jekyll-editors
+- reddit.com -- 1 / 1 -- planetruby/quiz
+- reddit.com -- 1 / 1 -- sportdb/sport.db
+- reddit.com -- 1 / 1 -- sportkit/sport.db.starter.ruby
+- reddit.com -- 1 / 1 -- typesigs/safedata
+- ruby-toolbox.com -- 1 / 1 -- feedparser/feedparser
+- rubydoc.info -- 1 / 1 -- openfootball/quick-starter
+- rubydoc.info -- 1 / 1 -- rubycoco/git
+- rubydoc.info -- 1 / 1 -- rubycoco/webclient
+- rubyflow.com -- 1 / 1 -- planetruby/quiz
+- rubyflow.com -- 1 / 1 -- sportdb/football.db
+- rubyflow.com -- 1 / 1 -- typesigs/enums
+- rubyflow.com -- 1 / 1 -- yorobot/football.db
+- rubygems.org -- 1 / 1 -- feedreader/pluto
+- rubygems.org -- 1 / 1 -- journaltxt/journaltxt
+- rubyreferences.github.io -- 1 / 1 -- planetruby/awesome-rubies
+- rubytalk.org -- 1 / 1 -- rubycoco/git
+- rzencoder.github.io -- 1 / 1 -- openfootball/world-cup.json
+- so.com -- 1 / 1 -- csvreader/csvpack
+- so.com -- 1 / 1 -- footballcsv/spec
+- themes.jekyllrc.org -- 1 / 1 -- henrythemes/jekyll-minimal-theme
+- translate.googleusercontent.com -- 1 / 1 -- yorobot/football.db
+- web-work.tools -- 1 / 1 -- planetjekyll/awesome-jekyll-themes
+- xscode.com -- 1 / 1 -- planetjekyll/awesome-jekyll
+- yandex.ru -- 1 / 1 -- mundimark/awesome-markdown
+- yandex.ru -- 1 / 1 -- mundimark/markdown-vs-latex
+- yandex.ru -- 1 / 1 -- openfootball/schema.sql
+- yandex.ru -- 1 / 1 -- textkit/rubycat
+- yandex.ru -- 1 / 1 -- worlddb/world.db
+- yukimotopress.github.io -- 1 / 1 -- rubycoco/webclient
+- yukimotopress.github.io -- 1 / 1 -- yukimotopress/http
