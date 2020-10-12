@@ -261,7 +261,6 @@ popular referrer sources over the last 14 days - page views / unique
     - 1 / 1 -- worlddb/world.db.flags
     - 1 / 1 -- worlddb/world.db.service
     - 1 / 1 -- yukimotopress/yukimotopress.github.io
-
 2. **Google** 2070 / 1489  _(119)_:
     - 338 / 222 -- openfootball/football.json
     - 254 / 200 -- updownpress/markdown-lint
@@ -382,7 +381,6 @@ popular referrer sources over the last 14 days - page views / unique
     - 1 / 1 -- worlddb/world.db.admin
     - 1 / 1 -- writekit/markdown-service
     - 1 / 1 -- yorobot/workflow
-
 3. **openfootball.github.io** 259 / 200  _(21)_:
     - 68 / 52 -- openfootball/england
     - 30 / 24 -- openfootball/world-cup
@@ -405,17 +403,13 @@ popular referrer sources over the last 14 days - page views / unique
     - 2 / 2 -- openfootball/copa-sudamericana
     - 1 / 1 -- openfootball/copa-libertadores
     - 1 / 1 -- openfootball/north-america-champions-league
-
 4. **markdownguide.org** 183 / 127  _(1)_:
     - 183 / 127 -- mundimark/awesome-markdown
-
 5. **jekyllrb.com** 178 / 129  _(1)_:
     - 178 / 129 -- planetjekyll/awesome-jekyll-plugins
-
 6. **datahub.io** 129 / 108  _(2)_:
     - 84 / 74 -- openfootball/world-cup
     - 45 / 34 -- openfootball/stadiums
-
 7. **reddit.com** 93 / 68  _(22)_:
     - 39 / 24 -- planetjekyll/awesome-jekyll-themes
     - 14 / 11 -- rubycoco/git
@@ -439,7 +433,6 @@ popular referrer sources over the last 14 days - page views / unique
     - 1 / 1 -- sportdb/sport.db
     - 1 / 1 -- sportkit/sport.db.starter.ruby
     - 1 / 1 -- typesigs/safedata
-
 8. **rubyflow.com** 57 / 33  _(8)_:
     - 30 / 19 -- rubycoco/git
     - 10 / 2 -- planetjekyll/awesome-jekyll-themes
@@ -449,7 +442,6 @@ popular referrer sources over the last 14 days - page views / unique
     - 1 / 1 -- sportdb/football.db
     - 1 / 1 -- typesigs/enums
     - 1 / 1 -- yorobot/football.db
-
 9. **DuckDuckGo** 55 / 46  _(23)_:
     - 8 / 6 -- planetjekyll/awesome-jekyll-editors
     - 7 / 5 -- planetjekyll/awesome-jekyll-plugins
@@ -474,10 +466,8 @@ popular referrer sources over the last 14 days - page views / unique
     - 1 / 1 -- openfootball/clubs
     - 1 / 1 -- s6ruby/awesome-crypto
     - 1 / 1 -- slideshow-s9/slideshow
-
 10. **github.community** 52 / 31  _(1)_:
     - 52 / 31 -- planetjekyll/awesome-jekyll-themes
-
 11. **footballcsv.github.io** 39 / 31  _(10)_:
     - 21 / 16 -- footballcsv/england
     - 5 / 5 -- footballcsv/europe-champions-league
@@ -489,7 +479,6 @@ popular referrer sources over the last 14 days - page views / unique
     - 1 / 1 -- footballcsv/cache.internationals
     - 1 / 1 -- footballcsv/cache.soccerverse
     - 1 / 1 -- footballcsv/mexico
-
 12. **Bing** 26 / 21  _(14)_:
     - 8 / 5 -- openfootball/football.json
     - 3 / 2 -- mundimark/awesome-markdown-editors
@@ -505,10 +494,8 @@ popular referrer sources over the last 14 days - page views / unique
     - 1 / 1 -- opensport/formula1.db
     - 1 / 1 -- slideshow-templates/slideshow-s5-blank
     - 1 / 1 -- yorobot/football.csv
-
 13. **ruby-lang.org** 23 / 21  _(1)_:
     - 23 / 21 -- planetruby/awesome-rubies
-
 14. **rubygems.org** 19 / 15  _(7)_:
     - 5 / 2 -- rubycoco/webclient
     - 4 / 4 -- writekit/markdown
@@ -517,68 +504,53 @@ popular referrer sources over the last 14 days - page views / unique
     - 2 / 2 -- rubycoco/logutils
     - 1 / 1 -- feedreader/pluto
     - 1 / 1 -- journaltxt/journaltxt
-
 15. **henrythemes.github.io** 18 / 15  _(4)_:
     - 12 / 9 -- henrythemes/jekyll-bootstrap-theme
     - 4 / 4 -- henrythemes/jekyll-minimal-theme
     - 1 / 1 -- henrythemes/hello-jekyll-theme
     - 1 / 1 -- henrythemes/jekyll-starter-theme
-
 16. **jokecamp.com** 17 / 9  _(2)_:
     - 16 / 8 -- planetopendata/awesome-football
     - 1 / 1 -- openfootball/women-world-cup
-
 17. **jekyllthemes.org** 16 / 12  _(4)_:
     - 7 / 6 -- henrythemes/jekyll-minimal-theme
     - 4 / 3 -- henrythemes/jekyll-book-theme
     - 3 / 1 -- henrythemes/jekyll-starter-theme
     - 2 / 2 -- henrythemes/jekyll-bootstrap-theme
-
 18. **plugins.jquery.com** 16 / 8  _(4)_:
     - 6 / 3 -- sportkit/football.js
     - 5 / 1 -- typesigs/typesigs
     - 3 / 2 -- slidekit/s6
     - 2 / 2 -- typesigs/bytes
-
 19. **openbeer.github.io** 15 / 10  _(4)_:
     - 6 / 4 -- openbeer/docs
     - 6 / 3 -- beerkit/beer.db.admin
     - 2 / 2 -- beerkit/beer.db
     - 1 / 1 -- beerbook/maps
-
 20. **sportdb.github.io** 13 / 6  _(4)_:
     - 4 / 2 -- openfootball/league-starter
     - 4 / 1 -- sportdb/sport.db
     - 3 / 2 -- openfootball/quick-starter
     - 2 / 1 -- sportdb/docs
-
 21. **help.rubygems.org** 12 / 3  _(1)_:
     - 12 / 3 -- rubycoco/webclient
-
 22. **github.daumkakao.com** 11 / 1  _(1)_:
     - 11 / 1 -- planetruby/awesome-webservers
-
 23. **old.reddit.com** 11 / 2  _(1)_:
     - 11 / 2 -- rubycoco/git
-
 24. **opendata.stackexchange.com** 11 / 5  _(1)_:
     - 11 / 5 -- planetopendata/awesome-football
-
 25. **prost.herokuapp.com** 11 / 2  _(2)_:
     - 10 / 1 -- openbeer/world
     - 1 / 1 -- openmundi/world.db
-
 26. **Baidu** 10 / 8  _(2)_:
     - 7 / 7 -- updownpress/markdown-lint
     - 3 / 1 -- planetjekyll/awesome-jekyll-plugins
-
 27. **mail.google.com** 10 / 4  _(2)_:
     - 9 / 3 -- openfootball/football.json
     - 1 / 1 -- sportdb/sport.db
-
 28. **quora.com** 9 / 1  _(1)_:
     - 9 / 1 -- openblockchains/awesome-blockchains
-
 29. **groups.google.com** 9 / 9  _(6)_:
     - 3 / 3 -- openfootball/europe
     - 2 / 2 -- openfootball/world
@@ -586,317 +558,226 @@ popular referrer sources over the last 14 days - page views / unique
     - 1 / 1 -- openfootball/deutschland
     - 1 / 1 -- openfootball/quick-starter
     - 1 / 1 -- sportdb/football.db
-
 30. **aaltoscicomp.github.io** 8 / 7  _(1)_:
     - 8 / 7 -- footballcsv/england
-
 31. **blog.desdelinux.net** 8 / 7  _(1)_:
     - 8 / 7 -- planetopendata/awesome-football
-
 32. **medium.com** 8 / 6  _(2)_:
     - 4 / 4 -- openfootball/football.json
     - 4 / 2 -- openblockchains/awesome-blockchains
-
 33. **rdocumentation.org** 7 / 2  _(1)_:
     - 7 / 2 -- factbook/factbook
-
 34. **sogou.com** 7 / 6  _(1)_:
     - 7 / 6 -- cryptocopycats/kitties
-
 35. **amp.reddit.com** 7 / 4  _(2)_:
     - 6 / 3 -- planetjekyll/awesome-jekyll-themes
     - 1 / 1 -- planetruby/quiz
-
 36. **drjekyllthemes.github.io** 6 / 4  _(4)_:
     - 3 / 1 -- drjekyllthemes/themes
     - 1 / 1 -- drjekyllthemes/drjekyllthemes.github.io
     - 1 / 1 -- henrythemes/hello-minima-theme
     - 1 / 1 -- henrythemes/hello-pages-theme-v2
-
 37. **rubydoc.info** 6 / 4  _(4)_:
     - 3 / 1 -- drjekyllthemes/drjekyll
     - 1 / 1 -- openfootball/quick-starter
     - 1 / 1 -- rubycoco/git
     - 1 / 1 -- rubycoco/webclient
-
 38. **StartPage** 6 / 5  _(5)_:
     - 2 / 1 -- updownpress/markdown-lint
     - 1 / 1 -- mundimark/awesome-markdown-alternatives
     - 1 / 1 -- mundimark/awesome-markdown-editors
     - 1 / 1 -- openblockchains/awesome-sha256
     - 1 / 1 -- openfootball/schema.sql
-
 39. **news.ycombinator.com** 6 / 5  _(5)_:
     - 2 / 1 -- slideshow-templates/slideshow-impress.js
     - 1 / 1 -- henrythemes/hello-minima-theme
     - 1 / 1 -- mundimark/why-text
     - 1 / 1 -- officetxt/awesome-txt
     - 1 / 1 -- s6ruby/pragmas
-
 40. **planetjekyll.github.io** 5 / 5  _(4)_:
     - 2 / 2 -- planetjekyll/showcase
     - 1 / 1 -- feedreader/planet.rb
     - 1 / 1 -- mrhydescripts/scripts
     - 1 / 1 -- planetjekyll/awesome-jekyll
-
 41. **yandex.ru** 5 / 5  _(5)_:
     - 1 / 1 -- mundimark/awesome-markdown
     - 1 / 1 -- mundimark/markdown-vs-latex
     - 1 / 1 -- openfootball/schema.sql
     - 1 / 1 -- textkit/rubycat
     - 1 / 1 -- worlddb/world.db
-
 42. **blog.csdn.net** 4 / 2  _(1)_:
     - 4 / 2 -- planetopendata/awesome-world
-
 43. **qna.habr.com** 4 / 4  _(1)_:
     - 4 / 4 -- openfootball/football.json
-
 44. **talk.jekyllrb.com** 4 / 4  _(1)_:
     - 4 / 4 -- planetjekyll/quickrefs
-
 45. **kaggle.com** 4 / 4  _(2)_:
     - 3 / 3 -- factbook/factbook.json
     - 1 / 1 -- footballcsv/europe-champions-league
-
 46. **rubytalk.org** 4 / 2  _(2)_:
     - 3 / 1 -- yorobot/backup
     - 1 / 1 -- rubycoco/git
-
 47. **t.co** 4 / 2  _(2)_:
     - 2 / 1 -- openfootball/world-cup
     - 2 / 1 -- slideshow-s9/awesome-slideshows
-
 48. **xscode.com** 4 / 3  _(2)_:
     - 3 / 2 -- planetopendata/awesome-world
     - 1 / 1 -- planetjekyll/awesome-jekyll
-
 49. **cn.bing.com** 4 / 3  _(3)_:
     - 2 / 1 -- planetopendata/awesome-world
     - 1 / 1 -- mundimark/awesome-markdown-alternatives
     - 1 / 1 -- planetopendata/awesome-sqlite
-
 50. **yukimotopress.github.io** 4 / 3  _(3)_:
     - 2 / 1 -- openblockchains/programming-blockchains
     - 1 / 1 -- rubycoco/webclient
     - 1 / 1 -- yukimotopress/http
-
 51. **community.dataquest.io** 3 / 2  _(1)_:
     - 3 / 2 -- factbook/factbook.sql
-
 52. **freecodecamp.org** 3 / 3  _(1)_:
     - 3 / 3 -- openblockchains/awesome-blockchains
-
 53. **keep.google.com** 3 / 1  _(1)_:
     - 3 / 1 -- planetjekyll/awesome-jekyll-themes
-
 54. **nelog.jp** 3 / 2  _(1)_:
     - 3 / 2 -- typesigs/typesigs
-
 55. **texti.github.io** 3 / 1  _(1)_:
     - 3 / 1 -- texti/texti.github.io
-
 56. **webkaru.net** 3 / 2  _(1)_:
     - 3 / 2 -- typesigs/typesigs
-
 57. **yandex.com** 3 / 1  _(1)_:
     - 3 / 1 -- sportdb/football.db
-
 58. **awesomeopensource.com** 3 / 3  _(2)_:
     - 2 / 2 -- drjekyllthemes/themes
     - 1 / 1 -- openblockchains/awesome-blockchains
-
 59. **lavasoft.gosearchresults.com** 3 / 2  _(2)_:
     - 2 / 1 -- openbookie/sportbook
     - 1 / 1 -- textkit/whatson
-
 60. **opensport.github.io** 3 / 3  _(2)_:
     - 2 / 2 -- opensport/formula1.db
     - 1 / 1 -- opensport/american-football.db
-
 61. **amp-reddit-com.cdn.ampproject.org** 2 / 1  _(1)_:
     - 2 / 1 -- planetjekyll/awesome-jekyll-themes
-
 62. **blog.kellybrazil.com** 2 / 2  _(1)_:
     - 2 / 2 -- json-next/awesome-json-next
-
 63. **chandoo.org** 2 / 1  _(1)_:
     - 2 / 1 -- openfootball/world-cup.json
-
 64. **ctolib.com** 2 / 1  _(1)_:
     - 2 / 1 -- drjekyllthemes/drjekyll
-
 65. **demo-metalsmith-nunjucks.now.sh** 2 / 1  _(1)_:
     - 2 / 1 -- staystatic/staystatic
-
 66. **digitale-methodik.adwmainz.net** 2 / 2  _(1)_:
     - 2 / 2 -- mundimark/awesome-markdown
-
 67. **git.kcura.com** 2 / 2  _(1)_:
     - 2 / 2 -- updownpress/markdown-lint
-
 68. **infoworld.com** 2 / 2  _(1)_:
     - 2 / 2 -- planetopendata/awesome-sqlite
-
 69. **iwando.com** 2 / 1  _(1)_:
     - 2 / 1 -- bitsblocks/crypto-facts
-
 70. **jekyllrb-ko.github.io** 2 / 2  _(1)_:
     - 2 / 2 -- planetjekyll/awesome-jekyll-plugins
-
 71. **lms.thaimooc.org** 2 / 1  _(1)_:
     - 2 / 1 -- openfootball/world-cup
-
 72. **markdown.p2hp.com** 2 / 2  _(1)_:
     - 2 / 2 -- mundimark/awesome-markdown
-
 73. **markdown.xyz** 2 / 2  _(1)_:
     - 2 / 2 -- mundimark/awesome-markdown
-
 74. **onehack.us** 2 / 1  _(1)_:
     - 2 / 1 -- openblockchains/programming-blockchains
-
 75. **pinboard.in** 2 / 2  _(1)_:
     - 2 / 2 -- slidekit/s6
-
 76. **slideshow-templates.github.io** 2 / 2  _(1)_:
     - 2 / 2 -- slideshow-templates/slideshow-reveal.js
-
 77. **snipcart.com** 2 / 2  _(1)_:
     - 2 / 2 -- planetjekyll/awesome-jekyll-plugins
-
 78. **stackoverflow.com** 2 / 2  _(1)_:
     - 2 / 2 -- planetruby/awesome-webservers
-
 79. **trackmyhashtag.com** 2 / 2  _(1)_:
     - 2 / 2 -- openfootball/world-cup
-
 80. **wiki.openmod-initiative.org** 2 / 1  _(1)_:
     - 2 / 1 -- openmundi/world.db
-
 81. **feedreader.github.io** 2 / 2  _(2)_:
     - 1 / 1 -- feedreader/planets
     - 1 / 1 -- planet-templates/planet-blank
-
 82. **qwant.com** 2 / 2  _(2)_:
     - 1 / 1 -- planetjekyll/awesome-jekyll-editors
     - 1 / 1 -- slideshow-templates/slideshow-slidy
-
 83. **so.com** 2 / 2  _(2)_:
     - 1 / 1 -- csvreader/csvpack
     - 1 / 1 -- footballcsv/spec
-
 84. **cezarywalenciuk.pl** 1 / 1  _(1)_:
     - 1 / 1 -- slideshow-templates/slideshow-google-html5-slides
-
 85. **com.google.android.gm** 1 / 1  _(1)_:
     - 1 / 1 -- openfootball/world-cup
-
 86. **confluence.esteeonline.com** 1 / 1  _(1)_:
     - 1 / 1 -- openblockchains/awesome-blockchains
-
 87. **csvy.org** 1 / 1  _(1)_:
     - 1 / 1 -- csvreader/csvreader
-
 88. **dev-yakuza.github.io** 1 / 1  _(1)_:
     - 1 / 1 -- planetjekyll/awesome-jekyll-plugins
-
 89. **developer.aliyun.com** 1 / 1  _(1)_:
     - 1 / 1 -- openfootball/football.json
-
 90. **dogedoge.com** 1 / 1  _(1)_:
     - 1 / 1 -- openblockchains/awesome-sha256
-
 91. **downscripts.com** 1 / 1  _(1)_:
     - 1 / 1 -- sportkit/football.js
-
 92. **ecosia.org** 1 / 1  _(1)_:
     - 1 / 1 -- mundimark/markdown-vs-latex
-
 93. **elipousson.github.io** 1 / 1  _(1)_:
     - 1 / 1 -- mundimark/awesome-markdown-editors
-
 94. **evernote.com** 1 / 1  _(1)_:
     - 1 / 1 -- sportdb/sport.db
-
 95. **feedly.com** 1 / 1  _(1)_:
     - 1 / 1 -- rubycoco/git
-
 96. **gist.github.com** 1 / 1  _(1)_:
     - 1 / 1 -- factbook/factbook.json
-
 97. **github.oldjpg.com** 1 / 1  _(1)_:
     - 1 / 1 -- planetopendata/awesome-world
-
 98. **gitmemory.com** 1 / 1  _(1)_:
     - 1 / 1 -- footballcsv/england
-
 99. **gmayock.com** 1 / 1  _(1)_:
     - 1 / 1 -- factbook/factbook.sql
-
 100. **htmldrive.net** 1 / 1  _(1)_:
     - 1 / 1 -- slideshow-templates/slideshow-impress.js
-
 101. **hydepress.github.io** 1 / 1  _(1)_:
     - 1 / 1 -- henrythemes/jekyll-starter-theme-v2
-
 102. **int.search.myway.com** 1 / 1  _(1)_:
     - 1 / 1 -- cryptocopycats/kitties
-
 103. **janbernloehr.de** 1 / 1  _(1)_:
     - 1 / 1 -- planetjekyll/awesome-jekyll
-
 104. **journaltxt.github.io** 1 / 1  _(1)_:
     - 1 / 1 -- journaltxt/journaltxt.github.io
-
 105. **l.messenger.com** 1 / 1  _(1)_:
     - 1 / 1 -- openfootball/football.json
-
 106. **learn-anything.xyz** 1 / 1  _(1)_:
     - 1 / 1 -- planetopendata/awesome-world
-
 107. **lib4dev.in** 1 / 1  _(1)_:
     - 1 / 1 -- henrythemes/hello-jekyll-theme
-
 108. **m.search.naver.com** 1 / 1  _(1)_:
     - 1 / 1 -- worlddb/world.lite
-
 109. **mattkopala.com** 1 / 1  _(1)_:
     - 1 / 1 -- slidekit/s6
-
 110. **maumagnaguagno.github.io** 1 / 1  _(1)_:
     - 1 / 1 -- henrythemes/jekyll-minimal-theme
-
 111. **morioh.com** 1 / 1  _(1)_:
     - 1 / 1 -- openfootball/world-cup.json
-
 112. **openmundi.github.io** 1 / 1  _(1)_:
     - 1 / 1 -- openmundi/world.db
-
 113. **planetruby.github.io** 1 / 1  _(1)_:
     - 1 / 1 -- planetruby/meetups
-
 114. **qiita.com** 1 / 1  _(1)_:
     - 1 / 1 -- openblockchains/blockchain.lite.rb
-
 115. **ruby-toolbox.com** 1 / 1  _(1)_:
     - 1 / 1 -- feedparser/feedparser
-
 116. **rubyreferences.github.io** 1 / 1  _(1)_:
     - 1 / 1 -- planetruby/awesome-rubies
-
 117. **rzencoder.github.io** 1 / 1  _(1)_:
     - 1 / 1 -- openfootball/world-cup.json
-
 118. **themes.jekyllrc.org** 1 / 1  _(1)_:
     - 1 / 1 -- henrythemes/jekyll-minimal-theme
-
 119. **translate.googleusercontent.com** 1 / 1  _(1)_:
     - 1 / 1 -- yorobot/football.db
-
 120. **web-work.tools** 1 / 1  _(1)_:
     - 1 / 1 -- planetjekyll/awesome-jekyll-themes
-
+<!-- break -->
 
 
 All referrers:
@@ -1556,3 +1437,6 @@ All referrers:
 - yandex.ru -- 1 / 1 -- worlddb/world.db
 - yukimotopress.github.io -- 1 / 1 -- rubycoco/webclient
 - yukimotopress.github.io -- 1 / 1 -- yukimotopress/http
+<!-- break -->
+
+

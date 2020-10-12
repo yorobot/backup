@@ -24,12 +24,16 @@ report.save( './UPDATES.md' )
 
 report = Hubba::ReportTraffic.new( stats )
 report.save( './TRAFFIC.md' )
+=end
 
 report = Hubba::ReportTrafficPages.new( stats )
 report.save( './PAGES.md' )
-=end
 
 report = Hubba::ReportTrafficReferrers.new( stats )
 report.save( './REFERRERS.md' )
+
+report = Hubba::ReportSize.new( stats )
+report.save( './SIZE.md' )
+
 
 puts "Done."
