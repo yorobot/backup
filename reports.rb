@@ -20,12 +20,13 @@ report.save( './TRENDING.md' )
 
 report = Hubba::ReportUpdates.new( stats )
 report.save( './UPDATES.md' )
+=end
 
 
 report = Hubba::ReportTraffic.new( stats )
 report.save( './TRAFFIC.md' )
-=end
 
+=begin
 report = Hubba::ReportTrafficPages.new( stats )
 report.save( './PAGES.md' )
 
@@ -34,6 +35,6 @@ report.save( './REFERRERS.md' )
 
 report = Hubba::ReportSize.new( stats )
 report.save( './SIZE.md' )
-
+=end
 
 puts "Done."
