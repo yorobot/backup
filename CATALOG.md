@@ -1,3 +1,7 @@
+Auto-generated github (statistics) report;
+built with [Hubba v0.6.2](https://github.com/rubycoco/git/tree/master/hubba).
+
+
 # 593 repos @ 83 orgs
 
 ### geraldb _(11)_
