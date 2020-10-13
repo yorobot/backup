@@ -3,7 +3,7 @@ $LOAD_PATH.unshift( 'C:/Sites/rubycoco/git/hubba/lib' )
 require 'hubba'
 
 
-stats = Hubba.stats( './repos.yml' )
+stats = Hubba.stats( './config/repos.yml' )
 
 =begin
 report = Hubba::ReportSummary.new( stats )
@@ -21,7 +21,6 @@ report.save( './TRENDING.md' )
 report = Hubba::ReportUpdates.new( stats )
 report.save( './UPDATES.md' )
 
-=end
 
 report = Hubba::ReportTraffic.new( stats )
 report.save( './TRAFFIC.md' )
@@ -39,6 +38,10 @@ report.save( './REFERRERS.md' )
 
 report = Hubba::ReportSize.new( stats )
 report.save( './SIZE.md' )
+=end
+
+report = Hubba::ReportTopics.new( stats )
+report.save( './TOPICS.md' )
 
 
 puts "Done."

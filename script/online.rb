@@ -11,7 +11,7 @@ require 'hubba'
 h = Hubba.reposet( 'geraldb', 'yorobot', cache: true )
 pp h
 
-save_yaml( "./repos.yml", h )
+save_yaml( "./config/repos.yml", h )
 
 
 

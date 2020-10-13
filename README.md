@@ -21,7 +21,7 @@ $ gem install gitti-backup
 To backup all repos use:
 
 ```
-$ backup repos.yml
+$ backup config/repos.yml
 ```
 
 All repos get git cloned in the backup folder in home (e.g. `~/backup`).
@@ -43,7 +43,7 @@ to backup and to update all stats (stars, commits, etc.) in `./data`
 use the online script e.g.:
 
 ```
-$ ruby ./online.rb
+$ ruby script/online.rb
 ```
 
 Note: Set your GitHub env credentials (personal access token preferred) e.g.
@@ -74,7 +74,7 @@ cryptocopycats (6):
 To update the summary (SUMMARY.md) & co. reports use the reports script e.g.
 
 ```
-$ ruby ./reports.rb
+$ ruby script/reports.rb
 ```
 
 
