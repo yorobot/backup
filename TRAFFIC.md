@@ -1,4 +1,8 @@
-# 593 repos @ 83 orgs
+Auto-generated github (statistics) report;
+built with [Hubba v0.6.2](https://github.com/rubycoco/git/tree/master/hubba).
+
+
+# Traffic - 593 Repos @ 83 Orgs
 
 traffic over the last 14 days - page views / unique, clones / unique
 
