@@ -1,0 +1,789 @@
+Auto-generated github (statistics) report;
+built with [Hubba v0.6.2](https://github.com/rubycoco/git/tree/master/hubba).
+
+
+# Traffic Pages - 65 Repos @ 3 Orgs
+
+popular pages over the last 14 days - page views / unique
+
+1. **openfootball** 5101 / 3218  _(243)_
+    - 791 / 406 -- football.json
+    - 385 / 223 -- england
+    - 220 / 125 -- football.json/2020-21
+    - 189 / 113 -- england/2020-21
+    - 169 / 126 -- world-cup
+    - 165 / 113 -- football.json/2020
+    - 158 / 93 -- england/2020-21/1-premierleague.txt
+    - 132 / 73 -- world
+    - 124 / 84 -- schema.sql
+    - 88 / 54 -- espana
+    - 88 / 38 -- football.json/2019-20
+    - 83 / 50 -- quick-starter
+    - 79 / 42 -- europe
+    - 68 / 55 -- england/2019-20
+    - 66 / 46 -- stadiums
+    - 62 / 38 -- europe-champions-league
+    - 56 / 31 -- brazil
+    - 56 / 29 -- deutschland
+    - 55 / 28 -- south-america
+    - 54 / 30 -- stadiums/europe
+    - 53 / 38 -- schema.sql/football.sql
+    - 52 / 44 -- football.json/2020/br.1.clubs.json
+    - 51 / 19 -- football.json/2019-20/en.1.json
+    - 49 / 34 -- world-cup/2018--russia
+    - 48 / 34 -- football.json/2020-21/en.1.json
+    - 47 / 24 -- clubs
+    - 44 / 39 -- england/2019-20/1-premierleague.txt
+    - 43 / 28 -- espana/2020-21
+    - 41 / 32 -- world/europe
+    - 41 / 22 -- football.json/find
+    - 40 / 12 -- help
+    - 35 / 29 -- league-starter
+    - 32 / 26 -- england/clubs
+    - 32 / 22 -- football.json/2020-21/en.1.clubs.json
+    - 32 / 19 -- south-america/brazil
+    - 31 / 14 -- football.json/2020-21/es.1.json
+    - 30 / 9 -- england/pulls
+    - 29 / 23 -- world-cup.json
+    - 29 / 20 -- espana/2020-21/1-liga.txt
+    - 28 / 22 -- leagues
+    - 28 / 22 -- world-cup/2018--russia/cup.txt
+    - 26 / 25 -- world-cup/2018--russia/cup_finals.txt
+    - 26 / 10 -- mexico
+    - 25 / 22 -- openfootball.github.io
+    - 24 / 18 -- europe-champions-league/2019-20
+    - 24 / 12 -- world-cup/2014--brazil/cup.txt
+    - 22 / 18 -- deutschland/2020-21
+    - 21 / 8 -- england/issues
+    - 20 / 12 -- clubs/europe
+    - 20 / 7 -- quick-starter/eng2020-21.rb
+    - 19 / 17 -- world-cup/2022--qatar
+    - 19 / 16 -- england/2000-01
+    - 18 / 17 -- euro-cup
+    - 18 / 13 -- stadiums/europe/eng-england--stadiums.txt
+    - 17 / 17 -- deutschland/2020-21/1-bundesliga.txt
+    - 17 / 17 -- england/clubs/1-names
+    - 17 / 13 -- south-america/brazil/2020
+    - 17 / 12 -- italy
+    - 16 / 15 -- brazil/2020/1-seriea.txt
+    - 16 / 14 -- brazil/2020
+    - 16 / 5 -- france/2020-21/1-ligue1.txt
+    - 15 / 15 -- espana/2019-20
+    - 15 / 11 -- france
+    - 14 / 10 -- espana/2020-21/2-liga2.txt
+    - 13 / 11 -- schema.sql/world.sql
+    - 13 / 2 -- deutschland/pulls
+    - 12 / 9 -- europe-champions-league/2012-13/cl_finals.txt
+    - 12 / 9 -- leagues/europe
+    - 12 / 9 -- world-cup/2014--brazil
+    - 12 / 9 -- world-cup/find
+    - 12 / 8 -- docs
+    - 12 / 8 -- world/north-america/major-league-soccer
+    - 12 / 7 -- italy/2020-21
+    - 11 / 10 -- europe/france
+    - 11 / 10 -- schema.sql/football.views.sql
+    - 11 / 9 -- world/europe/belgium
+    - 11 / 4 -- europe/belgium
+    - 10 / 10 -- south-america/brazil/2020/1-seriea.txt
+    - 10 / 9 -- players
+    - 9 / 9 -- schema.sql/football.events.views.sql
+    - 9 / 8 -- world-cup/2022--qatar/cup.txt
+    - 9 / 7 -- europe-champions-league/2019-20/cl.txt
+    - 9 / 6 -- deutschland/2019-20
+    - 9 / 6 -- france/2020-21
+    - 9 / 6 -- world/europe/belgium/2020-21
+    - 9 / 5 -- deutschland/2019-20/1-bundesliga.txt
+    - 9 / 5 -- mexico/2020-21
+    - 9 / 5 -- schema.sql/find
+    - 9 / 2 -- europe/turkey
+    - 8 / 8 -- world-cup.json/2018
+    - 8 / 7 -- brazil/clubs
+    - 8 / 6 -- world-cup/1930--uruguay
+    - 8 / 5 -- mexico/2020-21/1-apertura.txt
+    - 8 / 5 -- world/europe/belgium/2020-21/1-firstdivisiona-i.txt
+    - 8 / 3 -- stadiums/find
+    - 8 / 1 -- deutschland/compare/master...enadol:master
+    - 7 / 7 -- brazil/2019/1-seriea.txt
+    - 7 / 7 -- espana/clubs
+    - 7 / 7 -- espana/clubs/1-names
+    - 7 / 7 -- schema.sql/README.md
+    - 7 / 6 -- italy/2020-21/1-seriea.txt
+    - 7 / 6 -- players/europe
+    - 7 / 5 -- europe-champions-league/2011-12
+    - 7 / 5 -- national-teams
+    - 7 / 4 -- deutschland/pull/13
+    - 7 / 4 -- deutschland/pull/14
+    - 7 / 3 -- world/europe/turkey
+    - 7 / 2 -- deutschland/archive
+    - 7 / 2 -- europe/belgium/2020-21/1-firstdivisiona-i.txt
+    - 6 / 6 -- brazil/2019
+    - 6 / 6 -- espana/2019-20/1-liga.txt
+    - 6 / 6 -- europe/france/2020-21
+    - 6 / 6 -- schema.sql/NOTES.md
+    - 6 / 6 -- stadiums/europe/at-austria--stadiums.txt
+    - 6 / 6 -- world/asia
+    - 6 / 3 -- clubs/asia
+    - 6 / 3 -- world/europe/turkey/2020-21
+    - 6 / 2 -- europe/belgium/2020-21
+    - 6 / 2 -- world/europe/greece
+    - 5 / 5 -- stadiums/europe/es-espana--stadiums.txt
+    - 5 / 4 -- euro-cup/2016--france
+    - 5 / 4 -- euro-cup/2016--france/euro.txt
+    - 5 / 4 -- europe-champions-league/2019-20/cl_finals.txt
+    - 5 / 4 -- leagues/europe/england
+    - 5 / 3 -- national-teams/europe
+    - 5 / 2 -- fussball-de
+    - 5 / 2 -- quick-starter/cl2020-21.rb
+    - 5 / 2 -- stadiums/north-america
+    - 4 / 4 -- copa-libertadores
+    - 4 / 4 -- espana/2012-13
+    - 4 / 4 -- espana/clubs/1-names/marca.yml
+    - 4 / 4 -- league-starter/2014-15
+    - 4 / 4 -- schema.sql/LICENSE.md
+    - 4 / 4 -- schema.sql/support.sql
+    - 4 / 4 -- stadiums/README.md
+    - 4 / 4 -- stadiums/europe/it-italy--stadiums.txt
+    - 4 / 3 -- austria
+    - 4 / 3 -- europe-champions-league/2012-13
+    - 4 / 3 -- europe-champions-league/2017-18
+    - 4 / 3 -- national-teams/europe/teams.txt
+    - 4 / 2 -- clubs/europe/england
+    - 4 / 2 -- italy/clubs
+    - 4 / 2 -- stadiums/south-america
+    - 4 / 1 -- clubs/asia/saudi-arabia
+    - 4 / 1 -- clubs/europe/france
+    - 3 / 3 -- clubs/europe/spain
+    - 3 / 3 -- clubs/south-america
+    - 3 / 3 -- europe-champions-league/2011-12/cl_finals.txt
+    - 3 / 3 -- league-starter/clubs.txt
+    - 3 / 3 -- league-starter/leagues.txt
+    - 3 / 3 -- leagues/europe/england/eng.leagues.txt
+    - 3 / 3 -- leagues/north-america
+    - 3 / 3 -- mexico/clubs
+    - 3 / 3 -- mexico/clubs/1-names
+    - 3 / 3 -- north-america-champions-league
+    - 3 / 3 -- quick-starter/at2020-21.rb
+    - 3 / 3 -- quick-starter/es.rb
+    - 3 / 3 -- quick-starter/find
+    - 3 / 3 -- quick-starter/worldcup.rb
+    - 3 / 3 -- world-cup.json/2018/worldcup.json
+    - 3 / 2 -- docs/api
+    - 3 / 2 -- docs/index.md
+    - 3 / 2 -- italy/2013-14
+    - 3 / 2 -- leagues/europe/leagues.txt
+    - 3 / 2 -- mexico/clubs/clubs.props.txt
+    - 3 / 2 -- players/europe/en-england
+    - 3 / 2 -- quick-starter/at.rb
+    - 3 / 1 -- clubs/commits
+    - 3 / 1 -- openfootball.github.io/_includes
+    - 3 / 1 -- world-cup.json/2018/worldcup.groups.json
+    - 2 / 2 -- africa-cup
+    - 2 / 2 -- clubs/europe/england/eng.clubs.txt
+    - 2 / 2 -- copa-america
+    - 2 / 2 -- copa-sudamericana
+    - 2 / 2 -- docs/api/games.md
+    - 2 / 2 -- europe-champions-league/2017-18/cl.txt
+    - 2 / 2 -- italy/2020-21/2-serieb.txt
+    - 2 / 2 -- italy/clubs/clubs.props.txt
+    - 2 / 2 -- italy/issues
+    - 2 / 2 -- league-starter/2014-15/1-league-i.txt
+    - 2 / 2 -- leagues/south-america
+    - 2 / 2 -- mexico/2014-15/1-apertura.txt
+    - 2 / 2 -- mexico/NOTES.md
+    - 2 / 2 -- mexico/clubs/1-names/10.yml
+    - 2 / 2 -- mexico/clubs/1-names/record.yml
+    - 2 / 2 -- quick-starter/cl.rb
+    - 2 / 2 -- quick-starter/it2020-21.rb
+    - 2 / 2 -- women-world-cup
+    - 2 / 2 -- world-cup.json/2014
+    - 2 / 1 -- help/pull/23
+    - 2 / 1 -- leagues/central-america
+    - 2 / 1 -- national-teams/central-america
+    - 2 / 1 -- north-america-gold-cup
+    - 2 / 1 -- openfootball.github.io/_includes/announce.html
+    - 1 / 1 -- at-austria/clubs
+    - 1 / 1 -- austria/2020-21
+    - 1 / 1 -- austria/2020-21/cup.txt
+    - 1 / 1 -- austria/commit/8156b874e9050b3a24f671a11c432c01d3878af9
+    - 1 / 1 -- austria/commits
+    - 1 / 1 -- austria/pulls
+    - 1 / 1 -- copa-libertadores/setups
+    - 1 / 1 -- copa-libertadores/setups/all.txt
+    - 1 / 1 -- copa-sudamericana/2012
+    - 1 / 1 -- copa-sudamericana/2012/sudamericana.txt
+    - 1 / 1 -- docs/_includes/editme.html
+    - 1 / 1 -- docs/_layouts/default.html
+    - 1 / 1 -- docs/api/index.md
+    - 1 / 1 -- docs/api/intro.md
+    - 1 / 1 -- docs/blob/f80b7d378b24c855c425eb12fceeb168f945e8eb/build.md
+    - 1 / 1 -- docs/csv-export.md
+    - 1 / 1 -- euro-cup/1960--france/euro.txt
+    - 1 / 1 -- euro-cup/1996--england
+    - 1 / 1 -- euro-cup/commit/38906dc4750b759fc92d16b87e723ddf178be1c0
+    - 1 / 1 -- fussball-de/commits
+    - 1 / 1 -- fussball-de/europa
+    - 1 / 1 -- futbol-es
+    - 1 / 1 -- futbol-es/america-del-sur
+    - 1 / 1 -- help/issues
+    - 1 / 1 -- help/pull/23/files
+    - 1 / 1 -- help/stargazers
+    - 1 / 1 -- italy/2013-14/1-seriea.txt
+    - 1 / 1 -- italy/2013-14/2-serieb.txt
+    - 1 / 1 -- league-starter/2014-15/cup.txt
+    - 1 / 1 -- league-starter/find
+    - 1 / 1 -- leagues/caribbean/leagues.txt
+    - 1 / 1 -- leagues/central-america/leagues.txt
+    - 1 / 1 -- national-teams/africa
+    - 1 / 1 -- national-teams/central-america/teams.txt
+    - 1 / 1 -- national-teams/pacific
+    - 1 / 1 -- north-america-champions-league/2011_12
+    - 1 / 1 -- north-america-champions-league/2011_12/cl.txt
+    - 1 / 1 -- north-america-gold-cup/2011--united-states
+    - 1 / 1 -- openfootball.github.io/_posts
+    - 1 / 1 -- players/central-america
+    - 1 / 1 -- players/europe/de-deutschland
+    - 1 / 1 -- players/europe/en-england/players.txt
+    - 1 / 1 -- players/europe/es-espana
+    - 1 / 1 -- players/europe/es-espana/players.txt
+    - 1 / 1 -- players/europe/pt-portugal/players.txt
+    - 1 / 1 -- players/south-america/uy-uruguay/players.txt
+    - 1 / 1 -- women-euro-cup
+    - 1 / 1 -- women-world-cup/stargazers
+    - 1 / 1 -- world-cup.json/2014/worldcup.json
+2. **footballcsv** 1542 / 1058  _(118)_
+    - 309 / 184 -- england
+    - 121 / 78 -- england/2020s/2020-21
+    - 93 / 57 -- espana
+    - 84 / 52 -- england/2020s/2020-21/eng.1.csv
+    - 83 / 62 -- footballcsv.github.io
+    - 70 / 48 -- england/2010s
+    - 60 / 42 -- europe-champions-league
+    - 51 / 43 -- world
+    - 43 / 32 -- espana/2020s/2020-21
+    - 42 / 23 -- deutschland
+    - 35 / 26 -- espana/2020s/2020-21/es.1.csv
+    - 27 / 21 -- england/2010s/2019-20
+    - 23 / 16 -- england/find
+    - 22 / 19 -- world/2020s
+    - 21 / 17 -- europe-champions-league/2015-16/champs.csv
+    - 20 / 18 -- europe-champions-league/2015-16
+    - 18 / 12 -- england/2010s/2018-19
+    - 16 / 15 -- england/2020s/2020-21/eng.5.csv
+    - 16 / 11 -- england/2010s/2019-20/eng.1.csv
+    - 16 / 10 -- mexico
+    - 15 / 11 -- england/2010s/2010-11/eng.1.csv
+    - 15 / 11 -- espana/2010s
+    - 14 / 8 -- belgium
+    - 12 / 11 -- spec
+    - 12 / 9 -- world/2020s/2020-21
+    - 12 / 8 -- world/2010s
+    - 11 / 10 -- world/2020s/2020
+    - 9 / 8 -- deutschland/2020s/2020-21
+    - 9 / 4 -- belgium/2020s/2020-21/be.1.csv
+    - 9 / 4 -- mexico/2020s/2020-21/mx.1.csv
+    - 9 / 1 -- europe-champions-league/1981-82/champs.csv
+    - 8 / 5 -- cache.footballdata
+    - 8 / 4 -- belgium/2020s/2020-21
+    - 8 / 4 -- mexico/2020s/2020-21
+    - 7 / 6 -- deutschland/2020s/2020-21/de.1.csv
+    - 7 / 5 -- deutschland/2010s
+    - 7 / 4 -- espana/find
+    - 7 / 4 -- europe-champions-league/find
+    - 7 / 2 -- cache.soccerdata/1900s/1903-04/eng.2.csv
+    - 6 / 6 -- espana/2010s/2019-20
+    - 6 / 5 -- cache.leagues
+    - 6 / 2 -- espana/search
+    - 5 / 5 -- espana/2020s/2020-21/es.2.csv
+    - 5 / 5 -- europe-champions-league/1955-56/champs.csv
+    - 5 / 4 -- espana/2010s/2013-14/es.1.csv
+    - 5 / 4 -- espana/2010s/2019-20/es.1.csv
+    - 5 / 4 -- world/2020s/2020/br.1.csv
+    - 5 / 3 -- footballcsv.github.io/find
+    - 5 / 3 -- world/2010s/2018-19
+    - 4 / 4 -- cache.soccerdata
+    - 4 / 4 -- spec/docs
+    - 3 / 3 -- austria
+    - 3 / 3 -- cache.soccerdata/2000s
+    - 3 / 3 -- cache.soccerverse
+    - 3 / 3 -- europe-champions-league/1955-56
+    - 3 / 3 -- europe-champions-league/commit/90e4c92f133bc6c1342d271d299b120f36cef986
+    - 3 / 3 -- world/2010s/2018-19/fr.1.csv
+    - 3 / 3 -- world/2020s/2020-21/sco.1.csv
+    - 3 / 3 -- world/2020s/2020/cn.1.csv
+    - 3 / 2 -- belgium/find
+    - 3 / 2 -- cache.leagues/2019-20/de.2.csv
+    - 3 / 2 -- cache.soccerdata/1900s
+    - 3 / 2 -- deutschland/1960s
+    - 3 / 2 -- deutschland/1960s/1963-64
+    - 3 / 2 -- deutschland/1960s/1963-64/de.1.csv
+    - 3 / 2 -- deutschland/2010s/2010-11/de.1.csv
+    - 3 / 2 -- deutschland/2010s/2019-20/de.1.csv
+    - 3 / 2 -- deutschland/issues
+    - 3 / 2 -- europe-champions-league/2014-15
+    - 3 / 2 -- footballcsv.github.io/README.md
+    - 3 / 1 -- cache.leagues/find
+    - 3 / 1 -- cache.soccerdata/1900s/1903-04/eng.1.csv
+    - 3 / 1 -- mexico/find
+    - 2 / 2 -- austria/2020s/2020-21
+    - 2 / 2 -- cache.footballdata/2017
+    - 2 / 2 -- cache.footballdata/2017/se.1.csv
+    - 2 / 2 -- cache.footballdata/2020
+    - 2 / 2 -- cache.internationals
+    - 2 / 2 -- cache.leagues/2019-20
+    - 2 / 2 -- europe-champions-league/2014-15/champs.csv
+    - 2 / 2 -- mexico/2010s
+    - 2 / 2 -- mexico/2010s/2018-19
+    - 2 / 2 -- mexico/2010s/2018-19/mx.1.csv
+    - 2 / 1 -- cache.footballdata/find
+    - 2 / 1 -- cache.soccerdata/1900s/1903-04
+    - 2 / 1 -- mexico/2020s
+    - 2 / 1 -- spec/actions
+    - 1 / 1 -- austria/2020s/2020-21/at.1.csv
+    - 1 / 1 -- austria/2020s/2020-21/at.3.o.csv
+    - 1 / 1 -- austria/2020s/2020-21/at.cup.csv
+    - 1 / 1 -- belgium/2010s
+    - 1 / 1 -- belgium/2010s/2018-19/be.1.csv
+    - 1 / 1 -- belgium/2010s/2019-20
+    - 1 / 1 -- belgium/2010s/2019-20/be.1.csv
+    - 1 / 1 -- cache.footballdata/1993-94/de.1.csv
+    - 1 / 1 -- cache.footballdata/2004-05/de.1.csv
+    - 1 / 1 -- cache.footballdata/2014-15/fr.1.csv
+    - 1 / 1 -- cache.footballdata/2017/cn.1.csv
+    - 1 / 1 -- cache.footballdata/2020/us.1.csv
+    - 1 / 1 -- cache.internationals/1800s
+    - 1 / 1 -- cache.internationals/1800s/1872.csv
+    - 1 / 1 -- cache.leagues/2003-04/de.1.csv
+    - 1 / 1 -- cache.leagues/2019-20/fr.1.csv
+    - 1 / 1 -- cache.soccerdata/1900s/1999-00/eng.1.csv
+    - 1 / 1 -- cache.soccerdata/2000s/2001-02/eng.1.csv
+    - 1 / 1 -- cache.soccerdata/2000s/2002-03/eng.1.csv
+    - 1 / 1 -- cache.soccerdata/2000s/2018-19/eng.1.csv
+    - 1 / 1 -- cache.soccerverse/2015-16
+    - 1 / 1 -- cache.soccerverse/2015-16/fr.csv
+    - 1 / 1 -- cache.soccerverse/2019
+    - 1 / 1 -- cache.soccerverse/2019/br.csv
+    - 1 / 1 -- cache.updates
+    - 1 / 1 -- footballcsv.github.io/commit/e7d385a47e905dc4e42e4f45c2724c3c2c0b2023
+    - 1 / 1 -- major-league-soccer
+    - 1 / 1 -- mexico/README.md
+    - 1 / 1 -- mexico/edit/2020s/2020-21/mx.1.csv
+    - 1 / 1 -- spec/branches
+    - 1 / 1 -- spec/branches/all
+3. **rsssf** 45 / 42  _(24)_
+    - 8 / 7 -- england
+    - 7 / 7 -- espana
+    - 3 / 3 -- brazil
+    - 2 / 2 -- austria
+    - 2 / 2 -- deutschland
+    - 2 / 2 -- england/2014-15
+    - 2 / 2 -- espana/2014-15/1-liga.txt
+    - 2 / 1 -- brazil/2015/1-seriea.txt
+    - 2 / 1 -- brazil/issues
+    - 1 / 1 -- at-austria
+    - 1 / 1 -- brazil/2014
+    - 1 / 1 -- brazil/2015
+    - 1 / 1 -- brazil/find
+    - 1 / 1 -- england/2010-11
+    - 1 / 1 -- england/2011-12
+    - 1 / 1 -- england/2013-14/1-premierleague.txt
+    - 1 / 1 -- england/2014-15/1-premierleague.txt
+    - 1 / 1 -- england/2014-15/facup.txt
+    - 1 / 1 -- espana/2014-15
+    - 1 / 1 -- espana/2014-15/cup.txt
+    - 1 / 1 -- espana/tables
+    - 1 / 1 -- espana/tables/span2015.txt
+    - 1 / 1 -- rsssf.github.io
+    - 1 / 1 -- spec
+<!-- break -->
+
+
+All pages:
+
+1. 791 / 406 -- openfootball/football.json
+2. 385 / 223 -- openfootball/england
+3. 309 / 184 -- footballcsv/england
+4. 220 / 125 -- openfootball/football.json/2020-21
+5. 189 / 113 -- openfootball/england/2020-21
+6. 169 / 126 -- openfootball/world-cup
+7. 165 / 113 -- openfootball/football.json/2020
+8. 158 / 93 -- openfootball/england/2020-21/1-premierleague.txt
+9. 132 / 73 -- openfootball/world
+10. 124 / 84 -- openfootball/schema.sql
+11. 121 / 78 -- footballcsv/england/2020s/2020-21
+12. 93 / 57 -- footballcsv/espana
+13. 88 / 54 -- openfootball/espana
+14. 88 / 38 -- openfootball/football.json/2019-20
+15. 84 / 52 -- footballcsv/england/2020s/2020-21/eng.1.csv
+16. 83 / 62 -- footballcsv/footballcsv.github.io
+17. 83 / 50 -- openfootball/quick-starter
+18. 79 / 42 -- openfootball/europe
+19. 70 / 48 -- footballcsv/england/2010s
+20. 68 / 55 -- openfootball/england/2019-20
+21. 66 / 46 -- openfootball/stadiums
+22. 62 / 38 -- openfootball/europe-champions-league
+23. 60 / 42 -- footballcsv/europe-champions-league
+24. 56 / 31 -- openfootball/brazil
+25. 56 / 29 -- openfootball/deutschland
+26. 55 / 28 -- openfootball/south-america
+27. 54 / 30 -- openfootball/stadiums/europe
+28. 53 / 38 -- openfootball/schema.sql/football.sql
+29. 52 / 44 -- openfootball/football.json/2020/br.1.clubs.json
+30. 51 / 43 -- footballcsv/world
+31. 51 / 19 -- openfootball/football.json/2019-20/en.1.json
+32. 49 / 34 -- openfootball/world-cup/2018--russia
+33. 48 / 34 -- openfootball/football.json/2020-21/en.1.json
+34. 47 / 24 -- openfootball/clubs
+35. 44 / 39 -- openfootball/england/2019-20/1-premierleague.txt
+36. 43 / 32 -- footballcsv/espana/2020s/2020-21
+37. 43 / 28 -- openfootball/espana/2020-21
+38. 42 / 23 -- footballcsv/deutschland
+39. 41 / 32 -- openfootball/world/europe
+40. 41 / 22 -- openfootball/football.json/find
+41. 40 / 12 -- openfootball/help
+42. 35 / 29 -- openfootball/league-starter
+43. 35 / 26 -- footballcsv/espana/2020s/2020-21/es.1.csv
+44. 32 / 26 -- openfootball/england/clubs
+45. 32 / 22 -- openfootball/football.json/2020-21/en.1.clubs.json
+46. 32 / 19 -- openfootball/south-america/brazil
+47. 31 / 14 -- openfootball/football.json/2020-21/es.1.json
+48. 30 / 9 -- openfootball/england/pulls
+49. 29 / 23 -- openfootball/world-cup.json
+50. 29 / 20 -- openfootball/espana/2020-21/1-liga.txt
+51. 28 / 22 -- openfootball/leagues
+52. 28 / 22 -- openfootball/world-cup/2018--russia/cup.txt
+53. 27 / 21 -- footballcsv/england/2010s/2019-20
+54. 26 / 25 -- openfootball/world-cup/2018--russia/cup_finals.txt
+55. 26 / 10 -- openfootball/mexico
+56. 25 / 22 -- openfootball/openfootball.github.io
+57. 24 / 18 -- openfootball/europe-champions-league/2019-20
+58. 24 / 12 -- openfootball/world-cup/2014--brazil/cup.txt
+59. 23 / 16 -- footballcsv/england/find
+60. 22 / 19 -- footballcsv/world/2020s
+61. 22 / 18 -- openfootball/deutschland/2020-21
+62. 21 / 17 -- footballcsv/europe-champions-league/2015-16/champs.csv
+63. 21 / 8 -- openfootball/england/issues
+64. 20 / 18 -- footballcsv/europe-champions-league/2015-16
+65. 20 / 12 -- openfootball/clubs/europe
+66. 20 / 7 -- openfootball/quick-starter/eng2020-21.rb
+67. 19 / 17 -- openfootball/world-cup/2022--qatar
+68. 19 / 16 -- openfootball/england/2000-01
+69. 18 / 17 -- openfootball/euro-cup
+70. 18 / 13 -- openfootball/stadiums/europe/eng-england--stadiums.txt
+71. 18 / 12 -- footballcsv/england/2010s/2018-19
+72. 17 / 17 -- openfootball/deutschland/2020-21/1-bundesliga.txt
+73. 17 / 17 -- openfootball/england/clubs/1-names
+74. 17 / 13 -- openfootball/south-america/brazil/2020
+75. 17 / 12 -- openfootball/italy
+76. 16 / 15 -- footballcsv/england/2020s/2020-21/eng.5.csv
+77. 16 / 15 -- openfootball/brazil/2020/1-seriea.txt
+78. 16 / 14 -- openfootball/brazil/2020
+79. 16 / 11 -- footballcsv/england/2010s/2019-20/eng.1.csv
+80. 16 / 10 -- footballcsv/mexico
+81. 16 / 5 -- openfootball/france/2020-21/1-ligue1.txt
+82. 15 / 15 -- openfootball/espana/2019-20
+83. 15 / 11 -- footballcsv/england/2010s/2010-11/eng.1.csv
+84. 15 / 11 -- footballcsv/espana/2010s
+85. 15 / 11 -- openfootball/france
+86. 14 / 10 -- openfootball/espana/2020-21/2-liga2.txt
+87. 14 / 8 -- footballcsv/belgium
+88. 13 / 11 -- openfootball/schema.sql/world.sql
+89. 13 / 2 -- openfootball/deutschland/pulls
+90. 12 / 11 -- footballcsv/spec
+91. 12 / 9 -- footballcsv/world/2020s/2020-21
+92. 12 / 9 -- openfootball/europe-champions-league/2012-13/cl_finals.txt
+93. 12 / 9 -- openfootball/leagues/europe
+94. 12 / 9 -- openfootball/world-cup/2014--brazil
+95. 12 / 9 -- openfootball/world-cup/find
+96. 12 / 8 -- footballcsv/world/2010s
+97. 12 / 8 -- openfootball/docs
+98. 12 / 8 -- openfootball/world/north-america/major-league-soccer
+99. 12 / 7 -- openfootball/italy/2020-21
+100. 11 / 10 -- footballcsv/world/2020s/2020
+101. 11 / 10 -- openfootball/europe/france
+102. 11 / 10 -- openfootball/schema.sql/football.views.sql
+103. 11 / 9 -- openfootball/world/europe/belgium
+104. 11 / 4 -- openfootball/europe/belgium
+105. 10 / 10 -- openfootball/south-america/brazil/2020/1-seriea.txt
+106. 10 / 9 -- openfootball/players
+107. 9 / 9 -- openfootball/schema.sql/football.events.views.sql
+108. 9 / 8 -- footballcsv/deutschland/2020s/2020-21
+109. 9 / 8 -- openfootball/world-cup/2022--qatar/cup.txt
+110. 9 / 7 -- openfootball/europe-champions-league/2019-20/cl.txt
+111. 9 / 6 -- openfootball/deutschland/2019-20
+112. 9 / 6 -- openfootball/france/2020-21
+113. 9 / 6 -- openfootball/world/europe/belgium/2020-21
+114. 9 / 5 -- openfootball/deutschland/2019-20/1-bundesliga.txt
+115. 9 / 5 -- openfootball/mexico/2020-21
+116. 9 / 5 -- openfootball/schema.sql/find
+117. 9 / 4 -- footballcsv/belgium/2020s/2020-21/be.1.csv
+118. 9 / 4 -- footballcsv/mexico/2020s/2020-21/mx.1.csv
+119. 9 / 2 -- openfootball/europe/turkey
+120. 9 / 1 -- footballcsv/europe-champions-league/1981-82/champs.csv
+121. 8 / 8 -- openfootball/world-cup.json/2018
+122. 8 / 7 -- openfootball/brazil/clubs
+123. 8 / 7 -- rsssf/england
+124. 8 / 6 -- openfootball/world-cup/1930--uruguay
+125. 8 / 5 -- footballcsv/cache.footballdata
+126. 8 / 5 -- openfootball/mexico/2020-21/1-apertura.txt
+127. 8 / 5 -- openfootball/world/europe/belgium/2020-21/1-firstdivisiona-i.txt
+128. 8 / 4 -- footballcsv/belgium/2020s/2020-21
+129. 8 / 4 -- footballcsv/mexico/2020s/2020-21
+130. 8 / 3 -- openfootball/stadiums/find
+131. 8 / 1 -- openfootball/deutschland/compare/master...enadol:master
+132. 7 / 7 -- openfootball/brazil/2019/1-seriea.txt
+133. 7 / 7 -- openfootball/espana/clubs
+134. 7 / 7 -- openfootball/espana/clubs/1-names
+135. 7 / 7 -- openfootball/schema.sql/README.md
+136. 7 / 7 -- rsssf/espana
+137. 7 / 6 -- footballcsv/deutschland/2020s/2020-21/de.1.csv
+138. 7 / 6 -- openfootball/italy/2020-21/1-seriea.txt
+139. 7 / 6 -- openfootball/players/europe
+140. 7 / 5 -- footballcsv/deutschland/2010s
+141. 7 / 5 -- openfootball/europe-champions-league/2011-12
+142. 7 / 5 -- openfootball/national-teams
+143. 7 / 4 -- footballcsv/espana/find
+144. 7 / 4 -- footballcsv/europe-champions-league/find
+145. 7 / 4 -- openfootball/deutschland/pull/13
+146. 7 / 4 -- openfootball/deutschland/pull/14
+147. 7 / 3 -- openfootball/world/europe/turkey
+148. 7 / 2 -- footballcsv/cache.soccerdata/1900s/1903-04/eng.2.csv
+149. 7 / 2 -- openfootball/deutschland/archive
+150. 7 / 2 -- openfootball/europe/belgium/2020-21/1-firstdivisiona-i.txt
+151. 6 / 6 -- footballcsv/espana/2010s/2019-20
+152. 6 / 6 -- openfootball/brazil/2019
+153. 6 / 6 -- openfootball/espana/2019-20/1-liga.txt
+154. 6 / 6 -- openfootball/europe/france/2020-21
+155. 6 / 6 -- openfootball/schema.sql/NOTES.md
+156. 6 / 6 -- openfootball/stadiums/europe/at-austria--stadiums.txt
+157. 6 / 6 -- openfootball/world/asia
+158. 6 / 5 -- footballcsv/cache.leagues
+159. 6 / 3 -- openfootball/clubs/asia
+160. 6 / 3 -- openfootball/world/europe/turkey/2020-21
+161. 6 / 2 -- footballcsv/espana/search
+162. 6 / 2 -- openfootball/europe/belgium/2020-21
+163. 6 / 2 -- openfootball/world/europe/greece
+164. 5 / 5 -- footballcsv/espana/2020s/2020-21/es.2.csv
+165. 5 / 5 -- footballcsv/europe-champions-league/1955-56/champs.csv
+166. 5 / 5 -- openfootball/stadiums/europe/es-espana--stadiums.txt
+167. 5 / 4 -- footballcsv/espana/2010s/2013-14/es.1.csv
+168. 5 / 4 -- footballcsv/espana/2010s/2019-20/es.1.csv
+169. 5 / 4 -- footballcsv/world/2020s/2020/br.1.csv
+170. 5 / 4 -- openfootball/euro-cup/2016--france
+171. 5 / 4 -- openfootball/euro-cup/2016--france/euro.txt
+172. 5 / 4 -- openfootball/europe-champions-league/2019-20/cl_finals.txt
+173. 5 / 4 -- openfootball/leagues/europe/england
+174. 5 / 3 -- footballcsv/footballcsv.github.io/find
+175. 5 / 3 -- footballcsv/world/2010s/2018-19
+176. 5 / 3 -- openfootball/national-teams/europe
+177. 5 / 2 -- openfootball/fussball-de
+178. 5 / 2 -- openfootball/quick-starter/cl2020-21.rb
+179. 5 / 2 -- openfootball/stadiums/north-america
+180. 4 / 4 -- footballcsv/cache.soccerdata
+181. 4 / 4 -- footballcsv/spec/docs
+182. 4 / 4 -- openfootball/copa-libertadores
+183. 4 / 4 -- openfootball/espana/2012-13
+184. 4 / 4 -- openfootball/espana/clubs/1-names/marca.yml
+185. 4 / 4 -- openfootball/league-starter/2014-15
+186. 4 / 4 -- openfootball/schema.sql/LICENSE.md
+187. 4 / 4 -- openfootball/schema.sql/support.sql
+188. 4 / 4 -- openfootball/stadiums/README.md
+189. 4 / 4 -- openfootball/stadiums/europe/it-italy--stadiums.txt
+190. 4 / 3 -- openfootball/austria
+191. 4 / 3 -- openfootball/europe-champions-league/2012-13
+192. 4 / 3 -- openfootball/europe-champions-league/2017-18
+193. 4 / 3 -- openfootball/national-teams/europe/teams.txt
+194. 4 / 2 -- openfootball/clubs/europe/england
+195. 4 / 2 -- openfootball/italy/clubs
+196. 4 / 2 -- openfootball/stadiums/south-america
+197. 4 / 1 -- openfootball/clubs/asia/saudi-arabia
+198. 4 / 1 -- openfootball/clubs/europe/france
+199. 3 / 3 -- footballcsv/austria
+200. 3 / 3 -- footballcsv/cache.soccerdata/2000s
+201. 3 / 3 -- footballcsv/cache.soccerverse
+202. 3 / 3 -- footballcsv/europe-champions-league/1955-56
+203. 3 / 3 -- footballcsv/europe-champions-league/commit/90e4c92f133bc6c1342d271d299b120f36cef986
+204. 3 / 3 -- footballcsv/world/2010s/2018-19/fr.1.csv
+205. 3 / 3 -- footballcsv/world/2020s/2020-21/sco.1.csv
+206. 3 / 3 -- footballcsv/world/2020s/2020/cn.1.csv
+207. 3 / 3 -- openfootball/clubs/europe/spain
+208. 3 / 3 -- openfootball/clubs/south-america
+209. 3 / 3 -- openfootball/europe-champions-league/2011-12/cl_finals.txt
+210. 3 / 3 -- openfootball/league-starter/clubs.txt
+211. 3 / 3 -- openfootball/league-starter/leagues.txt
+212. 3 / 3 -- openfootball/leagues/europe/england/eng.leagues.txt
+213. 3 / 3 -- openfootball/leagues/north-america
+214. 3 / 3 -- openfootball/mexico/clubs
+215. 3 / 3 -- openfootball/mexico/clubs/1-names
+216. 3 / 3 -- openfootball/north-america-champions-league
+217. 3 / 3 -- openfootball/quick-starter/at2020-21.rb
+218. 3 / 3 -- openfootball/quick-starter/es.rb
+219. 3 / 3 -- openfootball/quick-starter/find
+220. 3 / 3 -- openfootball/quick-starter/worldcup.rb
+221. 3 / 3 -- openfootball/world-cup.json/2018/worldcup.json
+222. 3 / 3 -- rsssf/brazil
+223. 3 / 2 -- footballcsv/belgium/find
+224. 3 / 2 -- footballcsv/cache.leagues/2019-20/de.2.csv
+225. 3 / 2 -- footballcsv/cache.soccerdata/1900s
+226. 3 / 2 -- footballcsv/deutschland/1960s
+227. 3 / 2 -- footballcsv/deutschland/1960s/1963-64
+228. 3 / 2 -- footballcsv/deutschland/1960s/1963-64/de.1.csv
+229. 3 / 2 -- footballcsv/deutschland/2010s/2010-11/de.1.csv
+230. 3 / 2 -- footballcsv/deutschland/2010s/2019-20/de.1.csv
+231. 3 / 2 -- footballcsv/deutschland/issues
+232. 3 / 2 -- footballcsv/europe-champions-league/2014-15
+233. 3 / 2 -- footballcsv/footballcsv.github.io/README.md
+234. 3 / 2 -- openfootball/docs/api
+235. 3 / 2 -- openfootball/docs/index.md
+236. 3 / 2 -- openfootball/italy/2013-14
+237. 3 / 2 -- openfootball/leagues/europe/leagues.txt
+238. 3 / 2 -- openfootball/mexico/clubs/clubs.props.txt
+239. 3 / 2 -- openfootball/players/europe/en-england
+240. 3 / 2 -- openfootball/quick-starter/at.rb
+241. 3 / 1 -- footballcsv/cache.leagues/find
+242. 3 / 1 -- footballcsv/cache.soccerdata/1900s/1903-04/eng.1.csv
+243. 3 / 1 -- footballcsv/mexico/find
+244. 3 / 1 -- openfootball/clubs/commits
+245. 3 / 1 -- openfootball/openfootball.github.io/_includes
+246. 3 / 1 -- openfootball/world-cup.json/2018/worldcup.groups.json
+247. 2 / 2 -- footballcsv/austria/2020s/2020-21
+248. 2 / 2 -- footballcsv/cache.footballdata/2017
+249. 2 / 2 -- footballcsv/cache.footballdata/2017/se.1.csv
+250. 2 / 2 -- footballcsv/cache.footballdata/2020
+251. 2 / 2 -- footballcsv/cache.internationals
+252. 2 / 2 -- footballcsv/cache.leagues/2019-20
+253. 2 / 2 -- footballcsv/europe-champions-league/2014-15/champs.csv
+254. 2 / 2 -- footballcsv/mexico/2010s
+255. 2 / 2 -- footballcsv/mexico/2010s/2018-19
+256. 2 / 2 -- footballcsv/mexico/2010s/2018-19/mx.1.csv
+257. 2 / 2 -- openfootball/africa-cup
+258. 2 / 2 -- openfootball/clubs/europe/england/eng.clubs.txt
+259. 2 / 2 -- openfootball/copa-america
+260. 2 / 2 -- openfootball/copa-sudamericana
+261. 2 / 2 -- openfootball/docs/api/games.md
+262. 2 / 2 -- openfootball/europe-champions-league/2017-18/cl.txt
+263. 2 / 2 -- openfootball/italy/2020-21/2-serieb.txt
+264. 2 / 2 -- openfootball/italy/clubs/clubs.props.txt
+265. 2 / 2 -- openfootball/italy/issues
+266. 2 / 2 -- openfootball/league-starter/2014-15/1-league-i.txt
+267. 2 / 2 -- openfootball/leagues/south-america
+268. 2 / 2 -- openfootball/mexico/2014-15/1-apertura.txt
+269. 2 / 2 -- openfootball/mexico/NOTES.md
+270. 2 / 2 -- openfootball/mexico/clubs/1-names/10.yml
+271. 2 / 2 -- openfootball/mexico/clubs/1-names/record.yml
+272. 2 / 2 -- openfootball/quick-starter/cl.rb
+273. 2 / 2 -- openfootball/quick-starter/it2020-21.rb
+274. 2 / 2 -- openfootball/women-world-cup
+275. 2 / 2 -- openfootball/world-cup.json/2014
+276. 2 / 2 -- rsssf/austria
+277. 2 / 2 -- rsssf/deutschland
+278. 2 / 2 -- rsssf/england/2014-15
+279. 2 / 2 -- rsssf/espana/2014-15/1-liga.txt
+280. 2 / 1 -- footballcsv/cache.footballdata/find
+281. 2 / 1 -- footballcsv/cache.soccerdata/1900s/1903-04
+282. 2 / 1 -- footballcsv/mexico/2020s
+283. 2 / 1 -- footballcsv/spec/actions
+284. 2 / 1 -- openfootball/help/pull/23
+285. 2 / 1 -- openfootball/leagues/central-america
+286. 2 / 1 -- openfootball/national-teams/central-america
+287. 2 / 1 -- openfootball/north-america-gold-cup
+288. 2 / 1 -- openfootball/openfootball.github.io/_includes/announce.html
+289. 2 / 1 -- rsssf/brazil/2015/1-seriea.txt
+290. 2 / 1 -- rsssf/brazil/issues
+291. 1 / 1 -- footballcsv/austria/2020s/2020-21/at.1.csv
+292. 1 / 1 -- footballcsv/austria/2020s/2020-21/at.3.o.csv
+293. 1 / 1 -- footballcsv/austria/2020s/2020-21/at.cup.csv
+294. 1 / 1 -- footballcsv/belgium/2010s
+295. 1 / 1 -- footballcsv/belgium/2010s/2018-19/be.1.csv
+296. 1 / 1 -- footballcsv/belgium/2010s/2019-20
+297. 1 / 1 -- footballcsv/belgium/2010s/2019-20/be.1.csv
+298. 1 / 1 -- footballcsv/cache.footballdata/1993-94/de.1.csv
+299. 1 / 1 -- footballcsv/cache.footballdata/2004-05/de.1.csv
+300. 1 / 1 -- footballcsv/cache.footballdata/2014-15/fr.1.csv
+301. 1 / 1 -- footballcsv/cache.footballdata/2017/cn.1.csv
+302. 1 / 1 -- footballcsv/cache.footballdata/2020/us.1.csv
+303. 1 / 1 -- footballcsv/cache.internationals/1800s
+304. 1 / 1 -- footballcsv/cache.internationals/1800s/1872.csv
+305. 1 / 1 -- footballcsv/cache.leagues/2003-04/de.1.csv
+306. 1 / 1 -- footballcsv/cache.leagues/2019-20/fr.1.csv
+307. 1 / 1 -- footballcsv/cache.soccerdata/1900s/1999-00/eng.1.csv
+308. 1 / 1 -- footballcsv/cache.soccerdata/2000s/2001-02/eng.1.csv
+309. 1 / 1 -- footballcsv/cache.soccerdata/2000s/2002-03/eng.1.csv
+310. 1 / 1 -- footballcsv/cache.soccerdata/2000s/2018-19/eng.1.csv
+311. 1 / 1 -- footballcsv/cache.soccerverse/2015-16
+312. 1 / 1 -- footballcsv/cache.soccerverse/2015-16/fr.csv
+313. 1 / 1 -- footballcsv/cache.soccerverse/2019
+314. 1 / 1 -- footballcsv/cache.soccerverse/2019/br.csv
+315. 1 / 1 -- footballcsv/cache.updates
+316. 1 / 1 -- footballcsv/footballcsv.github.io/commit/e7d385a47e905dc4e42e4f45c2724c3c2c0b2023
+317. 1 / 1 -- footballcsv/major-league-soccer
+318. 1 / 1 -- footballcsv/mexico/README.md
+319. 1 / 1 -- footballcsv/mexico/edit/2020s/2020-21/mx.1.csv
+320. 1 / 1 -- footballcsv/spec/branches
+321. 1 / 1 -- footballcsv/spec/branches/all
+322. 1 / 1 -- openfootball/at-austria/clubs
+323. 1 / 1 -- openfootball/austria/2020-21
+324. 1 / 1 -- openfootball/austria/2020-21/cup.txt
+325. 1 / 1 -- openfootball/austria/commit/8156b874e9050b3a24f671a11c432c01d3878af9
+326. 1 / 1 -- openfootball/austria/commits
+327. 1 / 1 -- openfootball/austria/pulls
+328. 1 / 1 -- openfootball/copa-libertadores/setups
+329. 1 / 1 -- openfootball/copa-libertadores/setups/all.txt
+330. 1 / 1 -- openfootball/copa-sudamericana/2012
+331. 1 / 1 -- openfootball/copa-sudamericana/2012/sudamericana.txt
+332. 1 / 1 -- openfootball/docs/_includes/editme.html
+333. 1 / 1 -- openfootball/docs/_layouts/default.html
+334. 1 / 1 -- openfootball/docs/api/index.md
+335. 1 / 1 -- openfootball/docs/api/intro.md
+336. 1 / 1 -- openfootball/docs/blob/f80b7d378b24c855c425eb12fceeb168f945e8eb/build.md
+337. 1 / 1 -- openfootball/docs/csv-export.md
+338. 1 / 1 -- openfootball/euro-cup/1960--france/euro.txt
+339. 1 / 1 -- openfootball/euro-cup/1996--england
+340. 1 / 1 -- openfootball/euro-cup/commit/38906dc4750b759fc92d16b87e723ddf178be1c0
+341. 1 / 1 -- openfootball/fussball-de/commits
+342. 1 / 1 -- openfootball/fussball-de/europa
+343. 1 / 1 -- openfootball/futbol-es
+344. 1 / 1 -- openfootball/futbol-es/america-del-sur
+345. 1 / 1 -- openfootball/help/issues
+346. 1 / 1 -- openfootball/help/pull/23/files
+347. 1 / 1 -- openfootball/help/stargazers
+348. 1 / 1 -- openfootball/italy/2013-14/1-seriea.txt
+349. 1 / 1 -- openfootball/italy/2013-14/2-serieb.txt
+350. 1 / 1 -- openfootball/league-starter/2014-15/cup.txt
+351. 1 / 1 -- openfootball/league-starter/find
+352. 1 / 1 -- openfootball/leagues/caribbean/leagues.txt
+353. 1 / 1 -- openfootball/leagues/central-america/leagues.txt
+354. 1 / 1 -- openfootball/national-teams/africa
+355. 1 / 1 -- openfootball/national-teams/central-america/teams.txt
+356. 1 / 1 -- openfootball/national-teams/pacific
+357. 1 / 1 -- openfootball/north-america-champions-league/2011_12
+358. 1 / 1 -- openfootball/north-america-champions-league/2011_12/cl.txt
+359. 1 / 1 -- openfootball/north-america-gold-cup/2011--united-states
+360. 1 / 1 -- openfootball/openfootball.github.io/_posts
+361. 1 / 1 -- openfootball/players/central-america
+362. 1 / 1 -- openfootball/players/europe/de-deutschland
+363. 1 / 1 -- openfootball/players/europe/en-england/players.txt
+364. 1 / 1 -- openfootball/players/europe/es-espana
+365. 1 / 1 -- openfootball/players/europe/es-espana/players.txt
+366. 1 / 1 -- openfootball/players/europe/pt-portugal/players.txt
+367. 1 / 1 -- openfootball/players/south-america/uy-uruguay/players.txt
+368. 1 / 1 -- openfootball/women-euro-cup
+369. 1 / 1 -- openfootball/women-world-cup/stargazers
+370. 1 / 1 -- openfootball/world-cup.json/2014/worldcup.json
+371. 1 / 1 -- rsssf/at-austria
+372. 1 / 1 -- rsssf/brazil/2014
+373. 1 / 1 -- rsssf/brazil/2015
+374. 1 / 1 -- rsssf/brazil/find
+375. 1 / 1 -- rsssf/england/2010-11
+376. 1 / 1 -- rsssf/england/2011-12
+377. 1 / 1 -- rsssf/england/2013-14/1-premierleague.txt
+378. 1 / 1 -- rsssf/england/2014-15/1-premierleague.txt
+379. 1 / 1 -- rsssf/england/2014-15/facup.txt
+380. 1 / 1 -- rsssf/espana/2014-15
+381. 1 / 1 -- rsssf/espana/2014-15/cup.txt
+382. 1 / 1 -- rsssf/espana/tables
+383. 1 / 1 -- rsssf/espana/tables/span2015.txt
+384. 1 / 1 -- rsssf/rsssf.github.io
+385. 1 / 1 -- rsssf/spec
+<!-- break -->
+
+

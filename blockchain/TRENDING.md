@@ -1,0 +1,62 @@
+Auto-generated github (statistics) report;
+built with [Hubba v0.6.2](https://github.com/rubycoco/git/tree/master/hubba).
+
+
+# Trending - 56 Repos @ 6 Orgs
+
+- 6.666/month  ★2936 **openblockchains/awesome-blockchains** (2514 kb) - [17]: 2936 (2d) 2936 (+6 in 25d) 2930 (+25 in 101d) 2905 (+68 in 180d) 2837 (+41 in 70d) 2796 (+41 in 69d) 2755 (+67 in 96d) 2688 (+39 in 75d) 2649 (+70 in 91d) 2579 (+93 in 43d) 2486 (+300 in 125d) 2186 (+205 in 40d) 1981 (+287 in 40d) 1694 (+168 in 19d) 1526 (+115 in 11d) 1411 (+327 in 49d) 1084
+- 3.333/month  ★489 **cryptocopycats/awesome-cryptokitties** (4154 kb) - [13]: 489 (2d) 489 (+3 in 25d) 486 (+3 in 101d) 483 (+13 in 180d) 470 (+9 in 70d) 461 (+14 in 69d) 447 (+20 in 96d) 427 (+18 in 75d) 409 (+28 in 91d) 381 (+24 in 43d) 357 (+86 in 125d) 271 (+58 in 40d) 213
+- 1.111/month  ★116 **openblockchains/blockchain.lite.rb** (48 kb) - [17]: 116 (2d) 116 (+1 in 25d) 115 (101d) 115 (+2 in 180d) 113 (70d) 113 (+4 in 69d) 109 (+4 in 96d) 105 (+5 in 75d) 100 (+1 in 91d) 99 (+5 in 43d) 94 (+11 in 125d) 83 (+6 in 40d) 77 (+6 in 40d) 71 (+4 in 19d) 67 (+3 in 11d) 64 (+19 in 49d) 45
+- 1.111/month  ★29 **openblockchains/programming-cryptocontracts** (593 kb) - [9]: 29 (2d) 29 (+1 in 25d) 28 (+3 in 101d) 25 (+5 in 180d) 20 (+2 in 70d) 18 (+3 in 69d) 15 (+5 in 96d) 10 (+5 in 75d) 5
+- 1.111/month  ★20 **cryptocopycats/awesome-cryptocollectibles** (706 kb) - [13]: 20 (2d) 20 (+1 in 25d) 19 (101d) 19 (180d) 19 (+1 in 70d) 18 (+1 in 69d) 17 (96d) 17 (75d) 17 (+3 in 91d) 14 (43d) 14 (+5 in 125d) 9 (+5 in 40d) 4
+- 1.111/month  ★12 **openblockchains/awesome-tokens** (30 kb) - [12]: 12 (2d) 12 (+1 in 25d) 11 (101d) 11 (+2 in 180d) 9 (+1 in 70d) 8 (69d) 8 (+1 in 96d) 7 (75d) 7 (+1 in 91d) 6 (43d) 6 (+2 in 125d) 4
+- 1.111/month  ★5 **openblockchains/awesome-cheezewizards** (127 kb) - [7]: 5 (2d) 5 (+1 in 25d) 4 (101d) 4 (+1 in 180d) 3 (70d) 3 (69d) 3
+-  -/-  ★552 **openblockchains/programming-blockchains** (552 kb) - [9]: 552 (2d) 552 (25d) 552 (+6 in 101d) 546 (+12 in 180d) 534 (+6 in 70d) 528 (69d) 528 (+13 in 96d) 515 (+10 in 75d) 505
+-  -/-  ★40 **openblockchains/blockchain.lite.js** (8 kb) - [17]: 40 (2d) 40 (25d) 40 (101d) 40 (+2 in 180d) 38 (+1 in 70d) 37 (-1 in 69d) 38 (96d) 38 (75d) 38 (-1 in 91d) 39 (+1 in 43d) 38 (+1 in 125d) 37 (+7 in 40d) 30 (+8 in 40d) 22 (19d) 22 (+2 in 11d) 20 (+2 in 49d) 18
+-  -/-  ★39 **openblockchains/awesome-libra** (1632 kb) - [7]: 39 (2d) 39 (25d) 39 (101d) 39 (+4 in 180d) 35 (+6 in 70d) 29 (+19 in 69d) 10
+-  -/-  ★36 **openblockchains/centralbank** (104 kb) - [16]: 36 (2d) 36 (25d) 36 (+1 in 101d) 35 (+2 in 180d) 33 (+1 in 70d) 32 (69d) 32 (+2 in 96d) 30 (75d) 30 (+4 in 91d) 26 (43d) 26 (+6 in 125d) 20 (+4 in 40d) 16 (+2 in 40d) 14 (+1 in 19d) 13 (11d) 13
+-  -/-  ★32 **s6ruby/awesome-crypto** (22 kb) - [8]: 32 (2d) 32 (25d) 32 (101d) 32 (+2 in 180d) 30 (70d) 30 (+1 in 69d) 29 (+1 in 96d) 28
+-  -/-  ★28 **s6ruby/units-time** (37 kb) - [8]: 28 (2d) 28 (25d) 28 (101d) 28 (180d) 28 (70d) 28 (69d) 28 (+2 in 96d) 26
+-  -/-  ★27 **openblockchains/programming-cryptocollectibles** (700 kb) - [8]: 27 (2d) 27 (25d) 27 (+1 in 101d) 26 (+3 in 180d) 23 (+1 in 70d) 22 (+3 in 69d) 19 (+2 in 96d) 17
+-  -/-  ★23 **openblockchains/awesome-ico-truths** (1385 kb) - [12]: 23 (2d) 23 (25d) 23 (+1 in 101d) 22 (+1 in 180d) 21 (70d) 21 (69d) 21 (+2 in 96d) 19 (+1 in 75d) 18 (+14 in 91d) 4 (43d) 4 (125d) 4
+-  -/-  ★23 **cryptocopycats/copycats** (2788 kb) - [13]: 23 (2d) 23 (25d) 23 (-1 in 101d) 24 (-1 in 180d) 25 (70d) 25 (+2 in 69d) 23 (+1 in 96d) 22 (+1 in 75d) 21 (+6 in 91d) 15 (+1 in 43d) 14 (+1 in 125d) 13 (40d) 13
+-  -/-  ★23 **openblockchains/merkletree.rb** (16 kb) - [16]: 23 (2d) 23 (25d) 23 (101d) 23 (180d) 23 (+1 in 70d) 22 (69d) 22 (+1 in 96d) 21 (+6 in 75d) 15 (+1 in 91d) 14 (43d) 14 (+6 in 125d) 8 (+2 in 40d) 6 (40d) 6 (+1 in 19d) 5 (11d) 5
+-  -/-  ★23 **openblockchains/programming-bitcoin-script** (436 kb) - [8]: 23 (2d) 23 (25d) 23 (+2 in 101d) 21 (+4 in 180d) 17 (70d) 17 (+1 in 69d) 16 (+9 in 96d) 7
+-  -/-  ★20 **s6ruby/pragmas** (91 kb) - [8]: 20 (2d) 20 (25d) 20 (101d) 20 (+3 in 180d) 17 (-1 in 70d) 18 (+2 in 69d) 16 (+7 in 96d) 9
+-  -/-  ★18 **s6ruby/safestruct** (92 kb) - [8]: 18 (2d) 18 (25d) 18 (101d) 18 (+1 in 180d) 17 (70d) 17 (69d) 17 (+2 in 96d) 15
+-  -/-  ★17 **s6ruby/universum** (161 kb) - [8]: 17 (2d) 17 (25d) 17 (101d) 17 (180d) 17 (70d) 17 (69d) 17 (96d) 17
+-  -/-  ★16 **s6ruby/redpaper** (84 kb) - [8]: 16 (2d) 16 (25d) 16 (+1 in 101d) 15 (+1 in 180d) 14 (70d) 14 (69d) 14 (+3 in 96d) 11
+-  -/-  ★14 **s6ruby/ruby-to-michelson** (187 kb) - [8]: 14 (2d) 14 (25d) 14 (101d) 14 (180d) 14 (+1 in 70d) 13 (69d) 13 (+5 in 96d) 8
+-  -/-  ★13 **s6ruby/universum-contracts** (116 kb) - [8]: 13 (2d) 13 (25d) 13 (101d) 13 (-1 in 180d) 14 (70d) 14 (69d) 14 (96d) 14
+-  -/-  ★12 **bitshilling/bitshilling.tools** (140 kb) - [16]: 12 (2d) 12 (25d) 12 (101d) 12 (180d) 12 (70d) 12 (69d) 12 (96d) 12 (75d) 12 (91d) 12 (+1 in 43d) 11 (+1 in 125d) 10 (+1 in 40d) 9 (+1 in 40d) 8 (+1 in 19d) 7 (11d) 7
+-  -/-  ★12 **bitshilling/bitshilling** (10 kb) - [16]: 12 (2d) 12 (25d) 12 (101d) 12 (180d) 12 (70d) 12 (-1 in 69d) 13 (96d) 13 (75d) 13 (+1 in 91d) 12 (43d) 12 (125d) 12 (40d) 12 (+1 in 40d) 11 (+1 in 19d) 10 (11d) 10
+-  -/-  ★10 **cryptocopycats/kittyverse** (405 kb) - [9]: 10 (2d) 10 (25d) 10 (+1 in 101d) 9 (+1 in 180d) 8 (+1 in 70d) 7 (+2 in 69d) 5 (+4 in 96d) 1 (75d) 1
+-  -/-  ★10 **bitsblocks/get-rich-quick-bible** (2700 kb) - [12]: 10 (2d) 10 (25d) 10 (101d) 10 (+1 in 180d) 9 (70d) 9 (+2 in 69d) 7 (+1 in 96d) 6 (75d) 6 (-1 in 91d) 7 (43d) 7 (+2 in 125d) 5
+-  -/-  ★10 **openblockchains/tulips** (10 kb) - [17]: 10 (2d) 10 (25d) 10 (101d) 10 (180d) 10 (70d) 10 (69d) 10 (96d) 10 (75d) 10 (+1 in 91d) 9 (43d) 9 (+1 in 125d) 8 (40d) 8 (+1 in 40d) 7 (+1 in 19d) 6 (+1 in 11d) 5 (+2 in 49d) 3
+-  -/-  ★8 **openblockchains/tulipmania** (141 kb) - [16]: 8 (2d) 8 (25d) 8 (101d) 8 (180d) 8 (70d) 8 (-1 in 69d) 9 (96d) 9 (75d) 9 (91d) 9 (43d) 9 (125d) 9 (40d) 9 (+1 in 40d) 8 (+1 in 19d) 7 (11d) 7
+-  -/-  ★8 **s6ruby/ruby-to-solidity** (30 kb) - [8]: 8 (2d) 8 (25d) 8 (+1 in 101d) 7 (180d) 7 (70d) 7 (69d) 7 (96d) 7
+-  -/-  ★7 **openblockchains/ledger.lite.rb** (24 kb) - [16]: 7 (2d) 7 (25d) 7 (101d) 7 (180d) 7 (+1 in 70d) 6 (69d) 6 (96d) 6 (75d) 6 (-1 in 91d) 7 (43d) 7 (125d) 7 (+2 in 40d) 5 (40d) 5 (+1 in 19d) 4 (11d) 4
+-  -/-  ★6 **bitsblocks/bitcoin-maximalist** (1128 kb) - [12]: 6 (2d) 6 (25d) 6 (101d) 6 (+1 in 180d) 5 (70d) 5 (+1 in 69d) 4 (96d) 4 (75d) 4 (+1 in 91d) 3 (43d) 3 (+1 in 125d) 2
+-  -/-  ★6 **cryptocopycats/kitties** (26994 kb) - [13]: 6 (2d) 6 (25d) 6 (-1 in 101d) 7 (180d) 7 (70d) 7 (69d) 7 (+1 in 96d) 6 (75d) 6 (91d) 6 (43d) 6 (+1 in 125d) 5 (40d) 5
+-  -/-  ★6 **viennacrypto/viennacrypto.github.io** (110 kb) - [5]: 6 (2d) 6 (25d) 6 (101d) 6 (+2 in 180d) 4
+-  -/-  ★6 **s6ruby/safemath** (15 kb) - [8]: 6 (2d) 6 (25d) 6 (101d) 6 (180d) 6 (+1 in 70d) 5 (69d) 5 (+1 in 96d) 4
+-  -/-  ★5 **openblockchains/blockchain-whitepapers** (26877 kb) - [12]: 5 (2d) 5 (25d) 5 (101d) 5 (+1 in 180d) 4 (70d) 4 (69d) 4 (96d) 4 (+1 in 75d) 3 (+1 in 91d) 2 (43d) 2 (125d) 2
+-  -/-  ★5 **viennacrypto/blockchain-whitepapers** (23253 kb) - [5]: 5 (2d) 5 (25d) 5 (101d) 5 (180d) 5
+-  -/-  ★5 **openblockchains/peer-to-peer.rb** (2 kb) - [16]: 5 (2d) 5 (25d) 5 (101d) 5 (180d) 5 (70d) 5 (69d) 5 (96d) 5 (+2 in 75d) 3 (91d) 3 (43d) 3 (125d) 3 (+1 in 40d) 2 (40d) 2 (+1 in 19d) 1 (11d) 1
+-  -/-  ★5 **s6ruby/units-money** (79 kb) - [8]: 5 (2d) 5 (25d) 5 (101d) 5 (180d) 5 (70d) 5 (69d) 5 (+2 in 96d) 3
+-  -/-  ★4 **s6ruby/ethereum-contracts** (89 kb) - [8]: 4 (2d) 4 (25d) 4 (101d) 4 (+2 in 180d) 2 (70d) 2 (69d) 2 (96d) 2
+-  -/-  ★3 **openblockchains/awesome-sha256** (12 kb) - [13]: 3 (2d) 3 (25d) 3 (101d) 3 (+1 in 180d) 2 (70d) 2 (69d) 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2 (+1 in 40d) 1
+-  -/-  ★2 **openblockchains/awesome-coins** (921 kb) - [9]: 2 (2d) 2 (25d) 2 (101d) 2 (+1 in 180d) 1 (70d) 1 (69d) 1 (96d) 1 (75d) 1
+-  -/-  ★2 **cryptocopycats/kittyverse.json** (30 kb) - [9]: 2 (2d) 2 (25d) 2 (101d) 2 (180d) 2 (70d) 2 (69d) 2 (96d) 2 (75d) 2
+-  -/-  ★2 **bitsblocks/crypto-facts** (36 kb) - [12]: 2 (2d) 2 (25d) 2 (101d) 2 (180d) 2 (70d) 2 (+1 in 69d) 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1
+-  -/-  ★2 **bitsblocks/ethereum** (50 kb) - [12]: 2 (2d) 2 (25d) 2 (101d) 2 (180d) 2 (70d) 2 (69d) 2 (96d) 2 (75d) 2 (91d) 2 (43d) 2 (125d) 2
+-  -/-  ★2 **cryptocopycats/base32-alphabets** (56 kb) - [9]: 2 (2d) 2 (25d) 2 (101d) 2 (180d) 2 (70d) 2 (+1 in 69d) 1 (96d) 1 (75d) 1
+-  -/-  ★2 **cryptocopycats/bitcat** (20 kb) - [13]: 2 (2d) 2 (25d) 2 (101d) 2 (180d) 2 (70d) 2 (69d) 2 (96d) 2 (75d) 2 (+1 in 91d) 1 (43d) 1 (125d) 1 (40d) 1
+-  -/-  ★1 **cryptocopycats/media** (4591 kb) - [9]: 1 (2d) 1 (25d) 1 (101d) 1 (180d) 1 (70d) 1 (69d) 1 (96d) 1 (75d) 1
+-  -/-  ★1 **bitsblocks/islandcoin-whitepaper** (238 kb) - [12]: 1 (2d) 1 (25d) 1 (101d) 1 (180d) 1 (70d) 1 (69d) 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1
+-  -/-  ★1 **bitsblocks/bitcoin-whitepaper** (107 kb) - [12]: 1 (2d) 1 (25d) 1 (101d) 1 (180d) 1 (70d) 1 (69d) 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1
+-  -/-  ★1 **bitsblocks/bitsblocks.github.io** (4080 kb) - [12]: 1 (2d) 1 (25d) 1 (101d) 1 (180d) 1 (70d) 1 (69d) 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1
+-  -/-  ★1 **bitsblocks/ethereum-whitepaper** (334 kb) - [12]: 1 (2d) 1 (25d) 1 (101d) 1 (180d) 1 (70d) 1 (69d) 1 (96d) 1 (75d) 1 (91d) 1 (43d) 1 (125d) 1
+-  -/-  ★1 **bitsblocks/crypto-bubbles** (218 kb) - [4]: 1 (2d) 1 (25d) 1 (101d) 1
+-  -/-  ★1 **bitsblocks/colored-coins-whitepaper** (175 kb) - [4]: 1 (2d) 1 (25d) 1 (101d) 1
+-  -/-  ★1 **bitsblocks/mastercoin-whitepaper** (181 kb) - [4]: 1 (2d) 1 (25d) 1 (101d) 1

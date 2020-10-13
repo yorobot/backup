@@ -1,0 +1,232 @@
+Auto-generated github (statistics) report;
+built with [Hubba v0.6.2](https://github.com/rubycoco/git/tree/master/hubba).
+
+
+# Traffic Pages - 56 Repos @ 6 Orgs
+
+popular pages over the last 14 days - page views / unique
+
+1. **cryptocopycats** 445 / 199  _(41)_
+    - 107 / 25 -- awesome-cryptokitties/contracts
+    - 98 / 62 -- awesome-cryptokitties
+    - 28 / 5 -- awesome-cryptokitties/contracts/KittyBreeding.sol
+    - 26 / 10 -- awesome-cryptokitties/contracts/KittyCore.sol
+    - 20 / 7 -- awesome-cryptokitties/contracts/KittyBase.sol
+    - 20 / 4 -- awesome-cryptokitties/search
+    - 16 / 9 -- awesome-cryptokitties/genes
+    - 14 / 4 -- awesome-cryptokitties/contracts/ClockAuction.sol
+    - 13 / 4 -- awesome-cryptokitties/contracts/KittyMinting.sol
+    - 12 / 12 -- kitties
+    - 12 / 2 -- awesome-cryptokitties/contracts/ClockAuctionBase.sol
+    - 10 / 5 -- awesome-cryptocollectibles
+    - 6 / 5 -- copycats
+    - 6 / 1 -- kitties/400_000-499_999/429.csv
+    - 5 / 5 -- kitties/500_000-599_999/599.csv
+    - 5 / 4 -- kittyverse
+    - 5 / 1 -- kittyverse/GENES.md
+    - 4 / 4 -- bitcat
+    - 4 / 4 -- kitties/1-99_999/001.csv
+    - 3 / 2 -- kitties/1-99_999/015.csv
+    - 3 / 1 -- base32-alphabets/lib/base32-alphabets
+    - 2 / 2 -- base32-alphabets
+    - 2 / 2 -- kitties/1-99_999/007.csv
+    - 2 / 2 -- kitties/500_000-599_999/533.csv
+    - 2 / 1 -- awesome-cryptocollectibles/contracts/ERC721-V1.sol
+    - 2 / 1 -- base32-alphabets/lib/base32-alphabets/base.rb
+    - 2 / 1 -- base32-alphabets/lib/base32-alphabets/base32.rb
+    - 2 / 1 -- kitties/400_000-499_999/488.csv
+    - 2 / 1 -- kitties/500_000-599_999/509.csv
+    - 1 / 1 -- awesome-cryptocollectibles/contracts/ERC721-V0.sol
+    - 1 / 1 -- awesome-cryptocollectibles/find
+    - 1 / 1 -- base32-alphabets/lib
+    - 1 / 1 -- base32-alphabets/lib/base32-alphabets.rb
+    - 1 / 1 -- base32-alphabets/lib/base32-alphabets/crockford.rb
+    - 1 / 1 -- base32-alphabets/lib/base32-alphabets/kai.rb
+    - 1 / 1 -- bitcat/bin
+    - 1 / 1 -- bitcat/bin/bitcat
+    - 1 / 1 -- copycats/script
+    - 1 / 1 -- kitties/100_000-199_999/108.csv
+    - 1 / 1 -- kittyverse/CATTRIBUTES.md
+    - 1 / 1 -- media
+2. **openblockchains** 338 / 224  _(50)_
+    - 132 / 75 -- awesome-blockchains
+    - 33 / 20 -- programming-blockchains
+    - 26 / 21 -- programming-cryptocontracts
+    - 14 / 8 -- programming-blockchains/01_crypto_hash.md
+    - 14 / 6 -- awesome-blockchains/blockchain.rb
+    - 10 / 7 -- awesome-blockchains/blockchain.cpp
+    - 10 / 4 -- programming-bitcoin-script
+    - 7 / 5 -- awesome-blockchains/blockchain.rb/blockchain_with_transactions.rb
+    - 7 / 5 -- awesome-tokens
+    - 6 / 6 -- blockchain.lite.rb
+    - 6 / 5 -- awesome-blockchains/blockchain.cpp/blockchain.cpp
+    - 6 / 5 -- awesome-blockchains/blockchain.rb/blockchain.rb
+    - 6 / 3 -- programming-blockchains/02_crypto_block.md
+    - 5 / 3 -- awesome-blockchains/blockchain.js/blockchain_with_proof_of_work.js
+    - 4 / 4 -- awesome-blockchains/blockchain.js
+    - 4 / 1 -- awesome-blockchains/find
+    - 3 / 3 -- awesome-blockchains/blockchain.js/blockchain.js
+    - 3 / 3 -- awesome-sha256/hash.go
+    - 3 / 2 -- awesome-libra/contracts
+    - 2 / 2 -- awesome-libra
+    - 2 / 2 -- blockchain-whitepapers
+    - 2 / 2 -- centralbank
+    - 2 / 2 -- centralbank/lib/centralbank/blockchain.rb
+    - 2 / 2 -- programming-blockchains/05_mining.md
+    - 2 / 2 -- programming-cryptocollectibles
+    - 2 / 2 -- programming-cryptocollectibles/A1_resources.md
+    - 2 / 1 -- programming-blockchains/bitcoin_header.rb
+    - 1 / 1 -- awesome-ico-truths
+    - 1 / 1 -- awesome-libra/contracts/earmarked.mvir
+    - 1 / 1 -- awesome-tokens/contracts
+    - 1 / 1 -- awesome-tokens/contracts/TenXPayToken.sol
+    - 1 / 1 -- blockchain-whitepapers/bitcoin-v0.1-released.txt
+    - 1 / 1 -- blockchain-whitepapers/bitcoin.pdf
+    - 1 / 1 -- blockchain-whitepapers/what-satoshi-did-not-know.pdf
+    - 1 / 1 -- ledger.lite.rb
+    - 1 / 1 -- peer-to-peer.rb
+    - 1 / 1 -- programming-bitcoin-script/bitcoin-script
+    - 1 / 1 -- programming-blockchains/03_blockchain.md
+    - 1 / 1 -- programming-blockchains/04_timestamping.md
+    - 1 / 1 -- programming-blockchains/06_bitcoin.md
+    - 1 / 1 -- programming-blockchains/bitcoin_hash.rb
+    - 1 / 1 -- programming-blockchains/blockchain.rb
+    - 1 / 1 -- programming-cryptocollectibles/01_genes.md
+    - 1 / 1 -- programming-cryptocontracts/actions
+    - 1 / 1 -- programming-cryptocontracts/find
+    - 1 / 1 -- programming-cryptocontracts/i/dappradar-highrisk.png
+    - 1 / 1 -- programming-cryptocontracts/ponzi_governmental.rb
+    - 1 / 1 -- programming-cryptocontracts/ponzi_simple.rb
+    - 1 / 1 -- programming-cryptocontracts/run_satoshi_dice.rb
+    - 1 / 1 -- tulips
+3. **s6ruby** 27 / 23  _(10)_
+    - 8 / 6 -- ethereum-contracts
+    - 6 / 6 -- awesome-crypto
+    - 3 / 1 -- ethereum-contracts/SimplePonzi.sol
+    - 2 / 2 -- pragmas
+    - 2 / 2 -- safemath
+    - 2 / 2 -- units-time
+    - 1 / 1 -- ethereum-contracts/GradualPonzi.sol
+    - 1 / 1 -- redpaper
+    - 1 / 1 -- ruby-to-solidity
+    - 1 / 1 -- universum/WHITEPAPER.md
+4. **bitsblocks** 6 / 5  _(5)_
+    - 2 / 1 -- crypto-facts
+    - 1 / 1 -- bitcoin-maximalist
+    - 1 / 1 -- bitcoin-whitepaper
+    - 1 / 1 -- bitcoin-whitepaper/index.md
+    - 1 / 1 -- crypto-facts/index.md
+<!-- break -->
+
+
+All pages:
+
+1. 132 / 75 -- openblockchains/awesome-blockchains
+2. 107 / 25 -- cryptocopycats/awesome-cryptokitties/contracts
+3. 98 / 62 -- cryptocopycats/awesome-cryptokitties
+4. 33 / 20 -- openblockchains/programming-blockchains
+5. 28 / 5 -- cryptocopycats/awesome-cryptokitties/contracts/KittyBreeding.sol
+6. 26 / 21 -- openblockchains/programming-cryptocontracts
+7. 26 / 10 -- cryptocopycats/awesome-cryptokitties/contracts/KittyCore.sol
+8. 20 / 7 -- cryptocopycats/awesome-cryptokitties/contracts/KittyBase.sol
+9. 20 / 4 -- cryptocopycats/awesome-cryptokitties/search
+10. 16 / 9 -- cryptocopycats/awesome-cryptokitties/genes
+11. 14 / 8 -- openblockchains/programming-blockchains/01_crypto_hash.md
+12. 14 / 6 -- openblockchains/awesome-blockchains/blockchain.rb
+13. 14 / 4 -- cryptocopycats/awesome-cryptokitties/contracts/ClockAuction.sol
+14. 13 / 4 -- cryptocopycats/awesome-cryptokitties/contracts/KittyMinting.sol
+15. 12 / 12 -- cryptocopycats/kitties
+16. 12 / 2 -- cryptocopycats/awesome-cryptokitties/contracts/ClockAuctionBase.sol
+17. 10 / 7 -- openblockchains/awesome-blockchains/blockchain.cpp
+18. 10 / 5 -- cryptocopycats/awesome-cryptocollectibles
+19. 10 / 4 -- openblockchains/programming-bitcoin-script
+20. 8 / 6 -- s6ruby/ethereum-contracts
+21. 7 / 5 -- openblockchains/awesome-blockchains/blockchain.rb/blockchain_with_transactions.rb
+22. 7 / 5 -- openblockchains/awesome-tokens
+23. 6 / 6 -- openblockchains/blockchain.lite.rb
+24. 6 / 6 -- s6ruby/awesome-crypto
+25. 6 / 5 -- cryptocopycats/copycats
+26. 6 / 5 -- openblockchains/awesome-blockchains/blockchain.cpp/blockchain.cpp
+27. 6 / 5 -- openblockchains/awesome-blockchains/blockchain.rb/blockchain.rb
+28. 6 / 3 -- openblockchains/programming-blockchains/02_crypto_block.md
+29. 6 / 1 -- cryptocopycats/kitties/400_000-499_999/429.csv
+30. 5 / 5 -- cryptocopycats/kitties/500_000-599_999/599.csv
+31. 5 / 4 -- cryptocopycats/kittyverse
+32. 5 / 3 -- openblockchains/awesome-blockchains/blockchain.js/blockchain_with_proof_of_work.js
+33. 5 / 1 -- cryptocopycats/kittyverse/GENES.md
+34. 4 / 4 -- cryptocopycats/bitcat
+35. 4 / 4 -- cryptocopycats/kitties/1-99_999/001.csv
+36. 4 / 4 -- openblockchains/awesome-blockchains/blockchain.js
+37. 4 / 1 -- openblockchains/awesome-blockchains/find
+38. 3 / 3 -- openblockchains/awesome-blockchains/blockchain.js/blockchain.js
+39. 3 / 3 -- openblockchains/awesome-sha256/hash.go
+40. 3 / 2 -- cryptocopycats/kitties/1-99_999/015.csv
+41. 3 / 2 -- openblockchains/awesome-libra/contracts
+42. 3 / 1 -- cryptocopycats/base32-alphabets/lib/base32-alphabets
+43. 3 / 1 -- s6ruby/ethereum-contracts/SimplePonzi.sol
+44. 2 / 2 -- cryptocopycats/base32-alphabets
+45. 2 / 2 -- cryptocopycats/kitties/1-99_999/007.csv
+46. 2 / 2 -- cryptocopycats/kitties/500_000-599_999/533.csv
+47. 2 / 2 -- openblockchains/awesome-libra
+48. 2 / 2 -- openblockchains/blockchain-whitepapers
+49. 2 / 2 -- openblockchains/centralbank
+50. 2 / 2 -- openblockchains/centralbank/lib/centralbank/blockchain.rb
+51. 2 / 2 -- openblockchains/programming-blockchains/05_mining.md
+52. 2 / 2 -- openblockchains/programming-cryptocollectibles
+53. 2 / 2 -- openblockchains/programming-cryptocollectibles/A1_resources.md
+54. 2 / 2 -- s6ruby/pragmas
+55. 2 / 2 -- s6ruby/safemath
+56. 2 / 2 -- s6ruby/units-time
+57. 2 / 1 -- bitsblocks/crypto-facts
+58. 2 / 1 -- cryptocopycats/awesome-cryptocollectibles/contracts/ERC721-V1.sol
+59. 2 / 1 -- cryptocopycats/base32-alphabets/lib/base32-alphabets/base.rb
+60. 2 / 1 -- cryptocopycats/base32-alphabets/lib/base32-alphabets/base32.rb
+61. 2 / 1 -- cryptocopycats/kitties/400_000-499_999/488.csv
+62. 2 / 1 -- cryptocopycats/kitties/500_000-599_999/509.csv
+63. 2 / 1 -- openblockchains/programming-blockchains/bitcoin_header.rb
+64. 1 / 1 -- bitsblocks/bitcoin-maximalist
+65. 1 / 1 -- bitsblocks/bitcoin-whitepaper
+66. 1 / 1 -- bitsblocks/bitcoin-whitepaper/index.md
+67. 1 / 1 -- bitsblocks/crypto-facts/index.md
+68. 1 / 1 -- cryptocopycats/awesome-cryptocollectibles/contracts/ERC721-V0.sol
+69. 1 / 1 -- cryptocopycats/awesome-cryptocollectibles/find
+70. 1 / 1 -- cryptocopycats/base32-alphabets/lib
+71. 1 / 1 -- cryptocopycats/base32-alphabets/lib/base32-alphabets.rb
+72. 1 / 1 -- cryptocopycats/base32-alphabets/lib/base32-alphabets/crockford.rb
+73. 1 / 1 -- cryptocopycats/base32-alphabets/lib/base32-alphabets/kai.rb
+74. 1 / 1 -- cryptocopycats/bitcat/bin
+75. 1 / 1 -- cryptocopycats/bitcat/bin/bitcat
+76. 1 / 1 -- cryptocopycats/copycats/script
+77. 1 / 1 -- cryptocopycats/kitties/100_000-199_999/108.csv
+78. 1 / 1 -- cryptocopycats/kittyverse/CATTRIBUTES.md
+79. 1 / 1 -- cryptocopycats/media
+80. 1 / 1 -- openblockchains/awesome-ico-truths
+81. 1 / 1 -- openblockchains/awesome-libra/contracts/earmarked.mvir
+82. 1 / 1 -- openblockchains/awesome-tokens/contracts
+83. 1 / 1 -- openblockchains/awesome-tokens/contracts/TenXPayToken.sol
+84. 1 / 1 -- openblockchains/blockchain-whitepapers/bitcoin-v0.1-released.txt
+85. 1 / 1 -- openblockchains/blockchain-whitepapers/bitcoin.pdf
+86. 1 / 1 -- openblockchains/blockchain-whitepapers/what-satoshi-did-not-know.pdf
+87. 1 / 1 -- openblockchains/ledger.lite.rb
+88. 1 / 1 -- openblockchains/peer-to-peer.rb
+89. 1 / 1 -- openblockchains/programming-bitcoin-script/bitcoin-script
+90. 1 / 1 -- openblockchains/programming-blockchains/03_blockchain.md
+91. 1 / 1 -- openblockchains/programming-blockchains/04_timestamping.md
+92. 1 / 1 -- openblockchains/programming-blockchains/06_bitcoin.md
+93. 1 / 1 -- openblockchains/programming-blockchains/bitcoin_hash.rb
+94. 1 / 1 -- openblockchains/programming-blockchains/blockchain.rb
+95. 1 / 1 -- openblockchains/programming-cryptocollectibles/01_genes.md
+96. 1 / 1 -- openblockchains/programming-cryptocontracts/actions
+97. 1 / 1 -- openblockchains/programming-cryptocontracts/find
+98. 1 / 1 -- openblockchains/programming-cryptocontracts/i/dappradar-highrisk.png
+99. 1 / 1 -- openblockchains/programming-cryptocontracts/ponzi_governmental.rb
+100. 1 / 1 -- openblockchains/programming-cryptocontracts/ponzi_simple.rb
+101. 1 / 1 -- openblockchains/programming-cryptocontracts/run_satoshi_dice.rb
+102. 1 / 1 -- openblockchains/tulips
+103. 1 / 1 -- s6ruby/ethereum-contracts/GradualPonzi.sol
+104. 1 / 1 -- s6ruby/redpaper
+105. 1 / 1 -- s6ruby/ruby-to-solidity
+106. 1 / 1 -- s6ruby/universum/WHITEPAPER.md
+<!-- break -->
+
+
