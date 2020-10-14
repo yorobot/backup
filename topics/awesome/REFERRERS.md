@@ -6,7 +6,7 @@ built with [Hubba v0.1.0](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 popular referrer sources over the last 14 days - page views / unique
 
-1. **Google** 826 / 556  _(25)_
+1. **Google** 826  _(25)_
     - 130 / 84 -- mundimark/awesome-markdown-editors
     - 129 / 56 -- planetjekyll/awesome-jekyll-themes
     - 98 / 71 -- planetjekyll/awesome-jekyll-editors
@@ -32,7 +32,7 @@ popular referrer sources over the last 14 days - page views / unique
     - 1 / 1 -- mundimark/awesome-kramdown
     - 1 / 1 -- officetxt/awesome-txt
     - 1 / 1 -- openblockchains/awesome-sha256
-2. **github.com** 293 / 212  _(25)_
+2. **github.com** 293  _(25)_
     - 59 / 35 -- openblockchains/awesome-blockchains
     - 50 / 30 -- mundimark/awesome-markdown
     - 29 / 24 -- planetjekyll/awesome-jekyll-plugins
@@ -58,18 +58,18 @@ popular referrer sources over the last 14 days - page views / unique
     - 1 / 1 -- json-next/awesome-json-next
     - 1 / 1 -- officetxt/awesome-txt
     - 1 / 1 -- openblockchains/awesome-ico-truths
-3. **markdownguide.org** 183 / 127  _(1)_
+3. **markdownguide.org** 183  _(1)_
     - 183 / 127 -- mundimark/awesome-markdown
-4. **jekyllrb.com** 178 / 129  _(1)_
+4. **jekyllrb.com** 178  _(1)_
     - 178 / 129 -- planetjekyll/awesome-jekyll-plugins
-5. **github.community** 52 / 31  _(1)_
+5. **github.community** 52  _(1)_
     - 52 / 31 -- planetjekyll/awesome-jekyll-themes
-6. **reddit.com** 43 / 27  _(4)_
+6. **reddit.com** 43  _(4)_
     - 39 / 24 -- planetjekyll/awesome-jekyll-themes
     - 2 / 1 -- planetjekyll/awesome-jekyll-plugins
     - 1 / 1 -- openblockchains/awesome-blockchains
     - 1 / 1 -- planetjekyll/awesome-jekyll-editors
-7. **DuckDuckGo** 28 / 22  _(9)_
+7. **DuckDuckGo** 28  _(9)_
     - 8 / 6 -- planetjekyll/awesome-jekyll-editors
     - 7 / 5 -- planetjekyll/awesome-jekyll-plugins
     - 3 / 2 -- planetruby/awesome-rubies
@@ -79,97 +79,97 @@ popular referrer sources over the last 14 days - page views / unique
     - 2 / 1 -- cryptocopycats/awesome-cryptokitties
     - 1 / 1 -- mundimark/awesome-books
     - 1 / 1 -- s6ruby/awesome-crypto
-8. **ruby-lang.org** 23 / 21  _(1)_
+8. **ruby-lang.org** 23  _(1)_
     - 23 / 21 -- planetruby/awesome-rubies
-9. **openfootball.github.io** 21 / 15  _(1)_
+9. **openfootball.github.io** 21  _(1)_
     - 21 / 15 -- planetopendata/awesome-football
-10. **rubyflow.com** 18 / 7  _(2)_
+10. **rubyflow.com** 18  _(2)_
     - 10 / 2 -- planetjekyll/awesome-jekyll-themes
     - 8 / 5 -- openblockchains/awesome-blockchains
-11. **jokecamp.com** 16 / 8  _(1)_
+11. **jokecamp.com** 16  _(1)_
     - 16 / 8 -- planetopendata/awesome-football
-12. **github.daumkakao.com** 11 / 1  _(1)_
+12. **github.daumkakao.com** 11  _(1)_
     - 11 / 1 -- planetruby/awesome-webservers
-13. **opendata.stackexchange.com** 11 / 5  _(1)_
+13. **opendata.stackexchange.com** 11  _(1)_
     - 11 / 5 -- planetopendata/awesome-football
-14. **quora.com** 9 / 1  _(1)_
+14. **quora.com** 9  _(1)_
     - 9 / 1 -- openblockchains/awesome-blockchains
-15. **blog.desdelinux.net** 8 / 7  _(1)_
+15. **blog.desdelinux.net** 8  _(1)_
     - 8 / 7 -- planetopendata/awesome-football
-16. **amp.reddit.com** 6 / 3  _(1)_
+16. **amp.reddit.com** 6  _(1)_
     - 6 / 3 -- planetjekyll/awesome-jekyll-themes
-17. **Bing** 6 / 5  _(3)_
+17. **Bing** 6  _(3)_
     - 3 / 2 -- mundimark/awesome-markdown-editors
     - 2 / 2 -- planetjekyll/awesome-jekyll-plugins
     - 1 / 1 -- mundimark/awesome-markdown
-18. **blog.csdn.net** 4 / 2  _(1)_
+18. **blog.csdn.net** 4  _(1)_
     - 4 / 2 -- planetopendata/awesome-world
-19. **medium.com** 4 / 2  _(1)_
+19. **medium.com** 4  _(1)_
     - 4 / 2 -- openblockchains/awesome-blockchains
-20. **xscode.com** 4 / 3  _(2)_
+20. **xscode.com** 4  _(2)_
     - 3 / 2 -- planetopendata/awesome-world
     - 1 / 1 -- planetjekyll/awesome-jekyll
-21. **cn.bing.com** 4 / 3  _(3)_
+21. **cn.bing.com** 4  _(3)_
     - 2 / 1 -- planetopendata/awesome-world
     - 1 / 1 -- mundimark/awesome-markdown-alternatives
     - 1 / 1 -- planetopendata/awesome-sqlite
-22. **Baidu** 3 / 1  _(1)_
+22. **Baidu** 3  _(1)_
     - 3 / 1 -- planetjekyll/awesome-jekyll-plugins
-23. **freecodecamp.org** 3 / 3  _(1)_
+23. **freecodecamp.org** 3  _(1)_
     - 3 / 3 -- openblockchains/awesome-blockchains
-24. **keep.google.com** 3 / 1  _(1)_
+24. **keep.google.com** 3  _(1)_
     - 3 / 1 -- planetjekyll/awesome-jekyll-themes
-25. **StartPage** 3 / 3  _(3)_
+25. **StartPage** 3  _(3)_
     - 1 / 1 -- mundimark/awesome-markdown-alternatives
     - 1 / 1 -- mundimark/awesome-markdown-editors
     - 1 / 1 -- openblockchains/awesome-sha256
-26. **amp-reddit-com.cdn.ampproject.org** 2 / 1  _(1)_
+26. **amp-reddit-com.cdn.ampproject.org** 2  _(1)_
     - 2 / 1 -- planetjekyll/awesome-jekyll-themes
-27. **blog.kellybrazil.com** 2 / 2  _(1)_
+27. **blog.kellybrazil.com** 2  _(1)_
     - 2 / 2 -- json-next/awesome-json-next
-28. **digitale-methodik.adwmainz.net** 2 / 2  _(1)_
+28. **digitale-methodik.adwmainz.net** 2  _(1)_
     - 2 / 2 -- mundimark/awesome-markdown
-29. **infoworld.com** 2 / 2  _(1)_
+29. **infoworld.com** 2  _(1)_
     - 2 / 2 -- planetopendata/awesome-sqlite
-30. **jekyllrb-ko.github.io** 2 / 2  _(1)_
+30. **jekyllrb-ko.github.io** 2  _(1)_
     - 2 / 2 -- planetjekyll/awesome-jekyll-plugins
-31. **markdown.p2hp.com** 2 / 2  _(1)_
+31. **markdown.p2hp.com** 2  _(1)_
     - 2 / 2 -- mundimark/awesome-markdown
-32. **markdown.xyz** 2 / 2  _(1)_
+32. **markdown.xyz** 2  _(1)_
     - 2 / 2 -- mundimark/awesome-markdown
-33. **snipcart.com** 2 / 2  _(1)_
+33. **snipcart.com** 2  _(1)_
     - 2 / 2 -- planetjekyll/awesome-jekyll-plugins
-34. **stackoverflow.com** 2 / 2  _(1)_
+34. **stackoverflow.com** 2  _(1)_
     - 2 / 2 -- planetruby/awesome-webservers
-35. **t.co** 2 / 1  _(1)_
+35. **t.co** 2  _(1)_
     - 2 / 1 -- slideshow-s9/awesome-slideshows
-36. **awesomeopensource.com** 1 / 1  _(1)_
+36. **awesomeopensource.com** 1  _(1)_
     - 1 / 1 -- openblockchains/awesome-blockchains
-37. **confluence.esteeonline.com** 1 / 1  _(1)_
+37. **confluence.esteeonline.com** 1  _(1)_
     - 1 / 1 -- openblockchains/awesome-blockchains
-38. **dev-yakuza.github.io** 1 / 1  _(1)_
+38. **dev-yakuza.github.io** 1  _(1)_
     - 1 / 1 -- planetjekyll/awesome-jekyll-plugins
-39. **dogedoge.com** 1 / 1  _(1)_
+39. **dogedoge.com** 1  _(1)_
     - 1 / 1 -- openblockchains/awesome-sha256
-40. **elipousson.github.io** 1 / 1  _(1)_
+40. **elipousson.github.io** 1  _(1)_
     - 1 / 1 -- mundimark/awesome-markdown-editors
-41. **github.oldjpg.com** 1 / 1  _(1)_
+41. **github.oldjpg.com** 1  _(1)_
     - 1 / 1 -- planetopendata/awesome-world
-42. **janbernloehr.de** 1 / 1  _(1)_
+42. **janbernloehr.de** 1  _(1)_
     - 1 / 1 -- planetjekyll/awesome-jekyll
-43. **learn-anything.xyz** 1 / 1  _(1)_
+43. **learn-anything.xyz** 1  _(1)_
     - 1 / 1 -- planetopendata/awesome-world
-44. **news.ycombinator.com** 1 / 1  _(1)_
+44. **news.ycombinator.com** 1  _(1)_
     - 1 / 1 -- officetxt/awesome-txt
-45. **planetjekyll.github.io** 1 / 1  _(1)_
+45. **planetjekyll.github.io** 1  _(1)_
     - 1 / 1 -- planetjekyll/awesome-jekyll
-46. **qwant.com** 1 / 1  _(1)_
+46. **qwant.com** 1  _(1)_
     - 1 / 1 -- planetjekyll/awesome-jekyll-editors
-47. **rubyreferences.github.io** 1 / 1  _(1)_
+47. **rubyreferences.github.io** 1  _(1)_
     - 1 / 1 -- planetruby/awesome-rubies
-48. **web-work.tools** 1 / 1  _(1)_
+48. **web-work.tools** 1  _(1)_
     - 1 / 1 -- planetjekyll/awesome-jekyll-themes
-49. **yandex.ru** 1 / 1  _(1)_
+49. **yandex.ru** 1  _(1)_
     - 1 / 1 -- mundimark/awesome-markdown
 <!-- break -->
 

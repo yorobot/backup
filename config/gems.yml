@@ -1,0 +1,141 @@
+### note: edited by hand
+##    in the future auto-genrate? see NOTES.md for ideas
+##
+##   note: not all gems included for now - just a (quick) selection
+
+
+geraldb:
+- wine.db.tools
+beerkit:
+- beer.db
+bitshilling:
+- bitshilling.tools
+cryptocopycats:
+- base32-alphabets
+- bitcat
+- copycats
+- kittyverse
+csvreader:
+- csv11
+- csvhuman
+- csvjson
+- csvpack
+- csvreader
+- csvrecord
+- csvutils
+- csvyaml
+- tabreader
+datatxt:
+- iniparser
+drjekyllthemes:
+- drjekyll
+factbook:
+- factbook
+feedhtml:
+- hyperdata
+feedparser:
+- feedfilter
+- feedfinder
+- feedparser
+feedreader:
+- pluto
+feedtxt:
+- feedtxt
+hybook:
+- bookfile
+- bookman
+- hybook
+journaltxt:
+- journaltxt
+json-next:
+- json-next
+mrhydescripts:
+- mrhyde
+octobook:
+- octobook
+officetxt:
+- officetxt
+openblockchains:
+- blockchain.lite.rb
+- centralbank
+- ledger.lite.rb
+- merkletree.rb
+- peer-to-peer.rb
+- tulipmania
+openbookie:
+- sport.db.market
+- sport.db.play
+- sportbook
+persondb:
+- person.db.models
+quikstart:
+- quik
+rubycoco:
+- about
+- activerecord-importer
+- activerecord-utils
+- activityutils
+- almost-sinatra
+- dbbrowser
+- fizzbuzzer
+- fotos
+- git
+- gutenberg
+- linkto
+- logutils
+- ostructer
+- pakman
+- props
+- record
+- tagutils
+- typeconv
+- webclient
+- webservice
+s6ruby:
+- pragmas
+- ruby-to-michelson
+- ruby-to-solidity
+- safemath
+- safestruct
+- units-money
+- units-time
+- universum
+schemadoc:
+- schemadoc
+slideshow-s9:
+- slideshow
+sportdb:
+- football.db
+- footty
+- sport.db
+- sport.db.admin
+- sport.db.sources
+- sport.db.web
+texti:
+- texti
+textkit:
+- catalog.db
+- datafile
+- dataman
+- event.db
+- preproc
+- rubycat
+- textutils
+- whatson
+typesigs:
+- bytes
+- enums
+- records
+- safebool
+- safedata
+- typesig
+- typesigs
+wikiscript:
+- wikiscript
+worlddb:
+- world.db
+- world.lite
+writekit:
+- kramdown-service
+- markdown
+- markdown-tools

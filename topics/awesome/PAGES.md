@@ -6,7 +6,7 @@ built with [Hubba v0.1.0](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 popular pages over the last 14 days - page views / unique
 
-1. **planetjekyll** 857 / 535  _(24)_
+1. **planetjekyll** 857   _(24)_
     - 353 / 241 -- awesome-jekyll-plugins
     - 254 / 123 -- awesome-jekyll-themes
     - 121 / 85 -- awesome-jekyll-editors
@@ -31,7 +31,7 @@ popular pages over the last 14 days - page views / unique
     - 1 / 1 -- awesome-jekyll/commit/7f8b3f069bb1ed7bf53630d8aed3ea6888b62f36
     - 1 / 1 -- awesome-jekyll/pull/28
     - 1 / 1 -- awesome-jekyll/pull/28/commits/7fe6b99e90397a226acd5c162e3123e90df2643b
-2. **mundimark** 691 / 465  _(19)_
+2. **mundimark** 691   _(19)_
     - 431 / 266 -- awesome-markdown
     - 164 / 114 -- awesome-markdown-editors
     - 52 / 45 -- awesome-markdown-alternatives
@@ -51,7 +51,7 @@ popular pages over the last 14 days - page views / unique
     - 1 / 1 -- awesome-markdown/find
     - 1 / 1 -- awesome-markdown/pull/30/files
     - 1 / 1 -- awesome-markdown/search
-3. **cryptocopycats** 368 / 140  _(14)_
+3. **cryptocopycats** 368   _(14)_
     - 107 / 25 -- awesome-cryptokitties/contracts
     - 98 / 62 -- awesome-cryptokitties
     - 28 / 5 -- awesome-cryptokitties/contracts/KittyBreeding.sol
@@ -66,13 +66,13 @@ popular pages over the last 14 days - page views / unique
     - 2 / 1 -- awesome-cryptocollectibles/contracts/ERC721-V1.sol
     - 1 / 1 -- awesome-cryptocollectibles/contracts/ERC721-V0.sol
     - 1 / 1 -- awesome-cryptocollectibles/find
-4. **planetopendata** 215 / 144  _(5)_
+4. **planetopendata** 215   _(5)_
     - 86 / 57 -- awesome-football
     - 67 / 42 -- awesome-world
     - 58 / 43 -- awesome-sqlite
     - 3 / 1 -- awesome-football/NOTES.md
     - 1 / 1 -- awesome-sqlite/COMMERCIAL.md
-5. **openblockchains** 210 / 130  _(18)_
+5. **openblockchains** 210   _(18)_
     - 132 / 75 -- awesome-blockchains
     - 14 / 6 -- awesome-blockchains/blockchain.rb
     - 10 / 7 -- awesome-blockchains/blockchain.cpp
@@ -91,32 +91,32 @@ popular pages over the last 14 days - page views / unique
     - 1 / 1 -- awesome-libra/contracts/earmarked.mvir
     - 1 / 1 -- awesome-tokens/contracts
     - 1 / 1 -- awesome-tokens/contracts/TenXPayToken.sol
-6. **planetruby** 78 / 54  _(4)_
+6. **planetruby** 78   _(4)_
     - 40 / 36 -- awesome-rubies
     - 36 / 16 -- awesome-webservers
     - 1 / 1 -- awesome-webservers/benchmark/benchmarks.md
     - 1 / 1 -- awesome-webservers/pull/5
-7. **printhtml** 19 / 16  _(1)_
+7. **printhtml** 19   _(1)_
     - 19 / 16 -- awesome-print
-8. **bigkorupto** 19 / 13  _(3)_
+8. **bigkorupto** 19   _(3)_
     - 17 / 11 -- awesome-nocode
     - 1 / 1 -- awesome-nocode/network/members
     - 1 / 1 -- awesome-nocode/stargazers
-9. **slideshow-s9** 7 / 4  _(1)_
+9. **slideshow-s9** 7   _(1)_
     - 7 / 4 -- awesome-slideshows
-10. **s6ruby** 6 / 6  _(1)_
+10. **s6ruby** 6   _(1)_
     - 6 / 6 -- awesome-crypto
-11. **csvspecs** 5 / 5  _(1)_
+11. **csvspecs** 5   _(1)_
     - 5 / 5 -- awesome-csv
-12. **staystatic** 5 / 4  _(1)_
+12. **staystatic** 5   _(1)_
     - 5 / 4 -- awesome-static
-13. **feedparser** 4 / 3  _(1)_
+13. **feedparser** 4   _(1)_
     - 4 / 3 -- awesome-feeds
-14. **officetxt** 4 / 4  _(1)_
+14. **officetxt** 4   _(1)_
     - 4 / 4 -- awesome-txt
-15. **austriacodes** 3 / 3  _(1)_
+15. **austriacodes** 3   _(1)_
     - 3 / 3 -- awesome-austria
-16. **json-next** 3 / 3  _(1)_
+16. **json-next** 3   _(1)_
     - 3 / 3 -- awesome-json-next
 <!-- break -->
 

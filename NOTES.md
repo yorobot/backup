@@ -2,6 +2,13 @@
 ## Todos
 
 
+- [ ]  auto-generate config/gems.yml
+       - include all repos with gem topic or
+       - include all repos with gem in description - why? why not?
+       - (primary) language is ruby :-) - note: might include more bundled html/js!!!
+
+
+
 ## add stars / starcount to SUMMARY.md
 
 

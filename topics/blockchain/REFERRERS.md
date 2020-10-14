@@ -6,7 +6,7 @@ built with [Hubba v0.1.0](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 popular referrer sources over the last 14 days - page views / unique
 
-1. **github.com** 183 / 131  _(26)_
+1. **github.com** 183  _(26)_
     - 59 / 35 -- openblockchains/awesome-blockchains
     - 25 / 20 -- openblockchains/programming-cryptocontracts
     - 20 / 14 -- openblockchains/programming-blockchains
@@ -33,7 +33,7 @@ popular referrer sources over the last 14 days - page views / unique
     - 1 / 1 -- s6ruby/ruby-to-solidity
     - 1 / 1 -- s6ruby/safemath
     - 1 / 1 -- s6ruby/universum
-2. **Google** 118 / 84  _(11)_
+2. **Google** 118  _(11)_
     - 46 / 39 -- cryptocopycats/awesome-cryptokitties
     - 36 / 18 -- openblockchains/awesome-blockchains
     - 24 / 16 -- cryptocopycats/kitties
@@ -45,45 +45,45 @@ popular referrer sources over the last 14 days - page views / unique
     - 1 / 1 -- cryptocopycats/kittyverse
     - 1 / 1 -- openblockchains/awesome-sha256
     - 1 / 1 -- openblockchains/peer-to-peer.rb
-3. **quora.com** 9 / 1  _(1)_
+3. **quora.com** 9  _(1)_
     - 9 / 1 -- openblockchains/awesome-blockchains
-4. **rubyflow.com** 8 / 5  _(1)_
+4. **rubyflow.com** 8  _(1)_
     - 8 / 5 -- openblockchains/awesome-blockchains
-5. **sogou.com** 7 / 6  _(1)_
+5. **sogou.com** 7  _(1)_
     - 7 / 6 -- cryptocopycats/kitties
-6. **reddit.com** 6 / 5  _(4)_
+6. **reddit.com** 6  _(4)_
     - 2 / 2 -- openblockchains/programming-cryptocollectibles
     - 2 / 1 -- openblockchains/programming-blockchains
     - 1 / 1 -- cryptocopycats/kittyverse
     - 1 / 1 -- openblockchains/awesome-blockchains
-7. **DuckDuckGo** 5 / 4  _(4)_
+7. **DuckDuckGo** 5  _(4)_
     - 2 / 1 -- cryptocopycats/awesome-cryptokitties
     - 1 / 1 -- cryptocopycats/kitties
     - 1 / 1 -- openblockchains/programming-cryptocontracts
     - 1 / 1 -- s6ruby/awesome-crypto
-8. **medium.com** 4 / 2  _(1)_
+8. **medium.com** 4  _(1)_
     - 4 / 2 -- openblockchains/awesome-blockchains
-9. **freecodecamp.org** 3 / 3  _(1)_
+9. **freecodecamp.org** 3  _(1)_
     - 3 / 3 -- openblockchains/awesome-blockchains
-10. **iwando.com** 2 / 1  _(1)_
+10. **iwando.com** 2  _(1)_
     - 2 / 1 -- bitsblocks/crypto-facts
-11. **onehack.us** 2 / 1  _(1)_
+11. **onehack.us** 2  _(1)_
     - 2 / 1 -- openblockchains/programming-blockchains
-12. **yukimotopress.github.io** 2 / 1  _(1)_
+12. **yukimotopress.github.io** 2  _(1)_
     - 2 / 1 -- openblockchains/programming-blockchains
-13. **StartPage** 1 / 1  _(1)_
+13. **StartPage** 1  _(1)_
     - 1 / 1 -- openblockchains/awesome-sha256
-14. **awesomeopensource.com** 1 / 1  _(1)_
+14. **awesomeopensource.com** 1  _(1)_
     - 1 / 1 -- openblockchains/awesome-blockchains
-15. **confluence.esteeonline.com** 1 / 1  _(1)_
+15. **confluence.esteeonline.com** 1  _(1)_
     - 1 / 1 -- openblockchains/awesome-blockchains
-16. **dogedoge.com** 1 / 1  _(1)_
+16. **dogedoge.com** 1  _(1)_
     - 1 / 1 -- openblockchains/awesome-sha256
-17. **int.search.myway.com** 1 / 1  _(1)_
+17. **int.search.myway.com** 1  _(1)_
     - 1 / 1 -- cryptocopycats/kitties
-18. **news.ycombinator.com** 1 / 1  _(1)_
+18. **news.ycombinator.com** 1  _(1)_
     - 1 / 1 -- s6ruby/pragmas
-19. **qiita.com** 1 / 1  _(1)_
+19. **qiita.com** 1  _(1)_
     - 1 / 1 -- openblockchains/blockchain.lite.rb
 <!-- break -->
 

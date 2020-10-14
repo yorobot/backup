@@ -3,6 +3,7 @@
 #  e.g. - football
 #       - awesome
 #       - blockchain
+#       - gems
 #       - ...??
 
 require 'pp'
@@ -47,6 +48,8 @@ end
 File.open( './config/awesome.yml', 'w' ) { |f| f.write( h.to_yaml ) }
 
 
+
+
 ###
 # blockchain
 #   incl.  orgs:
@@ -80,7 +83,8 @@ stats = Hubba.stats( './config/repos.yml' )
 
 topics = ['football',
           'awesome',
-          'blockchain']
+          'blockchain',
+          'gems']
 
 topics.each do |topic|
   ## create some reports

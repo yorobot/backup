@@ -6,7 +6,7 @@ built with [Hubba v0.1.0](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 popular referrer sources over the last 14 days - page views / unique
 
-1. **github.com** 1827 / 1181  _(55)_
+1. **github.com** 1827  _(55)_
     - 319 / 194 -- openfootball/england
     - 260 / 151 -- openfootball/football.json
     - 217 / 138 -- footballcsv/england
@@ -62,7 +62,7 @@ popular referrer sources over the last 14 days - page views / unique
     - 1 / 1 -- rsssf/austria
     - 1 / 1 -- rsssf/rsssf.github.io
     - 1 / 1 -- rsssf/spec
-2. **Google** 606 / 427  _(23)_
+2. **Google** 606  _(23)_
     - 338 / 222 -- openfootball/football.json
     - 96 / 68 -- openfootball/schema.sql
     - 38 / 26 -- openfootball/south-america
@@ -86,7 +86,7 @@ popular referrer sources over the last 14 days - page views / unique
     - 1 / 1 -- openfootball/national-teams
     - 1 / 1 -- openfootball/world
     - 1 / 1 -- rsssf/brazil
-3. **openfootball.github.io** 203 / 159  _(16)_
+3. **openfootball.github.io** 203  _(16)_
     - 68 / 52 -- openfootball/england
     - 30 / 24 -- openfootball/world-cup
     - 24 / 18 -- openfootball/europe-champions-league
@@ -103,10 +103,10 @@ popular referrer sources over the last 14 days - page views / unique
     - 2 / 2 -- openfootball/copa-sudamericana
     - 1 / 1 -- openfootball/copa-libertadores
     - 1 / 1 -- openfootball/north-america-champions-league
-4. **datahub.io** 129 / 108  _(2)_
+4. **datahub.io** 129  _(2)_
     - 84 / 74 -- openfootball/world-cup
     - 45 / 34 -- openfootball/stadiums
-5. **footballcsv.github.io** 39 / 31  _(10)_
+5. **footballcsv.github.io** 39  _(10)_
     - 21 / 16 -- footballcsv/england
     - 5 / 5 -- footballcsv/europe-champions-league
     - 4 / 1 -- footballcsv/deutschland
@@ -117,66 +117,66 @@ popular referrer sources over the last 14 days - page views / unique
     - 1 / 1 -- footballcsv/cache.internationals
     - 1 / 1 -- footballcsv/cache.soccerverse
     - 1 / 1 -- footballcsv/mexico
-6. **reddit.com** 18 / 14  _(4)_
+6. **reddit.com** 18  _(4)_
     - 11 / 7 -- openfootball/football.json
     - 4 / 4 -- openfootball/england
     - 2 / 2 -- openfootball/europe-champions-league
     - 1 / 1 -- openfootball/schema.sql
-7. **Bing** 10 / 7  _(3)_
+7. **Bing** 10  _(3)_
     - 8 / 5 -- openfootball/football.json
     - 1 / 1 -- footballcsv/spec
     - 1 / 1 -- openfootball/world-cup
-8. **mail.google.com** 9 / 3  _(1)_
+8. **mail.google.com** 9  _(1)_
     - 9 / 3 -- openfootball/football.json
-9. **aaltoscicomp.github.io** 8 / 7  _(1)_
+9. **aaltoscicomp.github.io** 8  _(1)_
     - 8 / 7 -- footballcsv/england
-10. **groups.google.com** 8 / 8  _(5)_
+10. **groups.google.com** 8  _(5)_
     - 3 / 3 -- openfootball/europe
     - 2 / 2 -- openfootball/world
     - 1 / 1 -- footballcsv/deutschland
     - 1 / 1 -- openfootball/deutschland
     - 1 / 1 -- openfootball/quick-starter
-11. **sportdb.github.io** 7 / 4  _(2)_
+11. **sportdb.github.io** 7  _(2)_
     - 4 / 2 -- openfootball/league-starter
     - 3 / 2 -- openfootball/quick-starter
-12. **DuckDuckGo** 5 / 4  _(2)_
+12. **DuckDuckGo** 5  _(2)_
     - 4 / 3 -- openfootball/football.json
     - 1 / 1 -- openfootball/clubs
-13. **medium.com** 4 / 4  _(1)_
+13. **medium.com** 4  _(1)_
     - 4 / 4 -- openfootball/football.json
-14. **qna.habr.com** 4 / 4  _(1)_
+14. **qna.habr.com** 4  _(1)_
     - 4 / 4 -- openfootball/football.json
-15. **chandoo.org** 2 / 1  _(1)_
+15. **chandoo.org** 2  _(1)_
     - 2 / 1 -- openfootball/world-cup.json
-16. **lms.thaimooc.org** 2 / 1  _(1)_
+16. **lms.thaimooc.org** 2  _(1)_
     - 2 / 1 -- openfootball/world-cup
-17. **t.co** 2 / 1  _(1)_
+17. **t.co** 2  _(1)_
     - 2 / 1 -- openfootball/world-cup
-18. **trackmyhashtag.com** 2 / 2  _(1)_
+18. **trackmyhashtag.com** 2  _(1)_
     - 2 / 2 -- openfootball/world-cup
-19. **StartPage** 1 / 1  _(1)_
+19. **StartPage** 1  _(1)_
     - 1 / 1 -- openfootball/schema.sql
-20. **com.google.android.gm** 1 / 1  _(1)_
+20. **com.google.android.gm** 1  _(1)_
     - 1 / 1 -- openfootball/world-cup
-21. **developer.aliyun.com** 1 / 1  _(1)_
+21. **developer.aliyun.com** 1  _(1)_
     - 1 / 1 -- openfootball/football.json
-22. **gitmemory.com** 1 / 1  _(1)_
+22. **gitmemory.com** 1  _(1)_
     - 1 / 1 -- footballcsv/england
-23. **jokecamp.com** 1 / 1  _(1)_
+23. **jokecamp.com** 1  _(1)_
     - 1 / 1 -- openfootball/women-world-cup
-24. **kaggle.com** 1 / 1  _(1)_
+24. **kaggle.com** 1  _(1)_
     - 1 / 1 -- footballcsv/europe-champions-league
-25. **l.messenger.com** 1 / 1  _(1)_
+25. **l.messenger.com** 1  _(1)_
     - 1 / 1 -- openfootball/football.json
-26. **morioh.com** 1 / 1  _(1)_
+26. **morioh.com** 1  _(1)_
     - 1 / 1 -- openfootball/world-cup.json
-27. **rubydoc.info** 1 / 1  _(1)_
+27. **rubydoc.info** 1  _(1)_
     - 1 / 1 -- openfootball/quick-starter
-28. **rzencoder.github.io** 1 / 1  _(1)_
+28. **rzencoder.github.io** 1  _(1)_
     - 1 / 1 -- openfootball/world-cup.json
-29. **so.com** 1 / 1  _(1)_
+29. **so.com** 1  _(1)_
     - 1 / 1 -- footballcsv/spec
-30. **yandex.ru** 1 / 1  _(1)_
+30. **yandex.ru** 1  _(1)_
     - 1 / 1 -- openfootball/schema.sql
 <!-- break -->
 

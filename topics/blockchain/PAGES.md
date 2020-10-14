@@ -6,7 +6,7 @@ built with [Hubba v0.1.0](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 popular pages over the last 14 days - page views / unique
 
-1. **cryptocopycats** 445 / 199  _(41)_
+1. **cryptocopycats** 445   _(41)_
     - 107 / 25 -- awesome-cryptokitties/contracts
     - 98 / 62 -- awesome-cryptokitties
     - 28 / 5 -- awesome-cryptokitties/contracts/KittyBreeding.sol
@@ -48,7 +48,7 @@ popular pages over the last 14 days - page views / unique
     - 1 / 1 -- kitties/100_000-199_999/108.csv
     - 1 / 1 -- kittyverse/CATTRIBUTES.md
     - 1 / 1 -- media
-2. **openblockchains** 338 / 224  _(50)_
+2. **openblockchains** 338   _(50)_
     - 132 / 75 -- awesome-blockchains
     - 33 / 20 -- programming-blockchains
     - 26 / 21 -- programming-cryptocontracts
@@ -99,7 +99,7 @@ popular pages over the last 14 days - page views / unique
     - 1 / 1 -- programming-cryptocontracts/ponzi_simple.rb
     - 1 / 1 -- programming-cryptocontracts/run_satoshi_dice.rb
     - 1 / 1 -- tulips
-3. **s6ruby** 27 / 23  _(10)_
+3. **s6ruby** 27   _(10)_
     - 8 / 6 -- ethereum-contracts
     - 6 / 6 -- awesome-crypto
     - 3 / 1 -- ethereum-contracts/SimplePonzi.sol
@@ -110,7 +110,7 @@ popular pages over the last 14 days - page views / unique
     - 1 / 1 -- redpaper
     - 1 / 1 -- ruby-to-solidity
     - 1 / 1 -- universum/WHITEPAPER.md
-4. **bitsblocks** 6 / 5  _(5)_
+4. **bitsblocks** 6   _(5)_
     - 2 / 1 -- crypto-facts
     - 1 / 1 -- bitcoin-maximalist
     - 1 / 1 -- bitcoin-whitepaper

@@ -6,7 +6,7 @@ built with [Hubba v0.1.0](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 popular pages over the last 14 days - page views / unique
 
-1. **openfootball** 5101 / 3218  _(243)_
+1. **openfootball** 5101   _(243)_
     - 791 / 406 -- football.json
     - 385 / 223 -- england
     - 220 / 125 -- football.json/2020-21
@@ -250,7 +250,7 @@ popular pages over the last 14 days - page views / unique
     - 1 / 1 -- women-euro-cup
     - 1 / 1 -- women-world-cup/stargazers
     - 1 / 1 -- world-cup.json/2014/worldcup.json
-2. **footballcsv** 1542 / 1058  _(118)_
+2. **footballcsv** 1542   _(118)_
     - 309 / 184 -- england
     - 121 / 78 -- england/2020s/2020-21
     - 93 / 57 -- espana
@@ -369,7 +369,7 @@ popular pages over the last 14 days - page views / unique
     - 1 / 1 -- mexico/edit/2020s/2020-21/mx.1.csv
     - 1 / 1 -- spec/branches
     - 1 / 1 -- spec/branches/all
-3. **rsssf** 45 / 42  _(24)_
+3. **rsssf** 45   _(24)_
     - 8 / 7 -- england
     - 7 / 7 -- espana
     - 3 / 3 -- brazil
