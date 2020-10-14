@@ -1,12 +1,12 @@
-# 593 repos @ 83 orgs
+Auto-generated github (statistics) report;
+built with [Hubba v0.1.0](https://github.com/rubycoco/git/tree/master/hubba-reports).
+
+
+# Summary - 575 Repos @ 82 Orgs
 
 ### geraldb _(11)_
 
 **austria** ★1 (552 kb) · **catalog** ★3 (156 kb) · **chelitas** ★1 (168 kb) · **geraldb.github.io** ★1 (520 kb) · **logos** ★1 (363 kb) · **sandbox** ★2 (529 kb) · **talks** ★200 (16203 kb) · **web-proxy-win** ★8 (152 kb) · **webcomponents** ★1 (164 kb) · **webpub-reader** ★3 (11 kb) · **wine.db.tools** ★1 (252 kb)
-
-### yorobot _(18)_
-
-**auto** ★2 (47 kb) · **backup** ★4 (1595 kb) · **beer.db** ★4 (68 kb) · **cache.csv** ★1 (336 kb) · **cache.github** ★2 (1566 kb) · **factbook** ★2 (62 kb) · **football.csv** ★12 (2326 kb) · **football.db** ★36 (383 kb) · **football.db.rsssf** ★2 (62 kb) · **football.json** ★3 (49 kb) · **logs** ★1 (172 kb) · **planetjekyll** ★3 (243 kb) · **rubyconf** ★2 (3 kb) · **sport.db.more** ★2 (80 kb) · **stage** ★1 (554 kb) · **tipp3** ★1 (1052 kb) · **workflow** ★1 (83 kb) · **world.db** ★6 (25 kb)
 
 ### austriacodes _(5)_
 
@@ -22,7 +22,7 @@
 
 ### beerkit _(9)_
 
-**beer.api.js** ★1 (140 kb) · **beer.db** ★30 (260 kb) · **beer.db.admin** ★6 (536 kb) · **beer.db.day** ★1 (186 kb) · **beer.db.mobile** ★1 (400 kb) · **beer.db.service** ★1 (5 kb) · **beer.db.starter** ★2 (16 kb) · **beer.js** ★2 (370 kb) · **beerbook** ★1 (220 kb)
+**beer.api.js** ★1 (140 kb) · **beer.db** ★31 (260 kb) · **beer.db.admin** ★6 (536 kb) · **beer.db.day** ★1 (186 kb) · **beer.db.mobile** ★1 (400 kb) · **beer.db.service** ★1 (5 kb) · **beer.db.starter** ★2 (16 kb) · **beer.js** ★2 (370 kb) · **beerbook** ★1 (220 kb)
 
 ### beerlabels _(2)_
 
@@ -154,7 +154,7 @@
 
 ### openbeer _(28)_
 
-**at-austria** ★10 (384 kb) · **be-belgium** ★4 (34 kb) · **by-bayern** ★2 (89 kb) · **ca-canada** ★4 (184 kb) · **ch-confoederatio-helvetica** ★1 (188 kb) · **co-colorado** ★2 (204 kb) · **collections** ★1 (4 kb) · **cz-czech-republic** ★2 (312 kb) · **datafile** ★4 (172 kb) · **de-deutschland** ★3 (493 kb) · **docs** ★10 (132 kb) · **ie-ireland** ★1 (180 kb) · **images** ★1 (260 kb) · **jp-japan** ★1 (152 kb) · **market** ★1 (148 kb) · **menus** ★1 (136 kb) · **mx-mexico** ★3 (57 kb) · **nl-netherlands** ★2 (164 kb) · **notes** ★1 (204 kb) · **oberbayern** ★2 (336 kb) · **oberfranken** ★1 (332 kb) · **openbeer.github.io** ★15 (744 kb) · **or-oregon** ★2 (184 kb) · **schema** ★4 (6 kb) · **schema.sql** ★6 (140 kb) · **us-united-states** ★12 (339 kb) · **wa-washington** ★1 (148 kb) · **world** ★66 (1235 kb)
+**at-austria** ★10 (384 kb) · **be-belgium** ★4 (34 kb) · **by-bayern** ★2 (89 kb) · **ca-canada** ★4 (184 kb) · **ch-confoederatio-helvetica** ★1 (188 kb) · **co-colorado** ★2 (204 kb) · **collections** ★1 (4 kb) · **cz-czech-republic** ★2 (312 kb) · **datafile** ★5 (172 kb) · **de-deutschland** ★3 (493 kb) · **docs** ★10 (132 kb) · **ie-ireland** ★1 (180 kb) · **images** ★1 (260 kb) · **jp-japan** ★1 (152 kb) · **market** ★1 (148 kb) · **menus** ★1 (136 kb) · **mx-mexico** ★3 (57 kb) · **nl-netherlands** ★2 (164 kb) · **notes** ★1 (204 kb) · **oberbayern** ★2 (336 kb) · **oberfranken** ★1 (332 kb) · **openbeer.github.io** ★15 (744 kb) · **or-oregon** ★2 (184 kb) · **schema** ★4 (6 kb) · **schema.sql** ★6 (140 kb) · **us-united-states** ★12 (339 kb) · **wa-washington** ★1 (148 kb) · **world** ★66 (1235 kb)
 
 ### openblockchains _(20)_
 
@@ -166,7 +166,7 @@
 
 ### openfootball _(41)_
 
-**africa-cup** ★2 (11 kb) · **austria** ★13 (932 kb) · **club-world-cup** ★3 (7 kb) · **clubs** ★45 (2572 kb) · **confed-cup** ★2 (25 kb) · **copa-america** ★3 (7 kb) · **copa-libertadores** ★4 (22 kb) · **copa-sudamericana** ★3 (3 kb) · **deutschland** ★57 (2210 kb) · **docs** ★17 (707 kb) · **england** ★335 (1599 kb) · **espana** ★58 (871 kb) · **euro-cup** ★26 (50 kb) · **europe** ★7 (531 kb) · **europe-champions-league** ★32 (173 kb) · **football.json** ★593 (2135 kb) · **fussball-de** ★2 (192 kb) · **futbol-es** ★2 (164 kb) · **help** ★2 (51 kb) · **italy** ★26 (813 kb) · **lang** ★2 (228 kb) · **league-starter** ★9 (62 kb) · **leagues** ★38 (776 kb) · **mexico** ★2 (114 kb) · **national-teams** ★11 (76 kb) · **north-america-champions-league** ★2 (8 kb) · **north-america-gold-cup** ★2 (18 kb) · **opendata-theme** ★1 (4 kb) · **openfootball.github.io** ★136 (1623 kb) · **players** ★20 (390 kb) · **quick-starter** ★63 (34 kb) · **schema** ★6 (7 kb) · **schema.sql** ★34 (12 kb) · **south-america** ★68 (269 kb) · **spec** ★2 (45 kb) · **stadiums** ★15 (37 kb) · **women-euro-cup** ★1 (8 kb) · **women-world-cup** ★4 (144 kb) · **world** ★2 (709 kb) · **world-cup** ★445 (638 kb) · **world-cup.json** ★152 (102 kb)
+**africa-cup** ★2 (11 kb) · **austria** ★13 (932 kb) · **club-world-cup** ★3 (7 kb) · **clubs** ★45 (2572 kb) · **confed-cup** ★2 (25 kb) · **copa-america** ★3 (7 kb) · **copa-libertadores** ★4 (22 kb) · **copa-sudamericana** ★3 (3 kb) · **deutschland** ★57 (2210 kb) · **docs** ★17 (707 kb) · **england** ★335 (1599 kb) · **espana** ★58 (871 kb) · **euro-cup** ★26 (50 kb) · **europe** ★7 (531 kb) · **europe-champions-league** ★32 (173 kb) · **football.json** ★595 (2135 kb) · **fussball-de** ★2 (192 kb) · **futbol-es** ★2 (164 kb) · **help** ★2 (51 kb) · **italy** ★26 (813 kb) · **lang** ★2 (228 kb) · **league-starter** ★9 (62 kb) · **leagues** ★38 (776 kb) · **mexico** ★2 (114 kb) · **national-teams** ★11 (76 kb) · **north-america-champions-league** ★2 (8 kb) · **north-america-gold-cup** ★2 (18 kb) · **opendata-theme** ★1 (4 kb) · **openfootball.github.io** ★136 (1623 kb) · **players** ★20 (390 kb) · **quick-starter** ★63 (34 kb) · **schema** ★6 (7 kb) · **schema.sql** ★34 (12 kb) · **south-america** ★68 (269 kb) · **spec** ★2 (45 kb) · **stadiums** ★15 (37 kb) · **women-euro-cup** ★1 (8 kb) · **women-world-cup** ★4 (144 kb) · **world** ★2 (709 kb) · **world-cup** ★445 (638 kb) · **world-cup.json** ★152 (102 kb)
 
 ### openmundi _(12)_
 
@@ -198,7 +198,7 @@
 
 ### planetjekyll _(13)_
 
-**awesome-jekyll** ★532 (110 kb) · **awesome-jekyll-editors** ★312 (15 kb) · **awesome-jekyll-plugins** ★851 (148 kb) · **awesome-jekyll-themes** ★394 (30 kb) · **planet** ★1 (170 kb) · **planetjekyll.github.io** ★10 (112 kb) · **quickrefs** ★85 (78 kb) · **sandbox** ★2 (81 kb) · **sandbox-collections** ★2 (11 kb) · **sandbox-github-pages** ★2 (30 kb) · **sandbox-syntax-highlighter** ★1 (12 kb) · **showcase** ★6 (2555 kb) · **snippets** ★13 (16 kb)
+**awesome-jekyll** ★531 (110 kb) · **awesome-jekyll-editors** ★312 (15 kb) · **awesome-jekyll-plugins** ★851 (148 kb) · **awesome-jekyll-themes** ★394 (30 kb) · **planet** ★1 (170 kb) · **planetjekyll.github.io** ★10 (112 kb) · **quickrefs** ★85 (78 kb) · **sandbox** ★2 (81 kb) · **sandbox-collections** ★2 (11 kb) · **sandbox-github-pages** ★2 (30 kb) · **sandbox-syntax-highlighter** ★1 (12 kb) · **showcase** ★6 (2555 kb) · **snippets** ★13 (16 kb)
 
 ### planetopendata _(6)_
 
@@ -206,7 +206,7 @@
 
 ### planetruby _(15)_
 
-**apps** ★1 (161 kb) · **awesome** ★12 (41 kb) · **awesome-rubies** ★282 (180 kb) · **awesome-webservers** ★198 (75 kb) · **books** ★3 (661 kb) · **calendar** ★247 (1082 kb) · **calendar-theme** ★1 (12 kb) · **gems** ★24 (550 kb) · **hellohoe** ★3 (2 kb) · **links** ★3 (120 kb) · **meetups** ★12 (34 kb) · **planet** ★8 (165 kb) · **planetruby.github.io** ★1 (682 kb) · **quickrefs** ★1 (37 kb) · **quiz** ★58 (302 kb)
+**apps** ★1 (161 kb) · **awesome** ★12 (41 kb) · **awesome-rubies** ★283 (180 kb) · **awesome-webservers** ★198 (75 kb) · **books** ★3 (661 kb) · **calendar** ★247 (1082 kb) · **calendar-theme** ★1 (12 kb) · **gems** ★24 (550 kb) · **hellohoe** ★3 (2 kb) · **links** ★3 (120 kb) · **meetups** ★12 (34 kb) · **planet** ★8 (165 kb) · **planetruby.github.io** ★1 (682 kb) · **quickrefs** ★1 (37 kb) · **quiz** ★58 (302 kb)
 
 ### playhtml _(6)_
 
@@ -234,7 +234,7 @@
 
 ### rubycoco _(20)_
 
-**about** ★1 (112 kb) · **activerecord-importer** ★1 (144 kb) · **activerecord-utils** ★2 (16 kb) · **activityutils** ★2 (7 kb) · **almost-sinatra** ★34 (16 kb) · **dbbrowser** ★46 (207 kb) · **fizzbuzzer** ★2 (105 kb) · **fotos** ★1 (4 kb) · **git** ★9 (88 kb) · **gutenberg** ★2 (2 kb) · **linkto** ★13 (160 kb) · **logutils** ★3 (39 kb) · **ostructer** ★1 (112 kb) · **pakman** ★2 (55 kb) · **props** ★3 (26 kb) · **record** ★3 (14 kb) · **tagutils** ★2 (31 kb) · **typeconv** ★1 (2 kb) · **webclient** ★5 (39 kb) · **webservice** ★8 (48 kb)
+**about** ★1 (112 kb) · **activerecord-importer** ★1 (144 kb) · **activerecord-utils** ★2 (16 kb) · **activityutils** ★2 (7 kb) · **almost-sinatra** ★34 (16 kb) · **dbbrowser** ★46 (207 kb) · **fizzbuzzer** ★2 (105 kb) · **fotos** ★1 (4 kb) · **git** ★11 (120 kb) · **gutenberg** ★2 (2 kb) · **linkto** ★13 (160 kb) · **logutils** ★3 (39 kb) · **ostructer** ★1 (112 kb) · **pakman** ★2 (55 kb) · **props** ★3 (26 kb) · **record** ★3 (14 kb) · **tagutils** ★2 (31 kb) · **typeconv** ★1 (2 kb) · **webclient** ★5 (39 kb) · **webservice** ★8 (48 kb)
 
 ### s6ruby _(12)_
 
@@ -294,7 +294,7 @@
 
 ### updownpress _(2)_
 
-**markdown-lint** ★31 (49 kb) · **updownpress.github.io** ★1 (7 kb)
+**markdown-lint** ★32 (49 kb) · **updownpress.github.io** ★1 (7 kb)
 
 ### viennacrypto _(2)_
 
@@ -330,5 +330,5 @@
 
 ### yukimotopress _(15)_
 
-**auto** ★2 (72 kb) · **blockchains** ★55 (455 kb) · **examples** ★1 (28 kb) · **fizzbuzz** ★1 (19 kb) · **gem-dev** ★22 (31 kb) · **gem-tasks** ★17 (64 kb) · **http** ★14 (10 kb) · **langs** ★31 (122 kb) · **micro** ★1 (179 kb) · **practices** ★1 (324 kb) · **practicing** ★53 (93 kb) · **sinatra-intro** ★13 (20 kb) · **smalldata** ★3 (39 kb) · **start** ★2 (165 kb) · **yukimotopress.github.io** ★11 (847 kb)
+**auto** ★2 (72 kb) · **blockchains** ★55 (455 kb) · **examples** ★1 (28 kb) · **fizzbuzz** ★1 (19 kb) · **gem-dev** ★22 (31 kb) · **gem-tasks** ★17 (64 kb) · **http** ★14 (10 kb) · **langs** ★31 (122 kb) · **micro** ★1 (179 kb) · **practices** ★1 (324 kb) · **practicing** ★54 (93 kb) · **sinatra-intro** ★13 (20 kb) · **smalldata** ★3 (39 kb) · **start** ★2 (165 kb) · **yukimotopress.github.io** ★11 (847 kb)
 

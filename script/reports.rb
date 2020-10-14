@@ -7,9 +7,22 @@ require 'hubba/reports'
 Hubba.config.data_dir = '../cache.github'
 
 
-stats = Hubba.stats( './config/repos.yml' )
+all = YAML.load_file( './config/repos.yml' )
+pp all
 
-=begin
+####
+## remove yorobot user/org entry  (is really just a sandbox / semi-private)
+##  - add some more (e.g. sandbox?)
+##  note: orgs may include counter e.g. yorobot (18) or such
+all.delete_if {|org,names| org.start_with?( 'yorobot' ) }
+
+
+
+stats = Hubba.stats( all )
+
+report = Hubba::ReportCatalog.new( stats )
+report.save( './CATALOG.md' )
+
 report = Hubba::ReportSummary.new( stats )
 report.save( './SUMMARY.md' )
 
@@ -32,17 +45,12 @@ report.save( './TRAFFIC.md' )
 report = Hubba::ReportTrafficPages.new( stats )
 report.save( './PAGES.md' )
 
-
-report = Hubba::ReportCatalog.new( stats )
-report.save( './CATALOG.md' )
-
-
 report = Hubba::ReportTrafficReferrers.new( stats )
 report.save( './REFERRERS.md' )
 
+
 report = Hubba::ReportSize.new( stats )
 report.save( './SIZE.md' )
-=end
 
 report = Hubba::ReportTopics.new( stats )
 report.save( './TOPICS.md' )

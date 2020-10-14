@@ -1,8 +1,8 @@
 Auto-generated github (statistics) report;
-built with [Hubba v0.6.2](https://github.com/rubycoco/git/tree/master/hubba).
+built with [Hubba v0.1.0](https://github.com/rubycoco/git/tree/master/hubba-reports).
 
 
-# Catalog - 593 Repos @ 83 Orgs
+# Catalog - 575 Repos @ 82 Orgs
 
 ### geraldb _(11)_
 
@@ -38,63 +38,6 @@ _Reader web app for (packaged) web publications / books (in Java)_
 
 **wine.db.tools** ★1 (252 kb)  <br>
 _winedb gem - open wine database (wine.db) command line tool in ruby (includes schema & models for easy reuse)_
-
-
-### yorobot _(18)_
-
-**auto** ★2 (47 kb)  <br>
-_auto - scripts to automate building databases, books, etc._
-
-**backup** ★4 (1771 kb)  <br>
-_backup - scripts to backup repos, etc._
-
-**beer.db** ★4 (68 kb)  <br>
-_beer.db Scripts_
-
-**cache.csv** ★1 (336 kb)  <br>
-_football.csv scripts_
-
-**cache.github** ★2 (1566 kb)  <br>
-_cache  (for github api)_
-
-**factbook** ★2 (62 kb)  <br>
-_factbook Scripts_
-
-**football.csv** ★12 (2326 kb)  <br>
-_football.csv Scripts_
-
-**football.db** ★36 (383 kb)  <br>
-_Build scripts for football.db, worldcup.db, bundesliga.db, etc._
-
-**football.db.rsssf** ★2 (62 kb)  <br>
-_football.db RSSSF (Rec.Sport.Soccer Statistics Foundation) scripts_
-
-**football.json** ★3 (49 kb)  <br>
-_football.json Scripts_
-
-**logs** ★1 (172 kb)  <br>
-_build logs_
-
-**planetjekyll** ★3 (243 kb)  <br>
-_Build scripts (fetch project info from github, import themes from wiki page, etc.)_
-
-**rubyconf** ★2 (3 kb)  <br>
-_rubyconf Scripts_
-
-**sport.db.more** ★2 (80 kb)  <br>
-_sport.db.more - more open sports database tools & libraries_
-
-**stage** ★1 (554 kb)  <br>
-_stage - temporary training base_
-
-**tipp3** ★1 (1052 kb)  <br>
-_tipp3 datasets_
-
-**workflow** ★1 (83 kb)  <br>
-_test github action workflows_
-
-**world.db** ★6 (25 kb)  <br>
-_Build scripts for world.db, wien.db, etc._
 
 
 ### austriacodes _(5)_

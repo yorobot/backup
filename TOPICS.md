@@ -2,7 +2,7 @@ Auto-generated github (statistics) report;
 built with [Hubba v0.1.0](https://github.com/rubycoco/git/tree/master/hubba-reports).
 
 
-# Topics - 593 Repos @ 83 Orgs
+# Topics - 575 Repos @ 82 Orgs
 
 `1637` _(2)_
 `2018` _(1)_
