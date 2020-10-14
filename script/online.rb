@@ -1,6 +1,4 @@
-## hack: use "local" hubba dev version for now
-$LOAD_PATH.unshift( 'C:/Sites/rubycoco/git/hubba/lib' )
-require 'hubba'
+require_relative 'helper'
 
 
 ##  todo/fix:
@@ -25,8 +23,6 @@ save_yaml( "./config/repos.yml", h )
 
 # h = YAML.load_file( './repos.yml' )
 # pp h
-
-Hubba.config.data_dir = '../cache.github'
 
 Hubba.update_stats( h )
 Hubba.update_traffic( h )

@@ -1,3 +1,6 @@
+require_relative 'helper'
+
+
 ###
 #  split repos.yml into subsets / topics
 #  e.g. - football
@@ -5,10 +8,6 @@
 #       - blockchain
 #       - gems
 #       - ...??
-
-require 'pp'
-require 'yaml'
-
 
 all = YAML.load_file( "./config/repos.yml" )
 pp all
@@ -69,14 +68,8 @@ File.open( './config/blockchain.yml', 'w' ) { |f| f.write( h.to_yaml ) }
 
 
 
-## hack: use "local" hubba dev version for now
-$LOAD_PATH.unshift( 'C:/Sites/rubycoco/git/hubba/lib' )
-$LOAD_PATH.unshift( 'C:/Sites/rubycoco/git/hubba-reports/lib' )
-require 'hubba/reports'
-
-
-Hubba.config.data_dir = '../cache.github'
-
+#########################
+#  generate reports
 
 stats = Hubba.stats( './config/repos.yml' )
 
