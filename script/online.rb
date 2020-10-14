@@ -26,6 +26,8 @@ save_yaml( "./config/repos.yml", h )
 # h = YAML.load_file( './repos.yml' )
 # pp h
 
+Hubba.config.data_dir = '../cache.github'
+
 Hubba.update_stats( h )
 Hubba.update_traffic( h )
 

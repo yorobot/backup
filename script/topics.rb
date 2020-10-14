@@ -68,7 +68,11 @@ File.open( './config/blockchain.yml', 'w' ) { |f| f.write( h.to_yaml ) }
 
 ## hack: use "local" hubba dev version for now
 $LOAD_PATH.unshift( 'C:/Sites/rubycoco/git/hubba/lib' )
-require 'hubba'
+$LOAD_PATH.unshift( 'C:/Sites/rubycoco/git/hubba-reports/lib' )
+require 'hubba/reports'
+
+
+Hubba.config.data_dir = '../cache.github'
 
 
 stats = Hubba.stats( './config/repos.yml' )
@@ -83,35 +87,35 @@ topics.each do |topic|
   stats = Hubba.stats( "./config/#{topic}.yml" )
 
   report = Hubba::ReportSummary.new( stats )
-  report.save( "./#{topic}/SUMMARY.md" )
+  report.save( "./topics/#{topic}/SUMMARY.md" )
 
   report = Hubba::ReportStars.new( stats )
-  report.save( "./#{topic}/STARS.md" )
+  report.save( "./topics/#{topic}/STARS.md" )
 
   report = Hubba::ReportTrending.new( stats )
-  report.save( "./#{topic}/TRENDING.md" )
+  report.save( "./topics/#{topic}/TRENDING.md" )
 
   report = Hubba::ReportUpdates.new( stats )
-  report.save( "./#{topic}/UPDATES.md" )
+  report.save( "./topics/#{topic}/UPDATES.md" )
 
 
   report = Hubba::ReportTraffic.new( stats )
-  report.save( "./#{topic}/TRAFFIC.md" )
+  report.save( "./topics/#{topic}/TRAFFIC.md" )
 
   report = Hubba::ReportTrafficPages.new( stats )
-  report.save( "./#{topic}/PAGES.md" )
+  report.save( "./topics/#{topic}/PAGES.md" )
 
 
   report = Hubba::ReportCatalog.new( stats )
-  report.save( "./#{topic}/CATALOG.md" )
+  report.save( "./topics/#{topic}/CATALOG.md" )
 
 
   report = Hubba::ReportTrafficReferrers.new( stats )
-  report.save( "./#{topic}/REFERRERS.md" )
+  report.save( "./topics/#{topic}/REFERRERS.md" )
 
   report = Hubba::ReportSize.new( stats )
-  report.save( "./#{topic}/SIZE.md" )
+  report.save( "./topics/#{topic}/SIZE.md" )
 
   report = Hubba::ReportTopics.new( stats )
-  report.save( "./#{topic}/TOPICS.md" )
+  report.save( "./topics/#{topic}/TOPICS.md" )
 end

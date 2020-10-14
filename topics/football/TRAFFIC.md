@@ -1,5 +1,5 @@
 Auto-generated github (statistics) report;
-built with [Hubba v0.6.2](https://github.com/rubycoco/git/tree/master/hubba).
+built with [Hubba v0.1.0](https://github.com/rubycoco/git/tree/master/hubba-reports).
 
 
 # Traffic - 65 Repos @ 3 Orgs
