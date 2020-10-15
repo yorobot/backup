@@ -1,0 +1,67 @@
+
+name: Update datasets
+
+on:
+  schedule:
+    # note: * is a special character in YAML so you have to quote this string
+    #  see cron guru for more examples / help on syntax
+    #    ->  https://crontab.guru/examples.html
+    - cron:  '0 6 * * *'       #  every day at 6 am (utc?)
+  workflow_dispatch:
+    ### for testing / debugging allow "manual" start
+
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - uses: actions/checkout@v2
+
+    - uses: actions/setup-ruby@v1
+      with:
+        ruby-version: '2.6' # Version range or exact version of a Ruby version to use, using semvers version range syntax.
+
+    - name: setup/check ssh
+      shell: bash
+      env:
+        SSH_KEY: ${{ secrets.SSH_KEY }}
+      run: |
+        if [ ! -d ~/.ssh ]; then mkdir ~/.ssh; fi
+        echo "$SSH_KEY" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        echo "ssh directory - ~/.ssh:"
+        ls -la ~/.ssh
+      #  ssh -vT git@github.com
+
+    - name: setup/check git
+      run: |
+        git --version
+        git config --global user.name  "Yo Robot"
+        git config --global user.email "gerald.bauer+yorobot@gmail.com"
+        git config -l --show-origin
+
+    - name: Run bundle install
+      run: |
+        bundle install
+        gem list
+        gem env
+
+    - name: Run setup / ssh_clone
+      run:  ruby ./workflow/setup.rb
+
+    ####
+    # todo/check:
+    #   split into "public" update
+    #          and "private" traffic status update - why? why not?
+    - name: Run get/fetch/update datatsets
+      env:
+        HUBBA_TOKEN: ${{ secrets.HUBBA_TOKEN }}
+      run:  ruby ./workflow/update.rb
+
+    - name: Run ssh_push
+      run:  ruby ./workflow/push.rb  ## json

@@ -6,6 +6,7 @@ require 'hubba'
 
 gh = Hubba::GitHub.new
 
+
 ## res = gh.repo( 'bitsblocks/ethereum' )
 ## res = gh.repo( 'openfootball/italy' )
 ## pp res.data
@@ -13,13 +14,16 @@ gh = Hubba::GitHub.new
 puts
 ## res = gh.repo_languages( 'openfootball/italy' )
 res = gh.repo_languages( 'openfootball/world' )
-## res = gh.repo_languages( 'sportdb/sport.db' )
+pp res.data
+res = gh.repo_languages( 'sportdb/sport.db' )
 pp res.data
 =begin
 {}
 {}
 {"Ruby"=>1020599, "HTML"=>3219, "SCSS"=>508, "CSS"=>388}
 =end
+
+__END__
 
 puts
 ## res = gh.repo_topics( 'openfootball/italy' )
