@@ -83,6 +83,10 @@ topics.each do |topic|
   ## create some reports
   stats = Hubba.stats( "./config/#{topic}.yml" )
 
+
+  report = Hubba::ReportCatalog.new( stats )
+  report.save( "./topics/#{topic}/CATALOG.md" )
+
   report = Hubba::ReportSummary.new( stats )
   report.save( "./topics/#{topic}/SUMMARY.md" )
 
@@ -102,13 +106,9 @@ topics.each do |topic|
   report = Hubba::ReportTrafficPages.new( stats )
   report.save( "./topics/#{topic}/PAGES.md" )
 
-
-  report = Hubba::ReportCatalog.new( stats )
-  report.save( "./topics/#{topic}/CATALOG.md" )
-
-
   report = Hubba::ReportTrafficReferrers.new( stats )
   report.save( "./topics/#{topic}/REFERRERS.md" )
+
 
   report = Hubba::ReportSize.new( stats )
   report.save( "./topics/#{topic}/SIZE.md" )

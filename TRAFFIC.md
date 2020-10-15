@@ -1,1248 +1,1248 @@
 Auto-generated github (statistics) report;
-built with [Hubba v0.1.0](https://github.com/rubycoco/git/tree/master/hubba-reports).
+built with [Hubba v1.0.0](https://github.com/rubycoco/git/tree/master/hubba-reports).
 
 
 # Traffic - 575 Repos @ 82 Orgs
 
 traffic over the last 14 days - page views / unique, clones / unique
 
-1. **openfootball** views: 7525, clones: 645  _(41)_
-    - football.json --  views: 2461 / 448 -  clones: 55 / 17
-    - england --  views: 1538 / 289 -  clones: 50 / 16
-    - world-cup --  views: 508 / 154 -  clones: 37 / 6
-    - world --  views: 427 / 77 -  clones: 38 / 7
-    - south-america --  views: 318 / 60 -  clones: 44 / 6
-    - europe --  views: 270 / 54 -  clones: 45 / 8
-    - deutschland --  views: 263 / 40 -  clones: 37 / 4
-    - espana --  views: 261 / 70 -  clones: 36 / 3
-    - schema.sql --  views: 258 / 89 -  clones: 5 / 5
-    - stadiums --  views: 226 / 54 -  clones: 1 / 1
-    - europe-champions-league --  views: 159 / 45 -  clones: 36 / 3
-    - quick-starter --  views: 144 / 53 -  clones: 2 / 2
-    - clubs --  views: 141 / 26 -  clones: 40 / 7
-    - mexico --  views: 78 / 11 -  clones: 39 / 6
-    - leagues --  views: 72 / 23 -  clones: 37 / 6
-    - italy --  views: 58 / 19 -  clones: 36 / 3
-    - league-starter --  views: 51 / 31 -  clones: 1 / 1
-    - world-cup.json --  views: 47 / 25 -  clones: 3 / 3
-    - help --  views: 45 / 12 -  clones: 2 / 2
-    - openfootball.github.io --  views: 36 / 25 -  clones: 3 / 3
-    - euro-cup --  views: 32 / 19 -  clones: 34 / 3
-    - docs --  views: 31 / 10 -  clones: 1 / 1
-    - players --  views: 30 / 9 -  clones: 1 / 1
-    - national-teams --  views: 26 / 6 -  clones: 2 / 2
-    - austria --  views: 10 / 5 -  clones: 38 / 5
-    - fussball-de --  views: 7 / 2 -  clones: 1 / 1
-    - copa-libertadores --  views: 6 / 4 -  clones: 2 / 2
-    - north-america-champions-league --  views: 5 / 3 -  clones: 1 / 1
-    - copa-sudamericana --  views: 4 / 2 -  clones: 1 / 1
-    - women-world-cup --  views: 3 / 2 -  clones: 1 / 1
-    - north-america-gold-cup --  views: 3 / 1 -  clones: 2 / 2
-    - africa-cup --  views: 2 / 2 -  clones: 3 / 3
-    - copa-america --  views: 2 / 2 -  clones: 2 / 2
-    - futbol-es --  views: 2 / 1 -  clones: 1 / 1
-    - women-euro-cup --  views: 1 / 1 -  clones: 1 / 1
-    - opendata-theme --  views: 0 / 0 -  clones: 2 / 2
-    - club-world-cup --  views: 0 / 0 -  clones: 1 / 1
-    - confed-cup --  views: 0 / 0 -  clones: 1 / 1
-    - lang --  views: 0 / 0 -  clones: 1 / 1
-    - schema --  views: 0 / 0 -  clones: 1 / 1
-    - spec --  views: 0 / 0 -  clones: 1 / 1
-2. **footballcsv** views: 2047, clones: 270  _(17)_
-    - england --  views: 1037 / 203 -  clones: 36 / 4
-    - espana --  views: 267 / 61 -  clones: 34 / 3
-    - europe-champions-league --  views: 158 / 42 -  clones: 1 / 1
-    - world --  views: 153 / 45 -  clones: 41 / 8
-    - deutschland --  views: 100 / 25 -  clones: 38 / 6
-    - footballcsv.github.io --  views: 99 / 68 -  clones: 2 / 2
-    - mexico --  views: 50 / 12 -  clones: 37 / 6
-    - belgium --  views: 38 / 8 -  clones: 36 / 5
-    - cache.soccerdata --  views: 32 / 6 -  clones: 1 / 1
+1. **openfootball** views: 7095, clones: 562  _(41)_
+    - football.json --  views: 2492 / 437 -  clones: 51 / 17
+    - england --  views: 1256 / 262 -  clones: 41 / 10
+    - world-cup --  views: 518 / 165 -  clones: 32 / 3
+    - europe --  views: 467 / 81 -  clones: 47 / 12
+    - south-america --  views: 339 / 57 -  clones: 39 / 8
+    - espana --  views: 257 / 62 -  clones: 35 / 4
+    - world --  views: 223 / 46 -  clones: 33 / 4
+    - europe-champions-league --  views: 222 / 50 -  clones: 32 / 1
+    - schema.sql --  views: 221 / 72 -  clones: 2 / 2
+    - stadiums --  views: 211 / 51 -  clones: 0 / 0
+    - deutschland --  views: 132 / 36 -  clones: 36 / 5
+    - quick-starter --  views: 117 / 41 -  clones: 1 / 1
+    - leagues --  views: 81 / 22 -  clones: 32 / 3
+    - italy --  views: 80 / 22 -  clones: 35 / 4
+    - clubs --  views: 76 / 18 -  clones: 32 / 3
+    - league-starter --  views: 72 / 30 -  clones: 1 / 1
+    - world-cup.json --  views: 51 / 27 -  clones: 1 / 1
+    - help --  views: 45 / 11 -  clones: 1 / 1
+    - spec --  views: 37 / 1 -  clones: 1 / 1
+    - openfootball.github.io --  views: 36 / 24 -  clones: 1 / 1
+    - mexico --  views: 31 / 7 -  clones: 36 / 5
+    - docs --  views: 29 / 8 -  clones: 0 / 0
+    - euro-cup --  views: 25 / 15 -  clones: 30 / 1
+    - national-teams --  views: 23 / 5 -  clones: 1 / 1
+    - players --  views: 16 / 4 -  clones: 0 / 0
+    - austria --  views: 12 / 6 -  clones: 37 / 6
+    - fussball-de --  views: 7 / 2 -  clones: 0 / 0
+    - copa-libertadores --  views: 3 / 3 -  clones: 1 / 1
+    - women-world-cup --  views: 3 / 2 -  clones: 0 / 0
+    - north-america-gold-cup --  views: 3 / 1 -  clones: 1 / 1
+    - schema --  views: 3 / 1 -  clones: 0 / 0
+    - africa-cup --  views: 2 / 2 -  clones: 2 / 2
+    - copa-america --  views: 2 / 2 -  clones: 0 / 0
+    - copa-sudamericana --  views: 1 / 1 -  clones: 0 / 0
+    - north-america-champions-league --  views: 1 / 1 -  clones: 0 / 0
+    - women-euro-cup --  views: 1 / 1 -  clones: 0 / 0
+    - opendata-theme --  views: 0 / 0 -  clones: 1 / 1
+    - club-world-cup --  views: 0 / 0 -  clones: 0 / 0
+    - confed-cup --  views: 0 / 0 -  clones: 0 / 0
+    - futbol-es --  views: 0 / 0 -  clones: 0 / 0
+    - lang --  views: 0 / 0 -  clones: 0 / 0
+2. **footballcsv** views: 1945, clones: 252  _(17)_
+    - england --  views: 901 / 196 -  clones: 32 / 3
+    - espana --  views: 206 / 51 -  clones: 32 / 3
+    - world --  views: 191 / 52 -  clones: 38 / 8
+    - europe-champions-league --  views: 180 / 44 -  clones: 0 / 0
+    - deutschland --  views: 145 / 24 -  clones: 37 / 7
+    - footballcsv.github.io --  views: 102 / 63 -  clones: 2 / 2
+    - cache.soccerdata --  views: 35 / 8 -  clones: 1 / 1
+    - mexico --  views: 33 / 8 -  clones: 35 / 6
     - cache.internationals --  views: 31 / 3 -  clones: 1 / 1
-    - cache.footballdata --  views: 26 / 6 -  clones: 0 / 0
-    - spec --  views: 22 / 12 -  clones: 1 / 1
-    - cache.leagues --  views: 16 / 5 -  clones: 0 / 0
-    - austria --  views: 8 / 3 -  clones: 39 / 8
-    - cache.soccerverse --  views: 7 / 3 -  clones: 2 / 2
-    - major-league-soccer --  views: 2 / 2 -  clones: 1 / 1
-    - cache.updates --  views: 1 / 1 -  clones: 0 / 0
-3. **planetjekyll** views: 952, clones: 41  _(13)_
-    - awesome-jekyll-plugins --  views: 397 / 254 -  clones: 8 / 8
-    - awesome-jekyll-themes --  views: 320 / 153 -  clones: 7 / 7
-    - awesome-jekyll-editors --  views: 127 / 88 -  clones: 4 / 4
-    - awesome-jekyll --  views: 50 / 31 -  clones: 5 / 5
-    - quickrefs --  views: 21 / 18 -  clones: 2 / 2
-    - showcase --  views: 21 / 10 -  clones: 1 / 1
-    - snippets --  views: 9 / 7 -  clones: 1 / 1
-    - planetjekyll.github.io --  views: 3 / 1 -  clones: 1 / 1
-    - planet --  views: 2 / 1 -  clones: 2 / 2
-    - sandbox --  views: 2 / 1 -  clones: 1 / 1
-    - sandbox-github-pages --  views: 0 / 0 -  clones: 4 / 4
-    - sandbox-syntax-highlighter --  views: 0 / 0 -  clones: 3 / 3
-    - sandbox-collections --  views: 0 / 0 -  clones: 2 / 2
-4. **mundimark** views: 813, clones: 34  _(13)_
-    - awesome-markdown --  views: 475 / 279 -  clones: 8 / 8
-    - awesome-markdown-editors --  views: 175 / 121 -  clones: 7 / 7
-    - markdown-vs-latex --  views: 82 / 67 -  clones: 2 / 2
-    - awesome-markdown-alternatives --  views: 59 / 49 -  clones: 3 / 3
-    - awesome-books --  views: 9 / 9 -  clones: 1 / 1
-    - awesome-kramdown --  views: 8 / 6 -  clones: 1 / 1
-    - markdown.pl --  views: 3 / 3 -  clones: 1 / 1
-    - markdown-tools-books --  views: 1 / 1 -  clones: 3 / 3
-    - why-text --  views: 1 / 1 -  clones: 3 / 3
-    - quickrefs --  views: 0 / 0 -  clones: 2 / 2
-    - markdown-can-i-use --  views: 0 / 0 -  clones: 1 / 1
-    - markdown-tools --  views: 0 / 0 -  clones: 1 / 1
-    - mundimark.github.io --  views: 0 / 0 -  clones: 1 / 1
-5. **cryptocopycats** views: 600, clones: 29  _(9)_
-    - awesome-cryptokitties --  views: 489 / 85 -  clones: 12 / 7
-    - kitties --  views: 53 / 38 -  clones: 1 / 1
-    - awesome-cryptocollectibles --  views: 15 / 6 -  clones: 7 / 5
-    - base32-alphabets --  views: 14 / 3 -  clones: 1 / 1
-    - kittyverse --  views: 13 / 7 -  clones: 1 / 1
-    - bitcat --  views: 8 / 5 -  clones: 1 / 1
-    - copycats --  views: 7 / 5 -  clones: 2 / 2
-    - media --  views: 1 / 1 -  clones: 3 / 3
-    - kittyverse.json --  views: 0 / 0 -  clones: 1 / 1
-6. **rubycoco** views: 515, clones: 83  _(20)_
-    - git --  views: 366 / 121 -  clones: 29 / 19
-    - webclient --  views: 123 / 4 -  clones: 26 / 17
-    - props --  views: 7 / 1 -  clones: 2 / 2
+    - cache.footballdata --  views: 28 / 8 -  clones: 0 / 0
+    - belgium --  views: 27 / 7 -  clones: 34 / 5
+    - spec --  views: 26 / 14 -  clones: 0 / 0
+    - cache.leagues --  views: 15 / 4 -  clones: 0 / 0
+    - cache.soccerverse --  views: 10 / 5 -  clones: 3 / 2
+    - austria --  views: 9 / 3 -  clones: 37 / 8
+    - major-league-soccer --  views: 4 / 2 -  clones: 0 / 0
+    - cache.updates --  views: 2 / 2 -  clones: 0 / 0
+3. **planetjekyll** views: 865, clones: 25  _(13)_
+    - awesome-jekyll-plugins --  views: 368 / 247 -  clones: 6 / 6
+    - awesome-jekyll-themes --  views: 291 / 125 -  clones: 6 / 6
+    - awesome-jekyll-editors --  views: 113 / 83 -  clones: 2 / 2
+    - awesome-jekyll --  views: 43 / 27 -  clones: 3 / 3
+    - quickrefs --  views: 19 / 16 -  clones: 1 / 1
+    - snippets --  views: 12 / 8 -  clones: 0 / 0
+    - showcase --  views: 11 / 7 -  clones: 0 / 0
+    - sandbox --  views: 3 / 2 -  clones: 0 / 0
+    - planetjekyll.github.io --  views: 3 / 1 -  clones: 0 / 0
+    - planet --  views: 2 / 1 -  clones: 1 / 1
+    - sandbox-github-pages --  views: 0 / 0 -  clones: 3 / 3
+    - sandbox-syntax-highlighter --  views: 0 / 0 -  clones: 2 / 2
+    - sandbox-collections --  views: 0 / 0 -  clones: 1 / 1
+4. **rubycoco** views: 846, clones: 89  _(20)_
+    - git --  views: 568 / 156 -  clones: 45 / 29
+    - webclient --  views: 132 / 5 -  clones: 28 / 19
+    - almost-sinatra --  views: 96 / 45 -  clones: 0 / 0
+    - gutenberg --  views: 16 / 1 -  clones: 2 / 2
+    - fotos --  views: 14 / 2 -  clones: 3 / 3
+    - props --  views: 7 / 1 -  clones: 1 / 1
     - webservice --  views: 4 / 2 -  clones: 1 / 1
-    - almost-sinatra --  views: 3 / 3 -  clones: 1 / 1
-    - dbbrowser --  views: 3 / 2 -  clones: 2 / 2
+    - fizzbuzzer --  views: 3 / 2 -  clones: 0 / 0
     - ostructer --  views: 3 / 1 -  clones: 1 / 1
-    - logutils --  views: 2 / 2 -  clones: 2 / 2
-    - fotos --  views: 1 / 1 -  clones: 5 / 5
-    - pakman --  views: 1 / 1 -  clones: 2 / 2
-    - fizzbuzzer --  views: 1 / 1 -  clones: 1 / 1
+    - dbbrowser --  views: 1 / 1 -  clones: 1 / 1
     - linkto --  views: 1 / 1 -  clones: 1 / 1
-    - gutenberg --  views: 0 / 0 -  clones: 2 / 2
-    - tagutils --  views: 0 / 0 -  clones: 2 / 2
+    - pakman --  views: 1 / 1 -  clones: 1 / 1
     - about --  views: 0 / 0 -  clones: 1 / 1
-    - activerecord-importer --  views: 0 / 0 -  clones: 1 / 1
     - activerecord-utils --  views: 0 / 0 -  clones: 1 / 1
     - activityutils --  views: 0 / 0 -  clones: 1 / 1
-    - record --  views: 0 / 0 -  clones: 1 / 1
-    - typeconv --  views: 0 / 0 -  clones: 1 / 1
-7. **factbook** views: 412, clones: 21  _(4)_
-    - factbook.json --  views: 303 / 55 -  clones: 18 / 14
-    - factbook --  views: 83 / 27 -  clones: 1 / 1
-    - factbook.sql --  views: 24 / 11 -  clones: 1 / 1
-    - factbook.github.io --  views: 2 / 2 -  clones: 1 / 1
-8. **openblockchains** views: 378, clones: 37  _(20)_
-    - awesome-blockchains --  views: 214 / 89 -  clones: 2 / 2
-    - programming-blockchains --  views: 74 / 25 -  clones: 5 / 4
-    - programming-cryptocontracts --  views: 33 / 22 -  clones: 3 / 3
-    - programming-bitcoin-script --  views: 12 / 5 -  clones: 1 / 1
+    - logutils --  views: 0 / 0 -  clones: 1 / 1
+    - tagutils --  views: 0 / 0 -  clones: 1 / 1
+    - activerecord-importer --  views: 0 / 0 -  clones: 0 / 0
+    - record --  views: 0 / 0 -  clones: 0 / 0
+    - typeconv --  views: 0 / 0 -  clones: 0 / 0
+5. **mundimark** views: 835, clones: 22  _(13)_
+    - awesome-markdown --  views: 475 / 290 -  clones: 7 / 7
+    - awesome-markdown-editors --  views: 169 / 130 -  clones: 5 / 5
+    - markdown-vs-latex --  views: 100 / 83 -  clones: 1 / 1
+    - awesome-markdown-alternatives --  views: 65 / 56 -  clones: 2 / 2
+    - awesome-books --  views: 11 / 11 -  clones: 0 / 0
+    - awesome-kramdown --  views: 10 / 5 -  clones: 1 / 1
+    - markdown.pl --  views: 3 / 3 -  clones: 0 / 0
+    - why-text --  views: 1 / 1 -  clones: 3 / 3
+    - markdown-tools-books --  views: 1 / 1 -  clones: 2 / 2
+    - markdown-tools --  views: 0 / 0 -  clones: 1 / 1
+    - markdown-can-i-use --  views: 0 / 0 -  clones: 0 / 0
+    - mundimark.github.io --  views: 0 / 0 -  clones: 0 / 0
+    - quickrefs --  views: 0 / 0 -  clones: 0 / 0
+6. **cryptocopycats** views: 559, clones: 16  _(9)_
+    - awesome-cryptokitties --  views: 417 / 87 -  clones: 9 / 5
+    - kitties --  views: 62 / 44 -  clones: 0 / 0
+    - kittyverse --  views: 28 / 13 -  clones: 0 / 0
+    - awesome-cryptocollectibles --  views: 19 / 6 -  clones: 4 / 2
+    - base32-alphabets --  views: 16 / 5 -  clones: 0 / 0
+    - copycats --  views: 10 / 7 -  clones: 1 / 1
+    - bitcat --  views: 6 / 3 -  clones: 0 / 0
+    - media --  views: 1 / 1 -  clones: 2 / 2
+    - kittyverse.json --  views: 0 / 0 -  clones: 0 / 0
+7. **factbook** views: 414, clones: 15  _(4)_
+    - factbook.json --  views: 289 / 50 -  clones: 14 / 11
+    - factbook --  views: 91 / 26 -  clones: 1 / 1
+    - factbook.sql --  views: 32 / 12 -  clones: 0 / 0
+    - factbook.github.io --  views: 2 / 2 -  clones: 0 / 0
+8. **updownpress** views: 414, clones: 1  _(2)_
+    - markdown-lint --  views: 414 / 263 -  clones: 1 / 1
+    - updownpress.github.io --  views: 0 / 0 -  clones: 0 / 0
+9. **openblockchains** views: 372, clones: 20  _(20)_
+    - awesome-blockchains --  views: 207 / 90 -  clones: 3 / 2
+    - programming-blockchains --  views: 47 / 23 -  clones: 5 / 4
+    - programming-cryptocontracts --  views: 28 / 20 -  clones: 3 / 3
+    - programming-bitcoin-script --  views: 13 / 6 -  clones: 0 / 0
+    - blockchain.lite.rb --  views: 12 / 8 -  clones: 1 / 1
+    - programming-cryptocollectibles --  views: 11 / 7 -  clones: 1 / 1
+    - awesome-libra --  views: 10 / 4 -  clones: 0 / 0
     - awesome-tokens --  views: 9 / 5 -  clones: 1 / 1
-    - blockchain.lite.rb --  views: 7 / 7 -  clones: 4 / 4
-    - programming-cryptocollectibles --  views: 6 / 5 -  clones: 2 / 2
-    - awesome-libra --  views: 6 / 3 -  clones: 2 / 2
-    - blockchain-whitepapers --  views: 5 / 2 -  clones: 2 / 2
-    - centralbank --  views: 4 / 4 -  clones: 1 / 1
-    - awesome-sha256 --  views: 3 / 3 -  clones: 1 / 1
-    - ledger.lite.rb --  views: 2 / 2 -  clones: 1 / 1
-    - awesome-ico-truths --  views: 1 / 1 -  clones: 1 / 1
-    - peer-to-peer.rb --  views: 1 / 1 -  clones: 1 / 1
-    - tulips --  views: 1 / 1 -  clones: 1 / 1
-    - blockchain.lite.js --  views: 0 / 0 -  clones: 3 / 3
-    - merkletree.rb --  views: 0 / 0 -  clones: 3 / 3
+    - centralbank --  views: 7 / 6 -  clones: 1 / 1
+    - awesome-sha256 --  views: 7 / 6 -  clones: 0 / 0
+    - awesome-ico-truths --  views: 4 / 3 -  clones: 1 / 1
+    - ledger.lite.rb --  views: 4 / 3 -  clones: 0 / 0
+    - peer-to-peer.rb --  views: 4 / 3 -  clones: 0 / 0
+    - tulips --  views: 4 / 3 -  clones: 0 / 0
+    - blockchain-whitepapers --  views: 2 / 2 -  clones: 1 / 1
+    - tulipmania --  views: 2 / 1 -  clones: 0 / 0
+    - blockchain.lite.js --  views: 1 / 1 -  clones: 1 / 1
     - awesome-cheezewizards --  views: 0 / 0 -  clones: 1 / 1
-    - awesome-coins --  views: 0 / 0 -  clones: 1 / 1
-    - tulipmania --  views: 0 / 0 -  clones: 1 / 1
-9. **updownpress** views: 347, clones: 3  _(2)_
-    - markdown-lint --  views: 347 / 237 -  clones: 2 / 2
-    - updownpress.github.io --  views: 0 / 0 -  clones: 1 / 1
-10. **sportdb** views: 297, clones: 20  _(10)_
-    - sport.db --  views: 133 / 38 -  clones: 9 / 9
-    - football.db --  views: 50 / 11 -  clones: 1 / 1
-    - sport.db.admin --  views: 33 / 14 -  clones: 2 / 2
-    - sport.db.web --  views: 29 / 8 -  clones: 1 / 1
-    - docs --  views: 24 / 15 -  clones: 1 / 1
+    - merkletree.rb --  views: 0 / 0 -  clones: 1 / 1
+    - awesome-coins --  views: 0 / 0 -  clones: 0 / 0
+10. **sportdb** views: 288, clones: 11  _(10)_
+    - sport.db --  views: 115 / 33 -  clones: 9 / 9
+    - football.db --  views: 55 / 12 -  clones: 1 / 1
+    - sport.db.web --  views: 33 / 9 -  clones: 0 / 0
+    - sport.db.admin --  views: 28 / 14 -  clones: 0 / 0
+    - docs --  views: 25 / 14 -  clones: 0 / 0
     - sport.db.sources --  views: 13 / 7 -  clones: 0 / 0
-    - datasets --  views: 11 / 9 -  clones: 1 / 1
-    - sport.db.service --  views: 3 / 2 -  clones: 2 / 2
-    - footty --  views: 1 / 1 -  clones: 2 / 2
-    - sportdb.github.io --  views: 0 / 0 -  clones: 1 / 1
-11. **planetopendata** views: 242, clones: 12  _(6)_
-    - awesome-football --  views: 100 / 66 -  clones: 2 / 2
-    - awesome-world --  views: 72 / 43 -  clones: 4 / 4
-    - awesome-sqlite --  views: 69 / 48 -  clones: 2 / 2
-    - planet --  views: 1 / 1 -  clones: 1 / 1
-    - awesome-austria --  views: 0 / 0 -  clones: 2 / 2
-    - planetopendata.github.io --  views: 0 / 0 -  clones: 1 / 1
-12. **openbeer** views: 191, clones: 43  _(28)_
-    - world --  views: 46 / 5 -  clones: 2 / 2
-    - docs --  views: 45 / 12 -  clones: 1 / 1
-    - datafile --  views: 35 / 10 -  clones: 3 / 3
-    - us-united-states --  views: 32 / 8 -  clones: 2 / 2
-    - cz-czech-republic --  views: 7 / 1 -  clones: 1 / 1
-    - schema.sql --  views: 6 / 2 -  clones: 2 / 2
-    - openbeer.github.io --  views: 5 / 4 -  clones: 2 / 2
-    - at-austria --  views: 4 / 1 -  clones: 2 / 2
-    - collections --  views: 3 / 2 -  clones: 2 / 2
-    - schema --  views: 3 / 2 -  clones: 1 / 1
-    - jp-japan --  views: 1 / 1 -  clones: 2 / 2
-    - notes --  views: 1 / 1 -  clones: 2 / 2
-    - by-bayern --  views: 1 / 1 -  clones: 1 / 1
-    - oberbayern --  views: 1 / 1 -  clones: 1 / 1
-    - oberfranken --  views: 1 / 1 -  clones: 1 / 1
-    - ch-confoederatio-helvetica --  views: 0 / 0 -  clones: 2 / 2
-    - co-colorado --  views: 0 / 0 -  clones: 2 / 2
-    - ie-ireland --  views: 0 / 0 -  clones: 2 / 2
-    - menus --  views: 0 / 0 -  clones: 2 / 2
-    - wa-washington --  views: 0 / 0 -  clones: 2 / 2
-    - be-belgium --  views: 0 / 0 -  clones: 1 / 1
-    - ca-canada --  views: 0 / 0 -  clones: 1 / 1
-    - de-deutschland --  views: 0 / 0 -  clones: 1 / 1
-    - images --  views: 0 / 0 -  clones: 1 / 1
-    - market --  views: 0 / 0 -  clones: 1 / 1
-    - mx-mexico --  views: 0 / 0 -  clones: 1 / 1
-    - nl-netherlands --  views: 0 / 0 -  clones: 1 / 1
-    - or-oregon --  views: 0 / 0 -  clones: 1 / 1
-13. **henrythemes** views: 187, clones: 23  _(13)_
-    - jekyll-minimal-theme --  views: 47 / 34 -  clones: 4 / 4
-    - jekyll-bootstrap-theme --  views: 32 / 22 -  clones: 2 / 2
-    - hello-jekyll-theme --  views: 30 / 28 -  clones: 1 / 1
-    - hello-minima-theme --  views: 25 / 15 -  clones: 1 / 1
-    - jekyll-starter-theme --  views: 18 / 11 -  clones: 2 / 2
-    - jekyll-book-theme --  views: 17 / 15 -  clones: 1 / 1
-    - jekyll-starter-theme-v2 --  views: 11 / 10 -  clones: 2 / 2
-    - hello-pages-theme-v2 --  views: 3 / 3 -  clones: 1 / 1
-    - jekyll-gutenberg-theme --  views: 2 / 2 -  clones: 2 / 2
-    - jekyll-talks-theme --  views: 2 / 2 -  clones: 1 / 1
-    - hello-pages-theme --  views: 0 / 0 -  clones: 2 / 2
-    - jekyll-boom-theme --  views: 0 / 0 -  clones: 2 / 2
-    - jekyll-boom-theme-v2 --  views: 0 / 0 -  clones: 2 / 2
-14. **planetruby** views: 179, clones: 42  _(15)_
-    - awesome-rubies --  views: 44 / 38 -  clones: 3 / 3
-    - awesome-webservers --  views: 39 / 18 -  clones: 5 / 5
-    - books --  views: 38 / 27 -  clones: 2 / 2
-    - meetups --  views: 30 / 7 -  clones: 5 / 5
-    - quiz --  views: 17 / 5 -  clones: 1 / 1
-    - calendar --  views: 11 / 9 -  clones: 8 / 7
-    - hellohoe --  views: 0 / 0 -  clones: 8 / 3
-    - quickrefs --  views: 0 / 0 -  clones: 3 / 3
-    - apps --  views: 0 / 0 -  clones: 1 / 1
-    - awesome --  views: 0 / 0 -  clones: 1 / 1
-    - calendar-theme --  views: 0 / 0 -  clones: 1 / 1
-    - gems --  views: 0 / 0 -  clones: 1 / 1
-    - links --  views: 0 / 0 -  clones: 1 / 1
-    - planet --  views: 0 / 0 -  clones: 1 / 1
-    - planetruby.github.io --  views: 0 / 0 -  clones: 1 / 1
-15. **openbookie** views: 151, clones: 11  _(8)_
-    - sportbook --  views: 128 / 73 -  clones: 3 / 3
-    - sport.db.play --  views: 14 / 4 -  clones: 2 / 2
-    - market.europe-champions-league --  views: 5 / 2 -  clones: 1 / 1
-    - sport.db.market --  views: 2 / 2 -  clones: 1 / 1
-    - market.euro-cup --  views: 1 / 1 -  clones: 1 / 1
-    - market.world-cup --  views: 1 / 1 -  clones: 1 / 1
-    - market.at-austria --  views: 0 / 0 -  clones: 1 / 1
+    - datasets --  views: 12 / 10 -  clones: 0 / 0
+    - sport.db.service --  views: 4 / 3 -  clones: 0 / 0
+    - footty --  views: 2 / 2 -  clones: 1 / 1
+    - sportdb.github.io --  views: 1 / 1 -  clones: 0 / 0
+11. **planetopendata** views: 225, clones: 5  _(6)_
+    - awesome-football --  views: 90 / 62 -  clones: 1 / 1
+    - awesome-sqlite --  views: 68 / 42 -  clones: 1 / 1
+    - awesome-world --  views: 66 / 40 -  clones: 2 / 2
+    - planet --  views: 1 / 1 -  clones: 0 / 0
+    - awesome-austria --  views: 0 / 0 -  clones: 1 / 1
+    - planetopendata.github.io --  views: 0 / 0 -  clones: 0 / 0
+12. **henrythemes** views: 207, clones: 13  _(13)_
+    - jekyll-bootstrap-theme --  views: 66 / 27 -  clones: 4 / 3
+    - jekyll-minimal-theme --  views: 38 / 28 -  clones: 2 / 2
+    - hello-jekyll-theme --  views: 25 / 21 -  clones: 0 / 0
+    - hello-minima-theme --  views: 23 / 15 -  clones: 0 / 0
+    - jekyll-starter-theme --  views: 22 / 13 -  clones: 1 / 1
+    - jekyll-starter-theme-v2 --  views: 14 / 9 -  clones: 2 / 2
+    - jekyll-book-theme --  views: 12 / 11 -  clones: 0 / 0
+    - hello-pages-theme-v2 --  views: 3 / 3 -  clones: 0 / 0
+    - jekyll-talks-theme --  views: 3 / 2 -  clones: 0 / 0
+    - jekyll-gutenberg-theme --  views: 1 / 1 -  clones: 1 / 1
+    - hello-pages-theme --  views: 0 / 0 -  clones: 1 / 1
+    - jekyll-boom-theme --  views: 0 / 0 -  clones: 1 / 1
+    - jekyll-boom-theme-v2 --  views: 0 / 0 -  clones: 1 / 1
+13. **planetruby** views: 178, clones: 13  _(15)_
+    - books --  views: 42 / 30 -  clones: 0 / 0
+    - awesome-rubies --  views: 40 / 32 -  clones: 2 / 2
+    - awesome-webservers --  views: 30 / 13 -  clones: 2 / 2
+    - meetups --  views: 18 / 3 -  clones: 1 / 1
+    - awesome --  views: 17 / 9 -  clones: 0 / 0
+    - calendar --  views: 16 / 9 -  clones: 6 / 4
+    - quiz --  views: 15 / 5 -  clones: 0 / 0
+    - hellohoe --  views: 0 / 0 -  clones: 1 / 1
+    - quickrefs --  views: 0 / 0 -  clones: 1 / 1
+    - apps --  views: 0 / 0 -  clones: 0 / 0
+    - calendar-theme --  views: 0 / 0 -  clones: 0 / 0
+    - gems --  views: 0 / 0 -  clones: 0 / 0
+    - links --  views: 0 / 0 -  clones: 0 / 0
+    - planet --  views: 0 / 0 -  clones: 0 / 0
+    - planetruby.github.io --  views: 0 / 0 -  clones: 0 / 0
+14. **openbeer** views: 172, clones: 13  _(28)_
+    - world --  views: 50 / 6 -  clones: 1 / 1
+    - datafile --  views: 35 / 10 -  clones: 2 / 2
+    - us-united-states --  views: 34 / 8 -  clones: 0 / 0
+    - docs --  views: 31 / 10 -  clones: 0 / 0
+    - at-austria --  views: 5 / 2 -  clones: 1 / 1
+    - schema.sql --  views: 5 / 1 -  clones: 0 / 0
+    - openbeer.github.io --  views: 4 / 3 -  clones: 1 / 1
+    - schema --  views: 4 / 3 -  clones: 0 / 0
+    - collections --  views: 3 / 2 -  clones: 1 / 1
+    - jp-japan --  views: 1 / 1 -  clones: 1 / 1
+    - ch-confoederatio-helvetica --  views: 0 / 0 -  clones: 1 / 1
+    - co-colorado --  views: 0 / 0 -  clones: 1 / 1
+    - ie-ireland --  views: 0 / 0 -  clones: 1 / 1
+    - menus --  views: 0 / 0 -  clones: 1 / 1
     - notes --  views: 0 / 0 -  clones: 1 / 1
-16. **opensport** views: 132, clones: 12  _(7)_
-    - formula1.db --  views: 87 / 27 -  clones: 5 / 5
-    - rugby.db --  views: 14 / 11 -  clones: 1 / 1
-    - hockey.db --  views: 14 / 4 -  clones: 1 / 1
-    - american-football.db --  views: 8 / 6 -  clones: 1 / 1
-    - opensport.github.io --  views: 6 / 4 -  clones: 1 / 1
-    - ski.db --  views: 3 / 3 -  clones: 1 / 1
-    - build --  views: 0 / 0 -  clones: 2 / 2
-17. **feedreader** views: 128, clones: 13  _(9)_
-    - pluto --  views: 47 / 9 -  clones: 3 / 3
-    - pluto.starter --  views: 39 / 4 -  clones: 2 / 2
-    - planet.rb --  views: 22 / 9 -  clones: 2 / 2
-    - feedreader.github.io --  views: 7 / 1 -  clones: 1 / 1
-    - planets --  views: 4 / 3 -  clones: 1 / 1
+    - wa-washington --  views: 0 / 0 -  clones: 1 / 1
+    - be-belgium --  views: 0 / 0 -  clones: 0 / 0
+    - by-bayern --  views: 0 / 0 -  clones: 0 / 0
+    - ca-canada --  views: 0 / 0 -  clones: 0 / 0
+    - cz-czech-republic --  views: 0 / 0 -  clones: 0 / 0
+    - de-deutschland --  views: 0 / 0 -  clones: 0 / 0
+    - images --  views: 0 / 0 -  clones: 0 / 0
+    - market --  views: 0 / 0 -  clones: 0 / 0
+    - mx-mexico --  views: 0 / 0 -  clones: 0 / 0
+    - nl-netherlands --  views: 0 / 0 -  clones: 0 / 0
+    - oberbayern --  views: 0 / 0 -  clones: 0 / 0
+    - oberfranken --  views: 0 / 0 -  clones: 0 / 0
+    - or-oregon --  views: 0 / 0 -  clones: 0 / 0
+15. **opensport** views: 155, clones: 2  _(7)_
+    - formula1.db --  views: 97 / 36 -  clones: 2 / 2
+    - hockey.db --  views: 17 / 6 -  clones: 0 / 0
+    - rugby.db --  views: 14 / 10 -  clones: 0 / 0
+    - opensport.github.io --  views: 13 / 3 -  clones: 0 / 0
+    - american-football.db --  views: 11 / 9 -  clones: 0 / 0
+    - ski.db --  views: 3 / 3 -  clones: 0 / 0
+    - build --  views: 0 / 0 -  clones: 0 / 0
+16. **csvreader** views: 150, clones: 11  _(11)_
+    - csvreader --  views: 111 / 39 -  clones: 2 / 2
+    - csv11 --  views: 12 / 2 -  clones: 2 / 2
+    - docs --  views: 11 / 8 -  clones: 2 / 2
+    - csvpack --  views: 6 / 3 -  clones: 3 / 2
+    - csvutils --  views: 5 / 3 -  clones: 1 / 1
+    - csvrecord --  views: 3 / 3 -  clones: 1 / 1
+    - benchmarks --  views: 2 / 2 -  clones: 0 / 0
+    - csvhuman --  views: 0 / 0 -  clones: 0 / 0
+    - csvjson --  views: 0 / 0 -  clones: 0 / 0
+    - csvyaml --  views: 0 / 0 -  clones: 0 / 0
+    - tabreader --  views: 0 / 0 -  clones: 0 / 0
+17. **feedreader** views: 147, clones: 3  _(9)_
+    - pluto --  views: 51 / 13 -  clones: 1 / 1
+    - pluto.starter --  views: 39 / 4 -  clones: 0 / 0
+    - planet.rb --  views: 37 / 8 -  clones: 0 / 0
+    - feedreader.github.io --  views: 7 / 1 -  clones: 0 / 0
+    - planets --  views: 4 / 3 -  clones: 0 / 0
     - jekyll.planet.sample --  views: 3 / 2 -  clones: 1 / 1
-    - news.rb --  views: 3 / 1 -  clones: 1 / 1
     - pluto.more.tools --  views: 3 / 1 -  clones: 1 / 1
-    - website.old --  views: 0 / 0 -  clones: 1 / 1
-18. **csvreader** views: 109, clones: 25  _(11)_
-    - csvreader --  views: 70 / 30 -  clones: 5 / 5
-    - csvpack --  views: 14 / 6 -  clones: 5 / 4
-    - csv11 --  views: 12 / 2 -  clones: 3 / 3
-    - docs --  views: 6 / 5 -  clones: 3 / 3
-    - csvutils --  views: 4 / 3 -  clones: 2 / 2
-    - csvrecord --  views: 2 / 2 -  clones: 2 / 2
-    - csvyaml --  views: 1 / 1 -  clones: 1 / 1
-    - benchmarks --  views: 0 / 0 -  clones: 1 / 1
-    - csvhuman --  views: 0 / 0 -  clones: 1 / 1
-    - csvjson --  views: 0 / 0 -  clones: 1 / 1
-    - tabreader --  views: 0 / 0 -  clones: 1 / 1
-19. **slideshow-templates** views: 106, clones: 46  _(16)_
-    - slideshow-google-html5-slides --  views: 32 / 14 -  clones: 4 / 4
-    - slideshow-templates.github.io --  views: 21 / 16 -  clones: 1 / 1
-    - slideshow-slidy --  views: 19 / 6 -  clones: 12 / 6
-    - slideshow-reveal.js --  views: 9 / 4 -  clones: 1 / 1
-    - slideshow-s6-blank --  views: 8 / 6 -  clones: 3 / 3
-    - slideshow-impress.js --  views: 4 / 3 -  clones: 3 / 3
-    - slideshow-shower --  views: 4 / 1 -  clones: 1 / 1
-    - slideshow-s5-blank --  views: 3 / 3 -  clones: 3 / 3
-    - slideshow-csss --  views: 2 / 1 -  clones: 3 / 3
-    - slideshow-deck.js --  views: 1 / 1 -  clones: 3 / 3
-    - slideshow-s5-themes --  views: 1 / 1 -  clones: 3 / 3
-    - slideshow-google-io-2011-slides --  views: 1 / 1 -  clones: 2 / 2
-    - slideshow-s6-blank-v1 --  views: 1 / 1 -  clones: 1 / 1
-    - slideshow-s6-syntax-highlighter --  views: 0 / 0 -  clones: 3 / 3
+    - news.rb --  views: 3 / 1 -  clones: 0 / 0
+    - website.old --  views: 0 / 0 -  clones: 0 / 0
+18. **openbookie** views: 125, clones: 3  _(8)_
+    - sportbook --  views: 105 / 68 -  clones: 2 / 2
+    - sport.db.play --  views: 11 / 3 -  clones: 1 / 1
+    - market.europe-champions-league --  views: 5 / 2 -  clones: 0 / 0
+    - sport.db.market --  views: 2 / 2 -  clones: 0 / 0
+    - market.euro-cup --  views: 1 / 1 -  clones: 0 / 0
+    - market.world-cup --  views: 1 / 1 -  clones: 0 / 0
+    - market.at-austria --  views: 0 / 0 -  clones: 0 / 0
+    - notes --  views: 0 / 0 -  clones: 0 / 0
+19. **slideshow-templates** views: 100, clones: 88  _(16)_
+    - slideshow-google-html5-slides --  views: 28 / 10 -  clones: 2 / 2
+    - slideshow-templates.github.io --  views: 24 / 18 -  clones: 0 / 0
+    - slideshow-slidy --  views: 19 / 6 -  clones: 75 / 5
+    - slideshow-reveal.js --  views: 7 / 3 -  clones: 1 / 1
+    - slideshow-impress.js --  views: 6 / 5 -  clones: 1 / 1
+    - slideshow-s6-blank --  views: 6 / 4 -  clones: 1 / 1
+    - slideshow-shower --  views: 4 / 1 -  clones: 0 / 0
+    - slideshow-s5-blank --  views: 2 / 2 -  clones: 1 / 1
+    - slideshow-csss --  views: 2 / 1 -  clones: 1 / 1
+    - slideshow-deck.js --  views: 1 / 1 -  clones: 1 / 1
+    - slideshow-s5-themes --  views: 1 / 1 -  clones: 1 / 1
     - media --  views: 0 / 0 -  clones: 2 / 2
-    - slideshow-bespoke.js --  views: 0 / 0 -  clones: 1 / 1
-20. **openmundi** views: 105, clones: 17  _(12)_
-    - world.db --  views: 87 / 24 -  clones: 6 / 6
-    - world.csv --  views: 10 / 5 -  clones: 1 / 1
-    - mundo-es --  views: 6 / 1 -  clones: 1 / 1
-    - datafile --  views: 2 / 2 -  clones: 1 / 1
-    - austria.db --  views: 0 / 0 -  clones: 1 / 1
-    - deutschland.db --  views: 0 / 0 -  clones: 1 / 1
-    - langs --  views: 0 / 0 -  clones: 1 / 1
-    - notes --  views: 0 / 0 -  clones: 1 / 1
-    - openmundi.github.io --  views: 0 / 0 -  clones: 1 / 1
-    - welt-de --  views: 0 / 0 -  clones: 1 / 1
+    - slideshow-google-io-2011-slides --  views: 0 / 0 -  clones: 1 / 1
+    - slideshow-s6-syntax-highlighter --  views: 0 / 0 -  clones: 1 / 1
+    - slideshow-bespoke.js --  views: 0 / 0 -  clones: 0 / 0
+    - slideshow-s6-blank-v1 --  views: 0 / 0 -  clones: 0 / 0
+20. **beerkit** views: 88, clones: 5  _(9)_
+    - beer.db.admin --  views: 67 / 3 -  clones: 0 / 0
+    - beer.db --  views: 13 / 3 -  clones: 0 / 0
+    - beer.db.starter --  views: 4 / 4 -  clones: 0 / 0
+    - beer.db.service --  views: 2 / 1 -  clones: 1 / 1
+    - beer.db.day --  views: 1 / 1 -  clones: 1 / 1
+    - beer.js --  views: 1 / 1 -  clones: 1 / 1
+    - beer.db.mobile --  views: 0 / 0 -  clones: 1 / 1
+    - beerbook --  views: 0 / 0 -  clones: 1 / 1
+    - beer.api.js --  views: 0 / 0 -  clones: 0 / 0
+21. **openmundi** views: 84, clones: 5  _(12)_
+    - world.db --  views: 67 / 18 -  clones: 4 / 4
+    - world.csv --  views: 10 / 5 -  clones: 0 / 0
+    - mundo-es --  views: 6 / 1 -  clones: 0 / 0
+    - datafile --  views: 1 / 1 -  clones: 0 / 0
     - wien.db --  views: 0 / 0 -  clones: 1 / 1
-    - world-heritage --  views: 0 / 0 -  clones: 1 / 1
-21. **beerkit** views: 97, clones: 16  _(9)_
-    - beer.db.admin --  views: 70 / 3 -  clones: 2 / 2
-    - beer.db --  views: 22 / 3 -  clones: 2 / 2
-    - beer.db.starter --  views: 3 / 3 -  clones: 1 / 1
-    - beer.db.day --  views: 1 / 1 -  clones: 2 / 2
-    - beer.js --  views: 1 / 1 -  clones: 2 / 2
-    - beer.db.mobile --  views: 0 / 0 -  clones: 2 / 2
-    - beer.db.service --  views: 0 / 0 -  clones: 2 / 2
-    - beerbook --  views: 0 / 0 -  clones: 2 / 2
-    - beer.api.js --  views: 0 / 0 -  clones: 1 / 1
-22. **worlddb** views: 72, clones: 12  _(8)_
-    - world.db --  views: 61 / 16 -  clones: 2 / 2
-    - world.db.flags --  views: 5 / 3 -  clones: 1 / 1
-    - world.db.admin --  views: 3 / 1 -  clones: 1 / 1
-    - world.lite --  views: 2 / 2 -  clones: 1 / 1
-    - world.db.service --  views: 1 / 1 -  clones: 2 / 2
-    - world.db.cities --  views: 0 / 0 -  clones: 2 / 2
-    - world.db.codes --  views: 0 / 0 -  clones: 2 / 2
-    - world.db.starter --  views: 0 / 0 -  clones: 1 / 1
-23. **sportkit** views: 67, clones: 8  _(7)_
-    - football.js --  views: 27 / 12 -  clones: 1 / 1
-    - football.js.starter --  views: 17 / 5 -  clones: 1 / 1
-    - football.html --  views: 12 / 2 -  clones: 1 / 1
-    - football.api.js --  views: 4 / 2 -  clones: 1 / 1
-    - sport.db.starter.ruby --  views: 3 / 3 -  clones: 1 / 1
-    - sport.db.starter.node.js --  views: 3 / 2 -  clones: 1 / 1
-    - sport.db.starter.go --  views: 1 / 1 -  clones: 2 / 2
-24. **typesigs** views: 47, clones: 21  _(9)_
-    - typesigs --  views: 17 / 5 -  clones: 2 / 2
-    - enums --  views: 12 / 6 -  clones: 1 / 1
-    - bytes --  views: 8 / 2 -  clones: 3 / 3
-    - safebool --  views: 6 / 6 -  clones: 3 / 3
-    - safedata --  views: 4 / 4 -  clones: 2 / 2
-    - programming-bits-bytes --  views: 0 / 0 -  clones: 3 / 3
-    - records --  views: 0 / 0 -  clones: 3 / 3
-    - awesome-types --  views: 0 / 0 -  clones: 2 / 2
-    - typesig --  views: 0 / 0 -  clones: 2 / 2
-25. **rsssf** views: 45, clones: 11  _(7)_
-    - england --  views: 15 / 7 -  clones: 2 / 2
-    - espana --  views: 13 / 8 -  clones: 1 / 1
-    - brazil --  views: 10 / 4 -  clones: 2 / 2
-    - austria --  views: 3 / 3 -  clones: 1 / 1
-    - deutschland --  views: 2 / 2 -  clones: 2 / 2
-    - spec --  views: 1 / 1 -  clones: 2 / 2
-    - rsssf.github.io --  views: 1 / 1 -  clones: 1 / 1
-26. **funpress** views: 43, clones: 10  _(6)_
-    - up-n-going --  views: 40 / 17 -  clones: 2 / 2
-    - mostly-adequate-guide-to-fp --  views: 3 / 2 -  clones: 2 / 2
-    - elm-by-example --  views: 0 / 0 -  clones: 2 / 2
-    - funpress.github.io --  views: 0 / 0 -  clones: 2 / 2
-    - babel --  views: 0 / 0 -  clones: 1 / 1
-    - es6-features --  views: 0 / 0 -  clones: 1 / 1
-27. **slideshow-s9** views: 41, clones: 16  _(9)_
-    - slideshow --  views: 18 / 8 -  clones: 2 / 2
-    - slideshow-s9.github.io --  views: 9 / 2 -  clones: 1 / 1
-    - awesome-slideshows --  views: 7 / 4 -  clones: 2 / 2
-    - docs --  views: 4 / 2 -  clones: 1 / 1
-    - samples --  views: 2 / 1 -  clones: 2 / 2
-    - demos --  views: 1 / 1 -  clones: 2 / 2
-    - slideshow-plugins --  views: 0 / 0 -  clones: 3 / 3
-    - slideshow-starter --  views: 0 / 0 -  clones: 2 / 2
-    - slideshow-service --  views: 0 / 0 -  clones: 1 / 1
-28. **geraldb** views: 39, clones: 20  _(11)_
-    - talks --  views: 36 / 23 -  clones: 5 / 5
-    - web-proxy-win --  views: 2 / 1 -  clones: 2 / 2
-    - geraldb.github.io --  views: 1 / 1 -  clones: 1 / 1
-    - austria --  views: 0 / 0 -  clones: 3 / 3
-    - chelitas --  views: 0 / 0 -  clones: 2 / 2
-    - logos --  views: 0 / 0 -  clones: 2 / 2
-    - catalog --  views: 0 / 0 -  clones: 1 / 1
-    - sandbox --  views: 0 / 0 -  clones: 1 / 1
-    - webcomponents --  views: 0 / 0 -  clones: 1 / 1
-    - webpub-reader --  views: 0 / 0 -  clones: 1 / 1
-    - wine.db.tools --  views: 0 / 0 -  clones: 1 / 1
-29. **feedparser** views: 36, clones: 8  _(5)_
-    - feedparser --  views: 30 / 21 -  clones: 2 / 2
-    - awesome-feeds --  views: 4 / 3 -  clones: 1 / 1
-    - feedfilter --  views: 2 / 1 -  clones: 3 / 3
-    - feedfinder --  views: 0 / 0 -  clones: 1 / 1
-    - feeds --  views: 0 / 0 -  clones: 1 / 1
-30. **drjekyllthemes** views: 31, clones: 8  _(4)_
-    - themes --  views: 23 / 10 -  clones: 3 / 3
-    - drjekyll --  views: 6 / 3 -  clones: 1 / 1
-    - drjekyllthemes.github.io --  views: 2 / 2 -  clones: 2 / 2
-    - test-theme --  views: 0 / 0 -  clones: 2 / 2
-31. **journaltxt** views: 30, clones: 4  _(3)_
-    - journaltxt --  views: 13 / 6 -  clones: 1 / 1
-    - blog --  views: 9 / 2 -  clones: 2 / 2
-    - journaltxt.github.io --  views: 8 / 3 -  clones: 1 / 1
-32. **s6ruby** views: 29, clones: 22  _(12)_
-    - ethereum-contracts --  views: 12 / 6 -  clones: 3 / 3
-    - awesome-crypto --  views: 7 / 6 -  clones: 1 / 1
-    - safemath --  views: 3 / 3 -  clones: 2 / 2
-    - pragmas --  views: 2 / 2 -  clones: 2 / 2
-    - units-time --  views: 2 / 2 -  clones: 1 / 1
-    - ruby-to-solidity --  views: 1 / 1 -  clones: 2 / 2
-    - universum --  views: 1 / 1 -  clones: 2 / 2
-    - redpaper --  views: 1 / 1 -  clones: 1 / 1
-    - units-money --  views: 0 / 0 -  clones: 3 / 3
-    - ruby-to-michelson --  views: 0 / 0 -  clones: 2 / 2
-    - safestruct --  views: 0 / 0 -  clones: 2 / 2
-    - universum-contracts --  views: 0 / 0 -  clones: 1 / 1
-33. **writekit** views: 29, clones: 12  _(9)_
-    - markdown --  views: 19 / 8 -  clones: 1 / 1
-    - kramdown-service --  views: 5 / 5 -  clones: 2 / 2
-    - markdown-service --  views: 3 / 1 -  clones: 2 / 2
-    - markdown.note --  views: 2 / 2 -  clones: 1 / 1
-    - markdown-tools --  views: 0 / 0 -  clones: 2 / 2
-    - markdown.api.js --  views: 0 / 0 -  clones: 1 / 1
-    - markdown.lib.js --  views: 0 / 0 -  clones: 1 / 1
-    - markdown.note.starter --  views: 0 / 0 -  clones: 1 / 1
-    - markdown.themes --  views: 0 / 0 -  clones: 1 / 1
-34. **datatxt** views: 27, clones: 4  _(3)_
-    - iniparser --  views: 15 / 3 -  clones: 1 / 1
-    - awseome-yaml --  views: 11 / 9 -  clones: 1 / 1
-    - datatxt.github.io --  views: 1 / 1 -  clones: 2 / 2
-35. **manuscripts** views: 22, clones: 6  _(3)_
-    - book-starter --  views: 14 / 5 -  clones: 2 / 2
-    - manuscripts.github.io --  views: 6 / 3 -  clones: 2 / 2
-    - manuscripts --  views: 2 / 2 -  clones: 2 / 2
-36. **textkit** views: 19, clones: 16  _(9)_
-    - textutils --  views: 9 / 3 -  clones: 3 / 3
-    - rubycat --  views: 4 / 1 -  clones: 2 / 2
-    - event.db --  views: 3 / 3 -  clones: 1 / 1
-    - whatson --  views: 3 / 3 -  clones: 1 / 1
-    - catalog.db --  views: 0 / 0 -  clones: 2 / 2
-    - datafile --  views: 0 / 0 -  clones: 2 / 2
-    - notes --  views: 0 / 0 -  clones: 2 / 2
-    - preproc --  views: 0 / 0 -  clones: 2 / 2
-    - dataman --  views: 0 / 0 -  clones: 1 / 1
-37. **printhtml** views: 19, clones: 6  _(2)_
-    - awesome-print --  views: 19 / 16 -  clones: 3 / 3
-    - quickrefs --  views: 0 / 0 -  clones: 3 / 3
-38. **pagedesigns** views: 19, clones: 2  _(2)_
-    - markedapp-byword --  views: 11 / 6 -  clones: 1 / 1
-    - jasonm23-dark --  views: 8 / 4 -  clones: 1 / 1
-39. **bigkorupto** views: 19, clones: 1  _(1)_
-    - awesome-nocode --  views: 19 / 11 -  clones: 1 / 1
-40. **austriacodes** views: 16, clones: 7  _(5)_
-    - vienna.html --  views: 13 / 5 -  clones: 1 / 1
-    - awesome-austria --  views: 3 / 3 -  clones: 3 / 3
-    - austria.txt --  views: 0 / 0 -  clones: 1 / 1
-    - austriacodes.github.io --  views: 0 / 0 -  clones: 1 / 1
-    - showcase --  views: 0 / 0 -  clones: 1 / 1
-41. **beercsv** views: 15, clones: 8  _(7)_
-    - statistics --  views: 11 / 2 -  clones: 1 / 1
-    - us-united-states --  views: 4 / 2 -  clones: 1 / 1
-    - ca-canada --  views: 0 / 0 -  clones: 2 / 2
-    - be-belgium --  views: 0 / 0 -  clones: 1 / 1
-    - build --  views: 0 / 0 -  clones: 1 / 1
-    - de-deutschland --  views: 0 / 0 -  clones: 1 / 1
-    - world --  views: 0 / 0 -  clones: 1 / 1
-42. **sportlogos** views: 14, clones: 7  _(6)_
-    - football.db.logos --  views: 14 / 6 -  clones: 1 / 1
-    - sport.db.logos --  views: 0 / 0 -  clones: 2 / 2
-    - football.db.logos.ruby --  views: 0 / 0 -  clones: 1 / 1
-    - hockey.db.logos --  views: 0 / 0 -  clones: 1 / 1
-    - sport.db.logos.ruby --  views: 0 / 0 -  clones: 1 / 1
-    - sportlogos.github.io --  views: 0 / 0 -  clones: 1 / 1
-43. **shellpress** views: 12, clones: 2  _(1)_
-    - raspberrypi --  views: 12 / 7 -  clones: 2 / 2
-44. **planet-templates** views: 11, clones: 33  _(11)_
-    - planet-blank --  views: 3 / 1 -  clones: 3 / 3
-    - planet-paper --  views: 2 / 2 -  clones: 3 / 3
-    - planet-classic --  views: 1 / 1 -  clones: 4 / 4
-    - planet-forty --  views: 1 / 1 -  clones: 4 / 4
-    - planet-zen --  views: 1 / 1 -  clones: 4 / 3
-    - planet-digest --  views: 1 / 1 -  clones: 3 / 3
-    - planet-top --  views: 1 / 1 -  clones: 3 / 3
-    - planet-templates.github.io --  views: 1 / 1 -  clones: 1 / 1
-    - planet-feeds --  views: 0 / 0 -  clones: 3 / 3
-    - planet-news --  views: 0 / 0 -  clones: 3 / 3
-    - planet-hacker --  views: 0 / 0 -  clones: 2 / 2
-45. **csvspecs** views: 10, clones: 16  _(9)_
-    - awesome-csv --  views: 5 / 5 -  clones: 2 / 2
-    - csv-meta --  views: 3 / 2 -  clones: 1 / 1
-    - csv-next --  views: 1 / 1 -  clones: 3 / 3
-    - csv-yaml --  views: 1 / 1 -  clones: 1 / 1
-    - csv-v11 --  views: 0 / 0 -  clones: 3 / 3
-    - csv-numerics --  views: 0 / 0 -  clones: 2 / 2
-    - csv-v10 --  views: 0 / 0 -  clones: 2 / 2
-    - csv-hxl --  views: 0 / 0 -  clones: 1 / 1
-    - csv-json --  views: 0 / 0 -  clones: 1 / 1
-46. **json-next** views: 10, clones: 9  _(5)_
-    - awesome-json-next --  views: 4 / 4 -  clones: 2 / 2
-    - json-next --  views: 4 / 4 -  clones: 2 / 2
-    - json-next.github.io --  views: 1 / 1 -  clones: 2 / 2
-    - json-feed --  views: 1 / 1 -  clones: 1 / 1
-    - json-next-tests --  views: 0 / 0 -  clones: 2 / 2
-47. **slidekit** views: 9, clones: 10  _(7)_
-    - s6 --  views: 9 / 7 -  clones: 1 / 1
-    - jekyll-talks-theme --  views: 0 / 0 -  clones: 2 / 2
-    - s6-v1 --  views: 0 / 0 -  clones: 2 / 2
-    - talks-starter --  views: 0 / 0 -  clones: 2 / 2
-    - s6-minimalistic --  views: 0 / 0 -  clones: 1 / 1
-    - s6-samples --  views: 0 / 0 -  clones: 1 / 1
-    - slidekit.github.io --  views: 0 / 0 -  clones: 1 / 1
-48. **yukimotopress** views: 8, clones: 19  _(15)_
-    - practicing --  views: 3 / 1 -  clones: 1 / 1
-    - yukimotopress.github.io --  views: 2 / 2 -  clones: 1 / 1
-    - http --  views: 2 / 1 -  clones: 1 / 1
-    - langs --  views: 1 / 1 -  clones: 1 / 1
-    - blockchains --  views: 0 / 0 -  clones: 2 / 2
-    - micro --  views: 0 / 0 -  clones: 2 / 2
-    - sinatra-intro --  views: 0 / 0 -  clones: 2 / 2
-    - smalldata --  views: 0 / 0 -  clones: 2 / 2
-    - auto --  views: 0 / 0 -  clones: 1 / 1
-    - examples --  views: 0 / 0 -  clones: 1 / 1
-    - fizzbuzz --  views: 0 / 0 -  clones: 1 / 1
-    - gem-dev --  views: 0 / 0 -  clones: 1 / 1
-    - gem-tasks --  views: 0 / 0 -  clones: 1 / 1
-    - practices --  views: 0 / 0 -  clones: 1 / 1
-    - start --  views: 0 / 0 -  clones: 1 / 1
-49. **staystatic** views: 8, clones: 9  _(5)_
+    - austria.db --  views: 0 / 0 -  clones: 0 / 0
+    - deutschland.db --  views: 0 / 0 -  clones: 0 / 0
+    - langs --  views: 0 / 0 -  clones: 0 / 0
+    - notes --  views: 0 / 0 -  clones: 0 / 0
+    - openmundi.github.io --  views: 0 / 0 -  clones: 0 / 0
+    - welt-de --  views: 0 / 0 -  clones: 0 / 0
+    - world-heritage --  views: 0 / 0 -  clones: 0 / 0
+22. **worlddb** views: 77, clones: 1  _(8)_
+    - world.db --  views: 65 / 17 -  clones: 0 / 0
+    - world.db.flags --  views: 5 / 2 -  clones: 0 / 0
+    - world.db.admin --  views: 3 / 1 -  clones: 0 / 0
+    - world.lite --  views: 2 / 2 -  clones: 0 / 0
+    - world.db.service --  views: 1 / 1 -  clones: 1 / 1
+    - world.db.cities --  views: 1 / 1 -  clones: 0 / 0
+    - world.db.codes --  views: 0 / 0 -  clones: 0 / 0
+    - world.db.starter --  views: 0 / 0 -  clones: 0 / 0
+23. **staystatic** views: 74, clones: 6  _(5)_
+    - staystatic --  views: 69 / 4 -  clones: 1 / 1
     - awesome-static --  views: 5 / 4 -  clones: 2 / 2
-    - staystatic --  views: 3 / 1 -  clones: 2 / 2
     - quickrefs --  views: 0 / 0 -  clones: 2 / 2
-    - staystatic.github.io --  views: 0 / 0 -  clones: 2 / 2
-    - staystatic-starter --  views: 0 / 0 -  clones: 1 / 1
-50. **quikstart** views: 8, clones: 6  _(6)_
-    - quik --  views: 7 / 2 -  clones: 1 / 1
-    - jekyll-starter-theme --  views: 1 / 1 -  clones: 1 / 1
-    - gem-starter-template --  views: 0 / 0 -  clones: 1 / 1
-    - gem-starter-template-hoe --  views: 0 / 0 -  clones: 1 / 1
-    - scripts --  views: 0 / 0 -  clones: 1 / 1
-    - sinatra-starter-template --  views: 0 / 0 -  clones: 1 / 1
-51. **bitsblocks** views: 7, clones: 24  _(11)_
-    - crypto-facts --  views: 3 / 1 -  clones: 2 / 2
-    - bitcoin-whitepaper --  views: 2 / 1 -  clones: 2 / 2
-    - bitcoin-maximalist --  views: 1 / 1 -  clones: 2 / 2
-    - get-rich-quick-bible --  views: 1 / 1 -  clones: 2 / 2
-    - crypto-bubbles --  views: 0 / 0 -  clones: 3 / 3
-    - islandcoin-whitepaper --  views: 0 / 0 -  clones: 3 / 3
-    - bitsblocks.github.io --  views: 0 / 0 -  clones: 2 / 2
-    - colored-coins-whitepaper --  views: 0 / 0 -  clones: 2 / 2
-    - ethereum --  views: 0 / 0 -  clones: 2 / 2
-    - ethereum-whitepaper --  views: 0 / 0 -  clones: 2 / 2
-    - mastercoin-whitepaper --  views: 0 / 0 -  clones: 2 / 2
-52. **octobook** views: 7, clones: 9  _(7)_
-    - book-2017-theme --  views: 3 / 3 -  clones: 1 / 1
-    - gitbook-to-octobook-sample --  views: 2 / 1 -  clones: 1 / 1
-    - book-2018-theme --  views: 1 / 1 -  clones: 2 / 2
-    - book-classics-theme --  views: 1 / 1 -  clones: 1 / 1
-    - book-blank-theme --  views: 0 / 0 -  clones: 2 / 2
-    - awesome-typography --  views: 0 / 0 -  clones: 1 / 1
-    - octobook --  views: 0 / 0 -  clones: 1 / 1
-53. **texti** views: 7, clones: 6  _(3)_
-    - texti.github.io --  views: 4 / 1 -  clones: 1 / 1
-    - texti --  views: 2 / 1 -  clones: 2 / 2
-    - pandoc --  views: 1 / 1 -  clones: 3 / 3
-54. **officetxt** views: 6, clones: 4  _(3)_
+    - staystatic.github.io --  views: 0 / 0 -  clones: 1 / 1
+    - staystatic-starter --  views: 0 / 0 -  clones: 0 / 0
+24. **sportkit** views: 59, clones: 1  _(7)_
+    - football.js --  views: 23 / 9 -  clones: 0 / 0
+    - football.js.starter --  views: 16 / 4 -  clones: 0 / 0
+    - football.html --  views: 10 / 2 -  clones: 0 / 0
+    - football.api.js --  views: 4 / 2 -  clones: 0 / 0
+    - sport.db.starter.node.js --  views: 3 / 2 -  clones: 0 / 0
+    - sport.db.starter.ruby --  views: 2 / 2 -  clones: 0 / 0
+    - sport.db.starter.go --  views: 1 / 1 -  clones: 1 / 1
+25. **geraldb** views: 57, clones: 7  _(11)_
+    - talks --  views: 50 / 27 -  clones: 2 / 2
+    - catalog --  views: 2 / 2 -  clones: 0 / 0
+    - web-proxy-win --  views: 2 / 1 -  clones: 1 / 1
+    - wine.db.tools --  views: 2 / 1 -  clones: 0 / 0
+    - geraldb.github.io --  views: 1 / 1 -  clones: 0 / 0
+    - austria --  views: 0 / 0 -  clones: 1 / 1
+    - chelitas --  views: 0 / 0 -  clones: 1 / 1
+    - logos --  views: 0 / 0 -  clones: 1 / 1
+    - webpub-reader --  views: 0 / 0 -  clones: 1 / 1
+    - sandbox --  views: 0 / 0 -  clones: 0 / 0
+    - webcomponents --  views: 0 / 0 -  clones: 0 / 0
+26. **typesigs** views: 48, clones: 12  _(9)_
+    - typesigs --  views: 17 / 5 -  clones: 1 / 1
+    - enums --  views: 13 / 6 -  clones: 0 / 0
+    - safebool --  views: 11 / 6 -  clones: 2 / 2
+    - safedata --  views: 7 / 6 -  clones: 1 / 1
+    - bytes --  views: 0 / 0 -  clones: 2 / 2
+    - programming-bits-bytes --  views: 0 / 0 -  clones: 2 / 2
+    - records --  views: 0 / 0 -  clones: 2 / 2
+    - awesome-types --  views: 0 / 0 -  clones: 1 / 1
+    - typesig --  views: 0 / 0 -  clones: 1 / 1
+27. **funpress** views: 47, clones: 2  _(6)_
+    - up-n-going --  views: 46 / 16 -  clones: 0 / 0
+    - mostly-adequate-guide-to-fp --  views: 1 / 1 -  clones: 0 / 0
+    - elm-by-example --  views: 0 / 0 -  clones: 1 / 1
+    - funpress.github.io --  views: 0 / 0 -  clones: 1 / 1
+    - babel --  views: 0 / 0 -  clones: 0 / 0
+    - es6-features --  views: 0 / 0 -  clones: 0 / 0
+28. **slideshow-s9** views: 46, clones: 9  _(9)_
+    - slideshow --  views: 22 / 10 -  clones: 2 / 2
+    - slideshow-s9.github.io --  views: 9 / 2 -  clones: 0 / 0
+    - awesome-slideshows --  views: 6 / 3 -  clones: 1 / 1
+    - docs --  views: 6 / 3 -  clones: 0 / 0
+    - samples --  views: 2 / 1 -  clones: 1 / 1
+    - demos --  views: 1 / 1 -  clones: 1 / 1
+    - slideshow-plugins --  views: 0 / 0 -  clones: 2 / 2
+    - slideshow-service --  views: 0 / 0 -  clones: 1 / 1
+    - slideshow-starter --  views: 0 / 0 -  clones: 1 / 1
+29. **rsssf** views: 42, clones: 3  _(7)_
+    - brazil --  views: 17 / 9 -  clones: 0 / 0
+    - england --  views: 14 / 7 -  clones: 1 / 1
+    - espana --  views: 7 / 6 -  clones: 0 / 0
+    - deutschland --  views: 2 / 2 -  clones: 1 / 1
+    - austria --  views: 2 / 2 -  clones: 0 / 0
+    - spec --  views: 0 / 0 -  clones: 1 / 1
+    - rsssf.github.io --  views: 0 / 0 -  clones: 0 / 0
+30. **s6ruby** views: 34, clones: 9  _(12)_
+    - ethereum-contracts --  views: 11 / 5 -  clones: 1 / 1
+    - awesome-crypto --  views: 8 / 6 -  clones: 0 / 0
+    - safemath --  views: 3 / 3 -  clones: 1 / 1
+    - units-time --  views: 3 / 2 -  clones: 0 / 0
+    - universum --  views: 2 / 2 -  clones: 1 / 1
+    - redpaper --  views: 2 / 2 -  clones: 0 / 0
+    - units-money --  views: 1 / 1 -  clones: 2 / 2
+    - pragmas --  views: 1 / 1 -  clones: 1 / 1
+    - ruby-to-michelson --  views: 1 / 1 -  clones: 1 / 1
+    - ruby-to-solidity --  views: 1 / 1 -  clones: 1 / 1
+    - safestruct --  views: 1 / 1 -  clones: 1 / 1
+    - universum-contracts --  views: 0 / 0 -  clones: 0 / 0
+31. **feedparser** views: 34, clones: 2  _(5)_
+    - feedparser --  views: 28 / 22 -  clones: 1 / 1
+    - awesome-feeds --  views: 4 / 3 -  clones: 0 / 0
+    - feedfilter --  views: 2 / 1 -  clones: 1 / 1
+    - feedfinder --  views: 0 / 0 -  clones: 0 / 0
+    - feeds --  views: 0 / 0 -  clones: 0 / 0
+32. **writekit** views: 32, clones: 2  _(9)_
+    - markdown --  views: 20 / 9 -  clones: 0 / 0
+    - kramdown-service --  views: 7 / 7 -  clones: 1 / 1
+    - markdown-service --  views: 3 / 1 -  clones: 1 / 1
+    - markdown.note --  views: 2 / 2 -  clones: 0 / 0
+    - markdown-tools --  views: 0 / 0 -  clones: 0 / 0
+    - markdown.api.js --  views: 0 / 0 -  clones: 0 / 0
+    - markdown.lib.js --  views: 0 / 0 -  clones: 0 / 0
+    - markdown.note.starter --  views: 0 / 0 -  clones: 0 / 0
+    - markdown.themes --  views: 0 / 0 -  clones: 0 / 0
+33. **drjekyllthemes** views: 31, clones: 3  _(4)_
+    - themes --  views: 23 / 10 -  clones: 2 / 2
+    - drjekyll --  views: 6 / 3 -  clones: 0 / 0
+    - drjekyllthemes.github.io --  views: 2 / 2 -  clones: 0 / 0
+    - test-theme --  views: 0 / 0 -  clones: 1 / 1
+34. **journaltxt** views: 30, clones: 1  _(3)_
+    - journaltxt --  views: 13 / 6 -  clones: 0 / 0
+    - blog --  views: 9 / 2 -  clones: 1 / 1
+    - journaltxt.github.io --  views: 8 / 3 -  clones: 0 / 0
+35. **datatxt** views: 28, clones: 1  _(3)_
+    - iniparser --  views: 18 / 5 -  clones: 0 / 0
+    - awseome-yaml --  views: 8 / 7 -  clones: 0 / 0
+    - datatxt.github.io --  views: 2 / 2 -  clones: 1 / 1
+36. **printhtml** views: 22, clones: 3  _(2)_
+    - awesome-print --  views: 22 / 17 -  clones: 1 / 1
+    - quickrefs --  views: 0 / 0 -  clones: 2 / 2
+37. **bigkorupto** views: 20, clones: 1  _(1)_
+    - awesome-nocode --  views: 20 / 14 -  clones: 1 / 1
+38. **manuscripts** views: 18, clones: 3  _(3)_
+    - book-starter --  views: 13 / 5 -  clones: 1 / 1
+    - manuscripts.github.io --  views: 3 / 2 -  clones: 1 / 1
+    - manuscripts --  views: 2 / 2 -  clones: 1 / 1
+39. **textkit** views: 17, clones: 6  _(9)_
+    - event.db --  views: 5 / 4 -  clones: 0 / 0
+    - whatson --  views: 4 / 4 -  clones: 0 / 0
+    - textutils --  views: 4 / 2 -  clones: 1 / 1
+    - rubycat --  views: 4 / 1 -  clones: 1 / 1
+    - catalog.db --  views: 0 / 0 -  clones: 1 / 1
+    - datafile --  views: 0 / 0 -  clones: 1 / 1
+    - notes --  views: 0 / 0 -  clones: 1 / 1
+    - preproc --  views: 0 / 0 -  clones: 1 / 1
+    - dataman --  views: 0 / 0 -  clones: 0 / 0
+40. **austriacodes** views: 16, clones: 2  _(5)_
+    - vienna.html --  views: 15 / 4 -  clones: 0 / 0
+    - awesome-austria --  views: 1 / 1 -  clones: 2 / 2
+    - austria.txt --  views: 0 / 0 -  clones: 0 / 0
+    - austriacodes.github.io --  views: 0 / 0 -  clones: 0 / 0
+    - showcase --  views: 0 / 0 -  clones: 0 / 0
+41. **pagedesigns** views: 16, clones: 0  _(2)_
+    - markedapp-byword --  views: 10 / 5 -  clones: 0 / 0
+    - jasonm23-dark --  views: 6 / 3 -  clones: 0 / 0
+42. **csvspecs** views: 14, clones: 7  _(9)_
+    - csv-meta --  views: 6 / 5 -  clones: 0 / 0
+    - awesome-csv --  views: 5 / 5 -  clones: 1 / 1
+    - csv-yaml --  views: 2 / 2 -  clones: 0 / 0
+    - csv-next --  views: 1 / 1 -  clones: 2 / 2
+    - csv-v11 --  views: 0 / 0 -  clones: 2 / 2
+    - csv-numerics --  views: 0 / 0 -  clones: 1 / 1
+    - csv-v10 --  views: 0 / 0 -  clones: 1 / 1
+    - csv-hxl --  views: 0 / 0 -  clones: 0 / 0
+    - csv-json --  views: 0 / 0 -  clones: 0 / 0
+43. **shellpress** views: 14, clones: 1  _(1)_
+    - raspberrypi --  views: 14 / 9 -  clones: 1 / 1
+44. **slidekit** views: 12, clones: 3  _(7)_
+    - s6 --  views: 12 / 7 -  clones: 0 / 0
+    - jekyll-talks-theme --  views: 0 / 0 -  clones: 1 / 1
+    - s6-v1 --  views: 0 / 0 -  clones: 1 / 1
+    - talks-starter --  views: 0 / 0 -  clones: 1 / 1
+    - s6-minimalistic --  views: 0 / 0 -  clones: 0 / 0
+    - s6-samples --  views: 0 / 0 -  clones: 0 / 0
+    - slidekit.github.io --  views: 0 / 0 -  clones: 0 / 0
+45. **sportlogos** views: 12, clones: 1  _(6)_
+    - football.db.logos --  views: 12 / 4 -  clones: 0 / 0
+    - sport.db.logos --  views: 0 / 0 -  clones: 1 / 1
+    - football.db.logos.ruby --  views: 0 / 0 -  clones: 0 / 0
+    - hockey.db.logos --  views: 0 / 0 -  clones: 0 / 0
+    - sport.db.logos.ruby --  views: 0 / 0 -  clones: 0 / 0
+    - sportlogos.github.io --  views: 0 / 0 -  clones: 0 / 0
+46. **planet-templates** views: 11, clones: 10  _(11)_
+    - planet-blank --  views: 3 / 1 -  clones: 1 / 1
+    - planet-paper --  views: 2 / 2 -  clones: 1 / 1
+    - planet-forty --  views: 1 / 1 -  clones: 2 / 2
+    - planet-classic --  views: 1 / 1 -  clones: 1 / 1
+    - planet-digest --  views: 1 / 1 -  clones: 1 / 1
+    - planet-top --  views: 1 / 1 -  clones: 1 / 1
+    - planet-zen --  views: 1 / 1 -  clones: 1 / 1
+    - planet-templates.github.io --  views: 1 / 1 -  clones: 0 / 0
+    - planet-feeds --  views: 0 / 0 -  clones: 1 / 1
+    - planet-news --  views: 0 / 0 -  clones: 1 / 1
+    - planet-hacker --  views: 0 / 0 -  clones: 0 / 0
+47. **json-next** views: 11, clones: 6  _(5)_
+    - json-next --  views: 5 / 4 -  clones: 2 / 2
+    - awesome-json-next --  views: 4 / 4 -  clones: 1 / 1
+    - json-feed --  views: 2 / 2 -  clones: 1 / 1
+    - json-next-tests --  views: 0 / 0 -  clones: 1 / 1
+    - json-next.github.io --  views: 0 / 0 -  clones: 1 / 1
+48. **yukimotopress** views: 11, clones: 5  _(15)_
+    - practicing --  views: 3 / 1 -  clones: 0 / 0
+    - langs --  views: 2 / 2 -  clones: 0 / 0
+    - yukimotopress.github.io --  views: 2 / 2 -  clones: 0 / 0
+    - fizzbuzz --  views: 2 / 1 -  clones: 0 / 0
+    - http --  views: 2 / 1 -  clones: 0 / 0
+    - smalldata --  views: 0 / 0 -  clones: 2 / 2
+    - blockchains --  views: 0 / 0 -  clones: 1 / 1
+    - micro --  views: 0 / 0 -  clones: 1 / 1
+    - sinatra-intro --  views: 0 / 0 -  clones: 1 / 1
+    - auto --  views: 0 / 0 -  clones: 0 / 0
+    - examples --  views: 0 / 0 -  clones: 0 / 0
+    - gem-dev --  views: 0 / 0 -  clones: 0 / 0
+    - gem-tasks --  views: 0 / 0 -  clones: 0 / 0
+    - practices --  views: 0 / 0 -  clones: 0 / 0
+    - start --  views: 0 / 0 -  clones: 0 / 0
+49. **texti** views: 9, clones: 2  _(3)_
+    - texti.github.io --  views: 4 / 1 -  clones: 0 / 0
+    - pandoc --  views: 3 / 2 -  clones: 2 / 2
+    - texti --  views: 2 / 1 -  clones: 0 / 0
+50. **bitsblocks** views: 9, clones: 1  _(11)_
+    - crypto-facts --  views: 5 / 3 -  clones: 0 / 0
+    - bitcoin-maximalist --  views: 3 / 2 -  clones: 0 / 0
+    - get-rich-quick-bible --  views: 1 / 1 -  clones: 0 / 0
+    - islandcoin-whitepaper --  views: 0 / 0 -  clones: 1 / 1
+    - bitcoin-whitepaper --  views: 0 / 0 -  clones: 0 / 0
+    - bitsblocks.github.io --  views: 0 / 0 -  clones: 0 / 0
+    - colored-coins-whitepaper --  views: 0 / 0 -  clones: 0 / 0
+    - crypto-bubbles --  views: 0 / 0 -  clones: 0 / 0
+    - ethereum --  views: 0 / 0 -  clones: 0 / 0
+    - ethereum-whitepaper --  views: 0 / 0 -  clones: 0 / 0
+    - mastercoin-whitepaper --  views: 0 / 0 -  clones: 0 / 0
+51. **octobook** views: 7, clones: 4  _(7)_
+    - book-2018-theme --  views: 2 / 2 -  clones: 2 / 2
+    - gitbook-to-octobook-sample --  views: 2 / 1 -  clones: 0 / 0
+    - book-2017-theme --  views: 1 / 1 -  clones: 1 / 1
+    - book-classics-theme --  views: 1 / 1 -  clones: 0 / 0
+    - octobook --  views: 1 / 1 -  clones: 0 / 0
+    - book-blank-theme --  views: 0 / 0 -  clones: 1 / 1
+    - awesome-typography --  views: 0 / 0 -  clones: 0 / 0
+52. **beercsv** views: 6, clones: 1  _(7)_
+    - us-united-states --  views: 5 / 3 -  clones: 0 / 0
+    - statistics --  views: 1 / 1 -  clones: 0 / 0
+    - ca-canada --  views: 0 / 0 -  clones: 1 / 1
+    - be-belgium --  views: 0 / 0 -  clones: 0 / 0
+    - build --  views: 0 / 0 -  clones: 0 / 0
+    - de-deutschland --  views: 0 / 0 -  clones: 0 / 0
+    - world --  views: 0 / 0 -  clones: 0 / 0
+53. **hybook** views: 6, clones: 0  _(3)_
+    - hybook --  views: 3 / 3 -  clones: 0 / 0
+    - bookfile --  views: 3 / 2 -  clones: 0 / 0
+    - bookman --  views: 0 / 0 -  clones: 0 / 0
+54. **officetxt** views: 5, clones: 2  _(3)_
     - awesome-txt --  views: 4 / 4 -  clones: 1 / 1
-    - officetxt.github.io --  views: 1 / 1 -  clones: 2 / 2
-    - officetxt --  views: 1 / 1 -  clones: 1 / 1
-55. **hybook** views: 5, clones: 3  _(3)_
-    - hybook --  views: 4 / 4 -  clones: 1 / 1
-    - bookfile --  views: 1 / 1 -  clones: 1 / 1
-    - bookman --  views: 0 / 0 -  clones: 1 / 1
-56. **footballbook** views: 4, clones: 3  _(2)_
-    - footballbook.github.io --  views: 4 / 3 -  clones: 2 / 2
-    - calendar --  views: 0 / 0 -  clones: 1 / 1
-57. **beerbook** views: 3, clones: 7  _(3)_
-    - maps --  views: 2 / 2 -  clones: 3 / 3
-    - beerbook.github.io --  views: 1 / 1 -  clones: 3 / 3
-    - calendar --  views: 0 / 0 -  clones: 1 / 1
-58. **book-templates** views: 3, clones: 5  _(4)_
-    - football --  views: 1 / 1 -  clones: 2 / 2
-    - beer --  views: 1 / 1 -  clones: 1 / 1
-    - bookfile --  views: 1 / 1 -  clones: 1 / 1
-    - world --  views: 0 / 0 -  clones: 1 / 1
-59. **worldclassics** views: 3, clones: 3  _(3)_
-    - dr-jekyll-and-mr-hyde --  views: 1 / 1 -  clones: 1 / 1
-    - the-trial --  views: 1 / 1 -  clones: 1 / 1
-    - worldclassics.github.io --  views: 1 / 1 -  clones: 1 / 1
-60. **bookdesigns** views: 2, clones: 7  _(5)_
-    - designs --  views: 1 / 1 -  clones: 2 / 2
-    - book-git --  views: 1 / 1 -  clones: 1 / 1
-    - book-hamilton --  views: 0 / 0 -  clones: 2 / 2
-    - book-epsilon --  views: 0 / 0 -  clones: 1 / 1
-    - book-rust --  views: 0 / 0 -  clones: 1 / 1
-61. **mrhydescripts** views: 2, clones: 3  _(2)_
-    - scripts --  views: 1 / 1 -  clones: 2 / 2
-    - mrhyde --  views: 1 / 1 -  clones: 1 / 1
-62. **feedtxt** views: 2, clones: 2  _(2)_
-    - feedtxt --  views: 2 / 2 -  clones: 1 / 1
-    - feedtxt.github.io --  views: 0 / 0 -  clones: 1 / 1
-63. **wikiscript** views: 1, clones: 8  _(4)_
-    - wikiscript --  views: 1 / 1 -  clones: 3 / 2
-    - football.players --  views: 0 / 0 -  clones: 3 / 2
-    - beer --  views: 0 / 0 -  clones: 1 / 1
-    - football.squads --  views: 0 / 0 -  clones: 1 / 1
-64. **playhtml** views: 1, clones: 7  _(6)_
-    - memory --  views: 1 / 1 -  clones: 2 / 2
-    - feeds --  views: 0 / 0 -  clones: 1 / 1
-    - hello --  views: 0 / 0 -  clones: 1 / 1
-    - search --  views: 0 / 0 -  clones: 1 / 1
-    - tictactoe --  views: 0 / 0 -  clones: 1 / 1
-    - weather --  views: 0 / 0 -  clones: 1 / 1
-65. **webstart** views: 1, clones: 7  _(6)_
-    - webstart --  views: 1 / 1 -  clones: 1 / 1
-    - links --  views: 0 / 0 -  clones: 2 / 2
-    - manman --  views: 0 / 0 -  clones: 1 / 1
-    - upman --  views: 0 / 0 -  clones: 1 / 1
-    - upman-win --  views: 0 / 0 -  clones: 1 / 1
-    - webstart.github.io --  views: 0 / 0 -  clones: 1 / 1
-66. **schemadoc** views: 1, clones: 4  _(2)_
-    - schemadoc --  views: 1 / 1 -  clones: 1 / 1
-    - schemadoc-theme --  views: 0 / 0 -  clones: 3 / 3
-67. **bibtxt** views: 1, clones: 2  _(1)_
-    - bibtxt.github.io --  views: 1 / 1 -  clones: 2 / 2
-68. **publicdomainworks** views: 1, clones: 1  _(1)_
-    - publicdomainworks.github.io --  views: 1 / 1 -  clones: 1 / 1
-69. **hydepress** views: 0, clones: 26  _(12)_
-    - jekyll-deploy --  views: 0 / 0 -  clones: 3 / 3
-    - jekyll-install --  views: 0 / 0 -  clones: 3 / 3
-    - jekyll-plugins --  views: 0 / 0 -  clones: 3 / 3
-    - hydepress.github.io --  views: 0 / 0 -  clones: 2 / 2
-    - jekyll --  views: 0 / 0 -  clones: 2 / 2
-    - jekyll-dev --  views: 0 / 0 -  clones: 2 / 2
-    - jekyll-import --  views: 0 / 0 -  clones: 2 / 2
-    - jekyll-style --  views: 0 / 0 -  clones: 2 / 2
-    - jekyll-themes --  views: 0 / 0 -  clones: 2 / 2
-    - liquid --  views: 0 / 0 -  clones: 2 / 2
-    - octopress --  views: 0 / 0 -  clones: 2 / 2
-    - octopod --  views: 0 / 0 -  clones: 1 / 1
-70. **viennarb** views: 0, clones: 9  _(3)_
-    - planet --  views: 0 / 0 -  clones: 3 / 3
-    - questions --  views: 0 / 0 -  clones: 3 / 3
-    - viennarb.github.io --  views: 0 / 0 -  clones: 3 / 3
-71. **viennacrypto** views: 0, clones: 5  _(2)_
-    - blockchain-whitepapers --  views: 0 / 0 -  clones: 3 / 3
-    - viennacrypto.github.io --  views: 0 / 0 -  clones: 2 / 2
-72. **plutolive** views: 0, clones: 5  _(3)_
-    - pluto.live --  views: 0 / 0 -  clones: 2 / 2
-    - pluto.live.starter --  views: 0 / 0 -  clones: 2 / 2
-    - pluto.admin --  views: 0 / 0 -  clones: 1 / 1
-73. **planetbeer** views: 0, clones: 4  _(3)_
-    - books --  views: 0 / 0 -  clones: 2 / 2
-    - planet --  views: 0 / 0 -  clones: 1 / 1
-    - planetbeer.github.io --  views: 0 / 0 -  clones: 1 / 1
-74. **persondb** views: 0, clones: 3  _(1)_
-    - person.db.models --  views: 0 / 0 -  clones: 3 / 3
-75. **feedhtml** views: 0, clones: 3  _(2)_
-    - hyperdata --  views: 0 / 0 -  clones: 2 / 2
-    - feedhtml.github.io --  views: 0 / 0 -  clones: 1 / 1
-76. **markupmadness** views: 0, clones: 3  _(2)_
-    - markupmadness --  views: 0 / 0 -  clones: 2 / 2
-    - markupmadness.github.io --  views: 0 / 0 -  clones: 1 / 1
-77. **worldbook** views: 0, clones: 2  _(1)_
-    - worldbook.github.io --  views: 0 / 0 -  clones: 2 / 2
-78. **beerlabels** views: 0, clones: 2  _(2)_
-    - beer.db.labels --  views: 0 / 0 -  clones: 1 / 1
-    - beer.db.labels.ruby --  views: 0 / 0 -  clones: 1 / 1
-79. **bitshilling** views: 0, clones: 2  _(2)_
-    - bitshilling --  views: 0 / 0 -  clones: 1 / 1
-    - bitshilling.tools --  views: 0 / 0 -  clones: 1 / 1
-80. **openwine** views: 0, clones: 2  _(2)_
-    - at-austria --  views: 0 / 0 -  clones: 1 / 1
-    - build --  views: 0 / 0 -  clones: 1 / 1
-81. **chooseaconduct** views: 0, clones: 1  _(1)_
-    - chooseaconduct.github.io --  views: 0 / 0 -  clones: 1 / 1
-82. **sportlabs** views: 0, clones: 1  _(1)_
-    - major-league-soccer --  views: 0 / 0 -  clones: 1 / 1
+    - officetxt.github.io --  views: 1 / 1 -  clones: 1 / 1
+    - officetxt --  views: 0 / 0 -  clones: 0 / 0
+55. **schemadoc** views: 4, clones: 2  _(2)_
+    - schemadoc --  views: 4 / 4 -  clones: 0 / 0
+    - schemadoc-theme --  views: 0 / 0 -  clones: 2 / 2
+56. **mrhydescripts** views: 4, clones: 1  _(2)_
+    - scripts --  views: 3 / 3 -  clones: 1 / 1
+    - mrhyde --  views: 1 / 1 -  clones: 0 / 0
+57. **beerlabels** views: 4, clones: 0  _(2)_
+    - beer.db.labels.ruby --  views: 4 / 1 -  clones: 0 / 0
+    - beer.db.labels --  views: 0 / 0 -  clones: 0 / 0
+58. **beerbook** views: 3, clones: 3  _(3)_
+    - maps --  views: 2 / 2 -  clones: 2 / 2
+    - beerbook.github.io --  views: 1 / 1 -  clones: 1 / 1
+    - calendar --  views: 0 / 0 -  clones: 0 / 0
+59. **bookdesigns** views: 3, clones: 2  _(5)_
+    - designs --  views: 1 / 1 -  clones: 1 / 1
+    - book-epsilon --  views: 1 / 1 -  clones: 0 / 0
+    - book-git --  views: 1 / 1 -  clones: 0 / 0
+    - book-hamilton --  views: 0 / 0 -  clones: 1 / 1
+    - book-rust --  views: 0 / 0 -  clones: 0 / 0
+60. **worldclassics** views: 3, clones: 0  _(3)_
+    - dr-jekyll-and-mr-hyde --  views: 1 / 1 -  clones: 0 / 0
+    - the-trial --  views: 1 / 1 -  clones: 0 / 0
+    - worldclassics.github.io --  views: 1 / 1 -  clones: 0 / 0
+61. **quikstart** views: 3, clones: 0  _(6)_
+    - quik --  views: 2 / 2 -  clones: 0 / 0
+    - jekyll-starter-theme --  views: 1 / 1 -  clones: 0 / 0
+    - gem-starter-template --  views: 0 / 0 -  clones: 0 / 0
+    - gem-starter-template-hoe --  views: 0 / 0 -  clones: 0 / 0
+    - scripts --  views: 0 / 0 -  clones: 0 / 0
+    - sinatra-starter-template --  views: 0 / 0 -  clones: 0 / 0
+62. **hydepress** views: 2, clones: 14  _(12)_
+    - octopod --  views: 2 / 1 -  clones: 0 / 0
+    - jekyll-deploy --  views: 0 / 0 -  clones: 2 / 2
+    - jekyll-install --  views: 0 / 0 -  clones: 2 / 2
+    - jekyll-plugins --  views: 0 / 0 -  clones: 2 / 2
+    - hydepress.github.io --  views: 0 / 0 -  clones: 1 / 1
+    - jekyll --  views: 0 / 0 -  clones: 1 / 1
+    - jekyll-dev --  views: 0 / 0 -  clones: 1 / 1
+    - jekyll-import --  views: 0 / 0 -  clones: 1 / 1
+    - jekyll-style --  views: 0 / 0 -  clones: 1 / 1
+    - jekyll-themes --  views: 0 / 0 -  clones: 1 / 1
+    - liquid --  views: 0 / 0 -  clones: 1 / 1
+    - octopress --  views: 0 / 0 -  clones: 1 / 1
+63. **book-templates** views: 2, clones: 1  _(4)_
+    - football --  views: 1 / 1 -  clones: 1 / 1
+    - beer --  views: 1 / 1 -  clones: 0 / 0
+    - bookfile --  views: 0 / 0 -  clones: 0 / 0
+    - world --  views: 0 / 0 -  clones: 0 / 0
+64. **bitshilling** views: 2, clones: 0  _(2)_
+    - bitshilling --  views: 1 / 1 -  clones: 0 / 0
+    - bitshilling.tools --  views: 1 / 1 -  clones: 0 / 0
+65. **footballbook** views: 2, clones: 0  _(2)_
+    - footballbook.github.io --  views: 2 / 2 -  clones: 0 / 0
+    - calendar --  views: 0 / 0 -  clones: 0 / 0
+66. **webstart** views: 2, clones: 0  _(6)_
+    - webstart --  views: 2 / 2 -  clones: 0 / 0
+    - links --  views: 0 / 0 -  clones: 0 / 0
+    - manman --  views: 0 / 0 -  clones: 0 / 0
+    - upman --  views: 0 / 0 -  clones: 0 / 0
+    - upman-win --  views: 0 / 0 -  clones: 0 / 0
+    - webstart.github.io --  views: 0 / 0 -  clones: 0 / 0
+67. **wikiscript** views: 1, clones: 4  _(4)_
+    - wikiscript --  views: 1 / 1 -  clones: 2 / 1
+    - football.players --  views: 0 / 0 -  clones: 2 / 1
+    - beer --  views: 0 / 0 -  clones: 0 / 0
+    - football.squads --  views: 0 / 0 -  clones: 0 / 0
+68. **viennacrypto** views: 1, clones: 2  _(2)_
+    - blockchain-whitepapers --  views: 1 / 1 -  clones: 1 / 1
+    - viennacrypto.github.io --  views: 0 / 0 -  clones: 1 / 1
+69. **bibtxt** views: 1, clones: 1  _(1)_
+    - bibtxt.github.io --  views: 1 / 1 -  clones: 1 / 1
+70. **persondb** views: 1, clones: 1  _(1)_
+    - person.db.models --  views: 1 / 1 -  clones: 1 / 1
+71. **plutolive** views: 1, clones: 1  _(3)_
+    - pluto.admin --  views: 1 / 1 -  clones: 0 / 0
+    - pluto.live.starter --  views: 0 / 0 -  clones: 1 / 1
+    - pluto.live --  views: 0 / 0 -  clones: 0 / 0
+72. **playhtml** views: 1, clones: 1  _(6)_
+    - memory --  views: 1 / 1 -  clones: 1 / 1
+    - feeds --  views: 0 / 0 -  clones: 0 / 0
+    - hello --  views: 0 / 0 -  clones: 0 / 0
+    - search --  views: 0 / 0 -  clones: 0 / 0
+    - tictactoe --  views: 0 / 0 -  clones: 0 / 0
+    - weather --  views: 0 / 0 -  clones: 0 / 0
+73. **publicdomainworks** views: 1, clones: 0  _(1)_
+    - publicdomainworks.github.io --  views: 1 / 1 -  clones: 0 / 0
+74. **feedtxt** views: 1, clones: 0  _(2)_
+    - feedtxt --  views: 1 / 1 -  clones: 0 / 0
+    - feedtxt.github.io --  views: 0 / 0 -  clones: 0 / 0
+75. **viennarb** views: 0, clones: 7  _(3)_
+    - questions --  views: 0 / 0 -  clones: 3 / 2
+    - planet --  views: 0 / 0 -  clones: 2 / 2
+    - viennarb.github.io --  views: 0 / 0 -  clones: 2 / 2
+76. **worldbook** views: 0, clones: 1  _(1)_
+    - worldbook.github.io --  views: 0 / 0 -  clones: 1 / 1
+77. **feedhtml** views: 0, clones: 1  _(2)_
+    - hyperdata --  views: 0 / 0 -  clones: 1 / 1
+    - feedhtml.github.io --  views: 0 / 0 -  clones: 0 / 0
+78. **markupmadness** views: 0, clones: 1  _(2)_
+    - markupmadness --  views: 0 / 0 -  clones: 1 / 1
+    - markupmadness.github.io --  views: 0 / 0 -  clones: 0 / 0
+79. **chooseaconduct** views: 0, clones: 0  _(1)_
+    - chooseaconduct.github.io --  views: 0 / 0 -  clones: 0 / 0
+80. **sportlabs** views: 0, clones: 0  _(1)_
+    - major-league-soccer --  views: 0 / 0 -  clones: 0 / 0
+81. **openwine** views: 0, clones: 0  _(2)_
+    - at-austria --  views: 0 / 0 -  clones: 0 / 0
+    - build --  views: 0 / 0 -  clones: 0 / 0
+82. **planetbeer** views: 0, clones: 0  _(3)_
+    - books --  views: 0 / 0 -  clones: 0 / 0
+    - planet --  views: 0 / 0 -  clones: 0 / 0
+    - planetbeer.github.io --  views: 0 / 0 -  clones: 0 / 0
 <!-- break -->
 
 
 All repos:
 
-1.  **openfootball/football.json** --  views: 2461 / 448 -  clones: 55 / 17
-2.  **openfootball/england** --  views: 1538 / 289 -  clones: 50 / 16
-3.  **footballcsv/england** --  views: 1037 / 203 -  clones: 36 / 4
-4.  **openfootball/world-cup** --  views: 508 / 154 -  clones: 37 / 6
-5.  **cryptocopycats/awesome-cryptokitties** --  views: 489 / 85 -  clones: 12 / 7
-6.  **mundimark/awesome-markdown** --  views: 475 / 279 -  clones: 8 / 8
-7.  **openfootball/world** --  views: 427 / 77 -  clones: 38 / 7
-8.  **planetjekyll/awesome-jekyll-plugins** --  views: 397 / 254 -  clones: 8 / 8
-9.  **rubycoco/git** --  views: 366 / 121 -  clones: 29 / 19
-10.  **updownpress/markdown-lint** --  views: 347 / 237 -  clones: 2 / 2
-11.  **planetjekyll/awesome-jekyll-themes** --  views: 320 / 153 -  clones: 7 / 7
-12.  **openfootball/south-america** --  views: 318 / 60 -  clones: 44 / 6
-13.  **factbook/factbook.json** --  views: 303 / 55 -  clones: 18 / 14
-14.  **openfootball/europe** --  views: 270 / 54 -  clones: 45 / 8
-15.  **footballcsv/espana** --  views: 267 / 61 -  clones: 34 / 3
-16.  **openfootball/deutschland** --  views: 263 / 40 -  clones: 37 / 4
-17.  **openfootball/espana** --  views: 261 / 70 -  clones: 36 / 3
-18.  **openfootball/schema.sql** --  views: 258 / 89 -  clones: 5 / 5
-19.  **openfootball/stadiums** --  views: 226 / 54 -  clones: 1 / 1
-20.  **openblockchains/awesome-blockchains** --  views: 214 / 89 -  clones: 2 / 2
-21.  **mundimark/awesome-markdown-editors** --  views: 175 / 121 -  clones: 7 / 7
-22.  **openfootball/europe-champions-league** --  views: 159 / 45 -  clones: 36 / 3
-23.  **footballcsv/europe-champions-league** --  views: 158 / 42 -  clones: 1 / 1
-24.  **footballcsv/world** --  views: 153 / 45 -  clones: 41 / 8
-25.  **openfootball/quick-starter** --  views: 144 / 53 -  clones: 2 / 2
-26.  **openfootball/clubs** --  views: 141 / 26 -  clones: 40 / 7
-27.  **sportdb/sport.db** --  views: 133 / 38 -  clones: 9 / 9
-28.  **openbookie/sportbook** --  views: 128 / 73 -  clones: 3 / 3
-29.  **planetjekyll/awesome-jekyll-editors** --  views: 127 / 88 -  clones: 4 / 4
-30.  **rubycoco/webclient** --  views: 123 / 4 -  clones: 26 / 17
-31.  **planetopendata/awesome-football** --  views: 100 / 66 -  clones: 2 / 2
-32.  **footballcsv/deutschland** --  views: 100 / 25 -  clones: 38 / 6
-33.  **footballcsv/footballcsv.github.io** --  views: 99 / 68 -  clones: 2 / 2
-34.  **opensport/formula1.db** --  views: 87 / 27 -  clones: 5 / 5
-35.  **openmundi/world.db** --  views: 87 / 24 -  clones: 6 / 6
-36.  **factbook/factbook** --  views: 83 / 27 -  clones: 1 / 1
-37.  **mundimark/markdown-vs-latex** --  views: 82 / 67 -  clones: 2 / 2
-38.  **openfootball/mexico** --  views: 78 / 11 -  clones: 39 / 6
-39.  **openblockchains/programming-blockchains** --  views: 74 / 25 -  clones: 5 / 4
-40.  **planetopendata/awesome-world** --  views: 72 / 43 -  clones: 4 / 4
-41.  **openfootball/leagues** --  views: 72 / 23 -  clones: 37 / 6
-42.  **csvreader/csvreader** --  views: 70 / 30 -  clones: 5 / 5
-43.  **beerkit/beer.db.admin** --  views: 70 / 3 -  clones: 2 / 2
-44.  **planetopendata/awesome-sqlite** --  views: 69 / 48 -  clones: 2 / 2
-45.  **worlddb/world.db** --  views: 61 / 16 -  clones: 2 / 2
-46.  **mundimark/awesome-markdown-alternatives** --  views: 59 / 49 -  clones: 3 / 3
-47.  **openfootball/italy** --  views: 58 / 19 -  clones: 36 / 3
-48.  **cryptocopycats/kitties** --  views: 53 / 38 -  clones: 1 / 1
-49.  **openfootball/league-starter** --  views: 51 / 31 -  clones: 1 / 1
-50.  **planetjekyll/awesome-jekyll** --  views: 50 / 31 -  clones: 5 / 5
-51.  **footballcsv/mexico** --  views: 50 / 12 -  clones: 37 / 6
-52.  **sportdb/football.db** --  views: 50 / 11 -  clones: 1 / 1
-53.  **henrythemes/jekyll-minimal-theme** --  views: 47 / 34 -  clones: 4 / 4
-54.  **openfootball/world-cup.json** --  views: 47 / 25 -  clones: 3 / 3
-55.  **feedreader/pluto** --  views: 47 / 9 -  clones: 3 / 3
-56.  **openbeer/world** --  views: 46 / 5 -  clones: 2 / 2
-57.  **openfootball/help** --  views: 45 / 12 -  clones: 2 / 2
-58.  **openbeer/docs** --  views: 45 / 12 -  clones: 1 / 1
-59.  **planetruby/awesome-rubies** --  views: 44 / 38 -  clones: 3 / 3
-60.  **funpress/up-n-going** --  views: 40 / 17 -  clones: 2 / 2
-61.  **planetruby/awesome-webservers** --  views: 39 / 18 -  clones: 5 / 5
-62.  **feedreader/pluto.starter** --  views: 39 / 4 -  clones: 2 / 2
-63.  **planetruby/books** --  views: 38 / 27 -  clones: 2 / 2
-64.  **footballcsv/belgium** --  views: 38 / 8 -  clones: 36 / 5
-65.  **openfootball/openfootball.github.io** --  views: 36 / 25 -  clones: 3 / 3
-66.  **geraldb/talks** --  views: 36 / 23 -  clones: 5 / 5
-67.  **openbeer/datafile** --  views: 35 / 10 -  clones: 3 / 3
-68.  **openblockchains/programming-cryptocontracts** --  views: 33 / 22 -  clones: 3 / 3
-69.  **sportdb/sport.db.admin** --  views: 33 / 14 -  clones: 2 / 2
-70.  **henrythemes/jekyll-bootstrap-theme** --  views: 32 / 22 -  clones: 2 / 2
-71.  **openfootball/euro-cup** --  views: 32 / 19 -  clones: 34 / 3
-72.  **slideshow-templates/slideshow-google-html5-slides** --  views: 32 / 14 -  clones: 4 / 4
-73.  **openbeer/us-united-states** --  views: 32 / 8 -  clones: 2 / 2
-74.  **footballcsv/cache.soccerdata** --  views: 32 / 6 -  clones: 1 / 1
-75.  **openfootball/docs** --  views: 31 / 10 -  clones: 1 / 1
-76.  **footballcsv/cache.internationals** --  views: 31 / 3 -  clones: 1 / 1
-77.  **henrythemes/hello-jekyll-theme** --  views: 30 / 28 -  clones: 1 / 1
-78.  **feedparser/feedparser** --  views: 30 / 21 -  clones: 2 / 2
-79.  **openfootball/players** --  views: 30 / 9 -  clones: 1 / 1
-80.  **planetruby/meetups** --  views: 30 / 7 -  clones: 5 / 5
-81.  **sportdb/sport.db.web** --  views: 29 / 8 -  clones: 1 / 1
-82.  **sportkit/football.js** --  views: 27 / 12 -  clones: 1 / 1
-83.  **openfootball/national-teams** --  views: 26 / 6 -  clones: 2 / 2
-84.  **footballcsv/cache.footballdata** --  views: 26 / 6 -  clones: 0 / 0
-85.  **henrythemes/hello-minima-theme** --  views: 25 / 15 -  clones: 1 / 1
-86.  **sportdb/docs** --  views: 24 / 15 -  clones: 1 / 1
-87.  **factbook/factbook.sql** --  views: 24 / 11 -  clones: 1 / 1
-88.  **drjekyllthemes/themes** --  views: 23 / 10 -  clones: 3 / 3
-89.  **footballcsv/spec** --  views: 22 / 12 -  clones: 1 / 1
-90.  **feedreader/planet.rb** --  views: 22 / 9 -  clones: 2 / 2
-91.  **beerkit/beer.db** --  views: 22 / 3 -  clones: 2 / 2
-92.  **planetjekyll/quickrefs** --  views: 21 / 18 -  clones: 2 / 2
-93.  **slideshow-templates/slideshow-templates.github.io** --  views: 21 / 16 -  clones: 1 / 1
-94.  **planetjekyll/showcase** --  views: 21 / 10 -  clones: 1 / 1
-95.  **printhtml/awesome-print** --  views: 19 / 16 -  clones: 3 / 3
-96.  **bigkorupto/awesome-nocode** --  views: 19 / 11 -  clones: 1 / 1
-97.  **writekit/markdown** --  views: 19 / 8 -  clones: 1 / 1
-98.  **slideshow-templates/slideshow-slidy** --  views: 19 / 6 -  clones: 12 / 6
-99.  **henrythemes/jekyll-starter-theme** --  views: 18 / 11 -  clones: 2 / 2
-100.  **slideshow-s9/slideshow** --  views: 18 / 8 -  clones: 2 / 2
-101.  **henrythemes/jekyll-book-theme** --  views: 17 / 15 -  clones: 1 / 1
-102.  **typesigs/typesigs** --  views: 17 / 5 -  clones: 2 / 2
-103.  **planetruby/quiz** --  views: 17 / 5 -  clones: 1 / 1
-104.  **sportkit/football.js.starter** --  views: 17 / 5 -  clones: 1 / 1
-105.  **footballcsv/cache.leagues** --  views: 16 / 5 -  clones: 0 / 0
-106.  **rsssf/england** --  views: 15 / 7 -  clones: 2 / 2
-107.  **cryptocopycats/awesome-cryptocollectibles** --  views: 15 / 6 -  clones: 7 / 5
-108.  **datatxt/iniparser** --  views: 15 / 3 -  clones: 1 / 1
-109.  **opensport/rugby.db** --  views: 14 / 11 -  clones: 1 / 1
-110.  **csvreader/csvpack** --  views: 14 / 6 -  clones: 5 / 4
-111.  **sportlogos/football.db.logos** --  views: 14 / 6 -  clones: 1 / 1
-112.  **manuscripts/book-starter** --  views: 14 / 5 -  clones: 2 / 2
-113.  **openbookie/sport.db.play** --  views: 14 / 4 -  clones: 2 / 2
-114.  **opensport/hockey.db** --  views: 14 / 4 -  clones: 1 / 1
-115.  **cryptocopycats/base32-alphabets** --  views: 14 / 3 -  clones: 1 / 1
-116.  **rsssf/espana** --  views: 13 / 8 -  clones: 1 / 1
-117.  **cryptocopycats/kittyverse** --  views: 13 / 7 -  clones: 1 / 1
-118.  **sportdb/sport.db.sources** --  views: 13 / 7 -  clones: 0 / 0
-119.  **journaltxt/journaltxt** --  views: 13 / 6 -  clones: 1 / 1
-120.  **austriacodes/vienna.html** --  views: 13 / 5 -  clones: 1 / 1
-121.  **shellpress/raspberrypi** --  views: 12 / 7 -  clones: 2 / 2
-122.  **s6ruby/ethereum-contracts** --  views: 12 / 6 -  clones: 3 / 3
-123.  **typesigs/enums** --  views: 12 / 6 -  clones: 1 / 1
-124.  **openblockchains/programming-bitcoin-script** --  views: 12 / 5 -  clones: 1 / 1
-125.  **csvreader/csv11** --  views: 12 / 2 -  clones: 3 / 3
-126.  **sportkit/football.html** --  views: 12 / 2 -  clones: 1 / 1
-127.  **henrythemes/jekyll-starter-theme-v2** --  views: 11 / 10 -  clones: 2 / 2
-128.  **planetruby/calendar** --  views: 11 / 9 -  clones: 8 / 7
-129.  **datatxt/awseome-yaml** --  views: 11 / 9 -  clones: 1 / 1
-130.  **sportdb/datasets** --  views: 11 / 9 -  clones: 1 / 1
-131.  **pagedesigns/markedapp-byword** --  views: 11 / 6 -  clones: 1 / 1
-132.  **beercsv/statistics** --  views: 11 / 2 -  clones: 1 / 1
-133.  **openfootball/austria** --  views: 10 / 5 -  clones: 38 / 5
-134.  **openmundi/world.csv** --  views: 10 / 5 -  clones: 1 / 1
-135.  **rsssf/brazil** --  views: 10 / 4 -  clones: 2 / 2
-136.  **mundimark/awesome-books** --  views: 9 / 9 -  clones: 1 / 1
-137.  **planetjekyll/snippets** --  views: 9 / 7 -  clones: 1 / 1
-138.  **slidekit/s6** --  views: 9 / 7 -  clones: 1 / 1
-139.  **openblockchains/awesome-tokens** --  views: 9 / 5 -  clones: 1 / 1
-140.  **slideshow-templates/slideshow-reveal.js** --  views: 9 / 4 -  clones: 1 / 1
-141.  **textkit/textutils** --  views: 9 / 3 -  clones: 3 / 3
-142.  **journaltxt/blog** --  views: 9 / 2 -  clones: 2 / 2
-143.  **slideshow-s9/slideshow-s9.github.io** --  views: 9 / 2 -  clones: 1 / 1
-144.  **slideshow-templates/slideshow-s6-blank** --  views: 8 / 6 -  clones: 3 / 3
-145.  **mundimark/awesome-kramdown** --  views: 8 / 6 -  clones: 1 / 1
-146.  **opensport/american-football.db** --  views: 8 / 6 -  clones: 1 / 1
-147.  **cryptocopycats/bitcat** --  views: 8 / 5 -  clones: 1 / 1
-148.  **pagedesigns/jasonm23-dark** --  views: 8 / 4 -  clones: 1 / 1
-149.  **footballcsv/austria** --  views: 8 / 3 -  clones: 39 / 8
-150.  **journaltxt/journaltxt.github.io** --  views: 8 / 3 -  clones: 1 / 1
-151.  **typesigs/bytes** --  views: 8 / 2 -  clones: 3 / 3
-152.  **openblockchains/blockchain.lite.rb** --  views: 7 / 7 -  clones: 4 / 4
-153.  **s6ruby/awesome-crypto** --  views: 7 / 6 -  clones: 1 / 1
-154.  **cryptocopycats/copycats** --  views: 7 / 5 -  clones: 2 / 2
-155.  **slideshow-s9/awesome-slideshows** --  views: 7 / 4 -  clones: 2 / 2
-156.  **footballcsv/cache.soccerverse** --  views: 7 / 3 -  clones: 2 / 2
-157.  **openfootball/fussball-de** --  views: 7 / 2 -  clones: 1 / 1
-158.  **quikstart/quik** --  views: 7 / 2 -  clones: 1 / 1
-159.  **rubycoco/props** --  views: 7 / 1 -  clones: 2 / 2
-160.  **feedreader/feedreader.github.io** --  views: 7 / 1 -  clones: 1 / 1
-161.  **openbeer/cz-czech-republic** --  views: 7 / 1 -  clones: 1 / 1
-162.  **typesigs/safebool** --  views: 6 / 6 -  clones: 3 / 3
-163.  **csvreader/docs** --  views: 6 / 5 -  clones: 3 / 3
-164.  **openblockchains/programming-cryptocollectibles** --  views: 6 / 5 -  clones: 2 / 2
-165.  **openfootball/copa-libertadores** --  views: 6 / 4 -  clones: 2 / 2
-166.  **opensport/opensport.github.io** --  views: 6 / 4 -  clones: 1 / 1
-167.  **manuscripts/manuscripts.github.io** --  views: 6 / 3 -  clones: 2 / 2
-168.  **openblockchains/awesome-libra** --  views: 6 / 3 -  clones: 2 / 2
-169.  **drjekyllthemes/drjekyll** --  views: 6 / 3 -  clones: 1 / 1
-170.  **openbeer/schema.sql** --  views: 6 / 2 -  clones: 2 / 2
-171.  **openmundi/mundo-es** --  views: 6 / 1 -  clones: 1 / 1
-172.  **csvspecs/awesome-csv** --  views: 5 / 5 -  clones: 2 / 2
-173.  **writekit/kramdown-service** --  views: 5 / 5 -  clones: 2 / 2
-174.  **openbeer/openbeer.github.io** --  views: 5 / 4 -  clones: 2 / 2
-175.  **staystatic/awesome-static** --  views: 5 / 4 -  clones: 2 / 2
-176.  **openfootball/north-america-champions-league** --  views: 5 / 3 -  clones: 1 / 1
-177.  **worlddb/world.db.flags** --  views: 5 / 3 -  clones: 1 / 1
-178.  **openblockchains/blockchain-whitepapers** --  views: 5 / 2 -  clones: 2 / 2
-179.  **openbookie/market.europe-champions-league** --  views: 5 / 2 -  clones: 1 / 1
-180.  **json-next/awesome-json-next** --  views: 4 / 4 -  clones: 2 / 2
-181.  **json-next/json-next** --  views: 4 / 4 -  clones: 2 / 2
-182.  **typesigs/safedata** --  views: 4 / 4 -  clones: 2 / 2
-183.  **hybook/hybook** --  views: 4 / 4 -  clones: 1 / 1
-184.  **officetxt/awesome-txt** --  views: 4 / 4 -  clones: 1 / 1
-185.  **openblockchains/centralbank** --  views: 4 / 4 -  clones: 1 / 1
-186.  **slideshow-templates/slideshow-impress.js** --  views: 4 / 3 -  clones: 3 / 3
-187.  **csvreader/csvutils** --  views: 4 / 3 -  clones: 2 / 2
-188.  **footballbook/footballbook.github.io** --  views: 4 / 3 -  clones: 2 / 2
-189.  **feedparser/awesome-feeds** --  views: 4 / 3 -  clones: 1 / 1
-190.  **feedreader/planets** --  views: 4 / 3 -  clones: 1 / 1
-191.  **beercsv/us-united-states** --  views: 4 / 2 -  clones: 1 / 1
-192.  **openfootball/copa-sudamericana** --  views: 4 / 2 -  clones: 1 / 1
-193.  **rubycoco/webservice** --  views: 4 / 2 -  clones: 1 / 1
-194.  **slideshow-s9/docs** --  views: 4 / 2 -  clones: 1 / 1
-195.  **sportkit/football.api.js** --  views: 4 / 2 -  clones: 1 / 1
-196.  **openbeer/at-austria** --  views: 4 / 1 -  clones: 2 / 2
-197.  **textkit/rubycat** --  views: 4 / 1 -  clones: 2 / 2
-198.  **slideshow-templates/slideshow-shower** --  views: 4 / 1 -  clones: 1 / 1
-199.  **texti/texti.github.io** --  views: 4 / 1 -  clones: 1 / 1
-200.  **austriacodes/awesome-austria** --  views: 3 / 3 -  clones: 3 / 3
-201.  **slideshow-templates/slideshow-s5-blank** --  views: 3 / 3 -  clones: 3 / 3
-202.  **s6ruby/safemath** --  views: 3 / 3 -  clones: 2 / 2
-203.  **beerkit/beer.db.starter** --  views: 3 / 3 -  clones: 1 / 1
-204.  **henrythemes/hello-pages-theme-v2** --  views: 3 / 3 -  clones: 1 / 1
-205.  **mundimark/markdown.pl** --  views: 3 / 3 -  clones: 1 / 1
-206.  **octobook/book-2017-theme** --  views: 3 / 3 -  clones: 1 / 1
-207.  **openblockchains/awesome-sha256** --  views: 3 / 3 -  clones: 1 / 1
-208.  **opensport/ski.db** --  views: 3 / 3 -  clones: 1 / 1
-209.  **rsssf/austria** --  views: 3 / 3 -  clones: 1 / 1
-210.  **rubycoco/almost-sinatra** --  views: 3 / 3 -  clones: 1 / 1
-211.  **sportkit/sport.db.starter.ruby** --  views: 3 / 3 -  clones: 1 / 1
-212.  **textkit/event.db** --  views: 3 / 3 -  clones: 1 / 1
-213.  **textkit/whatson** --  views: 3 / 3 -  clones: 1 / 1
-214.  **funpress/mostly-adequate-guide-to-fp** --  views: 3 / 2 -  clones: 2 / 2
-215.  **openbeer/collections** --  views: 3 / 2 -  clones: 2 / 2
-216.  **rubycoco/dbbrowser** --  views: 3 / 2 -  clones: 2 / 2
-217.  **sportdb/sport.db.service** --  views: 3 / 2 -  clones: 2 / 2
-218.  **csvspecs/csv-meta** --  views: 3 / 2 -  clones: 1 / 1
+1.  **openfootball/football.json** --  views: 2492 / 437 -  clones: 51 / 17
+2.  **openfootball/england** --  views: 1256 / 262 -  clones: 41 / 10
+3.  **footballcsv/england** --  views: 901 / 196 -  clones: 32 / 3
+4.  **rubycoco/git** --  views: 568 / 156 -  clones: 45 / 29
+5.  **openfootball/world-cup** --  views: 518 / 165 -  clones: 32 / 3
+6.  **mundimark/awesome-markdown** --  views: 475 / 290 -  clones: 7 / 7
+7.  **openfootball/europe** --  views: 467 / 81 -  clones: 47 / 12
+8.  **cryptocopycats/awesome-cryptokitties** --  views: 417 / 87 -  clones: 9 / 5
+9.  **updownpress/markdown-lint** --  views: 414 / 263 -  clones: 1 / 1
+10.  **planetjekyll/awesome-jekyll-plugins** --  views: 368 / 247 -  clones: 6 / 6
+11.  **openfootball/south-america** --  views: 339 / 57 -  clones: 39 / 8
+12.  **planetjekyll/awesome-jekyll-themes** --  views: 291 / 125 -  clones: 6 / 6
+13.  **factbook/factbook.json** --  views: 289 / 50 -  clones: 14 / 11
+14.  **openfootball/espana** --  views: 257 / 62 -  clones: 35 / 4
+15.  **openfootball/world** --  views: 223 / 46 -  clones: 33 / 4
+16.  **openfootball/europe-champions-league** --  views: 222 / 50 -  clones: 32 / 1
+17.  **openfootball/schema.sql** --  views: 221 / 72 -  clones: 2 / 2
+18.  **openfootball/stadiums** --  views: 211 / 51 -  clones: 0 / 0
+19.  **openblockchains/awesome-blockchains** --  views: 207 / 90 -  clones: 3 / 2
+20.  **footballcsv/espana** --  views: 206 / 51 -  clones: 32 / 3
+21.  **footballcsv/world** --  views: 191 / 52 -  clones: 38 / 8
+22.  **footballcsv/europe-champions-league** --  views: 180 / 44 -  clones: 0 / 0
+23.  **mundimark/awesome-markdown-editors** --  views: 169 / 130 -  clones: 5 / 5
+24.  **footballcsv/deutschland** --  views: 145 / 24 -  clones: 37 / 7
+25.  **openfootball/deutschland** --  views: 132 / 36 -  clones: 36 / 5
+26.  **rubycoco/webclient** --  views: 132 / 5 -  clones: 28 / 19
+27.  **openfootball/quick-starter** --  views: 117 / 41 -  clones: 1 / 1
+28.  **sportdb/sport.db** --  views: 115 / 33 -  clones: 9 / 9
+29.  **planetjekyll/awesome-jekyll-editors** --  views: 113 / 83 -  clones: 2 / 2
+30.  **csvreader/csvreader** --  views: 111 / 39 -  clones: 2 / 2
+31.  **openbookie/sportbook** --  views: 105 / 68 -  clones: 2 / 2
+32.  **footballcsv/footballcsv.github.io** --  views: 102 / 63 -  clones: 2 / 2
+33.  **mundimark/markdown-vs-latex** --  views: 100 / 83 -  clones: 1 / 1
+34.  **opensport/formula1.db** --  views: 97 / 36 -  clones: 2 / 2
+35.  **rubycoco/almost-sinatra** --  views: 96 / 45 -  clones: 0 / 0
+36.  **factbook/factbook** --  views: 91 / 26 -  clones: 1 / 1
+37.  **planetopendata/awesome-football** --  views: 90 / 62 -  clones: 1 / 1
+38.  **openfootball/leagues** --  views: 81 / 22 -  clones: 32 / 3
+39.  **openfootball/italy** --  views: 80 / 22 -  clones: 35 / 4
+40.  **openfootball/clubs** --  views: 76 / 18 -  clones: 32 / 3
+41.  **openfootball/league-starter** --  views: 72 / 30 -  clones: 1 / 1
+42.  **staystatic/staystatic** --  views: 69 / 4 -  clones: 1 / 1
+43.  **planetopendata/awesome-sqlite** --  views: 68 / 42 -  clones: 1 / 1
+44.  **openmundi/world.db** --  views: 67 / 18 -  clones: 4 / 4
+45.  **beerkit/beer.db.admin** --  views: 67 / 3 -  clones: 0 / 0
+46.  **planetopendata/awesome-world** --  views: 66 / 40 -  clones: 2 / 2
+47.  **henrythemes/jekyll-bootstrap-theme** --  views: 66 / 27 -  clones: 4 / 3
+48.  **mundimark/awesome-markdown-alternatives** --  views: 65 / 56 -  clones: 2 / 2
+49.  **worlddb/world.db** --  views: 65 / 17 -  clones: 0 / 0
+50.  **cryptocopycats/kitties** --  views: 62 / 44 -  clones: 0 / 0
+51.  **sportdb/football.db** --  views: 55 / 12 -  clones: 1 / 1
+52.  **openfootball/world-cup.json** --  views: 51 / 27 -  clones: 1 / 1
+53.  **feedreader/pluto** --  views: 51 / 13 -  clones: 1 / 1
+54.  **geraldb/talks** --  views: 50 / 27 -  clones: 2 / 2
+55.  **openbeer/world** --  views: 50 / 6 -  clones: 1 / 1
+56.  **openblockchains/programming-blockchains** --  views: 47 / 23 -  clones: 5 / 4
+57.  **funpress/up-n-going** --  views: 46 / 16 -  clones: 0 / 0
+58.  **openfootball/help** --  views: 45 / 11 -  clones: 1 / 1
+59.  **planetjekyll/awesome-jekyll** --  views: 43 / 27 -  clones: 3 / 3
+60.  **planetruby/books** --  views: 42 / 30 -  clones: 0 / 0
+61.  **planetruby/awesome-rubies** --  views: 40 / 32 -  clones: 2 / 2
+62.  **feedreader/pluto.starter** --  views: 39 / 4 -  clones: 0 / 0
+63.  **henrythemes/jekyll-minimal-theme** --  views: 38 / 28 -  clones: 2 / 2
+64.  **feedreader/planet.rb** --  views: 37 / 8 -  clones: 0 / 0
+65.  **openfootball/spec** --  views: 37 / 1 -  clones: 1 / 1
+66.  **openfootball/openfootball.github.io** --  views: 36 / 24 -  clones: 1 / 1
+67.  **openbeer/datafile** --  views: 35 / 10 -  clones: 2 / 2
+68.  **footballcsv/cache.soccerdata** --  views: 35 / 8 -  clones: 1 / 1
+69.  **openbeer/us-united-states** --  views: 34 / 8 -  clones: 0 / 0
+70.  **sportdb/sport.db.web** --  views: 33 / 9 -  clones: 0 / 0
+71.  **footballcsv/mexico** --  views: 33 / 8 -  clones: 35 / 6
+72.  **factbook/factbook.sql** --  views: 32 / 12 -  clones: 0 / 0
+73.  **openbeer/docs** --  views: 31 / 10 -  clones: 0 / 0
+74.  **openfootball/mexico** --  views: 31 / 7 -  clones: 36 / 5
+75.  **footballcsv/cache.internationals** --  views: 31 / 3 -  clones: 1 / 1
+76.  **planetruby/awesome-webservers** --  views: 30 / 13 -  clones: 2 / 2
+77.  **openfootball/docs** --  views: 29 / 8 -  clones: 0 / 0
+78.  **feedparser/feedparser** --  views: 28 / 22 -  clones: 1 / 1
+79.  **openblockchains/programming-cryptocontracts** --  views: 28 / 20 -  clones: 3 / 3
+80.  **sportdb/sport.db.admin** --  views: 28 / 14 -  clones: 0 / 0
+81.  **cryptocopycats/kittyverse** --  views: 28 / 13 -  clones: 0 / 0
+82.  **slideshow-templates/slideshow-google-html5-slides** --  views: 28 / 10 -  clones: 2 / 2
+83.  **footballcsv/cache.footballdata** --  views: 28 / 8 -  clones: 0 / 0
+84.  **footballcsv/belgium** --  views: 27 / 7 -  clones: 34 / 5
+85.  **footballcsv/spec** --  views: 26 / 14 -  clones: 0 / 0
+86.  **henrythemes/hello-jekyll-theme** --  views: 25 / 21 -  clones: 0 / 0
+87.  **openfootball/euro-cup** --  views: 25 / 15 -  clones: 30 / 1
+88.  **sportdb/docs** --  views: 25 / 14 -  clones: 0 / 0
+89.  **slideshow-templates/slideshow-templates.github.io** --  views: 24 / 18 -  clones: 0 / 0
+90.  **henrythemes/hello-minima-theme** --  views: 23 / 15 -  clones: 0 / 0
+91.  **drjekyllthemes/themes** --  views: 23 / 10 -  clones: 2 / 2
+92.  **sportkit/football.js** --  views: 23 / 9 -  clones: 0 / 0
+93.  **openfootball/national-teams** --  views: 23 / 5 -  clones: 1 / 1
+94.  **printhtml/awesome-print** --  views: 22 / 17 -  clones: 1 / 1
+95.  **henrythemes/jekyll-starter-theme** --  views: 22 / 13 -  clones: 1 / 1
+96.  **slideshow-s9/slideshow** --  views: 22 / 10 -  clones: 2 / 2
+97.  **bigkorupto/awesome-nocode** --  views: 20 / 14 -  clones: 1 / 1
+98.  **writekit/markdown** --  views: 20 / 9 -  clones: 0 / 0
+99.  **planetjekyll/quickrefs** --  views: 19 / 16 -  clones: 1 / 1
+100.  **slideshow-templates/slideshow-slidy** --  views: 19 / 6 -  clones: 75 / 5
+101.  **cryptocopycats/awesome-cryptocollectibles** --  views: 19 / 6 -  clones: 4 / 2
+102.  **datatxt/iniparser** --  views: 18 / 5 -  clones: 0 / 0
+103.  **planetruby/meetups** --  views: 18 / 3 -  clones: 1 / 1
+104.  **planetruby/awesome** --  views: 17 / 9 -  clones: 0 / 0
+105.  **rsssf/brazil** --  views: 17 / 9 -  clones: 0 / 0
+106.  **opensport/hockey.db** --  views: 17 / 6 -  clones: 0 / 0
+107.  **typesigs/typesigs** --  views: 17 / 5 -  clones: 1 / 1
+108.  **planetruby/calendar** --  views: 16 / 9 -  clones: 6 / 4
+109.  **cryptocopycats/base32-alphabets** --  views: 16 / 5 -  clones: 0 / 0
+110.  **openfootball/players** --  views: 16 / 4 -  clones: 0 / 0
+111.  **sportkit/football.js.starter** --  views: 16 / 4 -  clones: 0 / 0
+112.  **rubycoco/gutenberg** --  views: 16 / 1 -  clones: 2 / 2
+113.  **planetruby/quiz** --  views: 15 / 5 -  clones: 0 / 0
+114.  **austriacodes/vienna.html** --  views: 15 / 4 -  clones: 0 / 0
+115.  **footballcsv/cache.leagues** --  views: 15 / 4 -  clones: 0 / 0
+116.  **opensport/rugby.db** --  views: 14 / 10 -  clones: 0 / 0
+117.  **henrythemes/jekyll-starter-theme-v2** --  views: 14 / 9 -  clones: 2 / 2
+118.  **shellpress/raspberrypi** --  views: 14 / 9 -  clones: 1 / 1
+119.  **rsssf/england** --  views: 14 / 7 -  clones: 1 / 1
+120.  **rubycoco/fotos** --  views: 14 / 2 -  clones: 3 / 3
+121.  **sportdb/sport.db.sources** --  views: 13 / 7 -  clones: 0 / 0
+122.  **journaltxt/journaltxt** --  views: 13 / 6 -  clones: 0 / 0
+123.  **openblockchains/programming-bitcoin-script** --  views: 13 / 6 -  clones: 0 / 0
+124.  **typesigs/enums** --  views: 13 / 6 -  clones: 0 / 0
+125.  **manuscripts/book-starter** --  views: 13 / 5 -  clones: 1 / 1
+126.  **beerkit/beer.db** --  views: 13 / 3 -  clones: 0 / 0
+127.  **opensport/opensport.github.io** --  views: 13 / 3 -  clones: 0 / 0
+128.  **henrythemes/jekyll-book-theme** --  views: 12 / 11 -  clones: 0 / 0
+129.  **sportdb/datasets** --  views: 12 / 10 -  clones: 0 / 0
+130.  **openblockchains/blockchain.lite.rb** --  views: 12 / 8 -  clones: 1 / 1
+131.  **planetjekyll/snippets** --  views: 12 / 8 -  clones: 0 / 0
+132.  **slidekit/s6** --  views: 12 / 7 -  clones: 0 / 0
+133.  **openfootball/austria** --  views: 12 / 6 -  clones: 37 / 6
+134.  **sportlogos/football.db.logos** --  views: 12 / 4 -  clones: 0 / 0
+135.  **csvreader/csv11** --  views: 12 / 2 -  clones: 2 / 2
+136.  **mundimark/awesome-books** --  views: 11 / 11 -  clones: 0 / 0
+137.  **opensport/american-football.db** --  views: 11 / 9 -  clones: 0 / 0
+138.  **csvreader/docs** --  views: 11 / 8 -  clones: 2 / 2
+139.  **openblockchains/programming-cryptocollectibles** --  views: 11 / 7 -  clones: 1 / 1
+140.  **planetjekyll/showcase** --  views: 11 / 7 -  clones: 0 / 0
+141.  **typesigs/safebool** --  views: 11 / 6 -  clones: 2 / 2
+142.  **s6ruby/ethereum-contracts** --  views: 11 / 5 -  clones: 1 / 1
+143.  **openbookie/sport.db.play** --  views: 11 / 3 -  clones: 1 / 1
+144.  **cryptocopycats/copycats** --  views: 10 / 7 -  clones: 1 / 1
+145.  **footballcsv/cache.soccerverse** --  views: 10 / 5 -  clones: 3 / 2
+146.  **mundimark/awesome-kramdown** --  views: 10 / 5 -  clones: 1 / 1
+147.  **openmundi/world.csv** --  views: 10 / 5 -  clones: 0 / 0
+148.  **pagedesigns/markedapp-byword** --  views: 10 / 5 -  clones: 0 / 0
+149.  **openblockchains/awesome-libra** --  views: 10 / 4 -  clones: 0 / 0
+150.  **sportkit/football.html** --  views: 10 / 2 -  clones: 0 / 0
+151.  **openblockchains/awesome-tokens** --  views: 9 / 5 -  clones: 1 / 1
+152.  **footballcsv/austria** --  views: 9 / 3 -  clones: 37 / 8
+153.  **journaltxt/blog** --  views: 9 / 2 -  clones: 1 / 1
+154.  **slideshow-s9/slideshow-s9.github.io** --  views: 9 / 2 -  clones: 0 / 0
+155.  **datatxt/awseome-yaml** --  views: 8 / 7 -  clones: 0 / 0
+156.  **s6ruby/awesome-crypto** --  views: 8 / 6 -  clones: 0 / 0
+157.  **journaltxt/journaltxt.github.io** --  views: 8 / 3 -  clones: 0 / 0
+158.  **writekit/kramdown-service** --  views: 7 / 7 -  clones: 1 / 1
+159.  **openblockchains/centralbank** --  views: 7 / 6 -  clones: 1 / 1
+160.  **typesigs/safedata** --  views: 7 / 6 -  clones: 1 / 1
+161.  **openblockchains/awesome-sha256** --  views: 7 / 6 -  clones: 0 / 0
+162.  **rsssf/espana** --  views: 7 / 6 -  clones: 0 / 0
+163.  **slideshow-templates/slideshow-reveal.js** --  views: 7 / 3 -  clones: 1 / 1
+164.  **openfootball/fussball-de** --  views: 7 / 2 -  clones: 0 / 0
+165.  **rubycoco/props** --  views: 7 / 1 -  clones: 1 / 1
+166.  **feedreader/feedreader.github.io** --  views: 7 / 1 -  clones: 0 / 0
+167.  **slideshow-templates/slideshow-impress.js** --  views: 6 / 5 -  clones: 1 / 1
+168.  **csvspecs/csv-meta** --  views: 6 / 5 -  clones: 0 / 0
+169.  **slideshow-templates/slideshow-s6-blank** --  views: 6 / 4 -  clones: 1 / 1
+170.  **csvreader/csvpack** --  views: 6 / 3 -  clones: 3 / 2
+171.  **slideshow-s9/awesome-slideshows** --  views: 6 / 3 -  clones: 1 / 1
+172.  **cryptocopycats/bitcat** --  views: 6 / 3 -  clones: 0 / 0
+173.  **drjekyllthemes/drjekyll** --  views: 6 / 3 -  clones: 0 / 0
+174.  **pagedesigns/jasonm23-dark** --  views: 6 / 3 -  clones: 0 / 0
+175.  **slideshow-s9/docs** --  views: 6 / 3 -  clones: 0 / 0
+176.  **openmundi/mundo-es** --  views: 6 / 1 -  clones: 0 / 0
+177.  **csvspecs/awesome-csv** --  views: 5 / 5 -  clones: 1 / 1
+178.  **json-next/json-next** --  views: 5 / 4 -  clones: 2 / 2
+179.  **staystatic/awesome-static** --  views: 5 / 4 -  clones: 2 / 2
+180.  **textkit/event.db** --  views: 5 / 4 -  clones: 0 / 0
+181.  **csvreader/csvutils** --  views: 5 / 3 -  clones: 1 / 1
+182.  **beercsv/us-united-states** --  views: 5 / 3 -  clones: 0 / 0
+183.  **bitsblocks/crypto-facts** --  views: 5 / 3 -  clones: 0 / 0
+184.  **openbeer/at-austria** --  views: 5 / 2 -  clones: 1 / 1
+185.  **openbookie/market.europe-champions-league** --  views: 5 / 2 -  clones: 0 / 0
+186.  **worlddb/world.db.flags** --  views: 5 / 2 -  clones: 0 / 0
+187.  **openbeer/schema.sql** --  views: 5 / 1 -  clones: 0 / 0
+188.  **json-next/awesome-json-next** --  views: 4 / 4 -  clones: 1 / 1
+189.  **officetxt/awesome-txt** --  views: 4 / 4 -  clones: 1 / 1
+190.  **beerkit/beer.db.starter** --  views: 4 / 4 -  clones: 0 / 0
+191.  **schemadoc/schemadoc** --  views: 4 / 4 -  clones: 0 / 0
+192.  **textkit/whatson** --  views: 4 / 4 -  clones: 0 / 0
+193.  **openbeer/openbeer.github.io** --  views: 4 / 3 -  clones: 1 / 1
+194.  **openblockchains/awesome-ico-truths** --  views: 4 / 3 -  clones: 1 / 1
+195.  **feedparser/awesome-feeds** --  views: 4 / 3 -  clones: 0 / 0
+196.  **feedreader/planets** --  views: 4 / 3 -  clones: 0 / 0
+197.  **openbeer/schema** --  views: 4 / 3 -  clones: 0 / 0
+198.  **openblockchains/ledger.lite.rb** --  views: 4 / 3 -  clones: 0 / 0
+199.  **openblockchains/peer-to-peer.rb** --  views: 4 / 3 -  clones: 0 / 0
+200.  **openblockchains/tulips** --  views: 4 / 3 -  clones: 0 / 0
+201.  **sportdb/sport.db.service** --  views: 4 / 3 -  clones: 0 / 0
+202.  **rubycoco/webservice** --  views: 4 / 2 -  clones: 1 / 1
+203.  **textkit/textutils** --  views: 4 / 2 -  clones: 1 / 1
+204.  **footballcsv/major-league-soccer** --  views: 4 / 2 -  clones: 0 / 0
+205.  **sportkit/football.api.js** --  views: 4 / 2 -  clones: 0 / 0
+206.  **textkit/rubycat** --  views: 4 / 1 -  clones: 1 / 1
+207.  **beerlabels/beer.db.labels.ruby** --  views: 4 / 1 -  clones: 0 / 0
+208.  **slideshow-templates/slideshow-shower** --  views: 4 / 1 -  clones: 0 / 0
+209.  **texti/texti.github.io** --  views: 4 / 1 -  clones: 0 / 0
+210.  **csvreader/csvrecord** --  views: 3 / 3 -  clones: 1 / 1
+211.  **mrhydescripts/scripts** --  views: 3 / 3 -  clones: 1 / 1
+212.  **openfootball/copa-libertadores** --  views: 3 / 3 -  clones: 1 / 1
+213.  **s6ruby/safemath** --  views: 3 / 3 -  clones: 1 / 1
+214.  **henrythemes/hello-pages-theme-v2** --  views: 3 / 3 -  clones: 0 / 0
+215.  **hybook/hybook** --  views: 3 / 3 -  clones: 0 / 0
+216.  **mundimark/markdown.pl** --  views: 3 / 3 -  clones: 0 / 0
+217.  **opensport/ski.db** --  views: 3 / 3 -  clones: 0 / 0
+218.  **texti/pandoc** --  views: 3 / 2 -  clones: 2 / 2
 219.  **feedreader/jekyll.planet.sample** --  views: 3 / 2 -  clones: 1 / 1
-220.  **openbeer/schema** --  views: 3 / 2 -  clones: 1 / 1
-221.  **openfootball/women-world-cup** --  views: 3 / 2 -  clones: 1 / 1
-222.  **sportkit/sport.db.starter.node.js** --  views: 3 / 2 -  clones: 1 / 1
-223.  **planet-templates/planet-blank** --  views: 3 / 1 -  clones: 3 / 3
-224.  **bitsblocks/crypto-facts** --  views: 3 / 1 -  clones: 2 / 2
-225.  **openfootball/north-america-gold-cup** --  views: 3 / 1 -  clones: 2 / 2
-226.  **staystatic/staystatic** --  views: 3 / 1 -  clones: 2 / 2
-227.  **writekit/markdown-service** --  views: 3 / 1 -  clones: 2 / 2
-228.  **feedreader/news.rb** --  views: 3 / 1 -  clones: 1 / 1
-229.  **feedreader/pluto.more.tools** --  views: 3 / 1 -  clones: 1 / 1
-230.  **planetjekyll/planetjekyll.github.io** --  views: 3 / 1 -  clones: 1 / 1
-231.  **rubycoco/ostructer** --  views: 3 / 1 -  clones: 1 / 1
-232.  **worlddb/world.db.admin** --  views: 3 / 1 -  clones: 1 / 1
-233.  **yukimotopress/practicing** --  views: 3 / 1 -  clones: 1 / 1
-234.  **beerbook/maps** --  views: 2 / 2 -  clones: 3 / 3
-235.  **openfootball/africa-cup** --  views: 2 / 2 -  clones: 3 / 3
-236.  **planet-templates/planet-paper** --  views: 2 / 2 -  clones: 3 / 3
-237.  **csvreader/csvrecord** --  views: 2 / 2 -  clones: 2 / 2
-238.  **drjekyllthemes/drjekyllthemes.github.io** --  views: 2 / 2 -  clones: 2 / 2
-239.  **henrythemes/jekyll-gutenberg-theme** --  views: 2 / 2 -  clones: 2 / 2
-240.  **manuscripts/manuscripts** --  views: 2 / 2 -  clones: 2 / 2
-241.  **openfootball/copa-america** --  views: 2 / 2 -  clones: 2 / 2
-242.  **rsssf/deutschland** --  views: 2 / 2 -  clones: 2 / 2
-243.  **rubycoco/logutils** --  views: 2 / 2 -  clones: 2 / 2
-244.  **s6ruby/pragmas** --  views: 2 / 2 -  clones: 2 / 2
-245.  **factbook/factbook.github.io** --  views: 2 / 2 -  clones: 1 / 1
-246.  **feedtxt/feedtxt** --  views: 2 / 2 -  clones: 1 / 1
-247.  **footballcsv/major-league-soccer** --  views: 2 / 2 -  clones: 1 / 1
-248.  **henrythemes/jekyll-talks-theme** --  views: 2 / 2 -  clones: 1 / 1
-249.  **openblockchains/ledger.lite.rb** --  views: 2 / 2 -  clones: 1 / 1
-250.  **openbookie/sport.db.market** --  views: 2 / 2 -  clones: 1 / 1
-251.  **openmundi/datafile** --  views: 2 / 2 -  clones: 1 / 1
-252.  **s6ruby/units-time** --  views: 2 / 2 -  clones: 1 / 1
-253.  **worlddb/world.lite** --  views: 2 / 2 -  clones: 1 / 1
-254.  **writekit/markdown.note** --  views: 2 / 2 -  clones: 1 / 1
-255.  **yukimotopress/yukimotopress.github.io** --  views: 2 / 2 -  clones: 1 / 1
-256.  **feedparser/feedfilter** --  views: 2 / 1 -  clones: 3 / 3
-257.  **slideshow-templates/slideshow-csss** --  views: 2 / 1 -  clones: 3 / 3
-258.  **bitsblocks/bitcoin-whitepaper** --  views: 2 / 1 -  clones: 2 / 2
-259.  **geraldb/web-proxy-win** --  views: 2 / 1 -  clones: 2 / 2
-260.  **planetjekyll/planet** --  views: 2 / 1 -  clones: 2 / 2
-261.  **slideshow-s9/samples** --  views: 2 / 1 -  clones: 2 / 2
-262.  **texti/texti** --  views: 2 / 1 -  clones: 2 / 2
-263.  **octobook/gitbook-to-octobook-sample** --  views: 2 / 1 -  clones: 1 / 1
-264.  **openfootball/futbol-es** --  views: 2 / 1 -  clones: 1 / 1
-265.  **planetjekyll/sandbox** --  views: 2 / 1 -  clones: 1 / 1
-266.  **yukimotopress/http** --  views: 2 / 1 -  clones: 1 / 1
-267.  **rubycoco/fotos** --  views: 1 / 1 -  clones: 5 / 5
-268.  **planet-templates/planet-classic** --  views: 1 / 1 -  clones: 4 / 4
-269.  **planet-templates/planet-forty** --  views: 1 / 1 -  clones: 4 / 4
-270.  **planet-templates/planet-zen** --  views: 1 / 1 -  clones: 4 / 3
-271.  **beerbook/beerbook.github.io** --  views: 1 / 1 -  clones: 3 / 3
-272.  **cryptocopycats/media** --  views: 1 / 1 -  clones: 3 / 3
-273.  **csvspecs/csv-next** --  views: 1 / 1 -  clones: 3 / 3
-274.  **mundimark/markdown-tools-books** --  views: 1 / 1 -  clones: 3 / 3
-275.  **mundimark/why-text** --  views: 1 / 1 -  clones: 3 / 3
-276.  **planet-templates/planet-digest** --  views: 1 / 1 -  clones: 3 / 3
-277.  **planet-templates/planet-top** --  views: 1 / 1 -  clones: 3 / 3
-278.  **slideshow-templates/slideshow-deck.js** --  views: 1 / 1 -  clones: 3 / 3
-279.  **slideshow-templates/slideshow-s5-themes** --  views: 1 / 1 -  clones: 3 / 3
-280.  **texti/pandoc** --  views: 1 / 1 -  clones: 3 / 3
-281.  **wikiscript/wikiscript** --  views: 1 / 1 -  clones: 3 / 2
-282.  **beerkit/beer.db.day** --  views: 1 / 1 -  clones: 2 / 2
-283.  **beerkit/beer.js** --  views: 1 / 1 -  clones: 2 / 2
-284.  **bibtxt/bibtxt.github.io** --  views: 1 / 1 -  clones: 2 / 2
-285.  **bitsblocks/bitcoin-maximalist** --  views: 1 / 1 -  clones: 2 / 2
-286.  **bitsblocks/get-rich-quick-bible** --  views: 1 / 1 -  clones: 2 / 2
-287.  **book-templates/football** --  views: 1 / 1 -  clones: 2 / 2
-288.  **bookdesigns/designs** --  views: 1 / 1 -  clones: 2 / 2
-289.  **datatxt/datatxt.github.io** --  views: 1 / 1 -  clones: 2 / 2
-290.  **json-next/json-next.github.io** --  views: 1 / 1 -  clones: 2 / 2
-291.  **mrhydescripts/scripts** --  views: 1 / 1 -  clones: 2 / 2
-292.  **octobook/book-2018-theme** --  views: 1 / 1 -  clones: 2 / 2
-293.  **officetxt/officetxt.github.io** --  views: 1 / 1 -  clones: 2 / 2
-294.  **openbeer/jp-japan** --  views: 1 / 1 -  clones: 2 / 2
-295.  **openbeer/notes** --  views: 1 / 1 -  clones: 2 / 2
-296.  **playhtml/memory** --  views: 1 / 1 -  clones: 2 / 2
-297.  **rsssf/spec** --  views: 1 / 1 -  clones: 2 / 2
-298.  **rubycoco/pakman** --  views: 1 / 1 -  clones: 2 / 2
-299.  **s6ruby/ruby-to-solidity** --  views: 1 / 1 -  clones: 2 / 2
-300.  **s6ruby/universum** --  views: 1 / 1 -  clones: 2 / 2
-301.  **slideshow-s9/demos** --  views: 1 / 1 -  clones: 2 / 2
-302.  **slideshow-templates/slideshow-google-io-2011-slides** --  views: 1 / 1 -  clones: 2 / 2
-303.  **sportdb/footty** --  views: 1 / 1 -  clones: 2 / 2
-304.  **sportkit/sport.db.starter.go** --  views: 1 / 1 -  clones: 2 / 2
-305.  **worlddb/world.db.service** --  views: 1 / 1 -  clones: 2 / 2
-306.  **book-templates/beer** --  views: 1 / 1 -  clones: 1 / 1
-307.  **book-templates/bookfile** --  views: 1 / 1 -  clones: 1 / 1
-308.  **bookdesigns/book-git** --  views: 1 / 1 -  clones: 1 / 1
-309.  **csvreader/csvyaml** --  views: 1 / 1 -  clones: 1 / 1
-310.  **csvspecs/csv-yaml** --  views: 1 / 1 -  clones: 1 / 1
-311.  **geraldb/geraldb.github.io** --  views: 1 / 1 -  clones: 1 / 1
-312.  **hybook/bookfile** --  views: 1 / 1 -  clones: 1 / 1
-313.  **json-next/json-feed** --  views: 1 / 1 -  clones: 1 / 1
-314.  **mrhydescripts/mrhyde** --  views: 1 / 1 -  clones: 1 / 1
-315.  **octobook/book-classics-theme** --  views: 1 / 1 -  clones: 1 / 1
-316.  **officetxt/officetxt** --  views: 1 / 1 -  clones: 1 / 1
-317.  **openbeer/by-bayern** --  views: 1 / 1 -  clones: 1 / 1
-318.  **openbeer/oberbayern** --  views: 1 / 1 -  clones: 1 / 1
-319.  **openbeer/oberfranken** --  views: 1 / 1 -  clones: 1 / 1
-320.  **openblockchains/awesome-ico-truths** --  views: 1 / 1 -  clones: 1 / 1
-321.  **openblockchains/peer-to-peer.rb** --  views: 1 / 1 -  clones: 1 / 1
-322.  **openblockchains/tulips** --  views: 1 / 1 -  clones: 1 / 1
-323.  **openbookie/market.euro-cup** --  views: 1 / 1 -  clones: 1 / 1
-324.  **openbookie/market.world-cup** --  views: 1 / 1 -  clones: 1 / 1
-325.  **openfootball/women-euro-cup** --  views: 1 / 1 -  clones: 1 / 1
-326.  **planet-templates/planet-templates.github.io** --  views: 1 / 1 -  clones: 1 / 1
-327.  **planetopendata/planet** --  views: 1 / 1 -  clones: 1 / 1
-328.  **publicdomainworks/publicdomainworks.github.io** --  views: 1 / 1 -  clones: 1 / 1
-329.  **quikstart/jekyll-starter-theme** --  views: 1 / 1 -  clones: 1 / 1
-330.  **rsssf/rsssf.github.io** --  views: 1 / 1 -  clones: 1 / 1
-331.  **rubycoco/fizzbuzzer** --  views: 1 / 1 -  clones: 1 / 1
-332.  **rubycoco/linkto** --  views: 1 / 1 -  clones: 1 / 1
-333.  **s6ruby/redpaper** --  views: 1 / 1 -  clones: 1 / 1
-334.  **schemadoc/schemadoc** --  views: 1 / 1 -  clones: 1 / 1
-335.  **slideshow-templates/slideshow-s6-blank-v1** --  views: 1 / 1 -  clones: 1 / 1
-336.  **webstart/webstart** --  views: 1 / 1 -  clones: 1 / 1
-337.  **worldclassics/dr-jekyll-and-mr-hyde** --  views: 1 / 1 -  clones: 1 / 1
-338.  **worldclassics/the-trial** --  views: 1 / 1 -  clones: 1 / 1
-339.  **worldclassics/worldclassics.github.io** --  views: 1 / 1 -  clones: 1 / 1
-340.  **yukimotopress/langs** --  views: 1 / 1 -  clones: 1 / 1
-341.  **footballcsv/cache.updates** --  views: 1 / 1 -  clones: 0 / 0
-342.  **planetruby/hellohoe** --  views: 0 / 0 -  clones: 8 / 3
-343.  **planetjekyll/sandbox-github-pages** --  views: 0 / 0 -  clones: 4 / 4
-344.  **bitsblocks/crypto-bubbles** --  views: 0 / 0 -  clones: 3 / 3
-345.  **bitsblocks/islandcoin-whitepaper** --  views: 0 / 0 -  clones: 3 / 3
-346.  **csvspecs/csv-v11** --  views: 0 / 0 -  clones: 3 / 3
-347.  **geraldb/austria** --  views: 0 / 0 -  clones: 3 / 3
-348.  **hydepress/jekyll-deploy** --  views: 0 / 0 -  clones: 3 / 3
-349.  **hydepress/jekyll-install** --  views: 0 / 0 -  clones: 3 / 3
-350.  **hydepress/jekyll-plugins** --  views: 0 / 0 -  clones: 3 / 3
-351.  **openblockchains/blockchain.lite.js** --  views: 0 / 0 -  clones: 3 / 3
-352.  **openblockchains/merkletree.rb** --  views: 0 / 0 -  clones: 3 / 3
-353.  **persondb/person.db.models** --  views: 0 / 0 -  clones: 3 / 3
-354.  **planet-templates/planet-feeds** --  views: 0 / 0 -  clones: 3 / 3
-355.  **planet-templates/planet-news** --  views: 0 / 0 -  clones: 3 / 3
-356.  **planetjekyll/sandbox-syntax-highlighter** --  views: 0 / 0 -  clones: 3 / 3
-357.  **planetruby/quickrefs** --  views: 0 / 0 -  clones: 3 / 3
-358.  **printhtml/quickrefs** --  views: 0 / 0 -  clones: 3 / 3
-359.  **s6ruby/units-money** --  views: 0 / 0 -  clones: 3 / 3
-360.  **schemadoc/schemadoc-theme** --  views: 0 / 0 -  clones: 3 / 3
-361.  **slideshow-s9/slideshow-plugins** --  views: 0 / 0 -  clones: 3 / 3
-362.  **slideshow-templates/slideshow-s6-syntax-highlighter** --  views: 0 / 0 -  clones: 3 / 3
-363.  **typesigs/programming-bits-bytes** --  views: 0 / 0 -  clones: 3 / 3
-364.  **typesigs/records** --  views: 0 / 0 -  clones: 3 / 3
-365.  **viennacrypto/blockchain-whitepapers** --  views: 0 / 0 -  clones: 3 / 3
-366.  **viennarb/planet** --  views: 0 / 0 -  clones: 3 / 3
-367.  **viennarb/questions** --  views: 0 / 0 -  clones: 3 / 3
-368.  **viennarb/viennarb.github.io** --  views: 0 / 0 -  clones: 3 / 3
-369.  **wikiscript/football.players** --  views: 0 / 0 -  clones: 3 / 2
-370.  **beercsv/ca-canada** --  views: 0 / 0 -  clones: 2 / 2
-371.  **beerkit/beer.db.mobile** --  views: 0 / 0 -  clones: 2 / 2
-372.  **beerkit/beer.db.service** --  views: 0 / 0 -  clones: 2 / 2
-373.  **beerkit/beerbook** --  views: 0 / 0 -  clones: 2 / 2
-374.  **bitsblocks/bitsblocks.github.io** --  views: 0 / 0 -  clones: 2 / 2
-375.  **bitsblocks/colored-coins-whitepaper** --  views: 0 / 0 -  clones: 2 / 2
-376.  **bitsblocks/ethereum** --  views: 0 / 0 -  clones: 2 / 2
-377.  **bitsblocks/ethereum-whitepaper** --  views: 0 / 0 -  clones: 2 / 2
-378.  **bitsblocks/mastercoin-whitepaper** --  views: 0 / 0 -  clones: 2 / 2
-379.  **bookdesigns/book-hamilton** --  views: 0 / 0 -  clones: 2 / 2
-380.  **csvspecs/csv-numerics** --  views: 0 / 0 -  clones: 2 / 2
-381.  **csvspecs/csv-v10** --  views: 0 / 0 -  clones: 2 / 2
-382.  **drjekyllthemes/test-theme** --  views: 0 / 0 -  clones: 2 / 2
-383.  **feedhtml/hyperdata** --  views: 0 / 0 -  clones: 2 / 2
-384.  **funpress/elm-by-example** --  views: 0 / 0 -  clones: 2 / 2
-385.  **funpress/funpress.github.io** --  views: 0 / 0 -  clones: 2 / 2
-386.  **geraldb/chelitas** --  views: 0 / 0 -  clones: 2 / 2
-387.  **geraldb/logos** --  views: 0 / 0 -  clones: 2 / 2
-388.  **henrythemes/hello-pages-theme** --  views: 0 / 0 -  clones: 2 / 2
-389.  **henrythemes/jekyll-boom-theme** --  views: 0 / 0 -  clones: 2 / 2
-390.  **henrythemes/jekyll-boom-theme-v2** --  views: 0 / 0 -  clones: 2 / 2
-391.  **hydepress/hydepress.github.io** --  views: 0 / 0 -  clones: 2 / 2
-392.  **hydepress/jekyll** --  views: 0 / 0 -  clones: 2 / 2
-393.  **hydepress/jekyll-dev** --  views: 0 / 0 -  clones: 2 / 2
-394.  **hydepress/jekyll-import** --  views: 0 / 0 -  clones: 2 / 2
-395.  **hydepress/jekyll-style** --  views: 0 / 0 -  clones: 2 / 2
-396.  **hydepress/jekyll-themes** --  views: 0 / 0 -  clones: 2 / 2
-397.  **hydepress/liquid** --  views: 0 / 0 -  clones: 2 / 2
-398.  **hydepress/octopress** --  views: 0 / 0 -  clones: 2 / 2
-399.  **json-next/json-next-tests** --  views: 0 / 0 -  clones: 2 / 2
-400.  **markupmadness/markupmadness** --  views: 0 / 0 -  clones: 2 / 2
-401.  **mundimark/quickrefs** --  views: 0 / 0 -  clones: 2 / 2
-402.  **octobook/book-blank-theme** --  views: 0 / 0 -  clones: 2 / 2
-403.  **openbeer/ch-confoederatio-helvetica** --  views: 0 / 0 -  clones: 2 / 2
-404.  **openbeer/co-colorado** --  views: 0 / 0 -  clones: 2 / 2
-405.  **openbeer/ie-ireland** --  views: 0 / 0 -  clones: 2 / 2
-406.  **openbeer/menus** --  views: 0 / 0 -  clones: 2 / 2
-407.  **openbeer/wa-washington** --  views: 0 / 0 -  clones: 2 / 2
-408.  **openfootball/opendata-theme** --  views: 0 / 0 -  clones: 2 / 2
-409.  **opensport/build** --  views: 0 / 0 -  clones: 2 / 2
-410.  **planet-templates/planet-hacker** --  views: 0 / 0 -  clones: 2 / 2
-411.  **planetbeer/books** --  views: 0 / 0 -  clones: 2 / 2
-412.  **planetjekyll/sandbox-collections** --  views: 0 / 0 -  clones: 2 / 2
-413.  **planetopendata/awesome-austria** --  views: 0 / 0 -  clones: 2 / 2
-414.  **plutolive/pluto.live** --  views: 0 / 0 -  clones: 2 / 2
-415.  **plutolive/pluto.live.starter** --  views: 0 / 0 -  clones: 2 / 2
-416.  **rubycoco/gutenberg** --  views: 0 / 0 -  clones: 2 / 2
-417.  **rubycoco/tagutils** --  views: 0 / 0 -  clones: 2 / 2
-418.  **s6ruby/ruby-to-michelson** --  views: 0 / 0 -  clones: 2 / 2
-419.  **s6ruby/safestruct** --  views: 0 / 0 -  clones: 2 / 2
-420.  **slidekit/jekyll-talks-theme** --  views: 0 / 0 -  clones: 2 / 2
-421.  **slidekit/s6-v1** --  views: 0 / 0 -  clones: 2 / 2
-422.  **slidekit/talks-starter** --  views: 0 / 0 -  clones: 2 / 2
-423.  **slideshow-s9/slideshow-starter** --  views: 0 / 0 -  clones: 2 / 2
-424.  **slideshow-templates/media** --  views: 0 / 0 -  clones: 2 / 2
-425.  **sportlogos/sport.db.logos** --  views: 0 / 0 -  clones: 2 / 2
-426.  **staystatic/quickrefs** --  views: 0 / 0 -  clones: 2 / 2
-427.  **staystatic/staystatic.github.io** --  views: 0 / 0 -  clones: 2 / 2
-428.  **textkit/catalog.db** --  views: 0 / 0 -  clones: 2 / 2
-429.  **textkit/datafile** --  views: 0 / 0 -  clones: 2 / 2
-430.  **textkit/notes** --  views: 0 / 0 -  clones: 2 / 2
-431.  **textkit/preproc** --  views: 0 / 0 -  clones: 2 / 2
-432.  **typesigs/awesome-types** --  views: 0 / 0 -  clones: 2 / 2
-433.  **typesigs/typesig** --  views: 0 / 0 -  clones: 2 / 2
-434.  **viennacrypto/viennacrypto.github.io** --  views: 0 / 0 -  clones: 2 / 2
-435.  **webstart/links** --  views: 0 / 0 -  clones: 2 / 2
-436.  **worldbook/worldbook.github.io** --  views: 0 / 0 -  clones: 2 / 2
-437.  **worlddb/world.db.cities** --  views: 0 / 0 -  clones: 2 / 2
-438.  **worlddb/world.db.codes** --  views: 0 / 0 -  clones: 2 / 2
-439.  **writekit/markdown-tools** --  views: 0 / 0 -  clones: 2 / 2
-440.  **yukimotopress/blockchains** --  views: 0 / 0 -  clones: 2 / 2
-441.  **yukimotopress/micro** --  views: 0 / 0 -  clones: 2 / 2
-442.  **yukimotopress/sinatra-intro** --  views: 0 / 0 -  clones: 2 / 2
-443.  **yukimotopress/smalldata** --  views: 0 / 0 -  clones: 2 / 2
-444.  **austriacodes/austria.txt** --  views: 0 / 0 -  clones: 1 / 1
-445.  **austriacodes/austriacodes.github.io** --  views: 0 / 0 -  clones: 1 / 1
-446.  **austriacodes/showcase** --  views: 0 / 0 -  clones: 1 / 1
-447.  **beerbook/calendar** --  views: 0 / 0 -  clones: 1 / 1
-448.  **beercsv/be-belgium** --  views: 0 / 0 -  clones: 1 / 1
-449.  **beercsv/build** --  views: 0 / 0 -  clones: 1 / 1
-450.  **beercsv/de-deutschland** --  views: 0 / 0 -  clones: 1 / 1
-451.  **beercsv/world** --  views: 0 / 0 -  clones: 1 / 1
-452.  **beerkit/beer.api.js** --  views: 0 / 0 -  clones: 1 / 1
-453.  **beerlabels/beer.db.labels** --  views: 0 / 0 -  clones: 1 / 1
-454.  **beerlabels/beer.db.labels.ruby** --  views: 0 / 0 -  clones: 1 / 1
-455.  **bitshilling/bitshilling** --  views: 0 / 0 -  clones: 1 / 1
-456.  **bitshilling/bitshilling.tools** --  views: 0 / 0 -  clones: 1 / 1
-457.  **book-templates/world** --  views: 0 / 0 -  clones: 1 / 1
-458.  **bookdesigns/book-epsilon** --  views: 0 / 0 -  clones: 1 / 1
-459.  **bookdesigns/book-rust** --  views: 0 / 0 -  clones: 1 / 1
-460.  **chooseaconduct/chooseaconduct.github.io** --  views: 0 / 0 -  clones: 1 / 1
-461.  **cryptocopycats/kittyverse.json** --  views: 0 / 0 -  clones: 1 / 1
-462.  **csvreader/benchmarks** --  views: 0 / 0 -  clones: 1 / 1
-463.  **csvreader/csvhuman** --  views: 0 / 0 -  clones: 1 / 1
-464.  **csvreader/csvjson** --  views: 0 / 0 -  clones: 1 / 1
-465.  **csvreader/tabreader** --  views: 0 / 0 -  clones: 1 / 1
-466.  **csvspecs/csv-hxl** --  views: 0 / 0 -  clones: 1 / 1
-467.  **csvspecs/csv-json** --  views: 0 / 0 -  clones: 1 / 1
-468.  **feedhtml/feedhtml.github.io** --  views: 0 / 0 -  clones: 1 / 1
-469.  **feedparser/feedfinder** --  views: 0 / 0 -  clones: 1 / 1
-470.  **feedparser/feeds** --  views: 0 / 0 -  clones: 1 / 1
-471.  **feedreader/website.old** --  views: 0 / 0 -  clones: 1 / 1
-472.  **feedtxt/feedtxt.github.io** --  views: 0 / 0 -  clones: 1 / 1
-473.  **footballbook/calendar** --  views: 0 / 0 -  clones: 1 / 1
-474.  **funpress/babel** --  views: 0 / 0 -  clones: 1 / 1
-475.  **funpress/es6-features** --  views: 0 / 0 -  clones: 1 / 1
-476.  **geraldb/catalog** --  views: 0 / 0 -  clones: 1 / 1
-477.  **geraldb/sandbox** --  views: 0 / 0 -  clones: 1 / 1
-478.  **geraldb/webcomponents** --  views: 0 / 0 -  clones: 1 / 1
-479.  **geraldb/webpub-reader** --  views: 0 / 0 -  clones: 1 / 1
-480.  **geraldb/wine.db.tools** --  views: 0 / 0 -  clones: 1 / 1
-481.  **hybook/bookman** --  views: 0 / 0 -  clones: 1 / 1
-482.  **hydepress/octopod** --  views: 0 / 0 -  clones: 1 / 1
-483.  **markupmadness/markupmadness.github.io** --  views: 0 / 0 -  clones: 1 / 1
-484.  **mundimark/markdown-can-i-use** --  views: 0 / 0 -  clones: 1 / 1
-485.  **mundimark/markdown-tools** --  views: 0 / 0 -  clones: 1 / 1
-486.  **mundimark/mundimark.github.io** --  views: 0 / 0 -  clones: 1 / 1
-487.  **octobook/awesome-typography** --  views: 0 / 0 -  clones: 1 / 1
-488.  **octobook/octobook** --  views: 0 / 0 -  clones: 1 / 1
-489.  **openbeer/be-belgium** --  views: 0 / 0 -  clones: 1 / 1
-490.  **openbeer/ca-canada** --  views: 0 / 0 -  clones: 1 / 1
-491.  **openbeer/de-deutschland** --  views: 0 / 0 -  clones: 1 / 1
-492.  **openbeer/images** --  views: 0 / 0 -  clones: 1 / 1
-493.  **openbeer/market** --  views: 0 / 0 -  clones: 1 / 1
-494.  **openbeer/mx-mexico** --  views: 0 / 0 -  clones: 1 / 1
-495.  **openbeer/nl-netherlands** --  views: 0 / 0 -  clones: 1 / 1
-496.  **openbeer/or-oregon** --  views: 0 / 0 -  clones: 1 / 1
-497.  **openblockchains/awesome-cheezewizards** --  views: 0 / 0 -  clones: 1 / 1
-498.  **openblockchains/awesome-coins** --  views: 0 / 0 -  clones: 1 / 1
-499.  **openblockchains/tulipmania** --  views: 0 / 0 -  clones: 1 / 1
-500.  **openbookie/market.at-austria** --  views: 0 / 0 -  clones: 1 / 1
-501.  **openbookie/notes** --  views: 0 / 0 -  clones: 1 / 1
-502.  **openfootball/club-world-cup** --  views: 0 / 0 -  clones: 1 / 1
-503.  **openfootball/confed-cup** --  views: 0 / 0 -  clones: 1 / 1
-504.  **openfootball/lang** --  views: 0 / 0 -  clones: 1 / 1
-505.  **openfootball/schema** --  views: 0 / 0 -  clones: 1 / 1
-506.  **openfootball/spec** --  views: 0 / 0 -  clones: 1 / 1
-507.  **openmundi/austria.db** --  views: 0 / 0 -  clones: 1 / 1
-508.  **openmundi/deutschland.db** --  views: 0 / 0 -  clones: 1 / 1
-509.  **openmundi/langs** --  views: 0 / 0 -  clones: 1 / 1
-510.  **openmundi/notes** --  views: 0 / 0 -  clones: 1 / 1
-511.  **openmundi/openmundi.github.io** --  views: 0 / 0 -  clones: 1 / 1
-512.  **openmundi/welt-de** --  views: 0 / 0 -  clones: 1 / 1
-513.  **openmundi/wien.db** --  views: 0 / 0 -  clones: 1 / 1
-514.  **openmundi/world-heritage** --  views: 0 / 0 -  clones: 1 / 1
-515.  **openwine/at-austria** --  views: 0 / 0 -  clones: 1 / 1
-516.  **openwine/build** --  views: 0 / 0 -  clones: 1 / 1
-517.  **planetbeer/planet** --  views: 0 / 0 -  clones: 1 / 1
-518.  **planetbeer/planetbeer.github.io** --  views: 0 / 0 -  clones: 1 / 1
-519.  **planetopendata/planetopendata.github.io** --  views: 0 / 0 -  clones: 1 / 1
-520.  **planetruby/apps** --  views: 0 / 0 -  clones: 1 / 1
-521.  **planetruby/awesome** --  views: 0 / 0 -  clones: 1 / 1
-522.  **planetruby/calendar-theme** --  views: 0 / 0 -  clones: 1 / 1
-523.  **planetruby/gems** --  views: 0 / 0 -  clones: 1 / 1
-524.  **planetruby/links** --  views: 0 / 0 -  clones: 1 / 1
-525.  **planetruby/planet** --  views: 0 / 0 -  clones: 1 / 1
-526.  **planetruby/planetruby.github.io** --  views: 0 / 0 -  clones: 1 / 1
-527.  **playhtml/feeds** --  views: 0 / 0 -  clones: 1 / 1
-528.  **playhtml/hello** --  views: 0 / 0 -  clones: 1 / 1
-529.  **playhtml/search** --  views: 0 / 0 -  clones: 1 / 1
-530.  **playhtml/tictactoe** --  views: 0 / 0 -  clones: 1 / 1
-531.  **playhtml/weather** --  views: 0 / 0 -  clones: 1 / 1
-532.  **plutolive/pluto.admin** --  views: 0 / 0 -  clones: 1 / 1
-533.  **quikstart/gem-starter-template** --  views: 0 / 0 -  clones: 1 / 1
-534.  **quikstart/gem-starter-template-hoe** --  views: 0 / 0 -  clones: 1 / 1
-535.  **quikstart/scripts** --  views: 0 / 0 -  clones: 1 / 1
-536.  **quikstart/sinatra-starter-template** --  views: 0 / 0 -  clones: 1 / 1
-537.  **rubycoco/about** --  views: 0 / 0 -  clones: 1 / 1
-538.  **rubycoco/activerecord-importer** --  views: 0 / 0 -  clones: 1 / 1
-539.  **rubycoco/activerecord-utils** --  views: 0 / 0 -  clones: 1 / 1
-540.  **rubycoco/activityutils** --  views: 0 / 0 -  clones: 1 / 1
-541.  **rubycoco/record** --  views: 0 / 0 -  clones: 1 / 1
-542.  **rubycoco/typeconv** --  views: 0 / 0 -  clones: 1 / 1
-543.  **s6ruby/universum-contracts** --  views: 0 / 0 -  clones: 1 / 1
-544.  **slidekit/s6-minimalistic** --  views: 0 / 0 -  clones: 1 / 1
-545.  **slidekit/s6-samples** --  views: 0 / 0 -  clones: 1 / 1
-546.  **slidekit/slidekit.github.io** --  views: 0 / 0 -  clones: 1 / 1
-547.  **slideshow-s9/slideshow-service** --  views: 0 / 0 -  clones: 1 / 1
-548.  **slideshow-templates/slideshow-bespoke.js** --  views: 0 / 0 -  clones: 1 / 1
-549.  **sportdb/sportdb.github.io** --  views: 0 / 0 -  clones: 1 / 1
-550.  **sportlabs/major-league-soccer** --  views: 0 / 0 -  clones: 1 / 1
-551.  **sportlogos/football.db.logos.ruby** --  views: 0 / 0 -  clones: 1 / 1
-552.  **sportlogos/hockey.db.logos** --  views: 0 / 0 -  clones: 1 / 1
-553.  **sportlogos/sport.db.logos.ruby** --  views: 0 / 0 -  clones: 1 / 1
-554.  **sportlogos/sportlogos.github.io** --  views: 0 / 0 -  clones: 1 / 1
-555.  **staystatic/staystatic-starter** --  views: 0 / 0 -  clones: 1 / 1
-556.  **textkit/dataman** --  views: 0 / 0 -  clones: 1 / 1
-557.  **updownpress/updownpress.github.io** --  views: 0 / 0 -  clones: 1 / 1
-558.  **webstart/manman** --  views: 0 / 0 -  clones: 1 / 1
-559.  **webstart/upman** --  views: 0 / 0 -  clones: 1 / 1
-560.  **webstart/upman-win** --  views: 0 / 0 -  clones: 1 / 1
-561.  **webstart/webstart.github.io** --  views: 0 / 0 -  clones: 1 / 1
-562.  **wikiscript/beer** --  views: 0 / 0 -  clones: 1 / 1
-563.  **wikiscript/football.squads** --  views: 0 / 0 -  clones: 1 / 1
-564.  **worlddb/world.db.starter** --  views: 0 / 0 -  clones: 1 / 1
-565.  **writekit/markdown.api.js** --  views: 0 / 0 -  clones: 1 / 1
-566.  **writekit/markdown.lib.js** --  views: 0 / 0 -  clones: 1 / 1
-567.  **writekit/markdown.note.starter** --  views: 0 / 0 -  clones: 1 / 1
-568.  **writekit/markdown.themes** --  views: 0 / 0 -  clones: 1 / 1
-569.  **yukimotopress/auto** --  views: 0 / 0 -  clones: 1 / 1
-570.  **yukimotopress/examples** --  views: 0 / 0 -  clones: 1 / 1
-571.  **yukimotopress/fizzbuzz** --  views: 0 / 0 -  clones: 1 / 1
-572.  **yukimotopress/gem-dev** --  views: 0 / 0 -  clones: 1 / 1
-573.  **yukimotopress/gem-tasks** --  views: 0 / 0 -  clones: 1 / 1
-574.  **yukimotopress/practices** --  views: 0 / 0 -  clones: 1 / 1
-575.  **yukimotopress/start** --  views: 0 / 0 -  clones: 1 / 1
+220.  **manuscripts/manuscripts.github.io** --  views: 3 / 2 -  clones: 1 / 1
+221.  **openbeer/collections** --  views: 3 / 2 -  clones: 1 / 1
+222.  **bitsblocks/bitcoin-maximalist** --  views: 3 / 2 -  clones: 0 / 0
+223.  **henrythemes/jekyll-talks-theme** --  views: 3 / 2 -  clones: 0 / 0
+224.  **hybook/bookfile** --  views: 3 / 2 -  clones: 0 / 0
+225.  **openfootball/women-world-cup** --  views: 3 / 2 -  clones: 0 / 0
+226.  **planetjekyll/sandbox** --  views: 3 / 2 -  clones: 0 / 0
+227.  **rubycoco/fizzbuzzer** --  views: 3 / 2 -  clones: 0 / 0
+228.  **s6ruby/units-time** --  views: 3 / 2 -  clones: 0 / 0
+229.  **sportkit/sport.db.starter.node.js** --  views: 3 / 2 -  clones: 0 / 0
+230.  **feedreader/pluto.more.tools** --  views: 3 / 1 -  clones: 1 / 1
+231.  **openfootball/north-america-gold-cup** --  views: 3 / 1 -  clones: 1 / 1
+232.  **planet-templates/planet-blank** --  views: 3 / 1 -  clones: 1 / 1
+233.  **rubycoco/ostructer** --  views: 3 / 1 -  clones: 1 / 1
+234.  **writekit/markdown-service** --  views: 3 / 1 -  clones: 1 / 1
+235.  **feedreader/news.rb** --  views: 3 / 1 -  clones: 0 / 0
+236.  **openfootball/schema** --  views: 3 / 1 -  clones: 0 / 0
+237.  **planetjekyll/planetjekyll.github.io** --  views: 3 / 1 -  clones: 0 / 0
+238.  **worlddb/world.db.admin** --  views: 3 / 1 -  clones: 0 / 0
+239.  **yukimotopress/practicing** --  views: 3 / 1 -  clones: 0 / 0
+240.  **beerbook/maps** --  views: 2 / 2 -  clones: 2 / 2
+241.  **octobook/book-2018-theme** --  views: 2 / 2 -  clones: 2 / 2
+242.  **openfootball/africa-cup** --  views: 2 / 2 -  clones: 2 / 2
+243.  **datatxt/datatxt.github.io** --  views: 2 / 2 -  clones: 1 / 1
+244.  **json-next/json-feed** --  views: 2 / 2 -  clones: 1 / 1
+245.  **manuscripts/manuscripts** --  views: 2 / 2 -  clones: 1 / 1
+246.  **openblockchains/blockchain-whitepapers** --  views: 2 / 2 -  clones: 1 / 1
+247.  **planet-templates/planet-paper** --  views: 2 / 2 -  clones: 1 / 1
+248.  **rsssf/deutschland** --  views: 2 / 2 -  clones: 1 / 1
+249.  **s6ruby/universum** --  views: 2 / 2 -  clones: 1 / 1
+250.  **slideshow-templates/slideshow-s5-blank** --  views: 2 / 2 -  clones: 1 / 1
+251.  **sportdb/footty** --  views: 2 / 2 -  clones: 1 / 1
+252.  **csvreader/benchmarks** --  views: 2 / 2 -  clones: 0 / 0
+253.  **csvspecs/csv-yaml** --  views: 2 / 2 -  clones: 0 / 0
+254.  **drjekyllthemes/drjekyllthemes.github.io** --  views: 2 / 2 -  clones: 0 / 0
+255.  **factbook/factbook.github.io** --  views: 2 / 2 -  clones: 0 / 0
+256.  **footballbook/footballbook.github.io** --  views: 2 / 2 -  clones: 0 / 0
+257.  **footballcsv/cache.updates** --  views: 2 / 2 -  clones: 0 / 0
+258.  **geraldb/catalog** --  views: 2 / 2 -  clones: 0 / 0
+259.  **openbookie/sport.db.market** --  views: 2 / 2 -  clones: 0 / 0
+260.  **openfootball/copa-america** --  views: 2 / 2 -  clones: 0 / 0
+261.  **quikstart/quik** --  views: 2 / 2 -  clones: 0 / 0
+262.  **rsssf/austria** --  views: 2 / 2 -  clones: 0 / 0
+263.  **s6ruby/redpaper** --  views: 2 / 2 -  clones: 0 / 0
+264.  **sportkit/sport.db.starter.ruby** --  views: 2 / 2 -  clones: 0 / 0
+265.  **webstart/webstart** --  views: 2 / 2 -  clones: 0 / 0
+266.  **worlddb/world.lite** --  views: 2 / 2 -  clones: 0 / 0
+267.  **writekit/markdown.note** --  views: 2 / 2 -  clones: 0 / 0
+268.  **yukimotopress/langs** --  views: 2 / 2 -  clones: 0 / 0
+269.  **yukimotopress/yukimotopress.github.io** --  views: 2 / 2 -  clones: 0 / 0
+270.  **beerkit/beer.db.service** --  views: 2 / 1 -  clones: 1 / 1
+271.  **feedparser/feedfilter** --  views: 2 / 1 -  clones: 1 / 1
+272.  **geraldb/web-proxy-win** --  views: 2 / 1 -  clones: 1 / 1
+273.  **planetjekyll/planet** --  views: 2 / 1 -  clones: 1 / 1
+274.  **slideshow-s9/samples** --  views: 2 / 1 -  clones: 1 / 1
+275.  **slideshow-templates/slideshow-csss** --  views: 2 / 1 -  clones: 1 / 1
+276.  **geraldb/wine.db.tools** --  views: 2 / 1 -  clones: 0 / 0
+277.  **hydepress/octopod** --  views: 2 / 1 -  clones: 0 / 0
+278.  **octobook/gitbook-to-octobook-sample** --  views: 2 / 1 -  clones: 0 / 0
+279.  **openblockchains/tulipmania** --  views: 2 / 1 -  clones: 0 / 0
+280.  **texti/texti** --  views: 2 / 1 -  clones: 0 / 0
+281.  **yukimotopress/fizzbuzz** --  views: 2 / 1 -  clones: 0 / 0
+282.  **yukimotopress/http** --  views: 2 / 1 -  clones: 0 / 0
+283.  **mundimark/why-text** --  views: 1 / 1 -  clones: 3 / 3
+284.  **austriacodes/awesome-austria** --  views: 1 / 1 -  clones: 2 / 2
+285.  **cryptocopycats/media** --  views: 1 / 1 -  clones: 2 / 2
+286.  **csvspecs/csv-next** --  views: 1 / 1 -  clones: 2 / 2
+287.  **mundimark/markdown-tools-books** --  views: 1 / 1 -  clones: 2 / 2
+288.  **planet-templates/planet-forty** --  views: 1 / 1 -  clones: 2 / 2
+289.  **s6ruby/units-money** --  views: 1 / 1 -  clones: 2 / 2
+290.  **wikiscript/wikiscript** --  views: 1 / 1 -  clones: 2 / 1
+291.  **beerbook/beerbook.github.io** --  views: 1 / 1 -  clones: 1 / 1
+292.  **beerkit/beer.db.day** --  views: 1 / 1 -  clones: 1 / 1
+293.  **beerkit/beer.js** --  views: 1 / 1 -  clones: 1 / 1
+294.  **bibtxt/bibtxt.github.io** --  views: 1 / 1 -  clones: 1 / 1
+295.  **book-templates/football** --  views: 1 / 1 -  clones: 1 / 1
+296.  **bookdesigns/designs** --  views: 1 / 1 -  clones: 1 / 1
+297.  **henrythemes/jekyll-gutenberg-theme** --  views: 1 / 1 -  clones: 1 / 1
+298.  **octobook/book-2017-theme** --  views: 1 / 1 -  clones: 1 / 1
+299.  **officetxt/officetxt.github.io** --  views: 1 / 1 -  clones: 1 / 1
+300.  **openbeer/jp-japan** --  views: 1 / 1 -  clones: 1 / 1
+301.  **openblockchains/blockchain.lite.js** --  views: 1 / 1 -  clones: 1 / 1
+302.  **persondb/person.db.models** --  views: 1 / 1 -  clones: 1 / 1
+303.  **planet-templates/planet-classic** --  views: 1 / 1 -  clones: 1 / 1
+304.  **planet-templates/planet-digest** --  views: 1 / 1 -  clones: 1 / 1
+305.  **planet-templates/planet-top** --  views: 1 / 1 -  clones: 1 / 1
+306.  **planet-templates/planet-zen** --  views: 1 / 1 -  clones: 1 / 1
+307.  **playhtml/memory** --  views: 1 / 1 -  clones: 1 / 1
+308.  **rubycoco/dbbrowser** --  views: 1 / 1 -  clones: 1 / 1
+309.  **rubycoco/linkto** --  views: 1 / 1 -  clones: 1 / 1
+310.  **rubycoco/pakman** --  views: 1 / 1 -  clones: 1 / 1
+311.  **s6ruby/pragmas** --  views: 1 / 1 -  clones: 1 / 1
+312.  **s6ruby/ruby-to-michelson** --  views: 1 / 1 -  clones: 1 / 1
+313.  **s6ruby/ruby-to-solidity** --  views: 1 / 1 -  clones: 1 / 1
+314.  **s6ruby/safestruct** --  views: 1 / 1 -  clones: 1 / 1
+315.  **slideshow-s9/demos** --  views: 1 / 1 -  clones: 1 / 1
+316.  **slideshow-templates/slideshow-deck.js** --  views: 1 / 1 -  clones: 1 / 1
+317.  **slideshow-templates/slideshow-s5-themes** --  views: 1 / 1 -  clones: 1 / 1
+318.  **sportkit/sport.db.starter.go** --  views: 1 / 1 -  clones: 1 / 1
+319.  **viennacrypto/blockchain-whitepapers** --  views: 1 / 1 -  clones: 1 / 1
+320.  **worlddb/world.db.service** --  views: 1 / 1 -  clones: 1 / 1
+321.  **beercsv/statistics** --  views: 1 / 1 -  clones: 0 / 0
+322.  **bitsblocks/get-rich-quick-bible** --  views: 1 / 1 -  clones: 0 / 0
+323.  **bitshilling/bitshilling** --  views: 1 / 1 -  clones: 0 / 0
+324.  **bitshilling/bitshilling.tools** --  views: 1 / 1 -  clones: 0 / 0
+325.  **book-templates/beer** --  views: 1 / 1 -  clones: 0 / 0
+326.  **bookdesigns/book-epsilon** --  views: 1 / 1 -  clones: 0 / 0
+327.  **bookdesigns/book-git** --  views: 1 / 1 -  clones: 0 / 0
+328.  **feedtxt/feedtxt** --  views: 1 / 1 -  clones: 0 / 0
+329.  **funpress/mostly-adequate-guide-to-fp** --  views: 1 / 1 -  clones: 0 / 0
+330.  **geraldb/geraldb.github.io** --  views: 1 / 1 -  clones: 0 / 0
+331.  **mrhydescripts/mrhyde** --  views: 1 / 1 -  clones: 0 / 0
+332.  **octobook/book-classics-theme** --  views: 1 / 1 -  clones: 0 / 0
+333.  **octobook/octobook** --  views: 1 / 1 -  clones: 0 / 0
+334.  **openbookie/market.euro-cup** --  views: 1 / 1 -  clones: 0 / 0
+335.  **openbookie/market.world-cup** --  views: 1 / 1 -  clones: 0 / 0
+336.  **openfootball/copa-sudamericana** --  views: 1 / 1 -  clones: 0 / 0
+337.  **openfootball/north-america-champions-league** --  views: 1 / 1 -  clones: 0 / 0
+338.  **openfootball/women-euro-cup** --  views: 1 / 1 -  clones: 0 / 0
+339.  **openmundi/datafile** --  views: 1 / 1 -  clones: 0 / 0
+340.  **planet-templates/planet-templates.github.io** --  views: 1 / 1 -  clones: 0 / 0
+341.  **planetopendata/planet** --  views: 1 / 1 -  clones: 0 / 0
+342.  **plutolive/pluto.admin** --  views: 1 / 1 -  clones: 0 / 0
+343.  **publicdomainworks/publicdomainworks.github.io** --  views: 1 / 1 -  clones: 0 / 0
+344.  **quikstart/jekyll-starter-theme** --  views: 1 / 1 -  clones: 0 / 0
+345.  **sportdb/sportdb.github.io** --  views: 1 / 1 -  clones: 0 / 0
+346.  **worldclassics/dr-jekyll-and-mr-hyde** --  views: 1 / 1 -  clones: 0 / 0
+347.  **worldclassics/the-trial** --  views: 1 / 1 -  clones: 0 / 0
+348.  **worldclassics/worldclassics.github.io** --  views: 1 / 1 -  clones: 0 / 0
+349.  **worlddb/world.db.cities** --  views: 1 / 1 -  clones: 0 / 0
+350.  **planetjekyll/sandbox-github-pages** --  views: 0 / 0 -  clones: 3 / 3
+351.  **viennarb/questions** --  views: 0 / 0 -  clones: 3 / 2
+352.  **csvspecs/csv-v11** --  views: 0 / 0 -  clones: 2 / 2
+353.  **hydepress/jekyll-deploy** --  views: 0 / 0 -  clones: 2 / 2
+354.  **hydepress/jekyll-install** --  views: 0 / 0 -  clones: 2 / 2
+355.  **hydepress/jekyll-plugins** --  views: 0 / 0 -  clones: 2 / 2
+356.  **planetjekyll/sandbox-syntax-highlighter** --  views: 0 / 0 -  clones: 2 / 2
+357.  **printhtml/quickrefs** --  views: 0 / 0 -  clones: 2 / 2
+358.  **schemadoc/schemadoc-theme** --  views: 0 / 0 -  clones: 2 / 2
+359.  **slideshow-s9/slideshow-plugins** --  views: 0 / 0 -  clones: 2 / 2
+360.  **slideshow-templates/media** --  views: 0 / 0 -  clones: 2 / 2
+361.  **staystatic/quickrefs** --  views: 0 / 0 -  clones: 2 / 2
+362.  **typesigs/bytes** --  views: 0 / 0 -  clones: 2 / 2
+363.  **typesigs/programming-bits-bytes** --  views: 0 / 0 -  clones: 2 / 2
+364.  **typesigs/records** --  views: 0 / 0 -  clones: 2 / 2
+365.  **viennarb/planet** --  views: 0 / 0 -  clones: 2 / 2
+366.  **viennarb/viennarb.github.io** --  views: 0 / 0 -  clones: 2 / 2
+367.  **yukimotopress/smalldata** --  views: 0 / 0 -  clones: 2 / 2
+368.  **wikiscript/football.players** --  views: 0 / 0 -  clones: 2 / 1
+369.  **beercsv/ca-canada** --  views: 0 / 0 -  clones: 1 / 1
+370.  **beerkit/beer.db.mobile** --  views: 0 / 0 -  clones: 1 / 1
+371.  **beerkit/beerbook** --  views: 0 / 0 -  clones: 1 / 1
+372.  **bitsblocks/islandcoin-whitepaper** --  views: 0 / 0 -  clones: 1 / 1
+373.  **bookdesigns/book-hamilton** --  views: 0 / 0 -  clones: 1 / 1
+374.  **csvspecs/csv-numerics** --  views: 0 / 0 -  clones: 1 / 1
+375.  **csvspecs/csv-v10** --  views: 0 / 0 -  clones: 1 / 1
+376.  **drjekyllthemes/test-theme** --  views: 0 / 0 -  clones: 1 / 1
+377.  **feedhtml/hyperdata** --  views: 0 / 0 -  clones: 1 / 1
+378.  **funpress/elm-by-example** --  views: 0 / 0 -  clones: 1 / 1
+379.  **funpress/funpress.github.io** --  views: 0 / 0 -  clones: 1 / 1
+380.  **geraldb/austria** --  views: 0 / 0 -  clones: 1 / 1
+381.  **geraldb/chelitas** --  views: 0 / 0 -  clones: 1 / 1
+382.  **geraldb/logos** --  views: 0 / 0 -  clones: 1 / 1
+383.  **geraldb/webpub-reader** --  views: 0 / 0 -  clones: 1 / 1
+384.  **henrythemes/hello-pages-theme** --  views: 0 / 0 -  clones: 1 / 1
+385.  **henrythemes/jekyll-boom-theme** --  views: 0 / 0 -  clones: 1 / 1
+386.  **henrythemes/jekyll-boom-theme-v2** --  views: 0 / 0 -  clones: 1 / 1
+387.  **hydepress/hydepress.github.io** --  views: 0 / 0 -  clones: 1 / 1
+388.  **hydepress/jekyll** --  views: 0 / 0 -  clones: 1 / 1
+389.  **hydepress/jekyll-dev** --  views: 0 / 0 -  clones: 1 / 1
+390.  **hydepress/jekyll-import** --  views: 0 / 0 -  clones: 1 / 1
+391.  **hydepress/jekyll-style** --  views: 0 / 0 -  clones: 1 / 1
+392.  **hydepress/jekyll-themes** --  views: 0 / 0 -  clones: 1 / 1
+393.  **hydepress/liquid** --  views: 0 / 0 -  clones: 1 / 1
+394.  **hydepress/octopress** --  views: 0 / 0 -  clones: 1 / 1
+395.  **json-next/json-next-tests** --  views: 0 / 0 -  clones: 1 / 1
+396.  **json-next/json-next.github.io** --  views: 0 / 0 -  clones: 1 / 1
+397.  **markupmadness/markupmadness** --  views: 0 / 0 -  clones: 1 / 1
+398.  **mundimark/markdown-tools** --  views: 0 / 0 -  clones: 1 / 1
+399.  **octobook/book-blank-theme** --  views: 0 / 0 -  clones: 1 / 1
+400.  **openbeer/ch-confoederatio-helvetica** --  views: 0 / 0 -  clones: 1 / 1
+401.  **openbeer/co-colorado** --  views: 0 / 0 -  clones: 1 / 1
+402.  **openbeer/ie-ireland** --  views: 0 / 0 -  clones: 1 / 1
+403.  **openbeer/menus** --  views: 0 / 0 -  clones: 1 / 1
+404.  **openbeer/notes** --  views: 0 / 0 -  clones: 1 / 1
+405.  **openbeer/wa-washington** --  views: 0 / 0 -  clones: 1 / 1
+406.  **openblockchains/awesome-cheezewizards** --  views: 0 / 0 -  clones: 1 / 1
+407.  **openblockchains/merkletree.rb** --  views: 0 / 0 -  clones: 1 / 1
+408.  **openfootball/opendata-theme** --  views: 0 / 0 -  clones: 1 / 1
+409.  **openmundi/wien.db** --  views: 0 / 0 -  clones: 1 / 1
+410.  **planet-templates/planet-feeds** --  views: 0 / 0 -  clones: 1 / 1
+411.  **planet-templates/planet-news** --  views: 0 / 0 -  clones: 1 / 1
+412.  **planetjekyll/sandbox-collections** --  views: 0 / 0 -  clones: 1 / 1
+413.  **planetopendata/awesome-austria** --  views: 0 / 0 -  clones: 1 / 1
+414.  **planetruby/hellohoe** --  views: 0 / 0 -  clones: 1 / 1
+415.  **planetruby/quickrefs** --  views: 0 / 0 -  clones: 1 / 1
+416.  **plutolive/pluto.live.starter** --  views: 0 / 0 -  clones: 1 / 1
+417.  **rsssf/spec** --  views: 0 / 0 -  clones: 1 / 1
+418.  **rubycoco/about** --  views: 0 / 0 -  clones: 1 / 1
+419.  **rubycoco/activerecord-utils** --  views: 0 / 0 -  clones: 1 / 1
+420.  **rubycoco/activityutils** --  views: 0 / 0 -  clones: 1 / 1
+421.  **rubycoco/logutils** --  views: 0 / 0 -  clones: 1 / 1
+422.  **rubycoco/tagutils** --  views: 0 / 0 -  clones: 1 / 1
+423.  **slidekit/jekyll-talks-theme** --  views: 0 / 0 -  clones: 1 / 1
+424.  **slidekit/s6-v1** --  views: 0 / 0 -  clones: 1 / 1
+425.  **slidekit/talks-starter** --  views: 0 / 0 -  clones: 1 / 1
+426.  **slideshow-s9/slideshow-service** --  views: 0 / 0 -  clones: 1 / 1
+427.  **slideshow-s9/slideshow-starter** --  views: 0 / 0 -  clones: 1 / 1
+428.  **slideshow-templates/slideshow-google-io-2011-slides** --  views: 0 / 0 -  clones: 1 / 1
+429.  **slideshow-templates/slideshow-s6-syntax-highlighter** --  views: 0 / 0 -  clones: 1 / 1
+430.  **sportlogos/sport.db.logos** --  views: 0 / 0 -  clones: 1 / 1
+431.  **staystatic/staystatic.github.io** --  views: 0 / 0 -  clones: 1 / 1
+432.  **textkit/catalog.db** --  views: 0 / 0 -  clones: 1 / 1
+433.  **textkit/datafile** --  views: 0 / 0 -  clones: 1 / 1
+434.  **textkit/notes** --  views: 0 / 0 -  clones: 1 / 1
+435.  **textkit/preproc** --  views: 0 / 0 -  clones: 1 / 1
+436.  **typesigs/awesome-types** --  views: 0 / 0 -  clones: 1 / 1
+437.  **typesigs/typesig** --  views: 0 / 0 -  clones: 1 / 1
+438.  **viennacrypto/viennacrypto.github.io** --  views: 0 / 0 -  clones: 1 / 1
+439.  **worldbook/worldbook.github.io** --  views: 0 / 0 -  clones: 1 / 1
+440.  **yukimotopress/blockchains** --  views: 0 / 0 -  clones: 1 / 1
+441.  **yukimotopress/micro** --  views: 0 / 0 -  clones: 1 / 1
+442.  **yukimotopress/sinatra-intro** --  views: 0 / 0 -  clones: 1 / 1
+443.  **austriacodes/austria.txt** --  views: 0 / 0 -  clones: 0 / 0
+444.  **austriacodes/austriacodes.github.io** --  views: 0 / 0 -  clones: 0 / 0
+445.  **austriacodes/showcase** --  views: 0 / 0 -  clones: 0 / 0
+446.  **beerbook/calendar** --  views: 0 / 0 -  clones: 0 / 0
+447.  **beercsv/be-belgium** --  views: 0 / 0 -  clones: 0 / 0
+448.  **beercsv/build** --  views: 0 / 0 -  clones: 0 / 0
+449.  **beercsv/de-deutschland** --  views: 0 / 0 -  clones: 0 / 0
+450.  **beercsv/world** --  views: 0 / 0 -  clones: 0 / 0
+451.  **beerkit/beer.api.js** --  views: 0 / 0 -  clones: 0 / 0
+452.  **beerlabels/beer.db.labels** --  views: 0 / 0 -  clones: 0 / 0
+453.  **bitsblocks/bitcoin-whitepaper** --  views: 0 / 0 -  clones: 0 / 0
+454.  **bitsblocks/bitsblocks.github.io** --  views: 0 / 0 -  clones: 0 / 0
+455.  **bitsblocks/colored-coins-whitepaper** --  views: 0 / 0 -  clones: 0 / 0
+456.  **bitsblocks/crypto-bubbles** --  views: 0 / 0 -  clones: 0 / 0
+457.  **bitsblocks/ethereum** --  views: 0 / 0 -  clones: 0 / 0
+458.  **bitsblocks/ethereum-whitepaper** --  views: 0 / 0 -  clones: 0 / 0
+459.  **bitsblocks/mastercoin-whitepaper** --  views: 0 / 0 -  clones: 0 / 0
+460.  **book-templates/bookfile** --  views: 0 / 0 -  clones: 0 / 0
+461.  **book-templates/world** --  views: 0 / 0 -  clones: 0 / 0
+462.  **bookdesigns/book-rust** --  views: 0 / 0 -  clones: 0 / 0
+463.  **chooseaconduct/chooseaconduct.github.io** --  views: 0 / 0 -  clones: 0 / 0
+464.  **cryptocopycats/kittyverse.json** --  views: 0 / 0 -  clones: 0 / 0
+465.  **csvreader/csvhuman** --  views: 0 / 0 -  clones: 0 / 0
+466.  **csvreader/csvjson** --  views: 0 / 0 -  clones: 0 / 0
+467.  **csvreader/csvyaml** --  views: 0 / 0 -  clones: 0 / 0
+468.  **csvreader/tabreader** --  views: 0 / 0 -  clones: 0 / 0
+469.  **csvspecs/csv-hxl** --  views: 0 / 0 -  clones: 0 / 0
+470.  **csvspecs/csv-json** --  views: 0 / 0 -  clones: 0 / 0
+471.  **feedhtml/feedhtml.github.io** --  views: 0 / 0 -  clones: 0 / 0
+472.  **feedparser/feedfinder** --  views: 0 / 0 -  clones: 0 / 0
+473.  **feedparser/feeds** --  views: 0 / 0 -  clones: 0 / 0
+474.  **feedreader/website.old** --  views: 0 / 0 -  clones: 0 / 0
+475.  **feedtxt/feedtxt.github.io** --  views: 0 / 0 -  clones: 0 / 0
+476.  **footballbook/calendar** --  views: 0 / 0 -  clones: 0 / 0
+477.  **funpress/babel** --  views: 0 / 0 -  clones: 0 / 0
+478.  **funpress/es6-features** --  views: 0 / 0 -  clones: 0 / 0
+479.  **geraldb/sandbox** --  views: 0 / 0 -  clones: 0 / 0
+480.  **geraldb/webcomponents** --  views: 0 / 0 -  clones: 0 / 0
+481.  **hybook/bookman** --  views: 0 / 0 -  clones: 0 / 0
+482.  **markupmadness/markupmadness.github.io** --  views: 0 / 0 -  clones: 0 / 0
+483.  **mundimark/markdown-can-i-use** --  views: 0 / 0 -  clones: 0 / 0
+484.  **mundimark/mundimark.github.io** --  views: 0 / 0 -  clones: 0 / 0
+485.  **mundimark/quickrefs** --  views: 0 / 0 -  clones: 0 / 0
+486.  **octobook/awesome-typography** --  views: 0 / 0 -  clones: 0 / 0
+487.  **officetxt/officetxt** --  views: 0 / 0 -  clones: 0 / 0
+488.  **openbeer/be-belgium** --  views: 0 / 0 -  clones: 0 / 0
+489.  **openbeer/by-bayern** --  views: 0 / 0 -  clones: 0 / 0
+490.  **openbeer/ca-canada** --  views: 0 / 0 -  clones: 0 / 0
+491.  **openbeer/cz-czech-republic** --  views: 0 / 0 -  clones: 0 / 0
+492.  **openbeer/de-deutschland** --  views: 0 / 0 -  clones: 0 / 0
+493.  **openbeer/images** --  views: 0 / 0 -  clones: 0 / 0
+494.  **openbeer/market** --  views: 0 / 0 -  clones: 0 / 0
+495.  **openbeer/mx-mexico** --  views: 0 / 0 -  clones: 0 / 0
+496.  **openbeer/nl-netherlands** --  views: 0 / 0 -  clones: 0 / 0
+497.  **openbeer/oberbayern** --  views: 0 / 0 -  clones: 0 / 0
+498.  **openbeer/oberfranken** --  views: 0 / 0 -  clones: 0 / 0
+499.  **openbeer/or-oregon** --  views: 0 / 0 -  clones: 0 / 0
+500.  **openblockchains/awesome-coins** --  views: 0 / 0 -  clones: 0 / 0
+501.  **openbookie/market.at-austria** --  views: 0 / 0 -  clones: 0 / 0
+502.  **openbookie/notes** --  views: 0 / 0 -  clones: 0 / 0
+503.  **openfootball/club-world-cup** --  views: 0 / 0 -  clones: 0 / 0
+504.  **openfootball/confed-cup** --  views: 0 / 0 -  clones: 0 / 0
+505.  **openfootball/futbol-es** --  views: 0 / 0 -  clones: 0 / 0
+506.  **openfootball/lang** --  views: 0 / 0 -  clones: 0 / 0
+507.  **openmundi/austria.db** --  views: 0 / 0 -  clones: 0 / 0
+508.  **openmundi/deutschland.db** --  views: 0 / 0 -  clones: 0 / 0
+509.  **openmundi/langs** --  views: 0 / 0 -  clones: 0 / 0
+510.  **openmundi/notes** --  views: 0 / 0 -  clones: 0 / 0
+511.  **openmundi/openmundi.github.io** --  views: 0 / 0 -  clones: 0 / 0
+512.  **openmundi/welt-de** --  views: 0 / 0 -  clones: 0 / 0
+513.  **openmundi/world-heritage** --  views: 0 / 0 -  clones: 0 / 0
+514.  **opensport/build** --  views: 0 / 0 -  clones: 0 / 0
+515.  **openwine/at-austria** --  views: 0 / 0 -  clones: 0 / 0
+516.  **openwine/build** --  views: 0 / 0 -  clones: 0 / 0
+517.  **planet-templates/planet-hacker** --  views: 0 / 0 -  clones: 0 / 0
+518.  **planetbeer/books** --  views: 0 / 0 -  clones: 0 / 0
+519.  **planetbeer/planet** --  views: 0 / 0 -  clones: 0 / 0
+520.  **planetbeer/planetbeer.github.io** --  views: 0 / 0 -  clones: 0 / 0
+521.  **planetopendata/planetopendata.github.io** --  views: 0 / 0 -  clones: 0 / 0
+522.  **planetruby/apps** --  views: 0 / 0 -  clones: 0 / 0
+523.  **planetruby/calendar-theme** --  views: 0 / 0 -  clones: 0 / 0
+524.  **planetruby/gems** --  views: 0 / 0 -  clones: 0 / 0
+525.  **planetruby/links** --  views: 0 / 0 -  clones: 0 / 0
+526.  **planetruby/planet** --  views: 0 / 0 -  clones: 0 / 0
+527.  **planetruby/planetruby.github.io** --  views: 0 / 0 -  clones: 0 / 0
+528.  **playhtml/feeds** --  views: 0 / 0 -  clones: 0 / 0
+529.  **playhtml/hello** --  views: 0 / 0 -  clones: 0 / 0
+530.  **playhtml/search** --  views: 0 / 0 -  clones: 0 / 0
+531.  **playhtml/tictactoe** --  views: 0 / 0 -  clones: 0 / 0
+532.  **playhtml/weather** --  views: 0 / 0 -  clones: 0 / 0
+533.  **plutolive/pluto.live** --  views: 0 / 0 -  clones: 0 / 0
+534.  **quikstart/gem-starter-template** --  views: 0 / 0 -  clones: 0 / 0
+535.  **quikstart/gem-starter-template-hoe** --  views: 0 / 0 -  clones: 0 / 0
+536.  **quikstart/scripts** --  views: 0 / 0 -  clones: 0 / 0
+537.  **quikstart/sinatra-starter-template** --  views: 0 / 0 -  clones: 0 / 0
+538.  **rsssf/rsssf.github.io** --  views: 0 / 0 -  clones: 0 / 0
+539.  **rubycoco/activerecord-importer** --  views: 0 / 0 -  clones: 0 / 0
+540.  **rubycoco/record** --  views: 0 / 0 -  clones: 0 / 0
+541.  **rubycoco/typeconv** --  views: 0 / 0 -  clones: 0 / 0
+542.  **s6ruby/universum-contracts** --  views: 0 / 0 -  clones: 0 / 0
+543.  **slidekit/s6-minimalistic** --  views: 0 / 0 -  clones: 0 / 0
+544.  **slidekit/s6-samples** --  views: 0 / 0 -  clones: 0 / 0
+545.  **slidekit/slidekit.github.io** --  views: 0 / 0 -  clones: 0 / 0
+546.  **slideshow-templates/slideshow-bespoke.js** --  views: 0 / 0 -  clones: 0 / 0
+547.  **slideshow-templates/slideshow-s6-blank-v1** --  views: 0 / 0 -  clones: 0 / 0
+548.  **sportlabs/major-league-soccer** --  views: 0 / 0 -  clones: 0 / 0
+549.  **sportlogos/football.db.logos.ruby** --  views: 0 / 0 -  clones: 0 / 0
+550.  **sportlogos/hockey.db.logos** --  views: 0 / 0 -  clones: 0 / 0
+551.  **sportlogos/sport.db.logos.ruby** --  views: 0 / 0 -  clones: 0 / 0
+552.  **sportlogos/sportlogos.github.io** --  views: 0 / 0 -  clones: 0 / 0
+553.  **staystatic/staystatic-starter** --  views: 0 / 0 -  clones: 0 / 0
+554.  **textkit/dataman** --  views: 0 / 0 -  clones: 0 / 0
+555.  **updownpress/updownpress.github.io** --  views: 0 / 0 -  clones: 0 / 0
+556.  **webstart/links** --  views: 0 / 0 -  clones: 0 / 0
+557.  **webstart/manman** --  views: 0 / 0 -  clones: 0 / 0
+558.  **webstart/upman** --  views: 0 / 0 -  clones: 0 / 0
+559.  **webstart/upman-win** --  views: 0 / 0 -  clones: 0 / 0
+560.  **webstart/webstart.github.io** --  views: 0 / 0 -  clones: 0 / 0
+561.  **wikiscript/beer** --  views: 0 / 0 -  clones: 0 / 0
+562.  **wikiscript/football.squads** --  views: 0 / 0 -  clones: 0 / 0
+563.  **worlddb/world.db.codes** --  views: 0 / 0 -  clones: 0 / 0
+564.  **worlddb/world.db.starter** --  views: 0 / 0 -  clones: 0 / 0
+565.  **writekit/markdown-tools** --  views: 0 / 0 -  clones: 0 / 0
+566.  **writekit/markdown.api.js** --  views: 0 / 0 -  clones: 0 / 0
+567.  **writekit/markdown.lib.js** --  views: 0 / 0 -  clones: 0 / 0
+568.  **writekit/markdown.note.starter** --  views: 0 / 0 -  clones: 0 / 0
+569.  **writekit/markdown.themes** --  views: 0 / 0 -  clones: 0 / 0
+570.  **yukimotopress/auto** --  views: 0 / 0 -  clones: 0 / 0
+571.  **yukimotopress/examples** --  views: 0 / 0 -  clones: 0 / 0
+572.  **yukimotopress/gem-dev** --  views: 0 / 0 -  clones: 0 / 0
+573.  **yukimotopress/gem-tasks** --  views: 0 / 0 -  clones: 0 / 0
+574.  **yukimotopress/practices** --  views: 0 / 0 -  clones: 0 / 0
+575.  **yukimotopress/start** --  views: 0 / 0 -  clones: 0 / 0
 <!-- break -->
 
 

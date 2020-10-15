@@ -39,8 +39,8 @@ backup_dir = "~/backup/#{Date.today.strftime('%Y-%m-%d')}"
 #### Update Datafiles
 
 To update / generate the reposet / list (`./repos.yml`)
-to backup and to update all stats (stars, commits, etc.) in `./data`
-use the online script e.g.:
+to backup and to update all stats (stars, commits, etc.)
+in `../cache.github` use the online script e.g.:
 
 ```
 $ ruby script/online.rb
@@ -60,8 +60,6 @@ set HUBBA_PASSWORD=topsecret
 Note: For now exclude (comment out) these by-hand:
 
 ```
-henrythemes (13):
-- jekyll-bootstrap-theme     ## download to big - all of bootstrap ???
 cryptocopycats (6):
 - kitties                    ## download to big
 ```
@@ -71,7 +69,15 @@ cryptocopycats (6):
 
 ##### Update Summary
 
-To update the summary (SUMMARY.md) & co. reports use the reports script e.g.
+To fast forward (ff) the (cached) github api stats
+in `/cache.github` use the sync script e.g.
+
+```
+$ ruby script/sync.rb
+```
+
+
+To update the summary (`SUMMARY.md`) & co. reports use the reports script e.g.
 
 ```
 $ ruby script/reports.rb

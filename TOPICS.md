@@ -1,5 +1,5 @@
 Auto-generated github (statistics) report;
-built with [Hubba v0.1.0](https://github.com/rubycoco/git/tree/master/hubba-reports).
+built with [Hubba v1.0.0](https://github.com/rubycoco/git/tree/master/hubba-reports).
 
 
 # Topics - 575 Repos @ 82 Orgs
@@ -163,9 +163,18 @@ built with [Hubba v0.1.0](https://github.com/rubycoco/git/tree/master/hubba-repo
 `fussball` _(2)_
 `futbol` _(1)_
 `gatsby` _(2)_
+`gem` _(4)_
+`gems` _(3)_
 `germany` _(1)_
-`git` _(2)_
+`git` _(3)_
+`git-backup` _(1)_
+`git-sync` _(1)_
 `gitbook` _(1)_
+`github` _(1)_
+`github-analytics` _(1)_
+`github-api` _(1)_
+`github-statistics` _(1)_
+`github-traffic` _(1)_
 `graz` _(4)_
 `hanson` _(4)_
 `harp` _(1)_
@@ -247,6 +256,8 @@ built with [Hubba v0.1.0](https://github.com/rubycoco/git/tree/master/hubba-repo
 `microformats` _(6)_
 `middleman` _(2)_
 `mls` _(1)_
+`monorepo` _(1)_
+`monorepos` _(1)_
 `move` _(1)_
 `multiline` _(1)_
 `namedvalues` _(1)_
@@ -313,7 +324,7 @@ built with [Hubba v0.1.0](https://github.com/rubycoco/git/tree/master/hubba-repo
 `rss-aggregator` _(1)_
 `rss-reader` _(1)_
 `rth` _(1)_
-`ruby` _(7)_
+`ruby` _(13)_
 `ruby-conferences` _(1)_
 `russia17` _(1)_
 `russia2018` _(3)_
@@ -885,14 +896,41 @@ footballcsv/espana
 ## `gatsby` _(2)_
 austriacodes/vienna.html · staystatic/staystatic
 
+## `gem` _(4)_
+geraldb/wine.db.tools · beerkit/beer.db · rubycoco/almost-sinatra · rubycoco/fizzbuzzer
+
+## `gems` _(3)_
+rubycoco/git · rubycoco/webclient · sportdb/sport.db
+
 ## `germany` _(1)_
 footballcsv/deutschland
 
-## `git` _(2)_
-bitshilling/bitshilling · openblockchains/awesome-blockchains
+## `git` _(3)_
+bitshilling/bitshilling · openblockchains/awesome-blockchains · rubycoco/git
+
+## `git-backup` _(1)_
+rubycoco/git
+
+## `git-sync` _(1)_
+rubycoco/git
 
 ## `gitbook` _(1)_
 octobook/gitbook-to-octobook-sample
+
+## `github` _(1)_
+rubycoco/git
+
+## `github-analytics` _(1)_
+rubycoco/git
+
+## `github-api` _(1)_
+rubycoco/git
+
+## `github-statistics` _(1)_
+rubycoco/git
+
+## `github-traffic` _(1)_
+rubycoco/git
 
 ## `graz` _(4)_
 austriacodes/awesome-austria · openbeer/at-austria · openfootball/austria · openmundi/austria.db
@@ -1137,6 +1175,12 @@ austriacodes/vienna.html · staystatic/staystatic
 ## `mls` _(1)_
 footballcsv/major-league-soccer
 
+## `monorepo` _(1)_
+rubycoco/git
+
+## `monorepos` _(1)_
+rubycoco/git
+
 ## `move` _(1)_
 openblockchains/awesome-libra
 
@@ -1335,8 +1379,8 @@ feedreader/pluto
 ## `rth` _(1)_
 viennacrypto/blockchain-whitepapers
 
-## `ruby` _(7)_
-datatxt/iniparser · factbook/factbook · planetruby/calendar · rubycoco/almost-sinatra · s6ruby/awesome-crypto · s6ruby/universum-contracts · viennarb/viennarb.github.io
+## `ruby` _(13)_
+geraldb/wine.db.tools · beerkit/beer.db · datatxt/iniparser · factbook/factbook · planetruby/calendar · rubycoco/almost-sinatra · rubycoco/fizzbuzzer · rubycoco/git · rubycoco/webclient · s6ruby/awesome-crypto · s6ruby/universum-contracts · sportdb/sport.db · viennarb/viennarb.github.io
 
 ## `ruby-conferences` _(1)_
 planetruby/calendar

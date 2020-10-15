@@ -1,5 +1,5 @@
 Auto-generated github (statistics) report;
-built with [Hubba v0.1.0](https://github.com/rubycoco/git/tree/master/hubba-reports).
+built with [Hubba v1.0.0](https://github.com/rubycoco/git/tree/master/hubba-reports).
 
 
 # Catalog - 575 Repos @ 82 Orgs
@@ -24,7 +24,7 @@ _Logos_
 **sandbox** ★2 (529 kb)  <br>
 _Misc. Sources, Scripts, Templates and More_
 
-**talks** ★200 (16203 kb)  <br>
+**talks** ★202 (16203 kb)  <br>
 _talks, talks, talks  (sources in Markdown)_
 
 **web-proxy-win** ★8 (152 kb)  <br>
@@ -37,7 +37,8 @@ _webcomponents sandbox_
 _Reader web app for (packaged) web publications / books (in Java)_
 
 **wine.db.tools** ★1 (252 kb)  <br>
-_winedb gem - open wine database (wine.db) command line tool in ruby (includes schema & models for easy reuse)_
+_winedb gem - open wine database (wine.db) command line tool in ruby (includes schema & models for easy reuse)_  <br>
+`ruby` · `gem`
 
 
 ### austriacodes _(5)_
@@ -104,7 +105,7 @@ _Beer 'n' brewery service in JavaScript using the beer.db HTTP JSON(P) API_
 
 **beer.db** ★31 (260 kb)  <br>
 _beerdb gems - open beer database (beer.db) command line tool and libraries _  <br>
-`beer` · `brewery` · `bier` · `cerveza` · `pivo` · `opendata` · `brewpub`
+`beer` · `brewery` · `bier` · `cerveza` · `pivo` · `opendata` · `brewpub` · `ruby` · `gem`
 
 **beer.db.admin** ★6 (536 kb)  <br>
 _beer.db web app - open beer database (beer.db) web admin tool in ruby on rails (version 3.2 and up)_
@@ -243,7 +244,7 @@ _Choose-A-Conduct Website_
 _A collection about Awesome Crypto Collectibles (& Assets) - Yes, Non Fungible Tokens (NFTs) - Yes, Unique Bits & Bytes on the Blockchain - Buy! Sell! Hodl!_  <br>
 `cryptocollectibles` · `cryptopets` · `cryptopuppies` · `cryptotulips` · `awesome` · `cryptocopycats` · `blockchain` · `erc721`
 
-**awesome-cryptokitties** ★489 (4154 kb)  <br>
+**awesome-cryptokitties** ★490 (4154 kb)  <br>
 _A collection about Awesome CryptoKitties (Yes, Cute Little Cartoon Cats) on the Blockchain! and CryptoCopycats - digital collectibles secured on a distributed public databases w/ crypto hashes.  Are CryptoPuppies the new CryptoKitties? Learn by Example from the Real World (Anno 2017) - Buy! Sell! Hodl! Sire!_  <br>
 `cryptokitties` · `cryptopuppies` · `cryptopets` · `blockchain` · `cryptohash` · `cryptobunnies` · `cryptotulips` · `cryptomonsters` · `cryptobirdies` · `cryptohorses` · `erc721` · `cryptocollectibles` · `kittyverse`
 
@@ -515,7 +516,7 @@ _Cache - Football Match Updates - Week by Week_
 _Football data for Deutschland (Germany) incl. Bundesliga, 2. Bundesliga, etc._  <br>
 `football` · `fussball` · `deutschland` · `germany` · `opendata` · `csv` · `bundesliga`
 
-**england** ★105 (8666 kb)  <br>
+**england** ★106 (8666 kb)  <br>
 _Football data for England (and Wales) incl. English Premier League, The Football League (Championship, League One, League Two), Football Conference etc. _  <br>
 `football` · `england` · `wales` · `championship` · `opendata` · `csv` · `football-data` · `english-premier-league` · `epl` · `premier-league` · `football-league` · `football-conference`
 
@@ -523,7 +524,7 @@ _Football data for England (and Wales) incl. English Premier League, The Footbal
 _Football data for España (Spain) incl. Primera División (La Liga), Segunda División etc.  _  <br>
 `football` · `futbol` · `spain` · `espana` · `laliga` · `primeradivision` · `opendata` · `csv` · `segundadivision`
 
-**europe-champions-league** ★6 (538 kb)  <br>
+**europe-champions-league** ★5 (538 kb)  <br>
 _Football data for European Champions League (incl. European Cup / European Champion Clubs' Cup)_
 
 **footballcsv.github.io** ★9 (19 kb)  <br>
@@ -591,7 +592,7 @@ _jekyll starter theme for books using boom! - a microformat for books_
 **jekyll-boom-theme-v2** ★2 (124 kb)  <br>
 _jekyll starter theme for books using boom! - a microformat for books - v2 with markdown_
 
-**jekyll-bootstrap-theme** ★53 (460630 kb)  <br>
+**jekyll-bootstrap-theme** ★53 (196 kb)  <br>
 _jekyll starter theme w/ bootstrap (sass version)_
 
 **jekyll-gutenberg-theme** ★18 (77 kb)  <br>
@@ -741,7 +742,7 @@ _A collection of awesome markdown goodies (libraries, services, editors, tools, 
 **awesome-markdown-alternatives** ★32 (2 kb)  <br>
 _A collection of awesome light-weight markup markdown alternatives _
 
-**awesome-markdown-editors** ★199 (41 kb)  <br>
+**awesome-markdown-editors** ★200 (41 kb)  <br>
 _A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more_
 
 **markdown-can-i-use** ★7 (16 kb)  <br>
@@ -898,7 +899,7 @@ _Free open public domain beer, brewery n brewpub data_
 
 ### openblockchains _(20)_
 
-**awesome-blockchains** ★2936 (2514 kb)  <br>
+**awesome-blockchains** ★2940 (2514 kb)  <br>
 _A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. _  <br>
 `blockchain` · `git` · `distributed-database` · `content-addressable-storage` · `tulipmania` · `merkletree` · `cryptohash` · `sha256` · `transactions` · `tx`
 
@@ -952,7 +953,7 @@ _p2p (peer-to-peer) library / gem - build your own peer-to-peer (p2p) networks; 
 _Programming Bitcoin Script Transaction (Crypto) Contracts Step-by-Step - Let's start with building your own bitcoin stack machine from zero / scratch and let's run your own bitcoin ops (operations)..._  <br>
 `bitcoin` · `bitcoin-script` · `opcodes` · `ivy` · `simplicity`
 
-**programming-blockchains** ★552 (552 kb)  <br>
+**programming-blockchains** ★553 (552 kb)  <br>
 _Programming Blockchains Step-by-Step book / guide. Let's build blockchains from scratch (zero) step by step. Let's start with crypto hashes..._
 
 **programming-cryptocollectibles** ★27 (700 kb)  <br>
@@ -1051,7 +1052,7 @@ _Free open public domain football data for Europe (incl. France, Netherlands, Be
 **europe-champions-league** ★32 (173 kb)  <br>
 _Free open public domain football data for Champions League (incl. Qualifiers), Europa League / Europe_
 
-**football.json** ★595 (2135 kb)  <br>
+**football.json** ★596 (2135 kb)  <br>
 _Free open public domain football data in JSON incl. English Premier League, Bundesliga, Primera División, Serie A and more - No API key required ;-)_  <br>
 `football` · `opendata` · `json` · `publicdomain` · `bundesliga` · `premier-league` · `serie-a` · `primera-division`
 
@@ -1125,7 +1126,7 @@ _Free open public domain football data for the Women's World Cup (incl. Canada 2
 **world** ★2 (709 kb)  <br>
 _Free open public domain football data incl. major leagues from North America, Asia, Australia and much more_
 
-**world-cup** ★445 (638 kb)  <br>
+**world-cup** ★446 (638 kb)  <br>
 _Free open public domain football data for the World Cup (incl. Qatar 2022, Russia 2018, Brazil 2014, etc.) and World Cup Quali(fiers)_  <br>
 `worldcup` · `worldcup2018` · `russia2018` · `opendata` · `football` · `brazil2014`
 
@@ -1272,16 +1273,16 @@ _planet beer site_
 
 ### planetjekyll _(13)_
 
-**awesome-jekyll** ★531 (110 kb)  <br>
+**awesome-jekyll** ★532 (110 kb)  <br>
 _A collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)_
 
 **awesome-jekyll-editors** ★312 (15 kb)  <br>
 _A collection of awesome Jekyll editors_
 
-**awesome-jekyll-plugins** ★851 (148 kb)  <br>
+**awesome-jekyll-plugins** ★853 (148 kb)  <br>
 _A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)_
 
-**awesome-jekyll-themes** ★394 (30 kb)  <br>
+**awesome-jekyll-themes** ★395 (30 kb)  <br>
 _A collection of awesome (gem-packaged) Jekyll themes - Add your theme!_
 
 **planet** ★1 (170 kb)  <br>
@@ -1491,22 +1492,23 @@ _activerecord-utils gem - utilities (e.g. random, alias_attr, etc.) for activere
 **activityutils** ★2 (7 kb)  <br>
 _activityutils gem - activity (timeline) utilities_
 
-**almost-sinatra** ★34 (16 kb)  <br>
+**almost-sinatra** ★36 (16 kb)  <br>
 _almost-sinatra gem - six lines of almost sinatra refactored and bundled up for easy (re)use - build your own webframework from scratch with rack and tilt_  <br>
-`sinatra` · `ruby` · `rack` · `tilt`
+`sinatra` · `ruby` · `rack` · `tilt` · `gem`
 
 **dbbrowser** ★46 (207 kb)  <br>
 _dbbrowser gem - database browser (connections, schema, tables, records, etc.) as mountable web app_
 
 **fizzbuzzer** ★2 (105 kb)  <br>
 _fizzbuzzer gem 1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, Fizz Buzz, ... - a collection of algorithms for playing the word game for children that teaches division e.g. 7/3=? (one of the four basic arithmetic operations in mathematics) or helps you find the world's best coders in programming job interviews - are you (re)using the fizzbuzzer library? ;-) - don't reinvent the wheel or the feedbuzzer!_  <br>
-`fizzbuzz` · `algorithms` · `mathematics` · `division` · `wordgames` · `codegolf`
+`fizzbuzz` · `algorithms` · `mathematics` · `division` · `wordgames` · `codegolf` · `ruby` · `gem`
 
 **fotos** ★1 (4 kb)  <br>
 _fotos gem - manage fotos on the command line_
 
-**git** ★11 (120 kb)  <br>
-_git command line tools, libraries & scripts_
+**git** ★11 (169 kb)  <br>
+_git (and github) command line tools, libraries & scripts_  <br>
+`git` · `git-backup` · `github` · `github-traffic` · `github-analytics` · `ruby` · `gems` · `monorepo` · `monorepos` · `github-api` · `github-statistics` · `git-sync`
 
 **gutenberg** ★2 (2 kb)  <br>
 _gutenberg gem - the printing press for books (reinvented in ruby)_
@@ -1536,7 +1538,8 @@ _tagutils gem - tag utilities (tag, taggings, tag list, etc.)_
 _typeconv (type converters) gem - convert strings to numbers, dates, booleans, nulls and more_
 
 **webclient** ★5 (39 kb)  <br>
-_web command line tools, libraries & scripts_
+_web command line tools, libraries & scripts_  <br>
+`ruby` · `gems`
 
 **webservice** ★8 (48 kb)  <br>
 _webservice gem - yet another HTTP JSON API (web service) builder_
@@ -1730,7 +1733,7 @@ _footty gem - football.db command line client for world cup (russia 2018) and mo
 
 **sport.db** ★198 (2344 kb)  <br>
 _sport.db - open sports database (e.g. football.db, formula1.db etc.) command line tool and libraries_  <br>
-`sport` · `opendata` · `football`
+`sport` · `opendata` · `football` · `ruby` · `gems`
 
 **sport.db.admin** ★16 (1719 kb)  <br>
 _sport.db web app - Open Sports Database Web Admin Tool in Ruby on Rails (version 5.2 and up)_

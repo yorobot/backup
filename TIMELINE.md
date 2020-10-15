@@ -1,5 +1,5 @@
 Auto-generated github (statistics) report;
-built with [Hubba v0.1.0](https://github.com/rubycoco/git/tree/master/hubba-reports).
+built with [Hubba v1.0.0](https://github.com/rubycoco/git/tree/master/hubba-reports).
 
 
 # Timeline - 575 Repos @ 82 Orgs
@@ -58,7 +58,7 @@ built with [Hubba v0.1.0](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### 7
 
-- 2018-07-29 ★6 **footballcsv/europe-champions-league** (538 kb)
+- 2018-07-29 ★5 **footballcsv/europe-champions-league** (538 kb)
 - 2018-07-20 ★3 **sportdb/docs** (56 kb)
 - 2018-07-19 ★3 **footballcsv/major-league-soccer** (186 kb)
 - 2018-07-19 ★2 **footballcsv/world** (442 kb)
@@ -98,7 +98,7 @@ built with [Hubba v0.1.0](https://github.com/rubycoco/git/tree/master/hubba-repo
 - 2018-03-25 ★2 **cryptocopycats/base32-alphabets** (56 kb)
 - 2018-03-25 ★5 **viennacrypto/blockchain-whitepapers** (23253 kb)
 - 2018-03-24 ★2 **cryptocopycats/bitcat** (20 kb)
-- 2018-03-15 ★552 **openblockchains/programming-blockchains** (552 kb)
+- 2018-03-15 ★553 **openblockchains/programming-blockchains** (552 kb)
 - 2018-03-09 ★6 **cryptocopycats/kitties** (26994 kb)
 
 ### 2
@@ -142,8 +142,8 @@ built with [Hubba v0.1.0](https://github.com/rubycoco/git/tree/master/hubba-repo
 - 2017-12-18 ★23 **openblockchains/merkletree.rb** (16 kb)
 - 2017-12-18 ★8 **openblockchains/tulipmania** (141 kb)
 - 2017-12-14 ★36 **openblockchains/centralbank** (104 kb)
-- 2017-12-09 ★489 **cryptocopycats/awesome-cryptokitties** (4154 kb)
-- 2017-12-05 ★34 **rubycoco/almost-sinatra** (16 kb)
+- 2017-12-09 ★490 **cryptocopycats/awesome-cryptokitties** (4154 kb)
+- 2017-12-05 ★36 **rubycoco/almost-sinatra** (16 kb)
 
 ### 11
 
@@ -165,7 +165,7 @@ built with [Hubba v0.1.0](https://github.com/rubycoco/git/tree/master/hubba-repo
 - 2017-09-22 ★40 **openblockchains/blockchain.lite.js** (8 kb)
 - 2017-09-19 ★12 **bitshilling/bitshilling** (10 kb)
 - 2017-09-16 ★116 **openblockchains/blockchain.lite.rb** (48 kb)
-- 2017-09-13 ★2936 **openblockchains/awesome-blockchains** (2514 kb)
+- 2017-09-13 ★2940 **openblockchains/awesome-blockchains** (2514 kb)
 
 ### 7
 
@@ -255,7 +255,7 @@ built with [Hubba v0.1.0](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### 7
 
-- 2016-07-29 ★394 **planetjekyll/awesome-jekyll-themes** (30 kb)
+- 2016-07-29 ★395 **planetjekyll/awesome-jekyll-themes** (30 kb)
 - 2016-07-28 ★1 **texti/pandoc** (5 kb)
 - 2016-07-04 ★1 **updownpress/updownpress.github.io** (7 kb)
 
@@ -290,7 +290,7 @@ built with [Hubba v0.1.0](https://github.com/rubycoco/git/tree/master/hubba-repo
 ### 4
 
 - 2016-04-21 ★312 **planetjekyll/awesome-jekyll-editors** (15 kb)
-- 2016-04-20 ★851 **planetjekyll/awesome-jekyll-plugins** (148 kb)
+- 2016-04-20 ★853 **planetjekyll/awesome-jekyll-plugins** (148 kb)
 - 2016-04-18 ★5 **mundimark/markdown-tools** (5 kb)
 - 2016-04-15 ★8 **writekit/kramdown-service** (79 kb)
 - 2016-04-11 ★4 **slideshow-s9/slideshow-starter** (64 kb)
@@ -305,7 +305,7 @@ built with [Hubba v0.1.0](https://github.com/rubycoco/git/tree/master/hubba-repo
 - 2016-03-17 ★2 **rubycoco/gutenberg** (2 kb)
 - 2016-03-16 ★32 **mundimark/awesome-markdown-alternatives** (2 kb)
 - 2016-03-15 ★61 **mundimark/markdown-vs-latex** (18 kb)
-- 2016-03-15 ★199 **mundimark/awesome-markdown-editors** (41 kb)
+- 2016-03-15 ★200 **mundimark/awesome-markdown-editors** (41 kb)
 - 2016-03-14 ★11 **bookdesigns/book-git** (67 kb)
 - 2016-03-13 ★6 **bookdesigns/book-rust** (67 kb)
 - 2016-03-13 ★6 **pagedesigns/jasonm23-dark** (6 kb)
@@ -361,14 +361,14 @@ built with [Hubba v0.1.0](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 - 2015-11-22 ★4 **s6ruby/ethereum-contracts** (89 kb)
 - 2015-11-22 ★1 **rubycoco/fotos** (4 kb)
-- 2015-11-16 ★11 **rubycoco/git** (120 kb)
+- 2015-11-16 ★11 **rubycoco/git** (169 kb)
 - 2015-11-01 ★37 **factbook/factbook.sql** (148 kb)
 
 ### 9
 
 - 2015-09-23 ★10 **factbook/factbook.github.io** (22742 kb)
 - 2015-09-20 ★4 **opensport/rugby.db** (156 kb)
-- 2015-09-17 ★595 **openfootball/football.json** (2135 kb)
+- 2015-09-17 ★596 **openfootball/football.json** (2135 kb)
 - 2015-09-15 ★7 **sportdb/sport.db.sources** (63 kb)
 - 2015-09-01 ★5 **sportdb/football.db** (189 kb)
 
@@ -422,7 +422,7 @@ built with [Hubba v0.1.0](https://github.com/rubycoco/git/tree/master/hubba-repo
 - 2015-05-13 ★4 **worldclassics/dr-jekyll-and-mr-hyde** (136 kb)
 - 2015-05-11 ★4 **worldclassics/the-trial** (185 kb)
 - 2015-05-11 ★1 **planetopendata/planetopendata.github.io** (132 kb)
-- 2015-05-11 ★531 **planetjekyll/awesome-jekyll** (110 kb)
+- 2015-05-11 ★532 **planetjekyll/awesome-jekyll** (110 kb)
 - 2015-05-10 ★1 **planetruby/apps** (161 kb)
 - 2015-05-09 ★3 **planetruby/links** (120 kb)
 - 2015-05-05 ★38 **mundimark/awesome-books** (204 kb)
@@ -476,7 +476,7 @@ built with [Hubba v0.1.0](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### 1
 
-- 2015-01-30 ★53 **henrythemes/jekyll-bootstrap-theme** (460630 kb)
+- 2015-01-30 ★53 **henrythemes/jekyll-bootstrap-theme** (196 kb)
 - 2015-01-15 ★1 **book-templates/football** (196 kb)
 - 2015-01-15 ★1 **book-templates/beer** (208 kb)
 - 2015-01-15 ★1 **book-templates/world** (176 kb)
@@ -549,7 +549,7 @@ built with [Hubba v0.1.0](https://github.com/rubycoco/git/tree/master/hubba-repo
 - 2014-08-19 ★51 **worlddb/world.lite** (327 kb)
 - 2014-08-15 ★3 **sportdb/sport.db.web** (172 kb)
 - 2014-08-10 ★4 **openmundi/austria.db** (396 kb)
-- 2014-08-09 ★200 **geraldb/talks** (16203 kb)
+- 2014-08-09 ★202 **geraldb/talks** (16203 kb)
 - 2014-08-09 ★5 **slideshow-s9/demos** (10809 kb)
 - 2014-08-08 ★34 **openfootball/schema.sql** (12 kb)
 - 2014-08-08 ★1 **slideshow-s9/samples** (122 kb)
@@ -575,7 +575,7 @@ built with [Hubba v0.1.0](https://github.com/rubycoco/git/tree/master/hubba-repo
 - 2014-07-24 ★5 **footballcsv/spec** (696 kb)
 - 2014-07-23 ★15 **footballcsv/espana** (1107 kb)
 - 2014-07-23 ★3 **sportdb/datasets** (19 kb)
-- 2014-07-23 ★105 **footballcsv/england** (8666 kb)
+- 2014-07-23 ★106 **footballcsv/england** (8666 kb)
 - 2014-07-22 ★2 **openfootball/world** (709 kb)
 - 2014-07-12 ★604 **factbook/factbook.json** (7355 kb)
 - 2014-07-10 ★2 **sportlabs/major-league-soccer** (819 kb)
@@ -735,7 +735,7 @@ built with [Hubba v0.1.0](https://github.com/rubycoco/git/tree/master/hubba-repo
 - 2013-05-27 ★18 **feedreader/news.rb** (19 kb)
 - 2013-05-27 ★1 **webstart/webstart** (2939 kb)
 - 2013-05-25 ★5 **writekit/markdown.note** (248 kb)
-- 2013-05-22 ★445 **openfootball/world-cup** (638 kb)
+- 2013-05-22 ★446 **openfootball/world-cup** (638 kb)
 - 2013-05-22 ★58 **openfootball/espana** (871 kb)
 - 2013-05-22 ★2 **openfootball/north-america-gold-cup** (18 kb)
 - 2013-05-22 ★2 **openfootball/africa-cup** (11 kb)

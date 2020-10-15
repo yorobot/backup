@@ -24,7 +24,7 @@ save_yaml( "./config/repos.yml", h )
 # h = YAML.load_file( './repos.yml' )
 # pp h
 
-Hubba.update_stats( h )
-Hubba.update_traffic( h )
+# Hubba.update_stats( h )
+# Hubba.update_traffic( h )
 
 puts "Done."
