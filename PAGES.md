@@ -7,6 +7,85 @@ built with [Hubba v1.0.0](https://github.com/rubycoco/git/tree/master/hubba-repo
 popular pages over the last 14 days - page views / unique
 
 1. **openfootball** 4762   _(249)_
+2. **footballcsv** 1519   _(126)_
+3. **planetjekyll** 805   _(33)_
+4. **mundimark** 786   _(27)_
+5. **rubycoco** 687   _(54)_
+6. **cryptocopycats** 440   _(49)_
+7. **openblockchains** 317   _(50)_
+8. **factbook** 307   _(26)_
+9. **updownpress** 265   _(10)_
+10. **sportdb** 221   _(43)_
+11. **planetopendata** 219   _(6)_
+12. **henrythemes** 169   _(15)_
+13. **planetruby** 169   _(36)_
+14. **openbeer** 153   _(40)_
+15. **feedreader** 137   _(38)_
+16. **opensport** 134   _(25)_
+17. **openbookie** 123   _(25)_
+18. **csvreader** 115   _(20)_
+19. **slideshow-templates** 98   _(33)_
+20. **beerkit** 76   _(17)_
+21. **worlddb** 66   _(21)_
+22. **staystatic** 61   _(11)_
+23. **openmundi** 60   _(21)_
+24. **sportkit** 58   _(19)_
+25. **geraldb** 49   _(14)_
+26. **slideshow-s9** 44   _(11)_
+27. **typesigs** 38   _(14)_
+28. **rsssf** 35   _(17)_
+29. **funpress** 33   _(6)_
+30. **s6ruby** 33   _(14)_
+31. **writekit** 31   _(12)_
+32. **feedparser** 30   _(6)_
+33. **drjekyllthemes** 30   _(8)_
+34. **journaltxt** 30   _(10)_
+35. **datatxt** 26   _(8)_
+36. **printhtml** 20   _(1)_
+37. **bigkorupto** 20   _(3)_
+38. **manuscripts** 18   _(4)_
+39. **textkit** 17   _(9)_
+40. **pagedesigns** 16   _(4)_
+41. **austriacodes** 16   _(5)_
+42. **shellpress** 14   _(6)_
+43. **csvspecs** 12   _(4)_
+44. **slidekit** 12   _(4)_
+45. **sportlogos** 12   _(7)_
+46. **json-next** 11   _(3)_
+47. **yukimotopress** 11   _(8)_
+48. **planet-templates** 11   _(9)_
+49. **bitsblocks** 9   _(4)_
+50. **texti** 9   _(5)_
+51. **hybook** 6   _(2)_
+52. **officetxt** 5   _(2)_
+53. **beercsv** 5   _(4)_
+54. **octobook** 5   _(4)_
+55. **schemadoc** 4   _(1)_
+56. **mrhydescripts** 4   _(2)_
+57. **beerlabels** 4   _(3)_
+58. **quikstart** 3   _(2)_
+59. **beerbook** 3   _(3)_
+60. **worldclassics** 3   _(3)_
+61. **footballbook** 2   _(1)_
+62. **hydepress** 2   _(1)_
+63. **webstart** 2   _(1)_
+64. **bitshilling** 2   _(2)_
+65. **book-templates** 2   _(2)_
+66. **bookdesigns** 2   _(2)_
+67. **bibtxt** 1   _(1)_
+68. **feedtxt** 1   _(1)_
+69. **persondb** 1   _(1)_
+70. **playhtml** 1   _(1)_
+71. **plutolive** 1   _(1)_
+72. **publicdomainworks** 1   _(1)_
+73. **viennacrypto** 1   _(1)_
+74. **wikiscript** 1   _(1)_
+<!-- break -->
+
+
+Details:
+
+1. **openfootball** 4762   _(249)_
     - 757 / 380 -- football.json
     - 296 / 194 -- england
     - 252 / 128 -- football.json/2020-21

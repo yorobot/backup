@@ -7,6 +7,93 @@ built with [Hubba v1.0.0](https://github.com/rubycoco/git/tree/master/hubba-repo
 traffic over the last 14 days - page views / unique, clones / unique
 
 1. **openfootball** views: 7095, clones: 562  _(41)_
+2. **footballcsv** views: 1945, clones: 252  _(17)_
+3. **planetjekyll** views: 865, clones: 25  _(13)_
+4. **rubycoco** views: 846, clones: 89  _(20)_
+5. **mundimark** views: 835, clones: 22  _(13)_
+6. **cryptocopycats** views: 559, clones: 16  _(9)_
+7. **factbook** views: 414, clones: 15  _(4)_
+8. **updownpress** views: 414, clones: 1  _(2)_
+9. **openblockchains** views: 372, clones: 20  _(20)_
+10. **sportdb** views: 288, clones: 11  _(10)_
+11. **planetopendata** views: 225, clones: 5  _(6)_
+12. **henrythemes** views: 207, clones: 13  _(13)_
+13. **planetruby** views: 178, clones: 13  _(15)_
+14. **openbeer** views: 172, clones: 13  _(28)_
+15. **opensport** views: 155, clones: 2  _(7)_
+16. **csvreader** views: 150, clones: 11  _(11)_
+17. **feedreader** views: 147, clones: 3  _(9)_
+18. **openbookie** views: 125, clones: 3  _(8)_
+19. **slideshow-templates** views: 100, clones: 88  _(16)_
+20. **beerkit** views: 88, clones: 5  _(9)_
+21. **openmundi** views: 84, clones: 5  _(12)_
+22. **worlddb** views: 77, clones: 1  _(8)_
+23. **staystatic** views: 74, clones: 6  _(5)_
+24. **sportkit** views: 59, clones: 1  _(7)_
+25. **geraldb** views: 57, clones: 7  _(11)_
+26. **typesigs** views: 48, clones: 12  _(9)_
+27. **funpress** views: 47, clones: 2  _(6)_
+28. **slideshow-s9** views: 46, clones: 9  _(9)_
+29. **rsssf** views: 42, clones: 3  _(7)_
+30. **s6ruby** views: 34, clones: 9  _(12)_
+31. **feedparser** views: 34, clones: 2  _(5)_
+32. **writekit** views: 32, clones: 2  _(9)_
+33. **drjekyllthemes** views: 31, clones: 3  _(4)_
+34. **journaltxt** views: 30, clones: 1  _(3)_
+35. **datatxt** views: 28, clones: 1  _(3)_
+36. **printhtml** views: 22, clones: 3  _(2)_
+37. **bigkorupto** views: 20, clones: 1  _(1)_
+38. **manuscripts** views: 18, clones: 3  _(3)_
+39. **textkit** views: 17, clones: 6  _(9)_
+40. **austriacodes** views: 16, clones: 2  _(5)_
+41. **pagedesigns** views: 16, clones: 0  _(2)_
+42. **csvspecs** views: 14, clones: 7  _(9)_
+43. **shellpress** views: 14, clones: 1  _(1)_
+44. **slidekit** views: 12, clones: 3  _(7)_
+45. **sportlogos** views: 12, clones: 1  _(6)_
+46. **planet-templates** views: 11, clones: 10  _(11)_
+47. **json-next** views: 11, clones: 6  _(5)_
+48. **yukimotopress** views: 11, clones: 5  _(15)_
+49. **texti** views: 9, clones: 2  _(3)_
+50. **bitsblocks** views: 9, clones: 1  _(11)_
+51. **octobook** views: 7, clones: 4  _(7)_
+52. **beercsv** views: 6, clones: 1  _(7)_
+53. **hybook** views: 6, clones: 0  _(3)_
+54. **officetxt** views: 5, clones: 2  _(3)_
+55. **schemadoc** views: 4, clones: 2  _(2)_
+56. **mrhydescripts** views: 4, clones: 1  _(2)_
+57. **beerlabels** views: 4, clones: 0  _(2)_
+58. **beerbook** views: 3, clones: 3  _(3)_
+59. **bookdesigns** views: 3, clones: 2  _(5)_
+60. **worldclassics** views: 3, clones: 0  _(3)_
+61. **quikstart** views: 3, clones: 0  _(6)_
+62. **hydepress** views: 2, clones: 14  _(12)_
+63. **book-templates** views: 2, clones: 1  _(4)_
+64. **bitshilling** views: 2, clones: 0  _(2)_
+65. **footballbook** views: 2, clones: 0  _(2)_
+66. **webstart** views: 2, clones: 0  _(6)_
+67. **wikiscript** views: 1, clones: 4  _(4)_
+68. **viennacrypto** views: 1, clones: 2  _(2)_
+69. **bibtxt** views: 1, clones: 1  _(1)_
+70. **persondb** views: 1, clones: 1  _(1)_
+71. **plutolive** views: 1, clones: 1  _(3)_
+72. **playhtml** views: 1, clones: 1  _(6)_
+73. **publicdomainworks** views: 1, clones: 0  _(1)_
+74. **feedtxt** views: 1, clones: 0  _(2)_
+75. **viennarb** views: 0, clones: 7  _(3)_
+76. **worldbook** views: 0, clones: 1  _(1)_
+77. **feedhtml** views: 0, clones: 1  _(2)_
+78. **markupmadness** views: 0, clones: 1  _(2)_
+79. **chooseaconduct** views: 0, clones: 0  _(1)_
+80. **sportlabs** views: 0, clones: 0  _(1)_
+81. **openwine** views: 0, clones: 0  _(2)_
+82. **planetbeer** views: 0, clones: 0  _(3)_
+<!-- break -->
+
+
+Details:
+
+1. **openfootball** views: 7095, clones: 562  _(41)_
     - football.json --  views: 2492 / 437 -  clones: 51 / 17
     - england --  views: 1256 / 262 -  clones: 41 / 10
     - world-cup --  views: 518 / 165 -  clones: 32 / 3

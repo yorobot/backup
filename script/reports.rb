@@ -15,6 +15,7 @@ all.delete_if {|org,names| org.start_with?( 'yorobot' ) }
 
 stats = Hubba.stats( all )
 
+
 report = Hubba::ReportCatalog.new( stats )
 report.save( './CATALOG.md' )
 
@@ -49,6 +50,9 @@ report.save( './SIZE.md' )
 
 report = Hubba::ReportTopics.new( stats )
 report.save( './TOPICS.md' )
+
+report = Hubba::ReportLanguages.new( stats )
+report.save( './LANGUAGES.md' )
 
 
 puts "Done."
