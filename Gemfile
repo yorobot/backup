@@ -3,6 +3,8 @@ source "https://rubygems.org"
 ### note: gemfile used for github actions workflow
 ###         see /.github/workflows
 
-gem "gitti"
-gem "hubba"
+gem "yorobot"
+
+gem "gitti"         # include? already a dep of yorobot?
+gem "hubba"         # include? already a dep of yorobot?
 gem "hubba-reports"

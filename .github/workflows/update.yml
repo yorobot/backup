@@ -26,30 +26,17 @@ jobs:
       with:
         ruby-version: '2.6' # Version range or exact version of a Ruby version to use, using semvers version range syntax.
 
-    - name: setup/check ssh
-      shell: bash
+    - name: setup
       env:
         SSH_KEY: ${{ secrets.SSH_KEY }}
-      run: |
-        if [ ! -d ~/.ssh ]; then mkdir ~/.ssh; fi
-        echo "$SSH_KEY" > ~/.ssh/id_rsa
-        chmod 600 ~/.ssh/id_rsa
-        echo "ssh directory - ~/.ssh:"
-        ls -la ~/.ssh
-      #  ssh -vT git@github.com
-
-    - name: setup/check git
-      run: |
-        git --version
-        git config --global user.name  "Yo Robot"
-        git config --global user.email "gerald.bauer+yorobot@gmail.com"
-        git config -l --show-origin
-
-    - name: Run bundle install
+        YOROBOT_NAME:  "Yo Robot"
+        YOROBOT_EMAIL: "gerald.bauer+yorobot@gmail.com"
       run: |
         bundle install
         gem list
         gem env
+        yo
+        yo setup
 
     - name: Run setup / ssh_clone
       run:  ruby ./workflow/setup.rb
@@ -61,7 +48,9 @@ jobs:
     - name: Run get/fetch/update datatsets
       env:
         HUBBA_TOKEN: ${{ secrets.HUBBA_TOKEN }}
-      run:  ruby ./workflow/update.rb
+      run:  |
+        # ruby ./workflow/update.rb
+        echo hello
 
     - name: Run ssh_push
       run:  ruby ./workflow/push.rb  ## json
