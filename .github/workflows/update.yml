@@ -33,13 +33,13 @@ jobs:
         YOROBOT_EMAIL: "gerald.bauer+yorobot@gmail.com"
       run: |
         bundle install
-        gem list
-        gem env
+      # gem list
+      # gem env
         yo
         yo setup
 
     - name: Run setup / ssh_clone
-      run:  ruby ./workflow/setup.rb
+      run:  yo clone yorobot/cache.github
 
     ####
     # todo/check:
@@ -48,9 +48,8 @@ jobs:
     - name: Run get/fetch/update datatsets
       env:
         HUBBA_TOKEN: ${{ secrets.HUBBA_TOKEN }}
-      run:  |
-        # ruby ./workflow/update.rb
-        echo hello
+      run: |
+        yo github --dir ./cache.github geraldb
 
     - name: Run ssh_push
-      run:  ruby ./workflow/push.rb  ## json
+      run:  yo push ./cache.github
