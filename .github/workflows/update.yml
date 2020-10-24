@@ -35,11 +35,10 @@ jobs:
         bundle install
         # gem list
         # gem env
-        yo
-        yo setup
+        flow setup
 
     - name: Run setup / ssh_clone
-      run:  yo clone yorobot/cache.github
+      run:  flow clone
 
     ####
     # todo/check:
@@ -48,8 +47,7 @@ jobs:
     - name: Run get/fetch/update datatsets
       env:
         HUBBA_TOKEN: ${{ secrets.HUBBA_TOKEN }}
-      run: |
-        yo github --dir ./cache.github geraldb
+      run:  flow update
 
     - name: Run ssh_push
-      run:  yo push ./cache.github
+      run:  flow push
