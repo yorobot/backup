@@ -29,16 +29,14 @@ jobs:
     - name: setup
       env:
         SSH_KEY: ${{ secrets.SSH_KEY }}
-        YOROBOT_NAME:  "Yo Robot"
-        YOROBOT_EMAIL: "gerald.bauer+yorobot@gmail.com"
       run: |
         bundle install
         # gem list
         # gem env
-        flow setup
+        yo setup
 
     - name: Run setup / ssh_clone
-      run:  flow clone
+      run:  yo clone
 
     ####
     # todo/check:
@@ -47,7 +45,7 @@ jobs:
     - name: Run get/fetch/update datatsets
       env:
         HUBBA_TOKEN: ${{ secrets.HUBBA_TOKEN }}
-      run:  flow update
+      run:  yo update
 
     - name: Run ssh_push
-      run:  flow push
+      run:  yo push
