@@ -4,7 +4,3 @@ source "https://rubygems.org"
 ###         see /.github/workflows
 
 gem "yorobot"
-
-gem "gitti"         # include? already a dep of yorobot?
-gem "hubba"         # include? already a dep of yorobot?
-gem "hubba-reports"
