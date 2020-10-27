@@ -1,21 +1,22 @@
 
-puts "pwd: #{Dir.pwd}"
-## use working dir as root? or change to home dir ~/ or ~/mono - why? why not?
-Mono.root = Dir.pwd
 
-Mono.walk  ## for debugging print / walk mono (source) tree
-
+## repo (cache) for github analytics data
+##   see https://github.com/yorobot/cache.github
+##   use
+##   - @yorobot/cache.github  or
+##   - cache.github@yorobot
+CACHE_REPO = "@yorobot/cache.github"
 
 
 step :clone do
-  Mono.clone( 'yorobot/cache.github' )
+  Mono.clone( CACHE_REPO )
 end
 
 
 step :update do
-  Hubba.config.data_dir = Mono.real_path( 'yorobot/cache.github' )
+  Hubba.config.data_dir = Mono.real_path( CACHE_REPO )
 
-  username = 'geraldb'
+  username = "geraldb"
   h = Hubba.reposet( username )   ## note: do NOT include yorobot for now
   pp h
 
@@ -28,7 +29,7 @@ end
 step :push do
   msg = "auto-update week #{Date.today.cweek}"
 
-  Mono.open( 'yorobot/cache.github' ) do |proj|
+  Mono.open( CACHE_REPO ) do |proj|
     if proj.changes?
       proj.add( "." )
       proj.commit( msg )
