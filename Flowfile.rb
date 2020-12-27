@@ -14,7 +14,7 @@ end
 
 
 step :update do
-  Hubba.config.data_dir = Mono.real_path( CACHE_REPO )
+  Hubba.config.data_dir = Mononame.real_path( CACHE_REPO )
 
   username = "geraldb"
   h = Hubba.reposet( username )   ## note: do NOT include yorobot for now
