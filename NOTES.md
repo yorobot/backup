@@ -8,6 +8,42 @@
        - (primary) language is ruby :-) - note: might include more bundled html/js!!!
 
 
+## fix - fix -fix
+
+- [ ] retry on 502 bad gateway error? - print/dump error details from html body
+    - https://airbrake.io/blog/http-errors/502-bad-gateway-error
+    - https://docs.ruby-lang.org/en/2.0.0/Net/HTTP.html
+
+```
+2020-12-27T08:42:38.8587835Z GET /repos/henrythemes/hello-minima-theme/traffic/views
+2020-12-27T08:42:38.8589131Z   using (personal access) token - starting with: 81**************
+2020-12-27T08:42:38.8590796Z GET https://api.github.com/repos/henrythemes/hello-minima-theme/traffic/views...
+2020-12-27T08:42:38.8592012Z !! HTTP ERROR: 502 Bad Gateway:
+2020-12-27T08:42:38.8593131Z #<Net::HTTPBadGateway 502 Bad Gateway readbody=true>
+2020-12-27T08:42:38.8599627Z ##[error]Process completed with exit code 1.
+```
+
+- [ ] check why no access with personal access token (PAT)? - print/dump error details from html body
+
+```
+using (personal access) token - starting with: 81**************
+GET https://api.github.com/users/geraldb/repos...
+!! HTTP ERROR: 403 Forbidden:
+#<Net::HTTPForbidden 403 Forbidden readbody=true>
+```
+
+- [ ] split update in two parts!!!, stats and traffic!!!
+
+```
+update >geraldb/austria< [1/4] - fetching repo traffic clones...
+GET /repos/geraldb/austria/traffic/clones
+  using (personal access) token - starting with: bd**************
+GET https://api.github.com/repos/geraldb/austria/traffic/clones...
+!! HTTP ERROR: 403 Forbidden:
+#<Net::HTTPForbidden 403 Forbidden readbody=true>
+```
+
+
 
 ## add stars / starcount to SUMMARY.md
 
