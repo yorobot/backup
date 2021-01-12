@@ -6,7 +6,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### geraldb _(12)_
 
-**austria** ★1 (552 kb) · **blockchain.lite.js** ★40 (8 kb) · **catalog** ★3 (156 kb) · **chelitas** ★1 (168 kb) · **geraldb.github.io** ★1 (520 kb) · **logos** ★1 (363 kb) · **sandbox** ★2 (529 kb) · **talks** ★207 (16216 kb) · **web-proxy-win** ★8 (152 kb) · **webcomponents** ★1 (164 kb) · **webpub-reader** ★3 (11 kb) · **wine.db.tools** ★1 (252 kb)
+**austria** ★1 (552 kb) · **blockchain.lite.js** ★40 (8 kb) · **catalog** ★3 (156 kb) · **chelitas** ★1 (168 kb) · **geraldb.github.io** ★1 (520 kb) · **logos** ★1 (363 kb) · **sandbox** ★2 (529 kb) · **talks** ★209 (16216 kb) · **web-proxy-win** ★8 (152 kb) · **webcomponents** ★1 (164 kb) · **webpub-reader** ★3 (11 kb) · **wine.db.tools** ★1 (252 kb)
 
 ### austriacodes _(5)_
 
@@ -34,7 +34,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### bigkorupto _(2)_
 
-**awesome-nocode** ★20 (368 kb) · **mammad-kabiri-uniqa** ★12 (19 kb)
+**awesome-nocode** ★20 (368 kb) · **mammad-kabiri-uniqa** ★12 (28 kb)
 
 ### bitsblocks _(11)_
 
@@ -56,13 +56,13 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 **chooseaconduct.github.io** ★5 (66 kb)
 
-### cryptocopycats _(9)_
+### cryptocopycats _(10)_
 
-**awesome-cryptocollectibles** ★20 (706 kb) · **awesome-cryptokitties** ★494 (4154 kb) · **base32-alphabets** ★2 (56 kb) · **bitcat** ★2 (20 kb) · **copycats** ★24 (2788 kb) · **kitties** ★7 (26994 kb) · **kittyverse** ★11 (405 kb) · **kittyverse.json** ★2 (30 kb) · **media** ★1 (4591 kb)
+**awesome-cryptocollectibles** ★20 (706 kb) · **awesome-cryptokitties** ★494 (4149 kb) · **base32-alphabets** ★2 (56 kb) · **bitcat** ★2 (20 kb) · **copycats** ★25 (2788 kb) · **kitties** ★7 (26994 kb) · **kittyverse** ★12 (405 kb) · **kittyverse.json** ★2 (30 kb) · **media** ★1 (4591 kb) · **programming-crypto-collectibles** ★30 (375 kb)
 
 ### csvreader _(11)_
 
-**benchmarks** ★2 (119 kb) · **csv11** ★7 (11 kb) · **csvhuman** ★2 (119 kb) · **csvjson** ★2 (18 kb) · **csvpack** ★71 (31 kb) · **csvreader** ★168 (187 kb) · **csvrecord** ★12 (37 kb) · **csvutils** ★12 (42 kb) · **csvyaml** ★1 (15 kb) · **docs** ★27 (235 kb) · **tabreader** ★3 (30 kb)
+**benchmarks** ★2 (119 kb) · **csv11** ★7 (11 kb) · **csvhuman** ★2 (119 kb) · **csvjson** ★2 (18 kb) · **csvpack** ★71 (31 kb) · **csvreader** ★169 (187 kb) · **csvrecord** ★12 (37 kb) · **csvutils** ★12 (42 kb) · **csvyaml** ★1 (15 kb) · **docs** ★27 (235 kb) · **tabreader** ★3 (30 kb)
 
 ### csvspecs _(9)_
 
@@ -78,7 +78,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### factbook _(4)_
 
-**factbook** ★111 (684 kb) · **factbook.github.io** ★11 (33105 kb) · **factbook.json** ★723 (12807 kb) · **factbook.sql** ★39 (6 kb)
+**factbook** ★112 (684 kb) · **factbook.github.io** ★11 (34610 kb) · **factbook.json** ★725 (13220 kb) · **factbook.sql** ★39 (6 kb)
 
 ### feedhtml _(2)_
 
@@ -90,7 +90,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### feedreader _(9)_
 
-**feedreader.github.io** ★5 (279 kb) · **jekyll.planet.sample** ★2 (44 kb) · **news.rb** ★19 (19 kb) · **planet.rb** ★25 (47 kb) · **planets** ★17 (66 kb) · **pluto** ★171 (596 kb) · **pluto.more.tools** ★1 (53 kb) · **pluto.starter** ★8 (38 kb) · **website.old** ★2 (366 kb)
+**feedreader.github.io** ★5 (279 kb) · **jekyll.planet.sample** ★2 (44 kb) · **news.rb** ★20 (19 kb) · **planet.rb** ★25 (47 kb) · **planets** ★17 (66 kb) · **pluto** ★171 (596 kb) · **pluto.more.tools** ★1 (53 kb) · **pluto.starter** ★8 (38 kb) · **website.old** ★2 (366 kb)
 
 ### feedtxt _(2)_
 
@@ -102,7 +102,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### footballcsv _(17)_
 
-**austria** ★1 (110 kb) · **belgium** ★1 (316 kb) · **cache.footballdata** ★8 (2293 kb) · **cache.internationals** ★2 (960 kb) · **cache.leagues** ★2 (696 kb) · **cache.soccerdata** ★2 (1934 kb) · **cache.soccerverse** ★11 (2842 kb) · **cache.updates** ★3 (257 kb) · **deutschland** ★6 (1360 kb) · **england** ★111 (8690 kb) · **espana** ★17 (1120 kb) · **europe-champions-league** ★5 (538 kb) · **footballcsv.github.io** ★9 (19 kb) · **major-league-soccer** ★3 (186 kb) · **mexico** ★3 (88 kb) · **spec** ★5 (696 kb) · **world** ★2 (479 kb)
+**austria** ★1 (110 kb) · **belgium** ★1 (316 kb) · **cache.footballdata** ★8 (2370 kb) · **cache.internationals** ★2 (960 kb) · **cache.leagues** ★2 (696 kb) · **cache.soccerdata** ★2 (1934 kb) · **cache.soccerverse** ★11 (2842 kb) · **cache.updates** ★3 (257 kb) · **deutschland** ★6 (1360 kb) · **england** ★114 (8690 kb) · **espana** ★17 (1120 kb) · **europe-champions-league** ★5 (538 kb) · **footballcsv.github.io** ★9 (19 kb) · **major-league-soccer** ★3 (186 kb) · **mexico** ★3 (88 kb) · **spec** ★5 (696 kb) · **world** ★2 (479 kb)
 
 ### funpress _(6)_
 
@@ -110,7 +110,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### henrythemes _(13)_
 
-**hello-jekyll-theme** ★7 (6 kb) · **hello-minima-theme** ★9 (7 kb) · **hello-pages-theme** ★1 (11 kb) · **hello-pages-theme-v2** ★3 (8 kb) · **jekyll-book-theme** ★25 (141 kb) · **jekyll-boom-theme** ★2 (137 kb) · **jekyll-boom-theme-v2** ★2 (124 kb) · **jekyll-bootstrap-theme** ★54 (196 kb) · **jekyll-gutenberg-theme** ★18 (77 kb) · **jekyll-minimal-theme** ★92 (46 kb) · **jekyll-starter-theme** ★30 (11 kb) · **jekyll-starter-theme-v2** ★18 (16 kb) · **jekyll-talks-theme** ★5 (740 kb)
+**hello-jekyll-theme** ★7 (6 kb) · **hello-minima-theme** ★9 (7 kb) · **hello-pages-theme** ★1 (11 kb) · **hello-pages-theme-v2** ★3 (8 kb) · **jekyll-book-theme** ★26 (141 kb) · **jekyll-boom-theme** ★2 (137 kb) · **jekyll-boom-theme-v2** ★2 (124 kb) · **jekyll-bootstrap-theme** ★54 (196 kb) · **jekyll-gutenberg-theme** ★18 (77 kb) · **jekyll-minimal-theme** ★92 (46 kb) · **jekyll-starter-theme** ★30 (11 kb) · **jekyll-starter-theme-v2** ★18 (16 kb) · **jekyll-talks-theme** ★5 (740 kb)
 
 ### hybook _(3)_
 
@@ -118,15 +118,15 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### hydepress _(12)_
 
-**hydepress.github.io** ★4 (160 kb) · **jekyll** ★3 (117 kb) · **jekyll-deploy** ★1 (12 kb) · **jekyll-dev** ★1 (8 kb) · **jekyll-import** ★1 (18 kb) · **jekyll-install** ★1 (6 kb) · **jekyll-plugins** ★1 (34 kb) · **jekyll-style** ★3 (6 kb) · **jekyll-themes** ★1 (40 kb) · **liquid** ★1 (18 kb) · **octopod** ★3 (129 kb) · **octopress** ★3 (37 kb)
+**hydepress.github.io** ★5 (160 kb) · **jekyll** ★3 (117 kb) · **jekyll-deploy** ★1 (12 kb) · **jekyll-dev** ★1 (8 kb) · **jekyll-import** ★1 (18 kb) · **jekyll-install** ★1 (6 kb) · **jekyll-plugins** ★1 (34 kb) · **jekyll-style** ★3 (6 kb) · **jekyll-themes** ★1 (40 kb) · **liquid** ★1 (18 kb) · **octopod** ★3 (129 kb) · **octopress** ★3 (37 kb)
 
 ### journaltxt _(3)_
 
-**blog** ★1 (21 kb) · **journaltxt** ★17 (15 kb) · **journaltxt.github.io** ★4 (22 kb)
+**blog** ★1 (21 kb) · **journaltxt** ★18 (15 kb) · **journaltxt.github.io** ★4 (22 kb)
 
 ### json-next _(5)_
 
-**awesome-json-next** ★30 (39 kb) · **json-feed** ★1 (10 kb) · **json-next** ★24 (29 kb) · **json-next-tests** ★1 (16 kb) · **json-next.github.io** ★6 (20 kb)
+**awesome-json-next** ★30 (39 kb) · **json-feed** ★1 (10 kb) · **json-next** ★27 (29 kb) · **json-next-tests** ★1 (16 kb) · **json-next.github.io** ★6 (20 kb)
 
 ### manuscripts _(3)_
 
@@ -142,7 +142,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### mundimark _(13)_
 
-**awesome-books** ★40 (204 kb) · **awesome-kramdown** ★33 (19 kb) · **awesome-markdown** ★581 (92 kb) · **awesome-markdown-alternatives** ★33 (2 kb) · **awesome-markdown-editors** ★220 (47 kb) · **markdown-can-i-use** ★7 (16 kb) · **markdown-tools** ★5 (5 kb) · **markdown-tools-books** ★8 (5 kb) · **markdown-vs-latex** ★61 (18 kb) · **markdown.pl** ★2 (108 kb) · **mundimark.github.io** ★1 (6 kb) · **quickrefs** ★15 (289 kb) · **why-text** ★6 (24 kb)
+**awesome-books** ★40 (204 kb) · **awesome-kramdown** ★33 (19 kb) · **awesome-markdown** ★589 (92 kb) · **awesome-markdown-alternatives** ★35 (2 kb) · **awesome-markdown-editors** ★225 (47 kb) · **markdown-can-i-use** ★7 (16 kb) · **markdown-tools** ★5 (5 kb) · **markdown-tools-books** ★8 (5 kb) · **markdown-vs-latex** ★61 (18 kb) · **markdown.pl** ★2 (108 kb) · **mundimark.github.io** ★1 (6 kb) · **quickrefs** ★15 (289 kb) · **why-text** ★6 (24 kb)
 
 ### octobook _(7)_
 
@@ -158,19 +158,19 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### openblockchains _(13)_
 
-**austrian-blockchain-whitepapers** ★5 (23465 kb) · **awesome-blockchains** ★2960 (2498 kb) · **awesome-coins** ★2 (921 kb) · **awesome-diem** ★42 (2183 kb) · **awesome-ico-truths** ★23 (1385 kb) · **awesome-tokens** ★12 (30 kb) · **blockchain-whitepapers** ★5 (26877 kb) · **crypto-quotes** ★10 (208 kb) · **programming-bitcoin-script** ★26 (446 kb) · **programming-blockchains** ★556 (552 kb) · **programming-cryptocollectibles** ★27 (700 kb) · **programming-cryptocontracts** ★32 (593 kb) · **tulips** ★10 (10 kb)
+**austrian-blockchain-whitepapers** ★5 (23656 kb) · **awesome-blockchains** ★2967 (2534 kb) · **awesome-coins** ★2 (921 kb) · **awesome-diem** ★43 (2183 kb) · **awesome-ico-truths** ★23 (1396 kb) · **bitcoin-ponzi** ★13 (69 kb) · **bitcon-books** ★12 (89 kb) · **blockchain-whitepapers** ★5 (26877 kb) · **crypto-books** ★32 (146 kb) · **crypto-quotes** ★12 (129 kb) · **programming-bitcoin-script** ★26 (475 kb) · **programming-blockchains** ★559 (553 kb) · **tulips** ★10 (10 kb)
 
 ### openbookie _(8)_
 
-**market.at-austria** ★3 (112 kb) · **market.euro-cup** ★1 (108 kb) · **market.europe-champions-league** ★4 (336 kb) · **market.world-cup** ★1 (108 kb) · **notes** ★2 (108 kb) · **sport.db.market** ★2 (172 kb) · **sport.db.play** ★3 (204 kb) · **sportbook** ★112 (2929 kb)
+**market.at-austria** ★3 (112 kb) · **market.euro-cup** ★1 (108 kb) · **market.europe-champions-league** ★4 (336 kb) · **market.world-cup** ★1 (108 kb) · **notes** ★2 (108 kb) · **sport.db.market** ★2 (172 kb) · **sport.db.play** ★3 (204 kb) · **sportbook** ★113 (2929 kb)
 
 ### openfootball _(41)_
 
-**africa-cup** ★3 (11 kb) · **austria** ★14 (959 kb) · **club-world-cup** ★3 (7 kb) · **clubs** ★45 (2596 kb) · **confed-cup** ★2 (25 kb) · **copa-america** ★3 (7 kb) · **copa-libertadores** ★4 (22 kb) · **copa-sudamericana** ★3 (3 kb) · **deutschland** ★58 (2235 kb) · **docs** ★17 (707 kb) · **england** ★346 (1651 kb) · **espana** ★58 (897 kb) · **euro-cup** ★26 (50 kb) · **europe** ★9 (570 kb) · **europe-champions-league** ★32 (173 kb) · **football.json** ★617 (2268 kb) · **fussball-de** ★2 (192 kb) · **futbol-es** ★2 (164 kb) · **help** ★3 (162 kb) · **italy** ★27 (838 kb) · **lang** ★2 (228 kb) · **league-starter** ★9 (62 kb) · **leagues** ★38 (782 kb) · **mexico** ★2 (120 kb) · **national-teams** ★11 (76 kb) · **north-america-champions-league** ★2 (8 kb) · **north-america-gold-cup** ★2 (18 kb) · **opendata-theme** ★1 (4 kb) · **openfootball.github.io** ★136 (1657 kb) · **players** ★20 (390 kb) · **quick-starter** ★64 (34 kb) · **schema** ★6 (7 kb) · **schema.sql** ★34 (12 kb) · **south-america** ★71 (288 kb) · **spec** ★2 (45 kb) · **stadiums** ★16 (37 kb) · **women-euro-cup** ★1 (8 kb) · **women-world-cup** ★4 (144 kb) · **world** ★3 (712 kb) · **world-cup** ★448 (638 kb) · **world-cup.json** ★152 (102 kb)
+**africa-cup** ★3 (11 kb) · **austria** ★14 (959 kb) · **club-world-cup** ★3 (7 kb) · **clubs** ★45 (2596 kb) · **confed-cup** ★2 (25 kb) · **copa-america** ★3 (7 kb) · **copa-libertadores** ★4 (22 kb) · **copa-sudamericana** ★3 (3 kb) · **deutschland** ★58 (2235 kb) · **docs** ★17 (707 kb) · **england** ★347 (1651 kb) · **espana** ★58 (897 kb) · **euro-cup** ★26 (50 kb) · **europe** ★9 (570 kb) · **europe-champions-league** ★32 (173 kb) · **football.json** ★621 (2268 kb) · **fussball-de** ★2 (192 kb) · **futbol-es** ★2 (164 kb) · **help** ★3 (162 kb) · **italy** ★27 (838 kb) · **lang** ★2 (228 kb) · **league-starter** ★9 (62 kb) · **leagues** ★38 (782 kb) · **mexico** ★2 (120 kb) · **national-teams** ★11 (76 kb) · **north-america-champions-league** ★2 (8 kb) · **north-america-gold-cup** ★2 (18 kb) · **opendata-theme** ★1 (4 kb) · **openfootball.github.io** ★138 (1657 kb) · **players** ★20 (390 kb) · **quick-starter** ★64 (34 kb) · **schema** ★6 (7 kb) · **schema.sql** ★35 (12 kb) · **south-america** ★71 (288 kb) · **spec** ★2 (45 kb) · **stadiums** ★17 (37 kb) · **women-euro-cup** ★1 (8 kb) · **women-world-cup** ★4 (144 kb) · **world** ★3 (712 kb) · **world-cup** ★447 (638 kb) · **world-cup.json** ★152 (102 kb)
 
 ### openmundi _(12)_
 
-**austria.db** ★4 (396 kb) · **datafile** ★2 (2 kb) · **deutschland.db** ★3 (212 kb) · **langs** ★1 (116 kb) · **mundo-es** ★1 (112 kb) · **notes** ★1 (132 kb) · **openmundi.github.io** ★5 (329 kb) · **welt-de** ★1 (112 kb) · **wien.db** ★1 (114 kb) · **world-heritage** ★2 (144 kb) · **world.csv** ★14 (176 kb) · **world.db** ★567 (1088 kb)
+**austria.db** ★4 (396 kb) · **datafile** ★2 (2 kb) · **deutschland.db** ★3 (212 kb) · **langs** ★1 (116 kb) · **mundo-es** ★1 (112 kb) · **notes** ★1 (132 kb) · **openmundi.github.io** ★5 (329 kb) · **welt-de** ★1 (112 kb) · **wien.db** ★1 (114 kb) · **world-heritage** ★2 (144 kb) · **world.csv** ★14 (176 kb) · **world.db** ★569 (1088 kb)
 
 ### opensport _(7)_
 
@@ -198,15 +198,15 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### planetjekyll _(13)_
 
-**awesome-jekyll** ★533 (119 kb) · **awesome-jekyll-editors** ★316 (15 kb) · **awesome-jekyll-plugins** ★878 (148 kb) · **awesome-jekyll-themes** ★405 (30 kb) · **planet** ★1 (170 kb) · **planetjekyll.github.io** ★10 (112 kb) · **quickrefs** ★85 (78 kb) · **sandbox** ★2 (81 kb) · **sandbox-collections** ★2 (11 kb) · **sandbox-github-pages** ★2 (30 kb) · **sandbox-syntax-highlighter** ★1 (12 kb) · **showcase** ★6 (2589 kb) · **snippets** ★13 (16 kb)
+**awesome-jekyll** ★538 (128 kb) · **awesome-jekyll-editors** ★316 (15 kb) · **awesome-jekyll-plugins** ★883 (168 kb) · **awesome-jekyll-themes** ★405 (34 kb) · **planet** ★1 (170 kb) · **planetjekyll.github.io** ★10 (112 kb) · **quickrefs** ★85 (78 kb) · **sandbox** ★2 (81 kb) · **sandbox-collections** ★2 (11 kb) · **sandbox-github-pages** ★2 (30 kb) · **sandbox-syntax-highlighter** ★1 (12 kb) · **showcase** ★6 (2589 kb) · **snippets** ★13 (16 kb)
 
 ### planetopendata _(6)_
 
-**awesome-austria** ★2 (48 kb) · **awesome-football** ★136 (18 kb) · **awesome-sqlite** ★93 (41 kb) · **awesome-world** ★181 (204 kb) · **planet** ★1 (206 kb) · **planetopendata.github.io** ★1 (132 kb)
+**awesome-austria** ★2 (48 kb) · **awesome-football** ★136 (18 kb) · **awesome-sqlite** ★93 (41 kb) · **awesome-world** ★182 (204 kb) · **planet** ★1 (206 kb) · **planetopendata.github.io** ★1 (132 kb)
 
-### planetruby _(16)_
+### planetruby _(15)_
 
-**apps** ★1 (161 kb) · **awesome** ★12 (41 kb) · **awesome-rubies** ★283 (180 kb) · **awesome-webservers** ★203 (75 kb) · **books** ★22 (175 kb) · **books-old** ★3 (661 kb) · **calendar** ★246 (972 kb) · **calendar-theme** ★1 (12 kb) · **gems** ★65 (1715 kb) · **hellohoe** ★3 (2 kb) · **links** ★3 (120 kb) · **meetups** ★12 (34 kb) · **planet** ★9 (165 kb) · **planetruby.github.io** ★1 (682 kb) · **quickrefs** ★1 (37 kb) · **quiz** ★60 (302 kb)
+**apps** ★1 (161 kb) · **awesome** ★202 (127 kb) · **awesome-rubies** ★285 (180 kb) · **books** ★37 (393 kb) · **books-old** ★3 (661 kb) · **calendar-theme** ★1 (13 kb) · **changes** ★3 (155 kb) · **conferences** ★245 (1048 kb) · **gems** ★70 (2145 kb) · **hellohoe** ★3 (2 kb) · **meetups** ★12 (34 kb) · **planet** ★9 (165 kb) · **planetruby.github.io** ★1 (698 kb) · **quickrefs** ★1 (37 kb) · **quiz** ★60 (302 kb)
 
 ### playhtml _(6)_
 
@@ -226,7 +226,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### quikstart _(6)_
 
-**gem-starter-template** ★3 (9 kb) · **gem-starter-template-hoe** ★2 (19 kb) · **jekyll-starter-theme** ★3 (6 kb) · **quik** ★30 (37 kb) · **scripts** ★5 (14 kb) · **sinatra-starter-template** ★8 (6 kb)
+**gem-starter-template** ★3 (9 kb) · **gem-starter-template-hoe** ★2 (19 kb) · **jekyll-starter-theme** ★3 (6 kb) · **quik** ★32 (37 kb) · **scripts** ★5 (14 kb) · **sinatra-starter-template** ★8 (6 kb)
 
 ### rsssf _(7)_
 
@@ -234,11 +234,11 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### rubycoco _(14)_
 
-**activerecord** ★2 (78 kb) · **blockchain** ★121 (338 kb) · **core** ★3 (113 kb) · **datasets** ★1 (55 kb) · **events** ★12 (47 kb) · **flow** ★2 (37 kb) · **git** ★15 (196 kb) · **markdown** ★50 (205 kb) · **monos** ★51 (83 kb) · **more** ★2 (63 kb) · **rubycoco.github.io** ★1 (6 kb) · **text** ★2 (200 kb) · **webclient** ★5 (40 kb) · **webservice** ★8 (48 kb)
+**activerecord** ★2 (78 kb) · **blockchain** ★124 (357 kb) · **core** ★3 (113 kb) · **datasets** ★1 (55 kb) · **events** ★12 (47 kb) · **flow** ★2 (37 kb) · **git** ★15 (196 kb) · **markdown** ★50 (205 kb) · **monos** ★51 (83 kb) · **more** ★2 (63 kb) · **rubycoco.github.io** ★1 (6 kb) · **text** ★2 (200 kb) · **webclient** ★5 (40 kb) · **webservice** ★8 (48 kb)
 
 ### s6ruby _(12)_
 
-**awesome-crypto** ★32 (22 kb) · **ethereum-contracts** ★4 (89 kb) · **pragmas** ★20 (91 kb) · **redpaper** ★16 (84 kb) · **ruby-to-michelson** ★14 (187 kb) · **ruby-to-solidity** ★8 (30 kb) · **safemath** ★6 (15 kb) · **safestruct** ★18 (92 kb) · **units-money** ★5 (79 kb) · **units-time** ★28 (37 kb) · **universum** ★17 (161 kb) · **universum-contracts** ★13 (116 kb)
+**ethereum-contracts** ★4 (89 kb) · **pragmas** ★20 (91 kb) · **programming-crypto-contracts** ★33 (594 kb) · **redpaper** ★16 (84 kb) · **ruby-to-michelson** ★14 (187 kb) · **ruby-to-solidity** ★8 (30 kb) · **safemath** ★6 (15 kb) · **safestruct** ★18 (92 kb) · **units-money** ★5 (79 kb) · **units-time** ★28 (37 kb) · **universum** ★17 (161 kb) · **universum-contracts** ★13 (116 kb)
 
 ### schemadoc _(2)_
 
@@ -262,7 +262,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### sportdb _(10)_
 
-**datasets** ★4 (19 kb) · **docs** ★4 (56 kb) · **football.db** ★9 (218 kb) · **footty** ★13 (27 kb) · **sport.db** ★199 (2369 kb) · **sport.db.admin** ★16 (1719 kb) · **sport.db.service** ★2 (10 kb) · **sport.db.sources** ★9 (96 kb) · **sport.db.web** ★4 (172 kb) · **sportdb.github.io** ★1 (91 kb)
+**datasets** ★4 (19 kb) · **docs** ★4 (56 kb) · **football.db** ★9 (218 kb) · **footty** ★13 (27 kb) · **sport.db** ★200 (2369 kb) · **sport.db.admin** ★16 (1719 kb) · **sport.db.service** ★2 (10 kb) · **sport.db.sources** ★9 (96 kb) · **sport.db.web** ★4 (172 kb) · **sportdb.github.io** ★1 (91 kb)
 
 ### sportkit _(7)_
 
@@ -278,7 +278,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### staystatic _(5)_
 
-**awesome-static** ★38 (18 kb) · **quickrefs** ★3 (8 kb) · **staystatic** ★56 (212 kb) · **staystatic-starter** ★3 (7 kb) · **staystatic.github.io** ★9 (1565 kb)
+**awesome-static** ★38 (18 kb) · **quickrefs** ★3 (8 kb) · **staystatic** ★57 (212 kb) · **staystatic-starter** ★3 (7 kb) · **staystatic.github.io** ★9 (1565 kb)
 
 ### texti _(3)_
 
@@ -290,7 +290,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### updownpress _(2)_
 
-**markdown-lint** ★35 (49 kb) · **updownpress.github.io** ★1 (7 kb)
+**markdown-lint** ★36 (49 kb) · **updownpress.github.io** ★1 (7 kb)
 
 ### viennacrypto _(1)_
 
@@ -306,7 +306,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### wikiscript _(4)_
 
-**beer.json** ★1 (29 kb) · **countries.json** ★5 (706 kb) · **football.json** ★1 (484 kb) · **wikiscript** ★6 (230 kb)
+**beer.json** ★1 (29 kb) · **countries.json** ★6 (706 kb) · **football.json** ★1 (484 kb) · **wikiscript** ★6 (230 kb)
 
 ### worldbook _(1)_
 
@@ -318,9 +318,9 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### worlddb _(8)_
 
-**world.db** ★66 (385 kb) · **world.db.admin** ★9 (1840 kb) · **world.db.cities** ★1 (136 kb) · **world.db.codes** ★7 (161 kb) · **world.db.flags** ★8 (1644 kb) · **world.db.service** ★1 (1 kb) · **world.db.starter** ★12 (12 kb) · **world.lite** ★51 (327 kb)
+**world.db** ★66 (385 kb) · **world.db.admin** ★9 (1840 kb) · **world.db.cities** ★1 (136 kb) · **world.db.codes** ★7 (161 kb) · **world.db.flags** ★8 (1644 kb) · **world.db.service** ★1 (1 kb) · **world.db.starter** ★11 (12 kb) · **world.lite** ★51 (327 kb)
 
 ### yukimotopress _(15)_
 
-**auto** ★2 (72 kb) · **blockchains** ★55 (455 kb) · **examples** ★1 (28 kb) · **fizzbuzz** ★1 (19 kb) · **gem-dev** ★22 (31 kb) · **gem-tasks** ★16 (64 kb) · **http** ★14 (10 kb) · **langs** ★31 (122 kb) · **micro** ★1 (179 kb) · **practices** ★1 (324 kb) · **practicing** ★55 (93 kb) · **sinatra-intro** ★13 (20 kb) · **smalldata** ★3 (39 kb) · **start** ★2 (165 kb) · **yukimotopress.github.io** ★11 (847 kb)
+**auto** ★2 (72 kb) · **blockchains** ★54 (455 kb) · **examples** ★1 (28 kb) · **fizzbuzz** ★1 (19 kb) · **gem-dev** ★22 (31 kb) · **gem-tasks** ★16 (64 kb) · **http** ★14 (10 kb) · **langs** ★31 (122 kb) · **micro** ★1 (179 kb) · **practices** ★1 (324 kb) · **practicing** ★55 (93 kb) · **sinatra-intro** ★13 (20 kb) · **smalldata** ★3 (39 kb) · **start** ★2 (165 kb) · **yukimotopress.github.io** ★11 (847 kb)
 
