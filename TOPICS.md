@@ -2,23 +2,30 @@ Auto-generated github (statistics) report;
 built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-reports).
 
 
-# Topics - 544 Repos @ 80 Orgs
+# Topics - 544 Repos @ 79 Orgs
 
+`10000` _(4)_
 `1637` _(1)_
+`2017` _(1)_
 `2018` _(1)_
+`2021` _(1)_
 `21-million` _(1)_
+`24x24` _(4)_
 `3x3` _(1)_
-`5bit` _(1)_
+`8bit` _(1)_
 `activerecord` _(2)_
 `advent` _(1)_
 `advent-2020` _(1)_
+`africa` _(1)_
 `almost-sinatra` _(1)_
 `alphabets` _(1)_
+`america` _(1)_
 `andreas-antonopoulos` _(1)_
-`api` _(1)_
+`api` _(2)_
 `arsenal` _(1)_
 `article` _(2)_
 `asciidoc` _(1)_
+`asia` _(1)_
 `atom` _(12)_
 `austria` _(12)_
 `awesome` _(5)_
@@ -26,7 +33,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `awesome-libra` _(1)_
 `baghodler` _(1)_
 `barca` _(1)_
-`base32` _(3)_
+`base32` _(2)_
 `bayern` _(1)_
 `beer` _(3)_
 `beerfest` _(1)_
@@ -35,14 +42,15 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `bibtex` _(1)_
 `bibtxt` _(1)_
 `bier` _(2)_
-`bitcoin` _(5)_
+`binancepunks` _(1)_
+`bitcoin` _(6)_
 `bitcoin-ponzi` _(1)_
 `bitcoin-script` _(1)_
-`bitcon` _(4)_
+`bitcon` _(5)_
 `bitfinex` _(1)_
 `bitpanda` _(1)_
-`blockchain` _(20)_
-`blockchain-lite` _(3)_
+`blockchain` _(22)_
+`blockchain-lite` _(2)_
 `blocklancer` _(1)_
 `blogs` _(1)_
 `book` _(1)_
@@ -54,6 +62,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `brazil2014` _(1)_
 `brewery` _(2)_
 `brewpub` _(1)_
+`bubble` _(2)_
 `bundesliga` _(5)_
 `business-architect` _(1)_
 `business-intelligence` _(1)_
@@ -61,8 +70,10 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `canada` _(1)_
 `casino` _(1)_
 `casinos` _(1)_
+`cats` _(1)_
+`cattributes` _(2)_
 `cc` _(1)_
-`centralbank` _(2)_
+`centralbank` _(1)_
 `cerveza` _(1)_
 `championship` _(1)_
 `chelsea` _(1)_
@@ -83,31 +94,34 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `contract` _(1)_
 `contract-progamming` _(1)_
 `contracts` _(8)_
-`copycats` _(6)_
+`copycats` _(7)_
 `countries` _(5)_
 `countrycodes` _(1)_
 `craig-wright` _(1)_
-`crockford` _(1)_
 `crowd` _(1)_
 `crwd` _(1)_
 `crypto` _(2)_
-`cryptobirdies` _(1)_
+`cryptoaliens` _(2)_
+`cryptoapes` _(1)_
+`cryptoart` _(4)_
+`cryptobeanies` _(1)_
 `cryptobooks` _(2)_
-`cryptobunnies` _(1)_
-`cryptocollectibles` _(8)_
+`cryptocats` _(3)_
+`cryptocollectibles` _(10)_
 `cryptocopycats` _(6)_
-`cryptohash` _(4)_
-`cryptohorses` _(1)_
+`cryptohash` _(3)_
 `cryptokitties` _(8)_
-`cryptomonsters` _(1)_
-`cryptopets` _(2)_
-`cryptopuppies` _(2)_
+`cryptopets` _(1)_
+`cryptopunk` _(5)_
+`cryptopunks` _(5)_
+`cryptopuppies` _(1)_
 `cryptoquotes` _(2)_
-`cryptos` _(4)_
-`cryptotulips` _(3)_
+`cryptos` _(3)_
+`cryptotulips` _(12)_
+`cryptozombies` _(3)_
 `cson` _(1)_
 `css` _(2)_
-`csv` _(17)_
+`csv` _(20)_
 `csv11` _(5)_
 `csvcut` _(1)_
 `csvhash` _(1)_
@@ -126,7 +140,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `data-package` _(1)_
 `datafile` _(4)_
 `datapackage` _(1)_
-`dataset` _(1)_
+`dataset` _(2)_
 `datasette` _(1)_
 `datatxt` _(1)_
 `dates` _(1)_
@@ -138,6 +152,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `distributed-database` _(2)_
 `dortmund` _(1)_
 `eastern-conference` _(1)_
+`economy` _(1)_
 `elm` _(1)_
 `england` _(2)_
 `english-premier-league` _(1)_
@@ -147,7 +162,8 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `ersteliga` _(1)_
 `espana` _(2)_
 `ether` _(1)_
-`ethereum` _(3)_
+`ethereum` _(6)_
+`europe` _(1)_
 `eventdb` _(2)_
 `evm` _(1)_
 `export` _(1)_
@@ -180,7 +196,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `fussball` _(2)_
 `futbol` _(1)_
 `gatsby` _(2)_
-`gem` _(7)_
+`gem` _(6)_
 `gems` _(16)_
 `georg-gfrerer` _(1)_
 `germany` _(1)_
@@ -195,6 +211,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `github-statistics` _(1)_
 `github-traffic` _(1)_
 `gold` _(1)_
+`government` _(1)_
 `graz` _(4)_
 `hanson` _(4)_
 `harp` _(1)_
@@ -212,7 +229,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `hugo` _(2)_
 `hxl` _(1)_
 `hyperdata` _(2)_
-`hyperledger` _(3)_
+`hyperledger` _(2)_
 `ico` _(1)_
 `import` _(1)_
 `impressjs` _(1)_
@@ -229,7 +246,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `jekyll-themes` _(2)_
 `jekyllthemes` _(2)_
 `jigsaw` _(1)_
-`json` _(17)_
+`json` _(18)_
 `json-extensions` _(1)_
 `json-feed` _(1)_
 `json-next` _(2)_
@@ -244,7 +261,6 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `jsonx` _(3)_
 `jsonxi` _(3)_
 `juve` _(1)_
-`kai` _(1)_
 `keynote` _(1)_
 `kittyverse` _(8)_
 `kramdown` _(5)_
@@ -261,16 +277,18 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `logger` _(1)_
 `lotteries` _(1)_
 `major-league-soccer` _(1)_
-`mammad-kabiri` _(1)_
+`mammad-kabiri` _(2)_
 `mancity` _(1)_
+`mania` _(2)_
 `manuscripts` _(4)_
 `manutd` _(1)_
 `markdown` _(14)_
 `markup` _(3)_
+`marscats` _(1)_
 `meetup` _(3)_
 `meetups` _(2)_
 `memory` _(1)_
-`merkletree` _(4)_
+`merkletree` _(3)_
 `metadata` _(3)_
 `metalsmith` _(1)_
 `mexico` _(1)_
@@ -283,6 +301,8 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `monorepo` _(1)_
 `monorepos` _(1)_
 `monos` _(1)_
+`mooncatrescue` _(4)_
+`mooncats` _(5)_
 `move` _(1)_
 `multiline` _(1)_
 `namedvalues` _(1)_
@@ -296,6 +316,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `notext` _(1)_
 `novi` _(1)_
 `numerics` _(1)_
+`oceania` _(1)_
 `octobook` _(3)_
 `oesterreich` _(1)_
 `opcodes` _(1)_
@@ -303,12 +324,12 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `open-books` _(1)_
 `open-knowledge` _(1)_
 `open-publishing` _(1)_
-`opendata` _(37)_
+`opendata` _(36)_
 `oracle` _(1)_
 `pages` _(3)_
 `pan` _(1)_
 `pantos` _(1)_
-`peer-to-peer` _(1)_
+`people` _(1)_
 `pivo` _(1)_
 `places` _(2)_
 `plaintext` _(1)_
@@ -317,7 +338,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `play` _(1)_
 `players` _(1)_
 `pluto` _(2)_
-`ponzi` _(3)_
+`ponzi` _(4)_
 `ponzi-scheme` _(1)_
 `ponzis` _(3)_
 `powerpoint` _(1)_
@@ -329,12 +350,13 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `primeradivision` _(2)_
 `private-key` _(1)_
 `programming` _(1)_
-`proof-of-waste` _(5)_
-`proof-of-work` _(4)_
+`proof-of-waste` _(6)_
+`proof-of-work` _(5)_
 `props` _(1)_
 `provinces` _(1)_
 `public-key` _(1)_
 `publicdomain` _(6)_
+`punkverse` _(5)_
 `puzzle` _(1)_
 `pyramid` _(1)_
 `pyramid-scheme` _(1)_
@@ -349,6 +371,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `realmadrid` _(1)_
 `reasonml` _(1)_
 `records` _(2)_
+`religion` _(1)_
 `revealjs` _(1)_
 `ripple` _(1)_
 `roma` _(1)_
@@ -358,7 +381,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `rss-aggregator` _(1)_
 `rss-reader` _(1)_
 `rth` _(1)_
-`ruby` _(29)_
+`ruby` _(28)_
 `ruby-conferences` _(1)_
 `rubybooks` _(1)_
 `rubyconf` _(1)_
@@ -374,14 +397,12 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `scams` _(1)_
 `schalke` _(1)_
 `schema` _(1)_
-`schilling` _(1)_
 `scripting` _(1)_
 `segundadivision` _(1)_
 `semperaugustus` _(1)_
 `serie-a` _(1)_
 `seriea` _(1)_
 `sha256` _(2)_
-`shilling` _(1)_
 `signatures` _(1)_
 `simplicity` _(1)_
 `sinatra` _(3)_
@@ -409,6 +430,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `staystatic` _(1)_
 `structured` _(1)_
 `structured-text` _(1)_
+`substrapunks` _(1)_
 `tab` _(2)_
 `tabular` _(2)_
 `tabular-data` _(2)_
@@ -435,9 +457,9 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `types` _(1)_
 `ucl` _(1)_
 `unicode` _(2)_
-`uniqa` _(1)_
+`uniqa` _(2)_
 `united-states` _(1)_
-`universum` _(5)_
+`universum` _(6)_
 `usdc` _(1)_
 `usdt` _(1)_
 `uson` _(1)_
@@ -449,12 +471,14 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `vienna` _(8)_
 `vyper` _(2)_
 `wales` _(2)_
+`wck` _(2)_
 `webcomponents` _(2)_
 `webfeed` _(1)_
 `webfeeds` _(2)_
 `webgen` _(1)_
 `website-compiler` _(1)_
 `western-conference` _(1)_
+`wg0` _(2)_
 `whatson` _(1)_
 `wien` _(7)_
 `wikipedia` _(4)_
@@ -463,30 +487,46 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `wikitext` _(2)_
 `wikitree` _(1)_
 `wizard` _(2)_
+`wmcr` _(1)_
+`wolfgang-kuechl` _(2)_
 `world` _(5)_
 `worldcomputer` _(1)_
 `worldcup` _(4)_
 `worldcup2018` _(4)_
 `worldstate` _(1)_
+`wpunks` _(2)_
+`wvg0` _(2)_
 `xml` _(1)_
 `xrp` _(1)_
 `yaml` _(7)_
 `yul` _(1)_
 
+## `10000` _(4)_
+cryptopunksnotdead/awesome-cryptopunks-bubble · cryptopunksnotdead/cryptopunks · cryptopunksnotdead/programming-cryptopunks · cryptopunksnotdead/punks
+
 ## `1637` _(1)_
 openblockchains/tulips
+
+## `2017` _(1)_
+cryptocopycats/awesome-cryptokitties-bubble
 
 ## `2018` _(1)_
 octobook/book-2018-theme
 
+## `2021` _(1)_
+cryptopunksnotdead/awesome-cryptopunks-bubble
+
 ## `21-million` _(1)_
 openblockchains/bitcon-books
+
+## `24x24` _(4)_
+cryptopunksnotdead/awesome-cryptopunks-bubble · cryptopunksnotdead/cryptopunks · cryptopunksnotdead/programming-cryptopunks · cryptopunksnotdead/punks
 
 ## `3x3` _(1)_
 planetruby/changes
 
-## `5bit` _(1)_
-cryptocopycats/base32-alphabets
+## `8bit` _(1)_
+cryptocopycats/awesome-mooncatrescue-bubble
 
 ## `activerecord` _(2)_
 csvreader/csvpack · rubycoco/activerecord
@@ -497,17 +537,23 @@ planetruby/gems
 ## `advent-2020` _(1)_
 planetruby/gems
 
+## `africa` _(1)_
+factbook/factbook.json
+
 ## `almost-sinatra` _(1)_
 rubycoco/more
 
 ## `alphabets` _(1)_
 rubycoco/core
 
+## `america` _(1)_
+factbook/factbook.json
+
 ## `andreas-antonopoulos` _(1)_
 openblockchains/bitcon-books
 
-## `api` _(1)_
-openfootball/world-cup.json
+## `api` _(2)_
+cryptocopycats/kittyverse · openfootball/world-cup.json
 
 ## `arsenal` _(1)_
 openfootball/england
@@ -518,11 +564,14 @@ feedhtml/feedhtml.github.io · feedhtml/hyperdata
 ## `asciidoc` _(1)_
 texti/texti.github.io
 
+## `asia` _(1)_
+factbook/factbook.json
+
 ## `atom` _(12)_
 feedhtml/feedhtml.github.io · feedhtml/hyperdata · feedparser/awesome-feeds · feedparser/feedparser · feedparser/feeds · feedreader/planet.rb · feedreader/pluto · feedreader/pluto.starter · feedtxt/feedtxt · feedtxt/feedtxt.github.io · json-next/json-feed · yukimotopress/smalldata
 
 ## `austria` _(12)_
-austriacodes/austria.txt · austriacodes/awesome-austria · austriacodes/vienna.html · bigkorupto/mammad-kabiri-uniqa · bitshilling/bitshilling · footballcsv/austria · openbeer/at-austria · openblockchains/austrian-blockchain-whitepapers · openfootball/austria · openmundi/austria.db · viennacrypto/viennacrypto.github.io · viennarb/viennarb.github.io
+austriacodes/austria.txt · austriacodes/awesome-austria · austriacodes/vienna.html · bigkorupto/mammad-kabiri-uniqa · bigkorupto/sources · footballcsv/austria · openbeer/at-austria · openblockchains/austrian-blockchain-whitepapers · openfootball/austria · openmundi/austria.db · viennacrypto/viennacrypto.github.io · viennarb/viennarb.github.io
 
 ## `awesome` _(5)_
 austriacodes/awesome-austria · cryptocopycats/awesome-cryptocollectibles · mundimark/awesome-kramdown · openblockchains/awesome-diem · planetruby/conferences
@@ -539,8 +588,8 @@ openblockchains/bitcoin-ponzi
 ## `barca` _(1)_
 openfootball/espana
 
-## `base32` _(3)_
-cryptocopycats/base32-alphabets · cryptocopycats/kittyverse · cryptocopycats/programming-crypto-collectibles
+## `base32` _(2)_
+cryptocopycats/kittyverse · cryptocopycats/programming-cryptokitties
 
 ## `bayern` _(1)_
 openfootball/deutschland
@@ -566,8 +615,11 @@ bibtxt/bibtxt.github.io
 ## `bier` _(2)_
 beerkit/beer.db · openbeer/at-austria
 
-## `bitcoin` _(5)_
-openblockchains/bitcoin-ponzi · openblockchains/bitcon-books · openblockchains/crypto-books · openblockchains/crypto-quotes · openblockchains/programming-bitcoin-script
+## `binancepunks` _(1)_
+cryptopunksnotdead/awesome-cryptopunks-bubble
+
+## `bitcoin` _(6)_
+openblockchains/bitcoin · openblockchains/bitcoin-ponzi · openblockchains/bitcon-books · openblockchains/crypto-books · openblockchains/crypto-quotes · openblockchains/programming-bitcoin-script
 
 ## `bitcoin-ponzi` _(1)_
 openblockchains/bitcoin-ponzi
@@ -575,8 +627,8 @@ openblockchains/bitcoin-ponzi
 ## `bitcoin-script` _(1)_
 openblockchains/programming-bitcoin-script
 
-## `bitcon` _(4)_
-openblockchains/bitcoin-ponzi · openblockchains/bitcon-books · openblockchains/crypto-books · openblockchains/crypto-quotes
+## `bitcon` _(5)_
+openblockchains/bitcoin · openblockchains/bitcoin-ponzi · openblockchains/bitcon-books · openblockchains/crypto-books · openblockchains/crypto-quotes
 
 ## `bitfinex` _(1)_
 openblockchains/crypto-quotes
@@ -584,11 +636,11 @@ openblockchains/crypto-quotes
 ## `bitpanda` _(1)_
 openblockchains/austrian-blockchain-whitepapers
 
-## `blockchain` _(20)_
-bitshilling/bitshilling · cryptocopycats/awesome-cryptocollectibles · cryptocopycats/awesome-cryptokitties · cryptocopycats/bitcat · cryptocopycats/copycats · cryptocopycats/kitties · cryptocopycats/kittyverse · cryptocopycats/programming-crypto-collectibles · openblockchains/austrian-blockchain-whitepapers · openblockchains/awesome-blockchains · openblockchains/awesome-diem · openblockchains/crypto-books · openblockchains/tulips · planetruby/gems · rubycoco/blockchain · s6ruby/programming-crypto-contracts · s6ruby/redpaper · s6ruby/universum · s6ruby/universum-contracts · viennacrypto/viennacrypto.github.io
+## `blockchain` _(22)_
+cryptocopycats/awesome-cryptocollectibles · cryptocopycats/awesome-cryptokitties-bubble · cryptocopycats/contracts · cryptocopycats/copycats · cryptocopycats/kitties · cryptocopycats/kittyverse · cryptocopycats/mooncatrescue · cryptocopycats/programming-cryptokitties · cryptopunksnotdead/awesome-cryptopunks-bubble · openblockchains/austrian-blockchain-whitepapers · openblockchains/awesome-blockchains · openblockchains/awesome-diem · openblockchains/bitcoin · openblockchains/crypto-books · openblockchains/tulips · planetruby/gems · rubycoco/blockchain · s6ruby/programming-crypto-contracts · s6ruby/redpaper · s6ruby/universum · s6ruby/universum-contracts · viennacrypto/viennacrypto.github.io
 
-## `blockchain-lite` _(3)_
-bitshilling/bitshilling · openblockchains/crypto-books · rubycoco/blockchain
+## `blockchain-lite` _(2)_
+openblockchains/crypto-books · rubycoco/blockchain
 
 ## `blocklancer` _(1)_
 openblockchains/austrian-blockchain-whitepapers
@@ -623,6 +675,9 @@ beerkit/beer.db · openbeer/at-austria
 ## `brewpub` _(1)_
 beerkit/beer.db
 
+## `bubble` _(2)_
+cryptocopycats/awesome-cryptokitties-bubble · cryptopunksnotdead/awesome-cryptopunks-bubble
+
 ## `bundesliga` _(5)_
 footballcsv/austria · footballcsv/deutschland · openfootball/austria · openfootball/deutschland · openfootball/football.json
 
@@ -644,11 +699,17 @@ s6ruby/programming-crypto-contracts
 ## `casinos` _(1)_
 s6ruby/programming-crypto-contracts
 
+## `cats` _(1)_
+cryptocopycats/awesome-mooncatrescue-bubble
+
+## `cattributes` _(2)_
+cryptocopycats/kitties · cryptocopycats/kittyverse
+
 ## `cc` _(1)_
 openblockchains/austrian-blockchain-whitepapers
 
-## `centralbank` _(2)_
-bitshilling/bitshilling · openblockchains/crypto-books
+## `centralbank` _(1)_
+openblockchains/crypto-books
 
 ## `cerveza` _(1)_
 beerkit/beer.db
@@ -710,8 +771,8 @@ viennacrypto/viennacrypto.github.io
 ## `contracts` _(8)_
 openblockchains/awesome-diem · openblockchains/crypto-books · s6ruby/programming-crypto-contracts · s6ruby/redpaper · s6ruby/ruby-to-michelson · s6ruby/ruby-to-solidity · s6ruby/universum · s6ruby/universum-contracts
 
-## `copycats` _(6)_
-cryptocopycats/bitcat · cryptocopycats/copycats · cryptocopycats/kitties · cryptocopycats/kittyverse · cryptocopycats/kittyverse.json · cryptocopycats/programming-crypto-collectibles
+## `copycats` _(7)_
+cryptocopycats/contracts · cryptocopycats/copycats · cryptocopycats/kitties · cryptocopycats/kittypedia · cryptocopycats/kittyverse · cryptocopycats/mooncatrescue · cryptocopycats/programming-cryptokitties
 
 ## `countries` _(5)_
 factbook/factbook · factbook/factbook.github.io · factbook/factbook.json · wikiscript/countries.json · worlddb/world.db
@@ -722,9 +783,6 @@ worlddb/world.db
 ## `craig-wright` _(1)_
 openblockchains/bitcon-books
 
-## `crockford` _(1)_
-cryptocopycats/base32-alphabets
-
 ## `crowd` _(1)_
 openblockchains/austrian-blockchain-whitepapers
 
@@ -734,47 +792,59 @@ openblockchains/austrian-blockchain-whitepapers
 ## `crypto` _(2)_
 openblockchains/crypto-quotes · viennacrypto/viennacrypto.github.io
 
-## `cryptobirdies` _(1)_
-cryptocopycats/awesome-cryptokitties
+## `cryptoaliens` _(2)_
+cryptopunksnotdead/awesome-cryptopunks-bubble · cryptopunksnotdead/punks
+
+## `cryptoapes` _(1)_
+cryptopunksnotdead/punks
+
+## `cryptoart` _(4)_
+cryptocopycats/awesome-mooncatrescue-bubble · cryptocopycats/mooncats · cryptopunksnotdead/awesome-cryptopunks-bubble · cryptopunksnotdead/punks
+
+## `cryptobeanies` _(1)_
+cryptopunksnotdead/punks
 
 ## `cryptobooks` _(2)_
 openblockchains/bitcon-books · openblockchains/crypto-books
 
-## `cryptobunnies` _(1)_
-cryptocopycats/awesome-cryptokitties
+## `cryptocats` _(3)_
+cryptocopycats/awesome-mooncatrescue-bubble · cryptocopycats/mooncatrescue · cryptocopycats/mooncats
 
-## `cryptocollectibles` _(8)_
-cryptocopycats/awesome-cryptocollectibles · cryptocopycats/awesome-cryptokitties · cryptocopycats/bitcat · cryptocopycats/copycats · cryptocopycats/kitties · cryptocopycats/kittyverse · cryptocopycats/kittyverse.json · cryptocopycats/programming-crypto-collectibles
+## `cryptocollectibles` _(10)_
+cryptocopycats/awesome-cryptocollectibles · cryptocopycats/awesome-cryptokitties-bubble · cryptocopycats/contracts · cryptocopycats/copycats · cryptocopycats/kitties · cryptocopycats/kittypedia · cryptocopycats/kittyverse · cryptocopycats/programming-cryptokitties · cryptopunksnotdead/awesome-cryptopunks-bubble · cryptopunksnotdead/punks
 
 ## `cryptocopycats` _(6)_
-cryptocopycats/awesome-cryptocollectibles · cryptocopycats/copycats · cryptocopycats/kitties · cryptocopycats/kittyverse · cryptocopycats/kittyverse.json · cryptocopycats/programming-crypto-collectibles
+cryptocopycats/awesome-cryptocollectibles · cryptocopycats/copycats · cryptocopycats/kitties · cryptocopycats/kittypedia · cryptocopycats/kittyverse · cryptocopycats/programming-cryptokitties
 
-## `cryptohash` _(4)_
-cryptocopycats/awesome-cryptokitties · openblockchains/awesome-blockchains · openblockchains/crypto-books · rubycoco/blockchain
-
-## `cryptohorses` _(1)_
-cryptocopycats/awesome-cryptokitties
+## `cryptohash` _(3)_
+openblockchains/awesome-blockchains · openblockchains/crypto-books · rubycoco/blockchain
 
 ## `cryptokitties` _(8)_
-cryptocopycats/awesome-cryptokitties · cryptocopycats/base32-alphabets · cryptocopycats/bitcat · cryptocopycats/copycats · cryptocopycats/kitties · cryptocopycats/kittyverse · cryptocopycats/kittyverse.json · cryptocopycats/programming-crypto-collectibles
+cryptocopycats/awesome-cryptokitties-bubble · cryptocopycats/cache.kitties.json · cryptocopycats/contracts · cryptocopycats/copycats · cryptocopycats/kitties · cryptocopycats/kittypedia · cryptocopycats/kittyverse · cryptocopycats/programming-cryptokitties
 
-## `cryptomonsters` _(1)_
-cryptocopycats/awesome-cryptokitties
+## `cryptopets` _(1)_
+cryptocopycats/awesome-cryptocollectibles
 
-## `cryptopets` _(2)_
-cryptocopycats/awesome-cryptocollectibles · cryptocopycats/awesome-cryptokitties
+## `cryptopunk` _(5)_
+cryptopunksnotdead/awesome-cryptopunks-bubble · cryptopunksnotdead/cryptopunks · cryptopunksnotdead/cryptopunks-contracts · cryptopunksnotdead/programming-cryptopunks · cryptopunksnotdead/punks
 
-## `cryptopuppies` _(2)_
-cryptocopycats/awesome-cryptocollectibles · cryptocopycats/awesome-cryptokitties
+## `cryptopunks` _(5)_
+cryptopunksnotdead/awesome-cryptopunks-bubble · cryptopunksnotdead/cryptopunks · cryptopunksnotdead/cryptopunks-contracts · cryptopunksnotdead/programming-cryptopunks · cryptopunksnotdead/punks
+
+## `cryptopuppies` _(1)_
+cryptocopycats/awesome-cryptocollectibles
 
 ## `cryptoquotes` _(2)_
 openblockchains/crypto-quotes · rubycoco/blockchain
 
-## `cryptos` _(4)_
-bitshilling/bitshilling · openblockchains/crypto-books · planetruby/gems · rubycoco/blockchain
+## `cryptos` _(3)_
+openblockchains/crypto-books · planetruby/gems · rubycoco/blockchain
 
-## `cryptotulips` _(3)_
-cryptocopycats/awesome-cryptocollectibles · cryptocopycats/awesome-cryptokitties · openblockchains/tulips
+## `cryptotulips` _(12)_
+cryptocopycats/awesome-cryptocollectibles · cryptocopycats/awesome-cryptokitties-bubble · cryptocopycats/awesome-mooncatrescue-bubble · cryptocopycats/kitties · cryptocopycats/mooncatrescue · cryptocopycats/mooncats · cryptocopycats/programming-cryptokitties · cryptopunksnotdead/awesome-cryptopunks-bubble · cryptopunksnotdead/cryptopunks · cryptopunksnotdead/programming-cryptopunks · cryptopunksnotdead/punks · openblockchains/tulips
+
+## `cryptozombies` _(3)_
+cryptopunksnotdead/awesome-cryptopunks-bubble · cryptopunksnotdead/programming-cryptopunks · cryptopunksnotdead/punks
 
 ## `cson` _(1)_
 json-next/awesome-json-next
@@ -782,8 +852,8 @@ json-next/awesome-json-next
 ## `css` _(2)_
 austriacodes/vienna.html · slideshow-s9/slideshow
 
-## `csv` _(17)_
-csvreader/csv11 · csvreader/csvhuman · csvreader/csvpack · csvreader/csvreader · csvreader/csvrecord · csvreader/csvutils · csvspecs/awesome-csv · footballcsv/austria · footballcsv/cache.soccerverse · footballcsv/deutschland · footballcsv/england · footballcsv/espana · footballcsv/major-league-soccer · footballcsv/mexico · footballcsv/spec · planetruby/gems · yukimotopress/smalldata
+## `csv` _(20)_
+cryptocopycats/kitties · cryptocopycats/mooncatrescue · cryptopunksnotdead/punks · csvreader/csv11 · csvreader/csvhuman · csvreader/csvpack · csvreader/csvreader · csvreader/csvrecord · csvreader/csvutils · csvspecs/awesome-csv · footballcsv/austria · footballcsv/cache.soccerverse · footballcsv/deutschland · footballcsv/england · footballcsv/espana · footballcsv/major-league-soccer · footballcsv/mexico · footballcsv/spec · planetruby/gems · yukimotopress/smalldata
 
 ## `csv11` _(5)_
 csvreader/csv11 · csvreader/csvreader · csvreader/csvrecord · csvspecs/awesome-csv · yukimotopress/smalldata
@@ -839,8 +909,8 @@ csvreader/csv11 · csvspecs/awesome-csv · datatxt/datatxt.github.io · rubycoco
 ## `datapackage` _(1)_
 planetruby/gems
 
-## `dataset` _(1)_
-csvreader/csvpack
+## `dataset` _(2)_
+cryptopunksnotdead/punks · csvreader/csvpack
 
 ## `datasette` _(1)_
 sportdb/football.db
@@ -875,6 +945,9 @@ openfootball/deutschland
 ## `eastern-conference` _(1)_
 footballcsv/major-league-soccer
 
+## `economy` _(1)_
+factbook/factbook.json
+
 ## `elm` _(1)_
 playhtml/memory
 
@@ -891,7 +964,7 @@ footballcsv/england
 openblockchains/awesome-ico-truths
 
 ## `erc721` _(3)_
-cryptocopycats/awesome-cryptocollectibles · cryptocopycats/awesome-cryptokitties · openblockchains/awesome-ico-truths
+cryptocopycats/awesome-cryptocollectibles · cryptocopycats/awesome-cryptokitties-bubble · openblockchains/awesome-ico-truths
 
 ## `ersteliga` _(1)_
 openfootball/austria
@@ -902,8 +975,11 @@ footballcsv/espana · openfootball/espana
 ## `ether` _(1)_
 openblockchains/crypto-books
 
-## `ethereum` _(3)_
-openblockchains/awesome-ico-truths · openblockchains/crypto-books · s6ruby/ruby-to-solidity
+## `ethereum` _(6)_
+cryptocopycats/contracts · cryptocopycats/mooncatrescue · openblockchains/awesome-blockchains · openblockchains/awesome-ico-truths · openblockchains/crypto-books · s6ruby/ruby-to-solidity
+
+## `europe` _(1)_
+factbook/factbook.json
 
 ## `eventdb` _(2)_
 planetruby/conferences · rubycoco/events
@@ -1001,8 +1077,8 @@ footballcsv/espana
 ## `gatsby` _(2)_
 austriacodes/vienna.html · staystatic/staystatic
 
-## `gem` _(7)_
-geraldb/wine.db.tools · beerkit/beer.db · quikstart/gem-starter-template · quikstart/gem-starter-template-hoe · quikstart/quik · quikstart/scripts · rubycoco/webservice
+## `gem` _(6)_
+beerkit/beer.db · quikstart/gem-starter-template · quikstart/gem-starter-template-hoe · quikstart/quik · quikstart/scripts · rubycoco/webservice
 
 ## `gems` _(16)_
 planetruby/books · planetruby/gems · rubycoco/activerecord · rubycoco/blockchain · rubycoco/core · rubycoco/datasets · rubycoco/events · rubycoco/flow · rubycoco/git · rubycoco/markdown · rubycoco/monos · rubycoco/more · rubycoco/text · rubycoco/webclient · sportdb/football.db · sportdb/sport.db
@@ -1045,6 +1121,9 @@ rubycoco/git
 
 ## `gold` _(1)_
 openblockchains/bitcon-books
+
+## `government` _(1)_
+factbook/factbook.json
 
 ## `graz` _(4)_
 austriacodes/awesome-austria · openbeer/at-austria · openfootball/austria · openmundi/austria.db
@@ -1097,8 +1176,8 @@ csvreader/csvhuman
 ## `hyperdata` _(2)_
 feedhtml/feedhtml.github.io · feedhtml/hyperdata
 
-## `hyperledger` _(3)_
-bitshilling/bitshilling · cryptocopycats/copycats · openblockchains/tulips
+## `hyperledger` _(2)_
+cryptocopycats/copycats · openblockchains/tulips
 
 ## `ico` _(1)_
 openblockchains/awesome-ico-truths
@@ -1148,8 +1227,8 @@ octobook/book-classics-theme · octobook/gitbook-to-octobook-sample
 ## `jigsaw` _(1)_
 staystatic/staystatic
 
-## `json` _(17)_
-bibtxt/bibtxt.github.io · cryptocopycats/kittyverse.json · csvreader/csvreader · datatxt/awseome-yaml · datatxt/datatxt.github.io · factbook/factbook.json · feedhtml/hyperdata · feedparser/awesome-feeds · feedparser/feedparser · feedtxt/feedtxt · feedtxt/feedtxt.github.io · json-next/awesome-json-next · json-next/json-next · json-next/json-next.github.io · openfootball/football.json · openfootball/world-cup.json · yukimotopress/smalldata
+## `json` _(18)_
+bibtxt/bibtxt.github.io · cryptocopycats/kitties · cryptocopycats/kittyverse · csvreader/csvreader · datatxt/awseome-yaml · datatxt/datatxt.github.io · factbook/factbook.json · feedhtml/hyperdata · feedparser/awesome-feeds · feedparser/feedparser · feedtxt/feedtxt · feedtxt/feedtxt.github.io · json-next/awesome-json-next · json-next/json-next · json-next/json-next.github.io · openfootball/football.json · openfootball/world-cup.json · yukimotopress/smalldata
 
 ## `json-extensions` _(1)_
 json-next/json-next
@@ -1193,14 +1272,11 @@ json-next/json-feed · json-next/json-next · json-next/json-next.github.io
 ## `juve` _(1)_
 openfootball/italy
 
-## `kai` _(1)_
-cryptocopycats/base32-alphabets
-
 ## `keynote` _(1)_
 slideshow-s9/slideshow
 
 ## `kittyverse` _(8)_
-cryptocopycats/awesome-cryptokitties · cryptocopycats/base32-alphabets · cryptocopycats/bitcat · cryptocopycats/copycats · cryptocopycats/kitties · cryptocopycats/kittyverse · cryptocopycats/kittyverse.json · cryptocopycats/programming-crypto-collectibles
+cryptocopycats/awesome-cryptokitties-bubble · cryptocopycats/cache.kitties.json · cryptocopycats/contracts · cryptocopycats/copycats · cryptocopycats/kitties · cryptocopycats/kittypedia · cryptocopycats/kittyverse · cryptocopycats/programming-cryptokitties
 
 ## `kramdown` _(5)_
 austriacodes/vienna.html · mundimark/awesome-kramdown · slidekit/talks-starter · slideshow-s9/slideshow · slideshow-templates/slideshow-bespoke.js
@@ -1244,11 +1320,14 @@ s6ruby/programming-crypto-contracts
 ## `major-league-soccer` _(1)_
 footballcsv/major-league-soccer
 
-## `mammad-kabiri` _(1)_
-bigkorupto/mammad-kabiri-uniqa
+## `mammad-kabiri` _(2)_
+bigkorupto/mammad-kabiri-uniqa · bigkorupto/sources
 
 ## `mancity` _(1)_
 openfootball/england
+
+## `mania` _(2)_
+cryptocopycats/awesome-cryptokitties-bubble · cryptopunksnotdead/awesome-cryptopunks-bubble
 
 ## `manuscripts` _(4)_
 austriacodes/austria.txt · octobook/book-2018-theme · octobook/book-classics-theme · octobook/gitbook-to-octobook-sample
@@ -1262,6 +1341,9 @@ austriacodes/vienna.html · feedparser/feedparser · feedtxt/feedtxt · feedtxt/
 ## `markup` _(3)_
 mundimark/awesome-kramdown · rubycoco/markdown · texti/texti.github.io
 
+## `marscats` _(1)_
+cryptocopycats/programming-mooncats
+
 ## `meetup` _(3)_
 austriacodes/vienna.html · viennacrypto/viennacrypto.github.io · viennarb/viennarb.github.io
 
@@ -1271,8 +1353,8 @@ austriacodes/awesome-austria · planetruby/conferences
 ## `memory` _(1)_
 playhtml/memory
 
-## `merkletree` _(4)_
-bitshilling/bitshilling · openblockchains/awesome-blockchains · openblockchains/crypto-books · rubycoco/blockchain
+## `merkletree` _(3)_
+openblockchains/awesome-blockchains · openblockchains/crypto-books · rubycoco/blockchain
 
 ## `metadata` _(3)_
 datatxt/awseome-yaml · datatxt/datatxt.github.io · json-next/awesome-json-next
@@ -1309,6 +1391,12 @@ rubycoco/monos
 
 ## `monos` _(1)_
 rubycoco/monos
+
+## `mooncatrescue` _(4)_
+cryptocopycats/awesome-mooncatrescue-bubble · cryptocopycats/mooncatrescue · cryptocopycats/mooncats · cryptocopycats/programming-mooncats
+
+## `mooncats` _(5)_
+cryptocopycats/awesome-mooncatrescue-bubble · cryptocopycats/contracts · cryptocopycats/mooncatrescue · cryptocopycats/mooncats · cryptocopycats/programming-mooncats
 
 ## `move` _(1)_
 openblockchains/awesome-diem
@@ -1349,6 +1437,9 @@ openblockchains/awesome-diem
 ## `numerics` _(1)_
 csvreader/csvreader
 
+## `oceania` _(1)_
+factbook/factbook.json
+
 ## `octobook` _(3)_
 octobook/book-2018-theme · octobook/book-classics-theme · octobook/gitbook-to-octobook-sample
 
@@ -1370,8 +1461,8 @@ austriacodes/austria.txt
 ## `open-publishing` _(1)_
 austriacodes/austria.txt
 
-## `opendata` _(37)_
-beerkit/beer.db · cryptocopycats/kitties · cryptocopycats/kittyverse.json · csvreader/csv11 · csvspecs/awesome-csv · datatxt/awseome-yaml · factbook/factbook · factbook/factbook.json · footballcsv/austria · footballcsv/cache.soccerverse · footballcsv/deutschland · footballcsv/england · footballcsv/espana · footballcsv/major-league-soccer · footballcsv/mexico · footballcsv/spec · json-next/awesome-json-next · json-next/json-next · json-next/json-next.github.io · openbeer/at-austria · openfootball/austria · openfootball/confed-cup · openfootball/deutschland · openfootball/england · openfootball/espana · openfootball/football.json · openfootball/italy · openfootball/world-cup · openfootball/world-cup.json · openmundi/austria.db · planetruby/gems · sportdb/sport.db · sportkit/football.js.starter · wikiscript/football.json · wikiscript/wikiscript · worlddb/world.db · yukimotopress/smalldata
+## `opendata` _(36)_
+beerkit/beer.db · cryptocopycats/kitties · csvreader/csv11 · csvspecs/awesome-csv · datatxt/awseome-yaml · factbook/factbook · factbook/factbook.json · footballcsv/austria · footballcsv/cache.soccerverse · footballcsv/deutschland · footballcsv/england · footballcsv/espana · footballcsv/major-league-soccer · footballcsv/mexico · footballcsv/spec · json-next/awesome-json-next · json-next/json-next · json-next/json-next.github.io · openbeer/at-austria · openfootball/austria · openfootball/confed-cup · openfootball/deutschland · openfootball/england · openfootball/espana · openfootball/football.json · openfootball/italy · openfootball/world-cup · openfootball/world-cup.json · openmundi/austria.db · planetruby/gems · sportdb/sport.db · sportkit/football.js.starter · wikiscript/football.json · wikiscript/wikiscript · worlddb/world.db · yukimotopress/smalldata
 
 ## `oracle` _(1)_
 rubycoco/blockchain
@@ -1385,8 +1476,8 @@ openblockchains/austrian-blockchain-whitepapers
 ## `pantos` _(1)_
 openblockchains/austrian-blockchain-whitepapers
 
-## `peer-to-peer` _(1)_
-bitshilling/bitshilling
+## `people` _(1)_
+factbook/factbook.json
 
 ## `pivo` _(1)_
 beerkit/beer.db
@@ -1412,8 +1503,8 @@ wikiscript/football.json
 ## `pluto` _(2)_
 feedreader/planet.rb · feedreader/pluto
 
-## `ponzi` _(3)_
-openblockchains/bitcoin-ponzi · openblockchains/crypto-quotes · s6ruby/programming-crypto-contracts
+## `ponzi` _(4)_
+openblockchains/bitcoin · openblockchains/bitcoin-ponzi · openblockchains/crypto-quotes · s6ruby/programming-crypto-contracts
 
 ## `ponzi-scheme` _(1)_
 s6ruby/programming-crypto-contracts
@@ -1448,11 +1539,11 @@ viennacrypto/viennacrypto.github.io
 ## `programming` _(1)_
 viennarb/viennarb.github.io
 
-## `proof-of-waste` _(5)_
-openblockchains/awesome-blockchains · openblockchains/bitcoin-ponzi · openblockchains/bitcon-books · openblockchains/crypto-books · openblockchains/crypto-quotes
+## `proof-of-waste` _(6)_
+openblockchains/awesome-blockchains · openblockchains/bitcoin · openblockchains/bitcoin-ponzi · openblockchains/bitcon-books · openblockchains/crypto-books · openblockchains/crypto-quotes
 
-## `proof-of-work` _(4)_
-openblockchains/awesome-blockchains · openblockchains/bitcoin-ponzi · openblockchains/crypto-books · rubycoco/blockchain
+## `proof-of-work` _(5)_
+openblockchains/awesome-blockchains · openblockchains/bitcoin · openblockchains/bitcoin-ponzi · openblockchains/crypto-books · rubycoco/blockchain
 
 ## `props` _(1)_
 rubycoco/core
@@ -1465,6 +1556,9 @@ viennacrypto/viennacrypto.github.io
 
 ## `publicdomain` _(6)_
 factbook/factbook.github.io · factbook/factbook.json · footballcsv/mexico · openbeer/at-austria · openfootball/football.json · openmundi/austria.db
+
+## `punkverse` _(5)_
+cryptopunksnotdead/awesome-cryptopunks-bubble · cryptopunksnotdead/cryptopunks · cryptopunksnotdead/cryptopunks-contracts · cryptopunksnotdead/programming-cryptopunks · cryptopunksnotdead/punks
 
 ## `puzzle` _(1)_
 s6ruby/programming-crypto-contracts
@@ -1508,6 +1602,9 @@ s6ruby/ruby-to-michelson
 ## `records` _(2)_
 csvreader/csv11 · csvspecs/awesome-csv
 
+## `religion` _(1)_
+factbook/factbook.json
+
 ## `revealjs` _(1)_
 slideshow-s9/slideshow
 
@@ -1535,8 +1632,8 @@ feedreader/pluto
 ## `rth` _(1)_
 openblockchains/austrian-blockchain-whitepapers
 
-## `ruby` _(29)_
-geraldb/wine.db.tools · beerkit/beer.db · factbook/factbook · planetruby/books · planetruby/changes · planetruby/conferences · planetruby/gems · quikstart/gem-starter-template · quikstart/gem-starter-template-hoe · quikstart/quik · quikstart/scripts · quikstart/sinatra-starter-template · rubycoco/activerecord · rubycoco/blockchain · rubycoco/core · rubycoco/datasets · rubycoco/events · rubycoco/flow · rubycoco/git · rubycoco/markdown · rubycoco/monos · rubycoco/more · rubycoco/text · rubycoco/webclient · rubycoco/webservice · s6ruby/universum-contracts · sportdb/football.db · sportdb/sport.db · viennarb/viennarb.github.io
+## `ruby` _(28)_
+beerkit/beer.db · factbook/factbook · planetruby/books · planetruby/changes · planetruby/conferences · planetruby/gems · quikstart/gem-starter-template · quikstart/gem-starter-template-hoe · quikstart/quik · quikstart/scripts · quikstart/sinatra-starter-template · rubycoco/activerecord · rubycoco/blockchain · rubycoco/core · rubycoco/datasets · rubycoco/events · rubycoco/flow · rubycoco/git · rubycoco/markdown · rubycoco/monos · rubycoco/more · rubycoco/text · rubycoco/webclient · rubycoco/webservice · s6ruby/universum-contracts · sportdb/football.db · sportdb/sport.db · viennarb/viennarb.github.io
 
 ## `ruby-conferences` _(1)_
 planetruby/conferences
@@ -1583,9 +1680,6 @@ openfootball/deutschland
 ## `schema` _(1)_
 csvspecs/awesome-csv
 
-## `schilling` _(1)_
-bitshilling/bitshilling
-
 ## `scripting` _(1)_
 viennarb/viennarb.github.io
 
@@ -1603,9 +1697,6 @@ openfootball/italy
 
 ## `sha256` _(2)_
 openblockchains/awesome-blockchains · rubycoco/blockchain
-
-## `shilling` _(1)_
-bitshilling/bitshilling
 
 ## `signatures` _(1)_
 viennacrypto/viennacrypto.github.io
@@ -1688,6 +1779,9 @@ mundimark/awesome-kramdown
 ## `structured-text` _(1)_
 rubycoco/markdown
 
+## `substrapunks` _(1)_
+cryptopunksnotdead/awesome-cryptopunks-bubble
+
 ## `tab` _(2)_
 csvreader/csvreader · csvspecs/awesome-csv
 
@@ -1766,14 +1860,14 @@ json-next/awesome-json-next
 ## `unicode` _(2)_
 feedtxt/feedtxt · feedtxt/feedtxt.github.io
 
-## `uniqa` _(1)_
-bigkorupto/mammad-kabiri-uniqa
+## `uniqa` _(2)_
+bigkorupto/mammad-kabiri-uniqa · bigkorupto/sources
 
 ## `united-states` _(1)_
 footballcsv/major-league-soccer
 
-## `universum` _(5)_
-openblockchains/crypto-books · s6ruby/programming-crypto-contracts · s6ruby/redpaper · s6ruby/universum · s6ruby/universum-contracts
+## `universum` _(6)_
+openblockchains/awesome-blockchains · openblockchains/crypto-books · s6ruby/programming-crypto-contracts · s6ruby/redpaper · s6ruby/universum · s6ruby/universum-contracts
 
 ## `usdc` _(1)_
 openblockchains/crypto-quotes
@@ -1808,6 +1902,9 @@ s6ruby/redpaper · s6ruby/universum-contracts
 ## `wales` _(2)_
 footballcsv/england · openfootball/england
 
+## `wck` _(2)_
+cryptocopycats/awesome-cryptokitties-bubble · cryptocopycats/contracts
+
 ## `webcomponents` _(2)_
 playhtml/memory · playhtml/tictactoe
 
@@ -1825,6 +1922,9 @@ staystatic/staystatic
 
 ## `western-conference` _(1)_
 footballcsv/major-league-soccer
+
+## `wg0` _(2)_
+cryptocopycats/awesome-cryptokitties-bubble · cryptocopycats/contracts
 
 ## `whatson` _(1)_
 rubycoco/events
@@ -1850,6 +1950,12 @@ wikiscript/wikiscript
 ## `wizard` _(2)_
 quikstart/quik · quikstart/scripts
 
+## `wmcr` _(1)_
+cryptocopycats/contracts
+
+## `wolfgang-kuechl` _(2)_
+bigkorupto/mammad-kabiri-uniqa · bigkorupto/sources
+
 ## `world` _(5)_
 factbook/factbook · factbook/factbook.github.io · factbook/factbook.json · rubycoco/datasets · worlddb/world.db
 
@@ -1864,6 +1970,12 @@ openfootball/world-cup · openfootball/world-cup.json · sportdb/footty · sport
 
 ## `worldstate` _(1)_
 s6ruby/universum
+
+## `wpunks` _(2)_
+cryptopunksnotdead/awesome-cryptopunks-bubble · cryptopunksnotdead/cryptopunks-contracts
+
+## `wvg0` _(2)_
+cryptocopycats/awesome-cryptokitties-bubble · cryptocopycats/contracts
 
 ## `xml` _(1)_
 yukimotopress/smalldata
