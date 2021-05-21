@@ -2,7 +2,7 @@ Auto-generated github (statistics) report;
 built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-reports).
 
 
-# Topics - 544 Repos @ 79 Orgs
+# Topics - 544 Repos @ 77 Orgs
 
 `10000` _(4)_
 `1637` _(1)_
@@ -10,7 +10,8 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `2018` _(1)_
 `2021` _(1)_
 `21-million` _(1)_
-`24x24` _(4)_
+`24x24` _(10)_
+`32x32` _(3)_
 `3x3` _(1)_
 `8bit` _(1)_
 `activerecord` _(2)_
@@ -106,18 +107,18 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `cryptoart` _(4)_
 `cryptobeanies` _(1)_
 `cryptobooks` _(2)_
-`cryptocats` _(3)_
+`cryptocats` _(5)_
 `cryptocollectibles` _(10)_
 `cryptocopycats` _(6)_
 `cryptohash` _(3)_
 `cryptokitties` _(8)_
 `cryptopets` _(1)_
 `cryptopunk` _(5)_
-`cryptopunks` _(5)_
+`cryptopunks` _(8)_
 `cryptopuppies` _(1)_
 `cryptoquotes` _(2)_
 `cryptos` _(3)_
-`cryptotulips` _(12)_
+`cryptotulips` _(13)_
 `cryptozombies` _(3)_
 `cson` _(1)_
 `css` _(2)_
@@ -153,7 +154,6 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `dortmund` _(1)_
 `eastern-conference` _(1)_
 `economy` _(1)_
-`elm` _(1)_
 `england` _(2)_
 `english-premier-league` _(1)_
 `epl` _(1)_
@@ -239,8 +239,6 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `italia` _(1)_
 `italy` _(1)_
 `ivy` _(1)_
-`javascript5` _(1)_
-`javascript6` _(2)_
 `jekyll` _(12)_
 `jekyll-theme` _(3)_
 `jekyll-themes` _(2)_
@@ -287,7 +285,6 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `marscats` _(1)_
 `meetup` _(3)_
 `meetups` _(2)_
-`memory` _(1)_
 `merkletree` _(3)_
 `metadata` _(3)_
 `metalsmith` _(1)_
@@ -301,8 +298,9 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `monorepo` _(1)_
 `monorepos` _(1)_
 `monos` _(1)_
-`mooncatrescue` _(4)_
-`mooncats` _(5)_
+`mooncat` _(1)_
+`mooncatrescue` _(6)_
+`mooncats` _(7)_
 `move` _(1)_
 `multiline` _(1)_
 `namedvalues` _(1)_
@@ -331,6 +329,8 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `pantos` _(1)_
 `people` _(1)_
 `pivo` _(1)_
+`pixelart` _(11)_
+`pixels` _(1)_
 `places` _(2)_
 `plaintext` _(1)_
 `planet` _(3)_
@@ -356,6 +356,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `provinces` _(1)_
 `public-key` _(1)_
 `publicdomain` _(6)_
+`punks` _(1)_
 `punkverse` _(5)_
 `puzzle` _(1)_
 `pyramid` _(1)_
@@ -367,7 +368,6 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `rails` _(1)_
 `rake` _(1)_
 `rapid` _(1)_
-`react` _(2)_
 `realmadrid` _(1)_
 `reasonml` _(1)_
 `records` _(2)_
@@ -442,8 +442,6 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `texti` _(1)_
 `tezos` _(1)_
 `theme` _(3)_
-`tic-tac-toe` _(1)_
-`tictactoe` _(1)_
 `timtowtdi` _(1)_
 `tmtowtdi` _(1)_
 `to-sqlite` _(1)_
@@ -472,7 +470,6 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `vyper` _(2)_
 `wales` _(2)_
 `wck` _(2)_
-`webcomponents` _(2)_
 `webfeed` _(1)_
 `webfeeds` _(2)_
 `webgen` _(1)_
@@ -495,6 +492,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 `worldcup2018` _(4)_
 `worldstate` _(1)_
 `wpunks` _(2)_
+`wpunks1` _(1)_
 `wvg0` _(2)_
 `xml` _(1)_
 `xrp` _(1)_
@@ -519,8 +517,11 @@ cryptopunksnotdead/awesome-cryptopunks-bubble
 ## `21-million` _(1)_
 openblockchains/bitcon-books
 
-## `24x24` _(4)_
-cryptopunksnotdead/awesome-cryptopunks-bubble · cryptopunksnotdead/cryptopunks · cryptopunksnotdead/programming-cryptopunks · cryptopunksnotdead/punks
+## `24x24` _(10)_
+cryptocopycats/cryptocopycats.github.io · cryptocopycats/design.mooncats · cryptopunksnotdead/awesome-cryptopunks-bubble · cryptopunksnotdead/cryptopunks · cryptopunksnotdead/cryptopunksnotdead.github.io · cryptopunksnotdead/design.punks · cryptopunksnotdead/programming-cryptopunks · cryptopunksnotdead/punks · planetruby/gems · rubycoco/pixel
+
+## `32x32` _(3)_
+cryptocopycats/cryptocopycats.github.io · cryptopunksnotdead/cryptopunksnotdead.github.io · rubycoco/pixel
 
 ## `3x3` _(1)_
 planetruby/changes
@@ -807,8 +808,8 @@ cryptopunksnotdead/punks
 ## `cryptobooks` _(2)_
 openblockchains/bitcon-books · openblockchains/crypto-books
 
-## `cryptocats` _(3)_
-cryptocopycats/awesome-mooncatrescue-bubble · cryptocopycats/mooncatrescue · cryptocopycats/mooncats
+## `cryptocats` _(5)_
+cryptocopycats/awesome-mooncatrescue-bubble · cryptocopycats/cryptocopycats.github.io · cryptocopycats/market.mooncatrescue · cryptocopycats/mooncatrescue · cryptocopycats/mooncats
 
 ## `cryptocollectibles` _(10)_
 cryptocopycats/awesome-cryptocollectibles · cryptocopycats/awesome-cryptokitties-bubble · cryptocopycats/contracts · cryptocopycats/copycats · cryptocopycats/kitties · cryptocopycats/kittypedia · cryptocopycats/kittyverse · cryptocopycats/programming-cryptokitties · cryptopunksnotdead/awesome-cryptopunks-bubble · cryptopunksnotdead/punks
@@ -826,10 +827,10 @@ cryptocopycats/awesome-cryptokitties-bubble · cryptocopycats/cache.kitties.json
 cryptocopycats/awesome-cryptocollectibles
 
 ## `cryptopunk` _(5)_
-cryptopunksnotdead/awesome-cryptopunks-bubble · cryptopunksnotdead/cryptopunks · cryptopunksnotdead/cryptopunks-contracts · cryptopunksnotdead/programming-cryptopunks · cryptopunksnotdead/punks
+cryptopunksnotdead/awesome-cryptopunks-bubble · cryptopunksnotdead/contracts · cryptopunksnotdead/cryptopunks · cryptopunksnotdead/programming-cryptopunks · cryptopunksnotdead/punks
 
-## `cryptopunks` _(5)_
-cryptopunksnotdead/awesome-cryptopunks-bubble · cryptopunksnotdead/cryptopunks · cryptopunksnotdead/cryptopunks-contracts · cryptopunksnotdead/programming-cryptopunks · cryptopunksnotdead/punks
+## `cryptopunks` _(8)_
+cryptopunksnotdead/awesome-cryptopunks-bubble · cryptopunksnotdead/contracts · cryptopunksnotdead/cryptopunks · cryptopunksnotdead/cryptopunksnotdead.github.io · cryptopunksnotdead/design.punks · cryptopunksnotdead/market.punks · cryptopunksnotdead/programming-cryptopunks · cryptopunksnotdead/punks
 
 ## `cryptopuppies` _(1)_
 cryptocopycats/awesome-cryptocollectibles
@@ -840,8 +841,8 @@ openblockchains/crypto-quotes · rubycoco/blockchain
 ## `cryptos` _(3)_
 openblockchains/crypto-books · planetruby/gems · rubycoco/blockchain
 
-## `cryptotulips` _(12)_
-cryptocopycats/awesome-cryptocollectibles · cryptocopycats/awesome-cryptokitties-bubble · cryptocopycats/awesome-mooncatrescue-bubble · cryptocopycats/kitties · cryptocopycats/mooncatrescue · cryptocopycats/mooncats · cryptocopycats/programming-cryptokitties · cryptopunksnotdead/awesome-cryptopunks-bubble · cryptopunksnotdead/cryptopunks · cryptopunksnotdead/programming-cryptopunks · cryptopunksnotdead/punks · openblockchains/tulips
+## `cryptotulips` _(13)_
+cryptocopycats/awesome-cryptocollectibles · cryptocopycats/awesome-cryptokitties-bubble · cryptocopycats/awesome-mooncatrescue-bubble · cryptocopycats/kitties · cryptocopycats/market.mooncatrescue · cryptocopycats/mooncatrescue · cryptocopycats/mooncats · cryptocopycats/programming-cryptokitties · cryptopunksnotdead/awesome-cryptopunks-bubble · cryptopunksnotdead/cryptopunks · cryptopunksnotdead/programming-cryptopunks · cryptopunksnotdead/punks · openblockchains/tulips
 
 ## `cryptozombies` _(3)_
 cryptopunksnotdead/awesome-cryptopunks-bubble · cryptopunksnotdead/programming-cryptopunks · cryptopunksnotdead/punks
@@ -947,9 +948,6 @@ footballcsv/major-league-soccer
 
 ## `economy` _(1)_
 factbook/factbook.json
-
-## `elm` _(1)_
-playhtml/memory
 
 ## `england` _(2)_
 footballcsv/england · openfootball/england
@@ -1206,12 +1204,6 @@ openfootball/italy
 ## `ivy` _(1)_
 openblockchains/programming-bitcoin-script
 
-## `javascript5` _(1)_
-playhtml/memory
-
-## `javascript6` _(2)_
-playhtml/memory · playhtml/tictactoe
-
 ## `jekyll` _(12)_
 austriacodes/vienna.html · drjekyllthemes/themes · feedreader/planet.rb · henrythemes/hello-pages-theme · henrythemes/hello-pages-theme-v2 · henrythemes/jekyll-talks-theme · octobook/book-2018-theme · octobook/book-classics-theme · octobook/gitbook-to-octobook-sample · quikstart/jekyll-starter-theme · slidekit/talks-starter · staystatic/staystatic
 
@@ -1350,9 +1342,6 @@ austriacodes/vienna.html · viennacrypto/viennacrypto.github.io · viennarb/vien
 ## `meetups` _(2)_
 austriacodes/awesome-austria · planetruby/conferences
 
-## `memory` _(1)_
-playhtml/memory
-
 ## `merkletree` _(3)_
 openblockchains/awesome-blockchains · openblockchains/crypto-books · rubycoco/blockchain
 
@@ -1392,11 +1381,14 @@ rubycoco/monos
 ## `monos` _(1)_
 rubycoco/monos
 
-## `mooncatrescue` _(4)_
-cryptocopycats/awesome-mooncatrescue-bubble · cryptocopycats/mooncatrescue · cryptocopycats/mooncats · cryptocopycats/programming-mooncats
+## `mooncat` _(1)_
+cryptocopycats/market.mooncatrescue
 
-## `mooncats` _(5)_
-cryptocopycats/awesome-mooncatrescue-bubble · cryptocopycats/contracts · cryptocopycats/mooncatrescue · cryptocopycats/mooncats · cryptocopycats/programming-mooncats
+## `mooncatrescue` _(6)_
+cryptocopycats/awesome-mooncatrescue-bubble · cryptocopycats/design.mooncats · cryptocopycats/market.mooncatrescue · cryptocopycats/mooncatrescue · cryptocopycats/mooncats · cryptocopycats/programming-mooncats
+
+## `mooncats` _(7)_
+cryptocopycats/awesome-mooncatrescue-bubble · cryptocopycats/contracts · cryptocopycats/cryptocopycats.github.io · cryptocopycats/market.mooncatrescue · cryptocopycats/mooncatrescue · cryptocopycats/mooncats · cryptocopycats/programming-mooncats
 
 ## `move` _(1)_
 openblockchains/awesome-diem
@@ -1482,6 +1474,12 @@ factbook/factbook.json
 ## `pivo` _(1)_
 beerkit/beer.db
 
+## `pixelart` _(11)_
+cryptocopycats/awesome-mooncatrescue-bubble · cryptocopycats/cryptocopycats.github.io · cryptocopycats/design.mooncats · cryptocopycats/mooncats · cryptocopycats/programming-mooncats · cryptopunksnotdead/awesome-cryptopunks-bubble · cryptopunksnotdead/cryptopunks · cryptopunksnotdead/cryptopunksnotdead.github.io · cryptopunksnotdead/design.punks · cryptopunksnotdead/programming-cryptopunks · rubycoco/pixel
+
+## `pixels` _(1)_
+planetruby/gems
+
 ## `places` _(2)_
 openmundi/austria.db · worlddb/world.db
 
@@ -1557,8 +1555,11 @@ viennacrypto/viennacrypto.github.io
 ## `publicdomain` _(6)_
 factbook/factbook.github.io · factbook/factbook.json · footballcsv/mexico · openbeer/at-austria · openfootball/football.json · openmundi/austria.db
 
+## `punks` _(1)_
+cryptopunksnotdead/market.punks
+
 ## `punkverse` _(5)_
-cryptopunksnotdead/awesome-cryptopunks-bubble · cryptopunksnotdead/cryptopunks · cryptopunksnotdead/cryptopunks-contracts · cryptopunksnotdead/programming-cryptopunks · cryptopunksnotdead/punks
+cryptopunksnotdead/awesome-cryptopunks-bubble · cryptopunksnotdead/contracts · cryptopunksnotdead/cryptopunks · cryptopunksnotdead/programming-cryptopunks · cryptopunksnotdead/punks
 
 ## `puzzle` _(1)_
 s6ruby/programming-crypto-contracts
@@ -1589,9 +1590,6 @@ quikstart/gem-starter-template-hoe
 
 ## `rapid` _(1)_
 openfootball/austria
-
-## `react` _(2)_
-playhtml/memory · playhtml/tictactoe
 
 ## `realmadrid` _(1)_
 openfootball/espana
@@ -1815,12 +1813,6 @@ s6ruby/ruby-to-michelson
 ## `theme` _(3)_
 henrythemes/hello-pages-theme · henrythemes/hello-pages-theme-v2 · henrythemes/jekyll-talks-theme
 
-## `tic-tac-toe` _(1)_
-playhtml/tictactoe
-
-## `tictactoe` _(1)_
-playhtml/tictactoe
-
 ## `timtowtdi` _(1)_
 yukimotopress/fizzbuzz
 
@@ -1905,9 +1897,6 @@ footballcsv/england · openfootball/england
 ## `wck` _(2)_
 cryptocopycats/awesome-cryptokitties-bubble · cryptocopycats/contracts
 
-## `webcomponents` _(2)_
-playhtml/memory · playhtml/tictactoe
-
 ## `webfeed` _(1)_
 feedparser/feedparser
 
@@ -1972,7 +1961,10 @@ openfootball/world-cup · openfootball/world-cup.json · sportdb/footty · sport
 s6ruby/universum
 
 ## `wpunks` _(2)_
-cryptopunksnotdead/awesome-cryptopunks-bubble · cryptopunksnotdead/cryptopunks-contracts
+cryptopunksnotdead/awesome-cryptopunks-bubble · cryptopunksnotdead/contracts
+
+## `wpunks1` _(1)_
+cryptopunksnotdead/contracts
 
 ## `wvg0` _(2)_
 cryptocopycats/awesome-cryptokitties-bubble · cryptocopycats/contracts
