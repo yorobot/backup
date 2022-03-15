@@ -10,3 +10,7 @@ test.txt
 ### skip/ignore cache
 cache/
 
+
+################
+# ignore downloaded gems for local installs
+*.gem

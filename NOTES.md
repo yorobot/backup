@@ -8,6 +8,35 @@
        - (primary) language is ruby :-) - note: might include more bundled html/js!!!
 
 
+## fix - fix - fix - check - check
+
+- [ ]   - check if any trouble with ".github" repo name (used for org profiles / settings etc.)
+
+
+check errors - add a retry on HTTP 500 - why? why not?
+
+```
+2022-03-15T14:31:51.1132986Z update >cryptopunksnotdead/awesome-cryptopunks-bubble< [3/4] - fetching repo traffic popular paths...
+2022-03-15T14:31:51.1133685Z GET /repos/cryptopunksnotdead/awesome-cryptopunks-bubble/traffic/popular/paths
+2022-03-15T14:31:51.1134288Z   using (personal access) token - starting with: 81**********
+2022-03-15T14:31:51.1134981Z GET https://api.github.com/repos/cryptopunksnotdead/awesome-cryptopunks-bubble/traffic/popular/paths...
+2022-03-15T14:31:51.1135505Z !! HTTP ERROR: 500 Internal Server Error:
+2022-03-15T14:31:51.1135988Z #<Net::HTTPInternalServerError 500 Internal Server Error readbody=true>
+2022-03-15T14:31:51.1148154Z ##[error]Process completed with exit code 1.
+```
+
+
+```
+2022-03-15T14:58:42.9710094Z update >book-templates/football< [4/4] - fetching repo traffic popular referrers...
+2022-03-15T14:58:42.9710842Z GET /repos/book-templates/football/traffic/popular/referrers
+2022-03-15T14:58:42.9711546Z   using (personal access) token - starting with: 81**********
+2022-03-15T14:58:42.9712352Z GET https://api.github.com/repos/book-templates/football/traffic/popular/referrers...
+2022-03-15T14:58:42.9712963Z !! HTTP ERROR: 403 Forbidden:
+2022-03-15T14:58:42.9713472Z #<Net::HTTPForbidden 403 Forbidden readbody=true>
+2022-03-15T14:58:42.9729713Z ##[error]Process completed with exit code 1.
+```
+
+
 ## fix - fix -fix
 
 - [ ] retry on 502 bad gateway error? - print/dump error details from html body
