@@ -6,7 +6,7 @@ require 'gitti/backup/base'
 
 
 
-backup = Gitti::GitBackup.new( '~/backup', daily: true )
+backup = Gitti::GitBackup.new( '/backup', daily: false )
 
 backup.backup( Gitti::GitRepoSet.read( './config/repos.yml' ))
 
