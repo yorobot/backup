@@ -2,20 +2,30 @@ Auto-generated github (statistics) report;
 built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-reports).
 
 
-# Catalog - 545 Repos @ 76 Orgs
+# Catalog - 542 Repos @ 72 Orgs
 
-### geraldb _(4)_
+### geraldb _(7)_
 
-**geraldb** ★2 (24 kb)  <br>
+**geraldb** ★3 (32 kb)  <br>
 _Hello_
 
-**geraldb.github.io** ★2 (521 kb)  <br>
-_Gerald Bauer's Site @ GitHub_
+**geraldb.github.io** ★3 (787 kb)  <br>
+_Gerald Bauer's Site @ GitHub_  <br>
+`24px` · `artbase` · `opendata` · `pixelart` · `punkverse`
+
+**help** ★1 (20 kb)  <br>
+_help & support for Gerald Bauer's open source / data / (pixel) art work_
+
+**mailarchive** ★1 (11370 kb)  <br>
+_mail archive_
+
+**reddit** ★1 (28 kb)  <br>
+_Reddit Archive (& Cache)_
 
 **sandbox** ★2 (2494 kb)  <br>
 _Misc. Sources, Scripts, Templates and More_
 
-**talks** ★212 (16242 kb)  <br>
+**talks** ★214 (16295 kb)  <br>
 _talks, talks, talks  (sources in Markdown)_
 
 
@@ -28,21 +38,21 @@ _Austria.TXT - Open Access / Open Publishing / Open Books Meetup in Vienna • W
 **austriacodes.github.io** ★2 (7 kb)  <br>
 _Austria Codes Website_
 
-**awesome-austria** ★15 (66 kb)  <br>
+**awesome-austria** ★16 (66 kb)  <br>
 _A collection of awesome events (meetups, conferences, camps, etc.) from around Austria • Österreich - What's Upcoming in 2018? _  <br>
 `awesome` · `vienna` · `wien` · `austria` · `salzburg` · `linz` · `graz` · `meetups` · `conferences`
 
 **showcase** ★1 (656 kb)  <br>
 _Learn by Example - Static Website Compiler Showcase - Jekyll • Hugo • Gatsby and Friends_
 
-**vienna.html** ★10 (1541 kb)  <br>
+**vienna.html** ★11 (1541 kb)  <br>
 _Vienna.html Website_  <br>
 `vienna` · `austria` · `wien` · `meetup` · `jekyll` · `hugo` · `middleman` · `gatsby` · `markdown` · `kramdown` · `html` · `css` · `pages`
 
 
 ### beerbook _(3)_
 
-**beerbook.github.io** ★7 (954 kb)  <br>
+**beerbook.github.io** ★8 (954 kb)  <br>
 _The Free World Beer Book_
 
 **calendar** ★1 (14 kb)  <br>
@@ -52,34 +62,10 @@ _calendar for beerfests from around the world _
 _Free open public domain beer, brewery n brewpub maps_
 
 
-### beercsv _(7)_
+### beerkit _(10)_
 
-**be-belgium** ★3 (212 kb)  <br>
-_beer, brewery n brewpub data for Belgium_
-
-**build** ★1 (308 kb)  <br>
-_Build scripts_
-
-**ca-canada** ★1 (148 kb)  <br>
-_  beer, brewery n brewpub data for Canada_
-
-**de-deutschland** ★1 (144 kb)  <br>
-_beer, brewery n brewpub data for Deutschland (Germany)_
-
-**statistics** ★6 (268 kb)  <br>
-_beer statistics (production in hl, consumption per capita, etc.)_
-
-**us-united-states** ★5 (392 kb)  <br>
-_ Beer, brewery n brewpub data for the United States_
-
-**world** ★2 (172 kb)  <br>
+**beer.csv** ★2 (238 kb)  <br>
 _beer, brewery n brewpub data_
-
-
-### beerkit _(9)_
-
-**beer.api.js** ★1 (140 kb)  <br>
-_Beer 'n' brewery service in JavaScript using the beer.db HTTP JSON(P) API_
 
 **beer.db** ★36 (260 kb)  <br>
 _beerdb gems - open beer database (beer.db) command line tool and libraries _  <br>
@@ -91,8 +77,11 @@ _beer.db web app - open beer database (beer.db) web admin tool in ruby on rails 
 **beer.db.day** ★1 (186 kb)  <br>
 _beer.db web app -  beer of the day, brewery of the day, breweries a-z, breweries by location_
 
-**beer.db.mobile** ★1 (400 kb)  <br>
-_mobile beer app using the beer.db HTTP JSON API_
+**beer.db.labels** ★1 (240 kb)  <br>
+_beer labels_
+
+**beer.db.labels.ruby** ★1 (840 kb)  <br>
+_beerdb-labels gem - beer labels (24x24, 32x32, 48x48, 64x64) bundled for reuse w/ asset pipeline_
 
 **beer.db.service** ★1 (5 kb)  <br>
 _beer.db HTTP JSON API (web service) scripts_
@@ -100,32 +89,23 @@ _beer.db HTTP JSON API (web service) scripts_
 **beer.db.starter** ★2 (16 kb)  <br>
 _beerdb web service starter sample - build your own HTTP JSON API using the beer.db_
 
-**beer.js** ★2 (370 kb)  <br>
+**beer.js** ★2 (486 kb)  <br>
 _Beer 'n' brewery widgets in JavaScript using the beer.db HTTP JSON(P) API_
 
 **beerbook** ★1 (220 kb)  <br>
 _beerbook web app - open beer database (beer.db) web app in ruby on rails (version 3.2 and up)_
 
 
-### beerlabels _(2)_
-
-**beer.db.labels** ★1 (240 kb)  <br>
-_beer labels_
-
-**beer.db.labels.ruby** ★1 (840 kb)  <br>
-_beerdb-labels gem - beer labels (24x24, 32x32, 48x48, 64x64) bundled for reuse w/ asset pipeline_
-
-
 ### bibtxt _(1)_
 
-**bibtxt.github.io** ★3 (3 kb)  <br>
+**bibtxt.github.io** ★4 (3 kb)  <br>
 _Bibliographies Website_  <br>
 `bibtxt` · `bibtex` · `citeproc` · `cite` · `txt` · `json` · `books`
 
 
 ### bigkorupto _(3)_
 
-**awesome-nocode** ★31 (367 kb)  <br>
+**awesome-nocode** ★37 (367 kb)  <br>
 _A collection about awesome no code - Why code? Let's go shopping! Let's buy programs & processes & agile methodologies. All about the Chief Digital Officer's (CDO) clicky-clicky-clicky dream future. No code. No text. No numbers. Goodbye, code monkeys! Hello, business architects!_  <br>
 `nocode` · `notext` · `nonumbers` · `business-architect` · `digital-transformation` · `chief-digital-officer` · `digital-future`
 
@@ -133,7 +113,7 @@ _A collection about awesome no code - Why code? Let's go shopping! Let's buy pro
 _The Strange Case of Mammad Kabiri @ Uniqa Software Service_  <br>
 `mammad-kabiri` · `uniqa` · `austria` · `georg-gfrerer` · `wolfgang-kuechl`
 
-**sources** ★11 (175 kb)  <br>
+**sources** ★12 (12207 kb)  <br>
 _source and notes in German about the strange case of Mammad Kabiri @ Uniqa _  <br>
 `uniqa` · `mammad-kabiri` · `wolfgang-kuechl` · `austria`
 
@@ -143,7 +123,7 @@ _source and notes in German about the strange case of Mammad Kabiri @ Uniqa _  <
 **bitcoin-maximalist** ★6 (1166 kb)  <br>
 _Best of Bitcoin Maximalist - Scammers, Morons, Clowns, Shills & BagHODLers - Inside The New New Crypto Ponzi Economics (Book Edition) by Trolly McTrollface, et al_
 
-**bitcoin-whitepaper** ★2 (107 kb)  <br>
+**bitcoin-whitepaper** ★4 (107 kb)  <br>
 _Bitcoin White Paper - A Peer-to-Peer Electronic Cash System by Satoshi Nakamoto (Book Edition)_
 
 **bitsblocks.github.io** ★1 (4080 kb)  <br>
@@ -164,10 +144,10 @@ _Mastering Ethereum - Building Blockchain Service Contracts and Decentralized Ap
 **ethereum-whitepaper** ★3 (334 kb)  <br>
 _Ethereum White Paper - A Next-Generation Blockchain Service Contract and Decentralized Application Platform (Book Edition) by Vitalik Buterin et al_
 
-**get-rich-quick-bible** ★17 (2700 kb)  <br>
+**get-rich-quick-bible** ★16 (2700 kb)  <br>
 _Get Rich Quick "Business Blockchain" Bible - The Secrets of Free Easy Money - From Zero to Twenty Million in Three Weeks - 500 000+% Return on Investment (ROI) - Hot Air Token Sales - HODL! HODL! HODL! - To the Moon :chart_with_upwards_trend::chart_with_upwards_trend::chart_with_upwards_trend: - To the Beach (Book Edition) by Gerald Bauer et al_
 
-**islandcoin-whitepaper** ★1 (238 kb)  <br>
+**islandcoin-whitepaper** ★2 (238 kb)  <br>
 _IslandCoin White Paper - A Pen and Paper Cash System - How to Run a Blockchain on a Deserted Island by Tal Kol (Book Edition)_
 
 **mastercoin-whitepaper** ★1 (181 kb)  <br>
@@ -191,37 +171,37 @@ _World Fact Book Template_
 
 ### bookdesigns _(4)_
 
-**book-epsilon** ★6 (128 kb)  <br>
+**book-epsilon** ★8 (128 kb)  <br>
 _Epsilon (Franklin) Book Theme by Bryan Braun_
 
-**book-git** ★14 (67 kb)  <br>
+**book-git** ★15 (67 kb)  <br>
 _Git Book Theme by Mathieu David_
 
 **book-hamilton** ★4 (215 kb)  <br>
 _Hamilton (Franklin) Book Theme by Bryan Braun_
 
-**book-rust** ★7 (67 kb)  <br>
+**book-rust** ★8 (67 kb)  <br>
 _Rust Book Theme by Steve Klabnik_
 
 
 ### chooseaconduct _(1)_
 
-**chooseaconduct.github.io** ★3 (70 kb)  <br>
+**chooseaconduct.github.io** ★3 (77 kb)  <br>
 _Choose-A-Conduct Website_  <br>
 `cancelculture` · `powerabuse` · `tolerance` · `coc` · `codeofconduct`
 
 
 ### cryptocopycats _(17)_
 
-**awesome-cryptocollectibles** ★37 (706 kb)  <br>
+**awesome-cryptocollectibles** ★42 (706 kb)  <br>
 _A collection about Awesome Crypto Collectibles (& Assets) - Yes, Non Fungible Tokens (NFTs) - Yes, Unique Bits & Bytes on the Blockchain - Buy! Sell! Hodl!_  <br>
 `cryptocollectibles` · `cryptopets` · `cryptopuppies` · `cryptotulips` · `awesome` · `cryptocopycats` · `blockchain` · `erc721`
 
-**awesome-cryptokitties-bubble** ★527 (5085 kb)  <br>
+**awesome-cryptokitties-bubble** ★523 (5085 kb)  <br>
 _Awesome CryptoKitties Bubble (Anno 2017) - Yes, Cute Little Cartoon Cats on the Blockchain!  - Digital collectibles secured on a distributed public database w/ crypto hashes.   Learn by Example from the Real World - Buy! Sell! Hodl! Sire!_  <br>
 `cryptokitties` · `blockchain` · `cryptotulips` · `erc721` · `cryptocollectibles` · `kittyverse` · `bubble` · `mania` · `2017` · `wck` · `wg0` · `wvg0`
 
-**awesome-mooncatrescue-bubble** ★12 (8830 kb)  <br>
+**awesome-mooncatrescue-bubble** ★13 (8830 kb)  <br>
 _Awesome MoonCatRescue Bubble (Anno 2021) - 25,600 MoonCats on the Blockchain  - World's 1st On-Chain (Verified) Generative Crypto Art - An Insanely Cute Operation_  <br>
 `mooncats` · `mooncatrescue` · `cryptotulips` · `cryptocats` · `cryptoart` · `8bit` · `cats` · `pixelart`
 
@@ -229,7 +209,7 @@ _Awesome MoonCatRescue Bubble (Anno 2021) - 25,600 MoonCats on the Blockchain  -
 _cache.kitties.json - CryptoKitties (Meta) Data in JSON_  <br>
 `cryptokitties` · `kittyverse`
 
-**contracts** ★14 (272 kb)  <br>
+**contracts** ★20 (272 kb)  <br>
 _Inside the CryptoKitties, MoonCats & Friends Blockchain Contracts / Services incl.  Wrapped CryptoKitties (WCK, WG0, WVG0), Wrapped MoonCatsRescue (WMCR)_  <br>
 `copycats` · `cryptokitties` · `cryptocollectibles` · `blockchain` · `kittyverse` · `wck` · `ethereum` · `wg0` · `wvg0` · `mooncats` · `wmcr`
 
@@ -241,11 +221,11 @@ _copycats command line tool (and core library) - crypto cats / kitties collectib
 _website source (incl. cat pixel drawing tool)_  <br>
 `24x24` · `32x32` · `cryptocats` · `mooncats` · `pixelart`
 
-**design.mooncats** ★7 (271 kb)  <br>
+**design.mooncats** ★6 (271 kb)  <br>
 _MoonCat Design Series - Original MoonCatRescue Series (~24×24) - 128 Designs And More_  <br>
 `mooncatrescue` · `pixelart` · `24x24`
 
-**kitties** ★9 (27043 kb)  <br>
+**kitties** ★12 (27043 kb)  <br>
 _(crypto) kitties on the blockchain - incl. id, gen(eration), matron+sire ids, birthdate, 48 (12x4) genes in kai (base32) notation, ..._  <br>
 `cryptokitties` · `cryptocollectibles` · `cryptocopycats` · `blockchain` · `copycats` · `opendata` · `kittyverse` · `csv` · `json` · `cattributes` · `cryptotulips`
 
@@ -253,7 +233,7 @@ _(crypto) kitties on the blockchain - incl. id, gen(eration), matron+sire ids, b
 _Kittypedia - CryptoKitties Encyclopedia ++ All About Rarity & Popularity Statistics, Traits & Cattributes, Fancy (Exclusive, Special Edition) Timelines, & More_  <br>
 `cryptokitties` · `kittyverse` · `copycats` · `cryptocopycats` · `cryptocollectibles`
 
-**kittyverse** ★18 (515 kb)  <br>
+**kittyverse** ★19 (515 kb)  <br>
 _kittyverse libraries & scripts - helper classes for cattributes, trait types, traits, genes, genomes and more for cryptokitties and copycats_  <br>
 `kittyverse` · `cryptokitties` · `cryptocopycats` · `cryptocollectibles` · `base32` · `blockchain` · `copycats` · `cattributes` · `json` · `api`
 
@@ -268,97 +248,98 @@ _Media resources (e.g. images etc.)_
 _MoonCatRescue on the Blockchain - 25 440 MoonCats by ID with Design, Pose, Facing, Face, Fur, Color, Mint, Timestamp, Block, ..._  <br>
 `mooncats` · `cryptocats` · `ethereum` · `cryptotulips` · `copycats` · `blockchain` · `csv` · `mooncatrescue`
 
-**mooncats** ★12 (706 kb)  <br>
+**mooncats** ★14 (706 kb)  <br>
 _mooncats libraries, tools & scripts - mint your own mooncat  pixel art images off chain using any of the 128 True Official Genuine Mooncat™ md5-verified original designs; incl. 2x/4x/8x zoom for bigger sizes and much more_  <br>
 `mooncats` · `mooncatrescue` · `cryptocats` · `cryptotulips` · `cryptoart` · `pixelart`
 
-**programming-cryptokitties** ★70 (404 kb)  <br>
+**programming-cryptokitties** ★75 (404 kb)  <br>
 _Crypto Collectibles Series. Programming CryptoKitties & Copycats Step-by-Step Book / Guide. Inside Unique Bits & Bytes on the Blockchain..._  <br>
 `kittyverse` · `cryptocollectibles` · `cryptokitties` · `copycats` · `base32` · `blockchain` · `cryptocopycats` · `cryptotulips`
 
-**programming-mooncats** ★17 (508 kb)  <br>
+**programming-mooncats** ★18 (508 kb)  <br>
 _Crypto Collectibles Series. Programming MoonCats & MarsCats Step-by-Step Book / Guide. Inside Unique Pixel Art on the Blockchain..._  <br>
 `mooncatrescue` · `mooncats` · `marscats` · `pixelart`
 
 
 ### cryptopunksnotdead _(21)_
 
-**.github** ★1 (22 kb)  <br>
-_GitHub Org page for (Crypto) Punk's Not Dead_
-
-**awesome-24px** ★25 (18402 kb)  <br>
+**awesome-24px** ★30 (19543 kb)  <br>
 _Awesome 24px (and 28px) Downloads - Free Pixel Art Collections in the 24x24 (and 28x28) Format - Punks, Apes, Cats, Dogs, Rocks, And More_  <br>
 `24x24` · `24px` · `pixelart` · `cryptopunks` · `mooncats` · `punkrocks` · `punkverse` · `cryptotulips` · `coolcats` · `dodge` · `28x28` · `28px` · `artbase`
 
-**awesome-cryptopunks-bubble** ★117 (6405 kb)  <br>
+**awesome-cryptopunks-bubble** ★121 (5940 kb)  <br>
 _Awesome Matt & John's® Punks Bubble (Anno 2021) - Modern 24x24 Pixel Crypto Art on the Blockchain since 2017 - 10 000 Unique Collectible Characters Generated Algorithmically ++ Bonus: Inside the Matt & John's® CryptoPunksMarket Contract Service And More_  <br>
 `cryptopunk` · `cryptopunks` · `cryptocollectibles` · `blockchain` · `bubble` · `mania` · `24x24` · `2021` · `10000` · `cryptoart` · `cryptoaliens` · `cryptozombies` · `wpunks` · `cryptotulips` · `substrapunks` · `binancepunks` · `punkverse` · `pixelart` · `24px`
 
-**cryptopunks** ★75 (14128 kb)  <br>
-_cryptopunks libraries, tools & scripts - mint your own 24×24 pixel punk images off chain from the True Official Genuine Matt & John's® Punks V2 sha256-verified original 10 000 unique character collection; incl. 2x/4x/8x zoom for bigger sizes_  <br>
-`cryptopunk` · `cryptopunks` · `10000` · `24x24` · `cryptotulips` · `punkverse` · `pixelart` · `24px`
+**cryptopunks** ★30 (6108 kb)  <br>
+_(crypto) pixel punks - libraries, tools & scripts, and more_  <br>
+`cryptopunks` · `gui` · `ruby` · `desktop` · `desktop-application` · `punkverse` · `24px` · `10000` · `pixelart` · `24x24` · `glimmer` · `32px` · `32x32`
 
-**cryptopunks-gui** ★8 (2699 kb)  <br>
-_CryptoPunks GUI for Simplified Minting_  <br>
-`cryptopunks` · `gui` · `ruby` · `desktop` · `desktop-app` · `desktop-application` · `punkverse` · `24px` · `10000` · `pixelart`
-
-**cryptopunksnotdead.github.io** ★8 (295 kb)  <br>
+**cryptopunksnotdead.github.io** ★9 (317 kb)  <br>
 _website source _  <br>
 `24x24` · `cryptopunks` · `32x32` · `pixelart` · `pixel-art` · `24px` · `cryptotulips`
 
-**faq** ★14 (125 kb)  <br>
-_(Pixel) Punks Frequently Asked Questions (F.A.Q.) and Answers ++ Q: Are Punks in the Public Domain and Free to Copy and (Re)use? - Q: How Can I Generate 10 000 P(h)unks? ..._  <br>
-`24px` · `punks` · `cryptopunks` · `pixelart` · `24x24` · `punkverse`
+**legal** ★4 (277 kb)  <br>
+_legal f.a.q. & updates  _  <br>
+`24px` · `copyright` · `dmca` · `generative` · `generativeart` · `pixelart` · `punks`
 
-**lets-go-programming-cryptopunks** ★24 (40 kb)  <br>
+**lets-go-programming-cryptopunks** ★29 (1375 kb)  <br>
 _Let's Go! Programming (Crypto) Pixel Punk Profile Pictures & (Generative) Art with Go - Step-by-Step Book / Guide Inside Unique 24×24 Pixel Art on the Blockchain..._  <br>
 `artbase` · `24px` · `punkverse` · `cryptopunks` · `pixelart`
 
-**pixelart.js** ★126 (86 kb)  <br>
-_pixelart.js - draw pixel art images using any design (in ascii text) in any colors; incl. 2x/4x/8x zoom for bigger sizes and more_  <br>
-`24x24` · `pixelart` · `cryptopunks` · `punkverse` · `pixel-art` · `canvas` · `pixel` · `24px`
-
-**programming-cryptopunks** ★406 (5037 kb)  <br>
+**programming-cryptopunks** ★431 (4538 kb)  <br>
 _Crypto Collectibles Book(let) Series. Programming (Crypto) Pixel Punk Profile Pictures & (Generative) Art - Step-by-Step Book / Guide. Inside Unique 24×24 Pixel Art on the Blockchain..._  <br>
 `cryptopunks` · `cryptopunk` · `cryptotulips` · `10000` · `24x24` · `cryptozombies` · `punkverse` · `pixelart` · `24px`
 
-**punks.attributes** ★50 (619 kb)  <br>
+**punkbase** ★20 (1882 kb)  <br>
+_punkbase  - query punk metadata & images via sql & more  - all-in-one single-file sqlite database, that is, punkbase.db (~5MB)_  <br>
+`24px` · `artbase` · `cryptopunks` · `punks` · `sqlite` · `punkbase`
+
+**punks.attributes** ★59 (619 kb)  <br>
 _cryptopunks.csv - All 10 000 CryptoPunks by ID with Type, Accessories & More_  <br>
 `cryptopunks` · `cryptopunk` · `24x24` · `cryptoart` · `cryptocollectibles` · `cryptozombies` · `cryptoaliens` · `cryptoapes` · `cryptobeanies` · `dataset` · `csv` · `10000` · `cryptotulips` · `punkverse` · `24px` · `boredapes` · `coolcats`
 
-**punks.blocks** ★63 (873 kb)  <br>
-_DIY (Do-It-Yourself) - Yes, You Can! Design Your Own Punks using the Punk (Building) Blocks  - Original CryptoPunks Series (24×24) And More_  <br>
-`cryptopunks` · `24x24` · `pixelart` · `24px`
-
-**punks.contracts** ★23 (877 kb)  <br>
+**punks.contracts** ★24 (877 kb)  <br>
 _Inside the CryptoPunks Blockchain Contracts / Services incl.  the Historic V1 and  Wrapped CryptoPunks V1 (WPUNKS1) and Wrapped CryptoPunks V2 (WPUNKS), V3, V4, and Many More_  <br>
 `punkverse` · `cryptopunk` · `cryptopunks` · `wpunks` · `wpunks1`
 
-**punks.design** ★30 (573 kb)  <br>
+**punks.design** ★29 (573 kb)  <br>
 _Punk Design Series - Original CryptoPunks Series (24×24); CryptoNormies And More_  <br>
 `24x24` · `cryptopunks` · `pixelart` · `cryptonormies` · `24px`
 
-**punks.journal** ★28 (7616 kb)  <br>
+**punks.journal** ★28 (9397 kb)  <br>
 _Journal of (Generative) Punk (Pixel) Art - Best of ("Hall of Fame" of) Punk Writing_  <br>
 `24px` · `10000` · `cryptopunks` · `pixelart`
 
-**punks.market** ★1 (1478 kb)  <br>
+**punks.js** ★132 (1024 kb)  <br>
+_punks.js - draw punk (pixel) art images using any design (in ascii text) in any colors; incl. 2x/4x/8x zoom for bigger sizes and more_  <br>
+`24x24` · `pixelart` · `cryptopunks` · `punkverse` · `pixel-art` · `canvas` · `pixel` · `24px`
+
+**punks.market** ★2 (1646 kb)  <br>
 _Punks Market Data incl. Prices, and More_  <br>
 `cryptopunks` · `punks`
 
-**punks.readymade** ★11 (1019 kb)  <br>
+**punks.readymade** ★11 (1021 kb)  <br>
 _Readymade Pixel Punks - The World's Greatest (and Worst) Characters & (Historic) Figures in 24×24 Pixel Art_  <br>
 `24px` · `cryptopunks` · `pixelart` · `history` · `artbase`
 
-**punks.spritesheet** ★9 (165 kb)  <br>
-_Punk Sprite Sheet - A Unicode-Like Universal Code Page for All Punk Archetypes & Attributes in a Free to Download Single Sprite Sheet Image_  <br>
+**punks.research** ★10 (364 kb)  <br>
+_punks.research -  cutting edge research & public notes on pixel art heads & bodies_  <br>
 `24x24` · `cryptopunks` · `punks` · `pixelart` · `pixel-art` · `24px`
 
-**punks.starter** ★185 (314 kb)  <br>
+**punks.sandbox** ★86 (15823 kb)  <br>
+_punks.sandbox - how-tos and samples scripts to generate your own (crypto) punk pixel art and more_  <br>
+`cryptopunk` · `cryptopunks` · `10000` · `24x24` · `cryptotulips` · `punkverse` · `pixelart` · `24px`
+
+**punks.server** ★3 (9 kb)  <br>
+_ordpunkd - (zero-config) art base server for ordinal punks fam & frens_  <br>
+`24px` · `artbase` · `pixelart` · `punks` · `punkverse`
+
+**punks.starter** ★197 (326 kb)  <br>
 _DIY (Do-It-Yourself) - Yes, You Can!  Pixel Art Collection Quick Starter - Generate Algorithmically Your Own Curated (or Randomized) Collection_  <br>
 `cryptopunks` · `24x24` · `pixelart` · `punkverse` · `24px`
 
-**punks.whitelabel** ★19 (922 kb)  <br>
+**punks.whitelabel** ★31 (960 kb)  <br>
 _punks - the free white label quick starter edition -  (re)create from zero / scratch a pixel-perfect copy of the first Matt & John's® 10 000 punks collection (Anno 2017)_  <br>
 `cryptopunks` · `24x24` · `24px` · `punkverse` · `10000` · `pixelart` · `cryptotulips`
 
@@ -367,23 +348,16 @@ _All Punk (Pixel Art) News, All The Time! - Fuck Yeah, It's Punk Week! - Punk Is
 `24px` · `punkverse` · `pixelart` · `blockchain` · `cryptopunks`
 
 
-### csvreader _(1)_
-
-**csvreader** ★178 (468 kb)  <br>
-_csvreader library / gem -  read tabular data in the comma-separated values (csv) format the right way (uses best practices out-of-the-box with zero-configuration)_  <br>
-`csv` · `csv11` · `json` · `tab` · `tabular` · `tabular-data` · `csvhash` · `csvrecord` · `numerics` · `import` · `export`
-
-
 ### csvspecs _(9)_
 
-**awesome-csv** ★46 (137 kb)  <br>
+**awesome-csv** ★49 (137 kb)  <br>
 _Awesome Comma-Separated Values (CSV) - What's Next? - Frequently Asked Questions (F.A.Q.s) - Libraries & Tools_  <br>
 `csv` · `txt` · `opendata` · `tabular` · `data` · `datafile` · `frictionlessdata` · `csvlint` · `csv11` · `space` · `tab` · `comma` · `values` · `records` · `fields` · `schema` · `types` · `csvutils` · `csvpack` · `csvtosql`
 
 **csv-hxl** ★1 (4 kb)  <br>
 _CSV Humanitarian Exchange Language (HXL) Format Notes_
 
-**csv-json** ★5 (22 kb)  <br>
+**csv-json** ★7 (22 kb)  <br>
 _CSV ❤ JSON Format - Comma-Separated Values (CSV) Line-by-Line Records with JSON Encoding Rules - A Modern (Simple) Tabular Data Format incl. Arrays, Numbers, Booleans, Nulls, Nested Structures, Comments and More_
 
 **csv-meta** ★2 (34 kb)  <br>
@@ -398,7 +372,7 @@ _CSV ❤ Numerics Format - Comma-Separated Values (CSV)  Line-by-Line Records wi
 **csv-v10** ★2 (53 kb)  <br>
 _CSV v1.0 Format - Comma-Separated Values (CSV) Line-by-Line Records "The Right Way" with Spaces, Blank Lines, Comments, and More_
 
-**csv-v11** ★5 (12 kb)  <br>
+**csv-v11** ★6 (12 kb)  <br>
 _CSV v1.1 Format - Comma-Separated (Named) Values, Version: 1.1 - CSV Evolved (for Humans) - Easy-to-Write (with Your Hand), Easy-to-Read (with Your Eyes)_
 
 **csv-yaml** ★3 (10 kb)  <br>
@@ -407,13 +381,20 @@ _CSV ❤ YAML Format - Comma-Separated Values (CSV) Line-by-Line Records with YA
 
 ### datatxt _(2)_
 
-**awesome-yaml** ★24 (24 kb)  <br>
+**awesome-yaml** ★27 (24 kb)  <br>
 _A Collection of Awesome YAML (Ain't Markup Language) Goodies for Structured (Meta) Data in Text_  <br>
 `yaml` · `metadata` · `data` · `txt` · `json` · `opendata`
 
 **datatxt.github.io** ★1 (6 kb)  <br>
 _Structured (Meta) Data in Text Website_  <br>
 `yaml` · `json` · `json5` · `toml` · `ini` · `metadata` · `frontmatter` · `datafile` · `datatxt`
+
+
+### dollzmania _(1)_
+
+**dollz.sandbox** ★5 (3056 kb)  <br>
+_Dollz Sandbox (& Cache) - Download Scripts & More_  <br>
+`avatars` · `pixelart` · `dollz`
 
 
 ### drjekyllthemes _(4)_
@@ -427,54 +408,43 @@ _Dr. Jekyll's Themes - Static Website Theme Directory_
 **test-theme** ★1 (65 kb)  <br>
 _Themes Quick Test Page Theme_
 
-**themes** ★98 (9962 kb)  <br>
+**themes** ★99 (10006 kb)  <br>
 _Dr. Jekyll's Themes - Add Your Theme!_  <br>
 `jekyll` · `jekyll-themes` · `static-site`
 
 
 ### factbook _(7)_
 
-**cache.factbook.json** ★4 (48331 kb)  <br>
+**cache.factbook.json** ★6 (93909 kb)  <br>
 _A cache for datasets for the country profiles from the World Factbook in the original (1:1) format from the cia.gov website_
 
-**country-profiles** ★3 (41770 kb)  <br>
+**country-profiles** ★7 (18447 kb)  <br>
 _World Factbook Country Profiles_  <br>
 `factbook` · `world` · `countries` · `economy` · `geography`
 
-**factbook** ★130 (1028 kb)  <br>
+**factbook** ★134 (869 kb)  <br>
 _factbook gem -  scripts for the world factbook (get open structured data e.g JSON etc.)_  <br>
 `factbook` · `opendata` · `ruby` · `countries` · `world`
 
-**factbook.github.io** ★12 (34614 kb)  <br>
+**factbook.github.io** ★15 (34614 kb)  <br>
 _World Factbook Country Profiles - Free Open Public Domain Data_  <br>
 `factbook` · `countries` · `html` · `world` · `book` · `publicdomain`
 
-**factbook.json** ★809 (51648 kb)  <br>
+**factbook.json** ★901 (35831 kb)  <br>
 _World Factbook Country Profiles in JSON  - Free Open Public Domain Data - No API Key Required ;-)_  <br>
 `factbook` · `opendata` · `world` · `countries` · `publicdomain` · `json` · `europe` · `africa` · `asia` · `america` · `oceania` · `economy` · `government` · `people` · `religion` · `git-scraping`
 
-**factbook.sql** ★40 (8 kb)  <br>
+**factbook.sql** ★42 (8 kb)  <br>
 _World Factbook Country Profiles in SQL (Incl. factbook.db - Single-File SQLite Distro) - Free Open Public Domain Data_  <br>
 `factbook` · `sql`
 
-**media** ★9 (15610 kb)  <br>
+**media** ★11 (15610 kb)  <br>
 _World Factbook Media - Flags, Maps, Locators_
 
 
-### feedparser _(2)_
+### feedreader _(12)_
 
-**feedparser** ★156 (981 kb)  <br>
-_feedparser gem - (universal) web feed parser and normalizer (XML w/ Atom or RSS, JSON Feed, HTML w/ Microformats e.g. h-entry/h-feed or Feed.HTML, Feed.TXT w/ YAML, JSON or INI & Markdown, etc.)_  <br>
-`feed` · `atom` · `rss` · `feedparser` · `jsonfeed` · `microformats` · `hentry` · `hfeed` · `html` · `feedtxt` · `txt` · `yaml` · `json` · `markdown` · `webfeed`
-
-**feeds** ★3 (719 kb)  <br>
-_Tests, Tests, Tests -  Feeds (in Atom, RSS, JSON Feed, Feed.TXT, Feed.HTML, HTML w/ Microformats e.g. h-entry, etc.) with Test Assertions e.g. feed.title: Planet News & Updates_  <br>
-`rss` · `atom` · `jsonfeed` · `feedtxt` · `feedhtml` · `microformats` · `hentry` · `webfeeds`
-
-
-### feedreader _(9)_
-
-**feedreader.github.io** ★5 (279 kb)  <br>
+**feedreader.github.io** ★6 (279 kb)  <br>
 _planet pluto website & docs_
 
 **jekyll.planet.sample** ★2 (44 kb)  <br>
@@ -483,37 +453,35 @@ _planet.rb Sample - Jekyll Edition_
 **news.rb** ★20 (19 kb)  <br>
 _news.rb  quick starter script - build your own facebook newsfeed in 1-2-3 steps in 5 minutes_
 
-**planet.rb** ★29 (47 kb)  <br>
+**planet.rb** ★31 (47 kb)  <br>
 _planet.rb quick starter script - (auto-) add articles & blog posts to your (jekyll & friends) static website via feeds (and planet pluto)_  <br>
 `jekyll` · `planet` · `pluto` · `planetplanet` · `atom` · `rss` · `feedreader` · `newsreader` · `feed`
 
-**planets** ★19 (66 kb)  <br>
+**planets** ★20 (66 kb)  <br>
 _planet setup / configuration samples - planetarium - add your planets!_
 
-**pluto** ★178 (596 kb)  <br>
+**pluto** ★185 (596 kb)  <br>
 _pluto gems - planet feed reader and (static) website generator - auto-build web pages from published web feeds_  <br>
 `pluto` · `planet` · `feed` · `atom` · `rss` · `feedreader` · `newsreader` · `sqlite` · `planetplanet` · `blogs` · `rss-aggregator` · `rss-reader` · `feed-reader` · `feed-aggregator`
+
+**pluto.admin** ★1 (21 kb)  <br>
+_planet web admin - sintara web app ready to get mounted into your web app_
+
+**pluto.live** ★8 (403 kb)  <br>
+_planet example site - rails web app in ruby using the pluto gem_
+
+**pluto.live.starter** ★5 (19 kb)  <br>
+_planet starter example site - sinatra web app in ruby using the pluto gem_
 
 **pluto.more.tools** ★1 (53 kb)  <br>
 _misc feedreader utility tools plus planet notes, links and more_
 
-**pluto.starter** ★9 (38 kb)  <br>
+**pluto.starter** ★12 (38 kb)  <br>
 _planet pluto quick starter kit - (auto-) build your own (static) planet news site from web feeds_  <br>
 `planet` · `feedreader` · `rss` · `atom` · `webfeeds` · `starter`
 
 **website.old** ★2 (366 kb)  <br>
 _old pluto project web site (anno 2020)_
-
-
-### feedtxt _(2)_
-
-**feedtxt** ★5 (28 kb)  <br>
-_feedtxt gem - reads Feed.TXT - feeds in text (unicode) - publish & share posts, articles, podcasts, 'n' more_  <br>
-`feedtxt` · `json` · `yaml` · `markdown` · `txt` · `rss` · `html` · `atom` · `feed` · `unicode`
-
-**feedtxt.github.io** ★2 (44 kb)  <br>
-_Feeds in Text Website_  <br>
-`feeds` · `rss` · `atom` · `jsonfeed` · `feedtxt` · `txt` · `unicode` · `yaml` · `json` · `markdown`
 
 
 ### footballbook _(2)_
@@ -534,7 +502,7 @@ _Football data for Austria (Österreich) incl. Bundesliga, etc._  <br>
 **belgium** ★1 (316 kb)  <br>
 _Football data for Belgium incl. Pro League, etc._
 
-**cache.footballdata** ★9 (2419 kb)  <br>
+**cache.footballdata** ★10 (2419 kb)  <br>
 _Cache - Football-Data_
 
 **cache.internationals** ★2 (960 kb)  <br>
@@ -553,37 +521,37 @@ _Cache - Soccerverse_  <br>
 **cache.updates** ★4 (257 kb)  <br>
 _Cache - Football Match Updates - Week by Week_
 
-**deutschland** ★8 (1360 kb)  <br>
+**deutschland** ★10 (1360 kb)  <br>
 _Football data for Deutschland (Germany) incl. Bundesliga, 2. Bundesliga, etc._  <br>
 `football` · `fussball` · `deutschland` · `germany` · `opendata` · `csv` · `bundesliga`
 
-**england** ★130 (8690 kb)  <br>
+**england** ★139 (8690 kb)  <br>
 _Football data for England (and Wales) incl. English Premier League, The Football League (Championship, League One, League Two), Football Conference etc. _  <br>
 `football` · `england` · `wales` · `championship` · `opendata` · `csv` · `football-data` · `english-premier-league` · `epl` · `premier-league` · `football-league` · `football-conference`
 
-**espana** ★18 (1120 kb)  <br>
+**espana** ★21 (1120 kb)  <br>
 _Football data for España (Spain) incl. Primera División (La Liga), Segunda División etc.  _  <br>
 `football` · `futbol` · `spain` · `espana` · `laliga` · `primeradivision` · `opendata` · `csv` · `segundadivision`
 
-**europe-champions-league** ★9 (538 kb)  <br>
+**europe-champions-league** ★11 (538 kb)  <br>
 _Football data for European Champions League (incl. European Cup / European Champion Clubs' Cup)_
 
-**footballcsv.github.io** ★13 (19 kb)  <br>
+**footballcsv.github.io** ★14 (19 kb)  <br>
 _football.csv website, docs, help & support - Add your tools & scripts here! Add your project here!_
 
 **major-league-soccer** ★4 (186 kb)  <br>
 _Football data for Major League Soccer (MLS) for the United States 'n' Canada _  <br>
 `mls` · `major-league-soccer` · `football` · `soccer` · `opendata` · `united-states` · `canada` · `csv` · `western-conference` · `eastern-conference`
 
-**mexico** ★3 (88 kb)  <br>
+**mexico** ★4 (88 kb)  <br>
 _Football data for Mexico (México​) incl. Liga MX, etc._  <br>
 `football` · `ligamx` · `mexico` · `publicdomain` · `opendata` · `csv`
 
-**spec** ★5 (696 kb)  <br>
+**spec** ★6 (696 kb)  <br>
 _Football.CSV Format Spec (& Tests)_  <br>
 `football` · `opendata` · `csv`
 
-**world** ★2 (479 kb)  <br>
+**world** ★3 (479 kb)  <br>
 _Football data_
 
 
@@ -608,6 +576,21 @@ _Professor Frisby's Mostly Adequate Guide to Functional Programming in JavaScrip
 _You Don't Know JS: Up & Going by Kyle Simpson_
 
 
+### generativeartfactory _(3)_
+
+**artfactory** ★1 (46 kb)  <br>
+_Art Factory - Yes, you can! Generate your own art images from text attributes (via spritesheets); incl. 2x/4x/8x zoom for bigger sizes and more_  <br>
+`24px` · `artfactory` · `generative` · `generative-art` · `pixelart` · `punks`
+
+**artfactory.sandbox** ★5 (3296 kb)  <br>
+_Art Factory Sandbox (& Cache) - Quick & Dirty "One-Off" Scripts To Download Complete Artwork Layers for ("On-Blockchain") Collections for Easy (Re)use ("Off-Blockchain")_  <br>
+`artfactory` · `pixelart` · `punkverse` · `24px` · `artbase` · `generative` · `generative-art` · `punks`
+
+**artfactory.starter** ★2 (381 kb)  <br>
+_Art Factory Quick Starter - Yes, You Can!  Generate Algorithmically Your Own Collections Via Text (Prompts) _  <br>
+`24px` · `artfactory` · `generative` · `generative-art` · `pixelart` · `punks` · `punkverse`
+
+
 ### henrythemes _(13)_
 
 **hello-jekyll-theme** ★7 (6 kb)  <br>
@@ -624,7 +607,7 @@ _Hello, Pages! Theme - Get Started w/ GitHub Pages (Jekyll)_  <br>
 _Hello, Pages! Theme v2_  <br>
 `jekyll` · `jekyll-theme` · `theme` · `pages`
 
-**jekyll-book-theme** ★28 (141 kb)  <br>
+**jekyll-book-theme** ★26 (141 kb)  <br>
 _jekyll starter theme for classic books (ex. Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson)_
 
 **jekyll-boom-theme** ★2 (137 kb)  <br>
@@ -633,19 +616,19 @@ _jekyll starter theme for books using boom! - a microformat for books_
 **jekyll-boom-theme-v2** ★2 (124 kb)  <br>
 _jekyll starter theme for books using boom! - a microformat for books - v2 with markdown_
 
-**jekyll-bootstrap-theme** ★53 (196 kb)  <br>
+**jekyll-bootstrap-theme** ★54 (196 kb)  <br>
 _jekyll starter theme w/ bootstrap (sass version)_
 
-**jekyll-gutenberg-theme** ★18 (77 kb)  <br>
+**jekyll-gutenberg-theme** ★19 (77 kb)  <br>
 _jekyll starter theme for classic books using gutenberg - a web typography starter kit_
 
-**jekyll-minimal-theme** ★92 (46 kb)  <br>
+**jekyll-minimal-theme** ★94 (46 kb)  <br>
 _jekyll minimal theme (for blog posts with archive and feed)_
 
-**jekyll-starter-theme** ★29 (11 kb)  <br>
+**jekyll-starter-theme** ★30 (11 kb)  <br>
 _jekyll starter theme - minimial_
 
-**jekyll-starter-theme-v2** ★19 (16 kb)  <br>
+**jekyll-starter-theme-v2** ★18 (16 kb)  <br>
 _jekyll starter theme v2_
 
 **jekyll-talks-theme** ★5 (740 kb)  <br>
@@ -653,24 +636,12 @@ _jekyll talks theme (using the s6 slideshow templates / machinery / kit )_  <br>
 `jekyll` · `jekyll-theme` · `theme` · `s6` · `slides` · `slidekit` · `bespokejs` · `presentations` · `slideshow`
 
 
-### hybook _(3)_
-
-**bookfile** ★1 (224 kb)  <br>
-_bookfile gem - builder for books_
-
-**bookman** ★1 (140 kb)  <br>
-_bookman gem - yet another book builder_
-
-**hybook** ★2 (204 kb)  <br>
-_hybook gem - Hyper Book (H9) - A Free Hypertext Book Generator in Ruby_
-
-
 ### hydepress _(12)_
 
 **hydepress.github.io** ★5 (160 kb)  <br>
 _Hyde Press Bookshelf_
 
-**jekyll** ★3 (117 kb)  <br>
+**jekyll** ★2 (117 kb)  <br>
 _Jekyll Documentation (Book Edition) by Tom Preston-Werner, Nick Quaranto, Parker Moore, et al_
 
 **jekyll-deploy** ★1 (12 kb)  <br>
@@ -700,7 +671,7 @@ _Liquid Template Language Documentation (Book Edition) by Tobias Luetke, et al _
 **octopod** ★3 (129 kb)  <br>
 _Octopod Documentation (Book Edition) by Stefan Haslinger et al_
 
-**octopress** ★3 (37 kb)  <br>
+**octopress** ★4 (37 kb)  <br>
 _Octopress 3 Documentation (Book Edition) by Brandon Mathis et al_
 
 
@@ -709,16 +680,16 @@ _Octopress 3 Documentation (Book Edition) by Brandon Mathis et al_
 **blog** ★1 (21 kb)  <br>
 _Vienna.TXT Blog - Journal.TXT Blog Live Sample w/ Jekyll (and GitHub Pages) - Auto-Built from Vienna.TXT_
 
-**journaltxt** ★22 (15 kb)  <br>
+**journaltxt** ★24 (15 kb)  <br>
 _journaltxt library & tool - reads Journal.TXT and writes out (auto-builds) a blog (w/ Jekyll posts etc.)_
 
-**journaltxt.github.io** ★4 (22 kb)  <br>
+**journaltxt.github.io** ★5 (22 kb)  <br>
 _Journal.TXT Website and Spec(ification) - Single-Text File Journals - The Human Multi-Document Format for Writers - Blogging Reinvented_
 
 
 ### json-next _(5)_
 
-**awesome-json-next** ★42 (58 kb)  <br>
+**awesome-json-next** ★50 (58 kb)  <br>
 _A Collection of What's Next for Awesome JSON (JavaScript Object Notation) for Structured (Meta) Data in Text - JSON5, HJSON, HanSON, TJSON, SON, CSON, USON, JSONX/JSON11 & Many More_  <br>
 `json` · `json5` · `son` · `hjson` · `opendata` · `data` · `txt` · `metadata` · `hanson` · `cson` · `uson` · `jsonlines` · `ndjson` · `hocon` · `hcl` · `ucl`
 
@@ -726,7 +697,7 @@ _A Collection of What's Next for Awesome JSON (JavaScript Object Notation) for S
 _JSON v1.1 Feed - JSON Feed Evolved for Humans thanks to JSON: 1.1 # JSON with Extensions (JSONX) - Easy-to-Write, Easy-to-Read_  <br>
 `jsonfeed` · `json11feed` · `rss` · `atom` · `feedtxt` · `jsonx` · `json11` · `jsonxi` · `jsonii` · `jsoniifeed` · `jsonnext`
 
-**json-next** ★30 (29 kb)  <br>
+**json-next** ★31 (29 kb)  <br>
 _json-next gem - read generation y / next generation json versions (HanSON, SON, JSONX/JSON11, etc.) with comments, unquoted keys, multi-line strings, trailing commas, optional commas, and more_  <br>
 `hanson` · `json` · `json-next` · `hson` · `son` · `jsonx` · `jsonxi` · `json11` · `json-extensions` · `opendata` · `frictionlessdata`
 
@@ -738,9 +709,40 @@ _JSON: 1.1 # JSON with Extensions (JSONX) Website & Spec(ification)_  <br>
 `json` · `jsonx` · `jsonxi` · `json-next` · `jsonii` · `json11` · `son` · `hanson` · `txt` · `opendata` · `frictionlessdata`
 
 
+### learnpixelart _(7)_
+
+**awesome-pixelart** ★16 (104 kb)  <br>
+_Awesome Programming (Generative) Pixel Art_  <br>
+`24px` · `pixelart`
+
+**currency.starter** ★5 (1703 kb)  <br>
+_DIY (Do-It-Yourself) - Yes, You Can! Currency Art Collection Quick Starter - Generate Your Own Currency Collections_  <br>
+`currencyart` · `pixelart` · `24px` · `24x24` · `coolcats` · `doge`
+
+**pixelart** ★66 (1406 kb)  <br>
+_pixel art (and graphics) libraries & scripts   _  <br>
+`pixelart` · `24x24` · `32x32` · `42x42` · `avatars`
+
+**pixelart.go** ★1 (24 kb)  <br>
+_Let's Go Pixel Art _  <br>
+`24px` · `pixelart`
+
+**pixelart.howto** ★331 (6913 kb)  <br>
+_pixel art HOWTOs_  <br>
+`24px` · `pixel-art` · `pixelart` · `24x24` · `cryptopunks` · `boredapes` · `cryptotulips` · `punks` · `punkverse`
+
+**pixelart.js** ★12 (41 kb)  <br>
+_pixelart.js_  <br>
+`pixelart`
+
+**pixelart.sandbox** ★12 (592 kb)  <br>
+_pixel art sandbox_  <br>
+`24px` · `24x24` · `32px` · `pixelart` · `png`
+
+
 ### manuscripts _(3)_
 
-**book-starter** ★11 (4 kb)  <br>
+**book-starter** ★12 (4 kb)  <br>
 _Book Quick Starter Kit - Write Your Own Book in Plain Text (with Markdown)_
 
 **manuscripts** ★8 (24 kb)  <br>
@@ -759,62 +761,50 @@ _Markup & Markdown Madness Samples (Showcase)  - Kramdown • Wikipedia Markup �
 _Markup & Markdown Madness Website_
 
 
-### mrhydescripts _(2)_
-
-**mrhyde** ★14 (18 kb)  <br>
-_mrhyde-tools gem - static site quick starter script wizard .:. jekyll command line tool_
-
-**scripts** ★11 (8 kb)  <br>
-_Mr. Hyde's Scripts - Automate, Automate, Automate - Add Your Script!_
-
-
 ### mundimark _(13)_
 
-**awesome-books** ★43 (204 kb)  <br>
+**awesome-books** ★53 (204 kb)  <br>
 _A collection of awesome books (handwritten guides, auto-build almanacs w/ open data, etc.) in wikitext_
 
-**awesome-kramdown** ★34 (19 kb)  <br>
+**awesome-kramdown** ★39 (13 kb)  <br>
 _A collection of awesome kramdown goodies for the converter for (structured) text with formatting markup in markdown conventions_  <br>
 `awesome` · `kramdown` · `markdown` · `txt` · `structured` · `formatting` · `markup`
 
-**awesome-markdown** ★917 (118 kb)  <br>
+**awesome-markdown** ★1195 (137 kb)  <br>
 _A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)_
 
-**awesome-markdown-alternatives** ★49 (2 kb)  <br>
+**awesome-markdown-alternatives** ★63 (3 kb)  <br>
 _A collection of awesome light-weight markup markdown alternatives _
 
-**awesome-markdown-editors** ★352 (67 kb)  <br>
+**awesome-markdown-editors** ★604 (48 kb)  <br>
 _A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more_
 
-**markdown-can-i-use** ★7 (16 kb)  <br>
+**markdown-can-i-use** ★8 (16 kb)  <br>
 _Markdown Can I Use ___ ? Site_
 
-**markdown-tools** ★5 (5 kb)  <br>
+**markdown-tools** ★6 (5 kb)  <br>
 _Markdown Tools / Converters / Libraries -  Add Your Tool!_
 
 **markdown-tools-books** ★9 (5 kb)  <br>
 _Book Builder / Maker / Generator / Compiler from Markdown Manuscripts (in Plain Text)  - Add Your Tool!_
 
-**markdown-vs-latex** ★85 (18 kb)  <br>
+**markdown-vs-latex** ★95 (18 kb)  <br>
 _Markdown vs LaTeX / TeX Markup_
 
-**markdown.pl** ★3 (108 kb)  <br>
+**markdown.pl** ★6 (108 kb)  <br>
 _History Corner: Markdown.pl (Archived and unzipped version of the Markdown_1.0.1.zip - 14 Dec 2004) -- A text-to-HTML conversion tool for web writers by John Gruber_
 
 **mundimark.github.io** ★2 (6 kb)  <br>
 _Mundi Mark Site_
 
-**quickrefs** ★15 (289 kb)  <br>
+**quickrefs** ★16 (289 kb)  <br>
 _Markdown 'n' Friends Quick References (Cheat Sheets)_
 
 **why-text** ★6 (24 kb)  <br>
 _Why Markdown? Why Text? The Past, Present and Future of Writing and Publishing_
 
 
-### octobook _(7)_
-
-**awesome-typography** ★2 (0 kb)  <br>
-_A collection of awesome typography goodies_
+### octobook _(6)_
 
 **book-2017-theme** ★3 (182 kb)  <br>
 _book git theme_
@@ -834,13 +824,13 @@ _Classics Book Theme (w/ Manuscripts Format)_  <br>
 _Gitbook to Octobook - How to publish your manuscripts (in text w/ formatting conventions in markdown) with book.yml and octobook book themes for jekyll (works w/ GitHub Pages and remote themes too)_  <br>
 `gitbook` · `octobook` · `jekyll` · `markdown` · `manuscripts` · `bookdesigns` · `jekyllthemes` · `txt`
 
-**octobook** ★5 (2 kb)  <br>
+**octobook** ★6 (2 kb)  <br>
 _octobook gem - book publishing tool for jekyll_
 
 
 ### officetxt _(3)_
 
-**awesome-txt** ★65 (23 kb)  <br>
+**awesome-txt** ★71 (23 kb)  <br>
 _A collection of awesome .TXT / Text  tools, formats, services, tips & tricks and more._
 
 **officetxt** ★8 (7 kb)  <br>
@@ -852,7 +842,7 @@ _Office.TXT Website_
 
 ### openbeer _(28)_
 
-**at-austria** ★11 (384 kb)  <br>
+**at-austria** ★12 (384 kb)  <br>
 _Free open public domain beer, brewery n brewpub data for Austria (Österreich) / Europe_  <br>
 `beer` · `austria` · `vienna` · `wien` · `salzburg` · `graz` · `linz` · `bier` · `opendata` · `publicdomain` · `brewery`
 
@@ -874,10 +864,10 @@ _Free open public domain beer, brewery n brewpub data for Colorado (CO), United 
 **collections** ★1 (4 kb)  <br>
 _Beer n brewery collections (e.g. great beers from the british isles, europe, america, etc.)_
 
-**cz-czech-republic** ★3 (312 kb)  <br>
+**cz-czech-republic** ★2 (312 kb)  <br>
 _Free open public domain beer, brewery n brewpub data for the Czech Republic / Europe_
 
-**datafile** ★6 (172 kb)  <br>
+**datafile** ★7 (172 kb)  <br>
 _beer.db quick starter datafile templates _
 
 **de-deutschland** ★4 (493 kb)  <br>
@@ -934,32 +924,44 @@ _Free open public domain beer, brewery n brewpub data for the United States / No
 **wa-washington** ★1 (148 kb)  <br>
 _Free open public domain beer, brewery n brewpub data for Washington (WA), United States / North America_
 
-**world** ★66 (1235 kb)  <br>
+**world** ★67 (1235 kb)  <br>
 _Free open public domain beer, brewery n brewpub data_
 
 
-### openblockchains _(15)_
+### openblockchains _(17)_
 
-**austrian-blockchain-whitepapers** ★8 (23656 kb)  <br>
+**austrian-blockchain-whitepapers** ★10 (23656 kb)  <br>
 _The Art of the Steal / Deal - Made in Austria - Collection of Token White Papers on the Blockchain - Incl. Scam Alert - Thanks for your money and holding the bag!_  <br>
 `austria` · `blockchain` · `play` · `hero` · `lancer` · `blocklancer` · `lnc` · `rotharium` · `rth` · `bitpanda` · `pantos` · `pan` · `crwd` · `conda` · `crowd` · `culturalplaces` · `cc`
 
-**awesome-blockchains** ★3397 (2554 kb)  <br>
+**awesome-blockchains** ★3653 (2593 kb)  <br>
 _A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. _  <br>
 `blockchain` · `git` · `distributed-database` · `content-addressable-storage` · `tulipmania` · `merkletree` · `cryptohash` · `sha256` · `transactions` · `tx` · `proof-of-waste` · `proof-of-work` · `ethereum` · `universum`
 
 **awesome-coins** ★4 (921 kb)  <br>
 _Awesome  Coins - CryptoCurrency Timeline - 2009 Bitcoin, 2011 Namecoin, Litecoin, Mastercoin ...   _
 
-**awesome-diem** ★58 (2286 kb)  <br>
+**awesome-contracts** ★3 (661 kb)  <br>
+_Awesome (Ethereum) Contracts / Blockchain Services_  <br>
+`abi` · `contracts` · `ethereum` · `pixelart` · `punks` · `solidity` · `abidoc`
+
+**awesome-diem** ★60 (2286 kb)  <br>
 _A collection about all things Diem (formerly Libra), Move & Facebook Zuckerbucks - Let's reinvent money with fast and cheap world-wide transfers; let's bank the 1.7 billion unbanked, ..._  <br>
 `libra` · `move` · `awesome` · `awesome-libra` · `blockchain` · `contracts` · `diem` · `awesome-diem` · `novi` · `facebook`
 
-**awesome-ico-truths** ★29 (1396 kb)  <br>
+**awesome-ico-truths** ★32 (1396 kb)  <br>
 _Awesome Initial Coin Offerings (ICO) Truths - The Art of the Steal - The Scammers' Big Lies ++ ICO tokens are like bitcoins, ICOs are like IPOs,  ICO White Papers are like "Due Diligence" Inverstor Prospectus, ..._  <br>
 `ethereum` · `tokens` · `ico` · `erc20` · `erc721`
 
-**awesome-tetherino** ★44 (898 kb)  <br>
+**awesome-ordinals** ★1 (44 kb)  <br>
+_Awesome Ordinal Inscriptions - Turn the Blockchain Into A Database For Digital Artefacts_  <br>
+`24px` · `bitcoin` · `dogecoin` · `inscriptions` · `litecoin` · `ordinals` · `pixelart` · `stamps`
+
+**awesome-solidity** ★20 (101 kb)  <br>
+_Awesome Solidity (Contract) Programming Language & Tools - Incl. Weekly Updates_  <br>
+`blockchain` · `abi` · `cairo` · `ethereum` · `fe` · `foundry` · `hardhat` · `solidity` · `sourcify` · `sruby` · `vyper` · `yul`
+
+**awesome-tetherino** ★47 (898 kb)  <br>
 _Awesome Tetherino - 60 000+ Million $USDT Crypto "Stable" Coin Printed Out of Thin Air and Officially Backed by Commercial Paper (2-Ply Rated Soft - Yes, Trust Us, Don't Verify) - Inside the Tether Ponzi Scheme - A Bubble for the History Books and Fraud on the Scale of Madoff_  <br>
 `tether` · `tetherino` · `usdt` · `cryptotulips` · `crypto` · `ponzi`
 
@@ -967,18 +969,18 @@ _Awesome Tetherino - 60 000+ Million $USDT Crypto "Stable" Coin Printed Out of T
 _Bitcoin! Bitcoin! Bitcoin! Q: Dear sir, how do I get rich in bits-coin? A: If we all buy Bitcoin from one another at ever higher prices we'll all be rich beyond our wildest dreams. To the moon! Number go up!_  <br>
 `bitcoin` · `bitcon` · `blockchain` · `ponzi` · `proof-of-work` · `proof-of-waste`
 
-**bitcoin-ponzi** ★26 (698 kb)  <br>
+**bitcoin-ponzi** ★36 (698 kb)  <br>
 _Yes, Bitcoin Is a Ponzi - Learn How the Investment Fraud Works  ++ Bitcoin Mining Is an Environmental Disaster - Bitcon is a Greater Fool BagHODLer Zero-Sum Fraudsters' Greed Fest - The Bigger the Lies the Better - To the Moon! Number Go Up! Will Quadruple to $100 000 in 2021! - When Will the Music Stop? (Hint: Try to Cash Out) - Bitcoin Is Comedy Gold - Bitcoin is the New Standard?! - LOL_  <br>
 `bitcoin` · `bitcon` · `bitcoin-ponzi` · `ponzi` · `proof-of-waste` · `proof-of-work` · `co2` · `baghodler` · `hodl` · `comedy-gold`
 
-**bitcon-books** ★12 (89 kb)  <br>
+**bitcon-books** ★13 (89 kb)  <br>
 _Best of Bitcon Books - Austrian Economics Bullshit to the Max - The Bitcoin Fraudsters' Lies_  <br>
 `bitcoin` · `bitcon` · `books` · `cryptobooks` · `21-million` · `proof-of-waste` · `gold` · `mining` · `ponzis` · `craig-wright` · `saifedean-ammous` · `andreas-antonopoulos`
 
-**blockchain-whitepapers** ★8 (27073 kb)  <br>
+**blockchain-whitepapers** ★9 (27073 kb)  <br>
 _Bitcoin & Blockchain Whitepapers - Inside the New New Crypto Ponzi Economics_
 
-**crypto-books** ★40 (180 kb)  <br>
+**crypto-books** ★50 (180 kb)  <br>
 _Best of Crypto Books - A collection of books, white papers & more about crypto and blockchains._  <br>
 `bitcoin` · `blockchain` · `merkletree` · `cryptohash` · `blockchain-lite` · `centralbank` · `tulipmania` · `proof-of-work` · `ethereum` · `universum` · `cryptos` · `bitcon` · `diem` · `ether` · `dao` · `contracts` · `books` · `cryptobooks` · `proof-of-waste` · `ponzis`
 
@@ -986,46 +988,27 @@ _Best of Crypto Books - A collection of books, white papers & more about crypto 
 _100+ Best of Crypto Quotes - I HODL, you HODL, we HODL! - BREAKING: BITCOIN JUST BROKE $22 000!_  <br>
 `crypto` · `quotes` · `bitcoin` · `bitcon` · `ponzi` · `tether` · `usdt` · `usdc` · `bitfinex` · `proof-of-waste` · `co2` · `hodl` · `scams` · `cryptoquotes` · `ripple` · `xrp`
 
-**programming-bitcoin-script** ★38 (475 kb)  <br>
+**programming-bitcoin-script** ★51 (475 kb)  <br>
 _Programming Bitcoin Script Transaction (Crypto) Contracts Step-by-Step - Let's start with building your own bitcoin stack machine from zero / scratch and let's run your own bitcoin ops (operations)..._  <br>
 `bitcoin` · `bitcoin-script` · `opcodes` · `ivy` · `simplicity`
 
-**programming-blockchains** ★616 (553 kb)  <br>
+**programming-blockchains** ★653 (553 kb)  <br>
 _Programming Blockchains Step-by-Step book / guide. Let's build blockchains from scratch (zero) step by step. Let's start with crypto hashes..._
 
-**tulips** ★12 (10 kb)  <br>
-_Tulips :tulip::tulip::tulip: on the Blockchain! - Public Distributed (Hyper) :globe_with_meridians: Ledger Book :ledger::chart_with_upwards_trend: - Learn by Example from the Real World (Anno 1637) - Buy! Sell! Hodl! Enjoy the Beauty of Admiral of Admirals, Semper Augustus, and More._  <br>
-`tulips` · `blockchain` · `tulipmania` · `1637` · `semperaugustus` · `hyperledger` · `cryptotulips`
 
+### openbookie _(3)_
 
-### openbookie _(8)_
+**market** ★3 (17 kb)  <br>
+_Free open public domain football (soccer) data (football.db) addon for market quotes (odds, etc.)_
 
-**market.at-austria** ★3 (112 kb)  <br>
-_Free open public domain football data (football.db) addon for market quotes (odds, etc) for Austria (Bundesliga, etc.)_
+**sport.db.play** ★4 (30 kb)  <br>
+_sportdb-play & friends gems  - open sports database (sport.db) plugin for plays (predictions, betting pools, etc.) and more_
 
-**market.euro-cup** ★1 (108 kb)  <br>
-_Free open public domain football data (football.db) addon for market quotes (odds, etc) for the Euro 2012, etc._
-
-**market.europe-champions-league** ★4 (336 kb)  <br>
-_Free open public domain football data (football.db) addon for market quotes (odds, etc) for Champions League_
-
-**market.world-cup** ★1 (108 kb)  <br>
-_Free open public domain football data (football.db) addon for market quotes (odds, etc) for World Cup (Brazil 2014), World Cup Quali, Confederations Cup (Brazil 2013) etc._
-
-**notes** ★2 (108 kb)  <br>
-_Notes_
-
-**sport.db.market** ★2 (172 kb)  <br>
-_sportdb-market gem - open sports database (sport.db) plugin for market quotes (odds, etc)_
-
-**sport.db.play** ★3 (204 kb)  <br>
-_sportdb-play gem - open sports database (sport.db) plugin for plays (predictions, betting pools, etc.) in ruby_
-
-**sportbook** ★123 (2929 kb)  <br>
+**sportbook** ★135 (2929 kb)  <br>
 _sportbook web app - free open source sports betting (or prediction) pool in ruby on rails (version 3.2 and up)_
 
 
-### openfootball _(42)_
+### openfootball _(43)_
 
 **africa-cup** ★4 (11 kb)  <br>
 _Free open public domain football data (football.db) for Africa / Cup of Nations 2013, Cup of Nations 2015, etc._
@@ -1034,10 +1017,13 @@ _Free open public domain football data (football.db) for Africa / Cup of Nations
 _Free open public domain football data for Austria (Österreich) incl. Österr. Bundesliga, Zweite Liga, Regionalliga (Ost, Mitte, West), ÖFB Cup, etc._  <br>
 `football` · `opendata` · `austria` · `bundesliga` · `salzburg` · `wien` · `ersteliga` · `vienna` · `graz` · `linz` · `rapid` · `sqlite`
 
+**awesome-football** ★169 (33 kb)  <br>
+_A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets_
+
 **club-world-cup** ★3 (7 kb)  <br>
 _Free open public domain football data (football.db) for the Club World Cup (Japan 2012, Morocco 2013, Morocco 2014, etc.)_
 
-**clubs** ★48 (2596 kb)  <br>
+**clubs** ★49 (2596 kb)  <br>
 _Free open public domain football data for the world's football clubs_
 
 **confed-cup** ★2 (25 kb)  <br>
@@ -1053,22 +1039,22 @@ _Free open public domain football data (football.db) for Copa Libertadores (Sout
 **copa-sudamericana** ★3 (3 kb)  <br>
 _Free open public domain football data (football.db) for Copa Sudamericana (South America)_
 
-**deutschland** ★64 (2235 kb)  <br>
+**deutschland** ★63 (2235 kb)  <br>
 _Free open public domain football data for Germany (Deutschland) incl. Deutsche Bundesliga, 2. Bundesliga, 3. Liga, DFB Pokal etc._  <br>
 `opendata` · `bundesliga` · `deutschland` · `football` · `bayern` · `dortmund` · `schalke` · `borussia` · `sqlite`
 
-**docs** ★18 (707 kb)  <br>
+**docs** ★19 (707 kb)  <br>
 _football.db documentation incl. notes, articles, tips, guides, etc._
 
-**england** ★383 (1657 kb)  <br>
+**england** ★393 (1657 kb)  <br>
 _Free open public domain football data for England (and Wales) incl. English Premier League (EPL) etc._  <br>
 `opendata` · `football` · `england` · `wales` · `premierleague` · `sqlite` · `manutd` · `liverpool` · `arsenal` · `mancity` · `chelsea`
 
-**espana** ★60 (897 kb)  <br>
+**espana** ★65 (897 kb)  <br>
 _Free open public domain football data (football.db) for España (Spain) / Europe - Primera División / La Liga, etc._  <br>
 `laliga` · `opendata` · `football` · `spain` · `espana` · `realmadrid` · `fcbarcelona` · `barca` · `primeradivision` · `sqlite`
 
-**euro** ★37 (62 kb)  <br>
+**euro** ★38 (62 kb)  <br>
 _Free open public domain football data (euro.db) for Euro 2008, Euro 2012, Euro 2016, Euro 2020 (2021), etc._  <br>
 `euro` · `euro2020` · `euro2021` · `opendata` · `football`
 
@@ -1079,10 +1065,10 @@ _Free open public domain football data for the European Football Championship ("
 **europe** ★15 (570 kb)  <br>
 _Free open public domain football data for Europe (incl. France, Netherlands, Belgium, Russia, Ukraine, and much more)_
 
-**europe-champions-league** ★33 (173 kb)  <br>
+**europe-champions-league** ★34 (174 kb)  <br>
 _Free open public domain football data for Champions League (incl. Qualifiers), Europa League / Europe_
 
-**football.json** ★665 (2268 kb)  <br>
+**football.json** ★703 (2268 kb)  <br>
 _Free open public domain football data in JSON incl. English Premier League, Bundesliga, Primera División, Serie A and more - No API key required ;-)_  <br>
 `football` · `opendata` · `json` · `publicdomain` · `bundesliga` · `premier-league` · `serie-a` · `primera-division`
 
@@ -1092,23 +1078,23 @@ _Free open public domain football.db addon - teams, leagues, etc. names in Germa
 **futbol-es** ★2 (164 kb)  <br>
 _Free open public domain football.db addon - teams, leagues, etc. names in Spanish/Español (es)_
 
-**help** ★4 (162 kb)  <br>
+**help** ★5 (162 kb)  <br>
 _help & support incl. frequently asked questions (FAQs) and answers - let's keep all support question in one issue tracker, thanks_
 
-**italy** ★35 (841 kb)  <br>
+**italy** ★37 (694 kb)  <br>
 _Free open public domain football data (football.db) for Italy / Europe - Serie A etc._  <br>
 `opendata` · `football` · `seriea` · `italia` · `italy` · `juve` · `inter` · `napoli` · `roma` · `sqlite`
 
 **lang** ★2 (228 kb)  <br>
 _Football (soccer) fixture reader translations for English, Español, Deutsch, etc._
 
-**league-starter** ★11 (62 kb)  <br>
+**league-starter** ★14 (62 kb)  <br>
 _football.db league quick starter sample - start your own leagues & cups_
 
 **leagues** ★36 (782 kb)  <br>
 _Free open public domain football datasets for national and international football club leagues & cups from around the world_
 
-**mexico** ★2 (120 kb)  <br>
+**mexico** ★3 (120 kb)  <br>
 _Free open public domain football data (football.db) for Mexico / North America_
 
 **national-teams** ★12 (76 kb)  <br>
@@ -1123,28 +1109,28 @@ _Free open public domain football data (football.db) for national teams in North
 **opendata-theme** ★1 (4 kb)  <br>
 __
 
-**openfootball.github.io** ★142 (1657 kb)  <br>
+**openfootball.github.io** ★145 (1657 kb)  <br>
 _Open Football Data (football.db) Website_
 
-**players** ★21 (390 kb)  <br>
+**players** ★27 (390 kb)  <br>
 _Free open public domain football data (football.db) for players (goalkeepers, defenders, midfielders, forwards)_
 
-**quick-starter** ★69 (35 kb)  <br>
+**quick-starter** ★70 (36 kb)  <br>
 _football.db quick starter datafile templates for worldcup.db, euro.db, england.db, etc. - build your own football.db with the sportdb command line tool_
 
 **schema** ★7 (7 kb)  <br>
 _football.db database schema docu_
 
-**schema.sql** ★40 (12 kb)  <br>
+**schema.sql** ★45 (12 kb)  <br>
 _football.db database schema (tables, views, etc.) scripts (in SQL) and documentation_
 
-**south-america** ★72 (288 kb)  <br>
+**south-america** ★76 (288 kb)  <br>
 _Free open public domain football data (football.db) for South America (incl. Brazil • Brasil, Argentina, and much more)_
 
 **spec** ★2 (48 kb)  <br>
 _Football.TXT Format Spec (& Tests)_
 
-**stadiums** ★21 (37 kb)  <br>
+**stadiums** ★26 (40 kb)  <br>
 _Free open public domain football stadium data_
 
 **women-euro-cup** ★1 (8 kb)  <br>
@@ -1153,16 +1139,16 @@ _Free open public domain football data (football.db) for Women's Euro (incl. The
 **women-world-cup** ★4 (144 kb)  <br>
 _Free open public domain football data for the Women's World Cup (incl. Canada 2015, etc.)_
 
-**world** ★3 (712 kb)  <br>
+**world** ★4 (712 kb)  <br>
 _Free open public domain football data incl. major leagues from North America, Asia, Australia and much more_
 
-**worldcup** ★464 (638 kb)  <br>
+**worldcup** ★533 (692 kb)  <br>
 _Free open public domain football data for the World Cup (incl. Qatar 2022, Russia 2018, Brazil 2014, etc.) and World Cup Quali(fiers)_  <br>
-`worldcup` · `worldcup2018` · `russia2018` · `opendata` · `football` · `brazil2014`
+`worldcup` · `worldcup2018` · `russia2018` · `opendata` · `football` · `brazil2014` · `qatar2022` · `worldcup2022`
 
-**worldcup.json** ★157 (81 kb)  <br>
-_Free open public domain football data for the world cups in JSON incl. Russia 2018 and more - No API key required ;-)_  <br>
-`worldcup` · `worldcup2018` · `russia2018` · `json` · `api` · `football` · `opendata`
+**worldcup.json** ★172 (81 kb)  <br>
+_Free open public domain football data for the world cups in JSON incl. Qatar 2022, Russia 2018 and more - No API key required ;-)_  <br>
+`worldcup` · `worldcup2018` · `russia2018` · `json` · `api` · `football` · `opendata` · `qatar2022` · `worldcup2022`
 
 
 ### openmundi _(12)_
@@ -1198,16 +1184,39 @@ _Free open public domain data about Vienna, Austria (Wien, Österreich)_
 **world-heritage** ★2 (144 kb)  <br>
 _Free open public domain world heritage sites data (e.g. monument, building, city, mountain, lake, island, desert, forest, etc.)_
 
-**world.csv** ★14 (176 kb)  <br>
+**world.csv** ★15 (176 kb)  <br>
 _Free open public domain world data (incl. countries ) in comma-separated values (CSV) format - e.g. Austria, AT, AUT, 040_
 
-**world.db** ★571 (1088 kb)  <br>
+**world.db** ★573 (1088 kb)  <br>
 _Free open public domain world database 'n' schema for use in any (programming) language (e.g. uses plain text datasets)_
+
+
+### openpunkart _(5)_
+
+**punkart.blocks** ★70 (818 kb)  <br>
+_DIY (Do-It-Yourself) - Yes, You Can! Design Your Own Punk (Pixel) Characters / Heads using the Punk (Building) Blocks in the 24×24px Format And Much More_  <br>
+`24x24` · `pixelart` · `24px` · `punks` · `punkverse` · `punkart`
+
+**punkart.blocks.black** ★2 (89 kb)  <br>
+_Punk Building Block Series Vol. 3 - Black & White (1-Bit) Punk Pixel Heads_  <br>
+`1bit` · `24px` · `pixelart` · `punks` · `punkart` · `punkverse`
+
+**punkart.blocks.bodies** ★15 (176 kb)  <br>
+_DIY (Do-It-Yourself) - Yes, You Can! Design Your Own Punk (Pixel) Characters / Heads+Bodies using the Punk (Building) Blocks in the 24×24px (or 32×32px or 40×40px ) Formats And Much More_  <br>
+`24px` · `punks` · `pixelart` · `24x24` · `punkverse` · `32px` · `basketball` · `bodies` · `football` · `hotties` · `40px` · `meninblack` · `punkart`
+
+**punkart.spritesheet** ★1 (121 kb)  <br>
+_Punk Sprite Sheet - A Unicode-Like Universal Code Page for All Punk Archetypes & Attributes in a Free to Download Single Sprite Sheet Image_  <br>
+`24px` · `pixelart` · `punks` · `heads` · `sprites` · `spritesheet` · `punkart` · `punkverse`
+
+**punkart.starter.magick** ★7 (413 kb)  <br>
+_DIY (Do-It-Yourself) - Yes, You Can! Design Your Own Punks Using the Punk (Building) Blocks - Let's Get Started w/ ImageMagick_  <br>
+`24px` · `32px` · `pixelart` · `punks` · `imagemagick` · `magick` · `punkart` · `punkverse`
 
 
 ### opensport _(6)_
 
-**american-football.db** ★14 (160 kb)  <br>
+**american-football.db** ★16 (160 kb)  <br>
 _Free open public domain National Football League (NFL) database 'n' schema for use in any (programming) language e.g. uses plain text datasets_
 
 **formula1.db** ★17 (204 kb)  <br>
@@ -1235,56 +1244,96 @@ _Free open public domain wine n winery data for Austria (Österreich) / Europe_
 _Build scripts for wine.db, etc._
 
 
+### ordbase _(4)_
+
+**ordbase** ★3 (419 kb)  <br>
+_Ordinal inscription command line tools, machinery & helpers for Bitcoin, Litcoin, Dogecoin & Co._  <br>
+`24px` · `ordbase` · `ordinals` · `punks` · `punkverse`
+
+**ordbase.server** ★8 (268 kb)  <br>
+_ordbased - (zero-config) art base server for ordinal inscriptions_  <br>
+`24px` · `32px` · `artbase` · `ordbase` · `ordinals` · `pixelart` · `punks`
+
+**ordinals.cache** ★18 (701 kb)  <br>
+_Ordinals (Inscription Metadata) Cache_  <br>
+`artbase` · `inscriptions` · `ordinals` · `ordbase`
+
+**ordinals.sandbox** ★13 (5536 kb)  <br>
+_ordinals (pixel art) sandbox incl. punks & more_  <br>
+`24px` · `pixelart` · `ordinals` · `punks` · `artbase` · `inscriptions` · `ordbase`
+
+
+### ordinalpunks _(4)_
+
+**awesome-ordinalpunks** ★2 (885 kb)  <br>
+_Awesome 100 Ordinal Punks (Anno 2023) Notes - 24×24 Pixel Art on the (Bitcoin) Blockchain_  <br>
+`24px` · `inscriptions` · `ordinalpunks` · `ordinals` · `punks`
+
+**ordinalpunks.sandbox** ★2 (4730 kb)  <br>
+_ordinalpunks.sandbox - how-tos and sample scripts to generate your own ordinal punk pixel art and more_  <br>
+`24px` · `ord` · `ordinalpunks` · `ordinals` · `pixelart` · `punks`
+
+**ordinalpunks.server** ★3 (109 kb)  <br>
+_ordpunkd - (zero-config) art base server for ordinal punks fam & frens_  <br>
+`24px` · `artbase` · `ordinals` · `pixelart` · `punkart` · `punks` · `punkverse` · `ordpunks`
+
+**ordinalpunks.starter** ★6 (292 kb)  <br>
+_DIY (Do-It-Yourself) - Yes, You Can - Ordinal Punks, Free Quick Starter Edition -  Generate Your Own Pixel Art (From Text-Prompts)_  <br>
+`24px` · `inscriptions` · `ordinals` · `pixelart` · `punks` · `text-to-image` · `ordinalpunks`
+
+
 ### persondb _(1)_
 
 **person.db.models** ★1 (184 kb)  <br>
 _persondb gem - person schema & models for easy reuse in Ruby _
 
 
-### pixelartexchange _(11)_
+### pixelartexchange _(12)_
 
-**artbase** ★11 (3506 kb)  <br>
-_artbase ("right-clicker") command line tool & scripts - download complete pixel art collections - yes, you can! - automate "right-click 'n' download" and much more_  <br>
+**.github** ★1 (19 kb)  <br>
+_GitHub Org page for Pixel Art Exchange_
+
+**artbase** ★14 (6125 kb)  <br>
+_artbase ("right-clicker") command line tool & scripts - download complete pixel art collections - yes, you can! - automate "right-click 'n' save" and much more_  <br>
 `dotiverse` · `currency` · `pixelart` · `currencyart` · `pixelate` · `24x24` · `32x32` · `24px` · `punkverse` · `cryptopunks` · `artbase`
 
-**artbase.server** ★74 (182 kb)  <br>
+**artbase.js** ★6 (13326 kb)  <br>
+_artbase.js  - query collection metadata & images via sql & more - all-in-one single-file sqlite database_  <br>
+`artbase` · `punkbase` · `sqlite` · `sqljs`
+
+**artbase.sandbox** ★18 (92369 kb)  <br>
+_Artbase Sandbox (& Cache) - Quick & Dirty "One-Off" Scripts To Download Complete Collections_  <br>
+`24px` · `24x24` · `pixelart` · `32x32` · `artbase` · `punkverse` · `42x42` · `moonbirds`
+
+**artbase.sandbox.vol2** ★3 (30869 kb)  <br>
+_Artbase Sandbox (& Cache) Vol. 2 - Quick & Dirty "One-Off" Scripts To Download Complete Collections_  <br>
+`punkverse` · `24px` · `artbase` · `pixelart`
+
+**artbase.sandbox.vol3** ★11 (4119 kb)  <br>
+_Artbase Sandbox (& Cache) Vol. 3 - Quick & Dirty "One-Off" Scripts To Download Complete Collections_
+
+**artbase.server** ★76 (174 kb)  <br>
 _artbase - zero-config web server / services; (auto-)downloads & serves pre-configured pixel art collections "out-of-the-box"; incl. 2x/4x/8x zoom for bigger image sizes and more; binaries for easy "xcopy" installation for windows, linux & friends_  <br>
 `pixelart` · `artbase` · `24x24` · `24px` · `32x32` · `punkverse` · `cryptopunks`
 
-**collections** ★2 (28218 kb)  <br>
+**collections** ★7 (88873 kb)  <br>
 _Pixel Art Collection Gallery (& Downloads)_  <br>
-`pixelart` · `24x24` · `32x32` · `24px` · `artbase`
+`pixelart` · `24x24` · `32x32` · `24px` · `artbase` · `42x42` · `moonbirds` · `punkverse`
 
-**collections.meta** ★8 (475 kb)  <br>
+**collections.meta** ★9 (695 kb)  <br>
 _Pixel Art Collection Meta Data (Attributes & More) - Download Datasets in the Comma-Separated Values (CSV) Format_  <br>
-`currencyart` · `dotiverse` · `pixelart` · `punkverse` · `24x24` · `32x32`
+`currencyart` · `dotiverse` · `pixelart` · `punkverse` · `24x24` · `32x32` · `10000` · `42x42` · `moonbirds`
 
-**currencycats.starter** ★15 (914 kb)  <br>
-_DIY (Do-It-Yourself) - Yes, You Can! Currency Art Collection Quick Starter - Generate Your Own Currency Cats Collections_  <br>
-`currencyart` · `24px` · `24x24` · `coolcats` · `pixelart`
+**moonbirds.sandbox** ★11 (22093 kb)  <br>
+_Moonbirds, Fast Food Moonbirds (Vol. I&II), Lil' Moonbirdies, & More -  Pixel Owls Sandbox (& Download Cache) - Scripts, (Token) Meta Data, Images & More_  <br>
+`10000` · `42x42` · `moonbirds` · `pixelart` · `pixelowls` · `24x24` · `moonbirdies`
 
-**currencydodge.starter** ★5 (829 kb)  <br>
-_DIY (Do-It-Yourself) - Yes, You Can! Currency Art Collection Quick Starter - Generate Your Own Currency Dodge Collections_  <br>
-`currencyart` · `dodge` · `pixelart` · `24px` · `24x24`
+**opensea.cache** ★27 (1109 kb)  <br>
+_Opensea (Pixel) Art Collection / Token Meta Data (Download) Cache_  <br>
+`24px` · `artbase` · `opensea`
 
-**opensea.sandbox** ★4 (4855 kb)  <br>
+**opensea.sandbox** ★5 (4855 kb)  <br>
 _Quick & Dirty "One-Off" Scripts to Download Complete Collections (from Open Sea)_
-
-**pixelart** ★46 (368 kb)  <br>
-_pixel art (and graphics) libraries & scripts_  <br>
-`pixelart` · `24x24` · `32x32`
-
-**pixelart.blocks** ★18 (32 kb)  <br>
-_DIY (Do-It-Yourself) - Yes, You Can! Design Your Own Pixel Art using (Building) Blocks for Cool Cats (24×24), Blocky Doge, And More_  <br>
-`pixelart` · `24px` · `coolcats` · `doge`
-
-**pixelart.gallery** ★2 (18 kb)  <br>
-_(Modern dotty spotty) currency art gallery  - free (right-click and save image) downloads incl. high-definition (hi-def) XXXL poster-size quality vector graphics_  <br>
-`dotiverse` · `punkverse` · `currencyart`
-
-**pixelart.howto** ★320 (6907 kb)  <br>
-_pixel art HOWTOs_  <br>
-`24px` · `pixel-art` · `pixelart` · `24x24` · `cryptopunks` · `boredapes` · `cryptotulips` · `punks` · `punkverse`
 
 
 ### planet-templates _(11)_
@@ -1338,16 +1387,16 @@ _planet beer site_
 
 ### planetjekyll _(13)_
 
-**awesome-jekyll** ★559 (128 kb)  <br>
+**awesome-jekyll** ★571 (128 kb)  <br>
 _A collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)_
 
-**awesome-jekyll-editors** ★345 (18 kb)  <br>
+**awesome-jekyll-editors** ★364 (18 kb)  <br>
 _A collection of awesome Jekyll editors_
 
-**awesome-jekyll-plugins** ★1046 (255 kb)  <br>
+**awesome-jekyll-plugins** ★1200 (195 kb)  <br>
 _A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)_
 
-**awesome-jekyll-themes** ★447 (45 kb)  <br>
+**awesome-jekyll-themes** ★478 (45 kb)  <br>
 _A collection of awesome (gem-packaged) Jekyll themes - Add your theme!_
 
 **planet** ★1 (170 kb)  <br>
@@ -1378,19 +1427,16 @@ _Showcase - The World's Greatest Jekyll Static Sites - Add Your Site!_
 _jekyll snippets_
 
 
-### planetopendata _(6)_
+### planetopendata _(5)_
 
 **awesome-austria** ★2 (48 kb)  <br>
 _A collection of awesome open data projects, blogs, news sites, etc. in Austria / Österreich_
 
-**awesome-football** ★150 (18 kb)  <br>
-_A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets_
-
-**awesome-sqlite** ★166 (43 kb)  <br>
+**awesome-sqlite** ★225 (65 kb)  <br>
 _A collection of awesome sqlite tools, scripts, books, etc_  <br>
 `sqlite` · `sql` · `database`
 
-**awesome-world** ★201 (204 kb)  <br>
+**awesome-world** ★202 (204 kb)  <br>
 _A collection of awesome world  (countries, cities, codes, flags, languages, latitude/longitude, etc.) datasets_
 
 **planet** ★1 (206 kb)  <br>
@@ -1405,63 +1451,78 @@ _planet open data site_
 **apps** ★1 (161 kb)  <br>
 _open source ruby and ruby on rails apps_
 
-**awesome** ★205 (165 kb)  <br>
+**awesome** ★209 (165 kb)  <br>
 _Awesome Ruby Collections - Web Servers, Web Frameworks, Rack, Active Record, Functional, Crypto, and More_
 
-**awesome-rubies** ★303 (180 kb)  <br>
+**awesome-rubies** ★323 (180 kb)  <br>
 _A collection of awesome Rubies (compilers, interpreters, virtual machines, parsers, doc generators, version managers, etc.) _
 
-**books** ★49 (407 kb)  <br>
+**books** ★55 (412 kb)  <br>
 _List of all Ruby books_  <br>
 `books` · `ruby` · `rails` · `booklets` · `sinatra` · `gems` · `rubybooks`
 
 **books-old** ★3 (661 kb)  <br>
 _books about ruby_
 
-**calendar-theme** ★1 (13 kb)  <br>
+**calendar-theme** ★1 (16 kb)  <br>
 _Calendar Theme_
 
 **changes** ★3 (155 kb)  <br>
 _ruby version changes 2.5, 2.6, 2.7, 3.0 and all about 3x3_  <br>
 `ruby` · `3x3` · `v26` · `v27` · `v30` · `v25`
 
-**conferences** ★251 (1085 kb)  <br>
-_What's Upcoming in 2022? - A collection of awesome ruby conferences & camps from around the world - Add your ruby conference or camp!_  <br>
+**conferences** ★257 (1083 kb)  <br>
+_What's Upcoming in 2023? - A collection of awesome ruby conferences & camps from around the world - Add your ruby conference or camp!_  <br>
 `ruby` · `eventdb` · `meetups` · `conferences` · `camps` · `awesome` · `ruby-conferences`
 
-**gems** ★75 (3452 kb)  <br>
-_Ruby Football Week 2021, June 11th to June 17th - 7 Days of Ruby (Sports) Gems ++  Best of Ruby Gems Series_  <br>
-`ruby` · `gems` · `opendata` · `blockchain` · `advent` · `advent-2020` · `cryptos` · `csv` · `datapackage` · `mining` · `business-intelligence` · `24x24` · `pixels`
+**gems** ★76 (3449 kb)  <br>
+_Ruby Digital Identity & Metaverse Week 2022, September 5th to September 11st - 7 Days of Ruby (Profile Picture & Avatar Character Generation) Gems ++  Best of Ruby Gems Series_  <br>
+`ruby` · `gems` · `opendata` · `blockchain` · `advent` · `advent-2020` · `cryptos` · `csv` · `datapackage` · `mining` · `business-intelligence` · `24x24` · `pixels` · `avatars` · `metaverse` · `pixelart` · `profilepics`
 
 **hellohoe** ★3 (2 kb)  <br>
 _hellohoe gem - sample source // How to build, package and publish gems with Hoe Rake tasks_
 
-**meetups** ★13 (39 kb)  <br>
+**meetups** ★13 (41 kb)  <br>
 _A collection of awesome ruby meetups & orgs from around the world - Add your ruby meetup!_
 
-**planet** ★14 (168 kb)  <br>
+**planet** ★15 (168 kb)  <br>
 _planet ruby news reader subscriptions (incl. command line rubynews tool - what's news in the ruby world? browse week by week)_
 
-**planetruby.github.io** ★2 (700 kb)  <br>
+**planetruby.github.io** ★2 (703 kb)  <br>
 _planet ruby site_
 
 **quickrefs** ★1 (37 kb)  <br>
 _Upcoming Ruby Quick References (Cheat Sheets)_
 
-**quiz** ★63 (275 kb)  <br>
+**quiz** ★64 (275 kb)  <br>
 _Ruby Quiz is a  fortnightly programming challenge for Ruby programmers. A new Ruby Quiz is sent to the Ruby Talk mailing list once every two weeks. Join us._
 
 
-### plutolive _(3)_
+### profilepic _(6)_
 
-**pluto.admin** ★1 (21 kb)  <br>
-_planet web admin - sintara web app ready to get mounted into your web app_
+**awesome-metaverse** ★1 (277 kb)  <br>
+_Awesome Metaverse(s) - All About Profile Pictures (PFPs), Digital Identities / Avatars & More_  <br>
+`24px` · `awesome` · `metaverse` · `pfp` · `profilepic` · `punks`
 
-**pluto.live** ★8 (403 kb)  <br>
-_planet example site - rails web app in ruby using the pluto gem_
+**hair** ★1 (5 kb)  <br>
+_Hair Colors (& Styles) - Trendy Ideas to Try in 2022 - Is Orange the New Black?_  <br>
+`24px` · `pixelart` · `punkme` · `punks` · `hair` · `haircolor` · `hairstyle`
 
-**pluto.live.starter** ★5 (19 kb)  <br>
-_planet starter example site - sinatra web app in ruby using the pluto gem_
+**originals** ★23 (174 kb)  <br>
+_Factory of Modern Originals (FoMO) - Do-It-Yourself (DIY) Yes, You Can! - Fab(criate) Your Own Unique (Pixel) Artworks w/ Text Attributes (Via Built-In Spritesheets) Incl. 2X/4X/8X Zoom for Bigger Sizes And More_  <br>
+`pixelart` · `24px` · `coolcats` · `doge` · `punks` · `shiba-inu` · `marilyns` · `phunks` · `fomo` · `moonbirds` · `owls`
+
+**profilepic** ★5 (154 kb)  <br>
+_Profile Pic(ture) As A Service_  <br>
+`24px` · `32px` · `doge` · `fomo` · `marcs` · `marilyns` · `moonbirds` · `noun` · `phunks` · `pixelart` · `punks` · `shiba-inu` · `profilepic`
+
+**skintone** ★1 (65 kb)  <br>
+_Skin Tone (Colors & Research) - Beyond (Four Scale 1/2/3/4) Dark, Medium / Mid, Light, Albino_  <br>
+`24px` · `pixelart` · `punks` · `punkme` · `skintone`
+
+**text-to-image** ★18 (876 kb)  <br>
+_text-to-image generation gems / libraries incl. moonbirds, cyberpunks, coolcats, shiba inu doge, nouns & more_  <br>
+`24px` · `24x24` · `avatars` · `cyberpunks` · `doge` · `image-generation` · `moonbirds` · `pixelart` · `profilepic` · `text-to-image` · `punks` · `smileys` · `readymades`
 
 
 ### publicdomainworks _(1)_
@@ -1470,7 +1531,7 @@ _planet starter example site - sinatra web app in ruby using the pluto gem_
 _Public Domain Works Site_
 
 
-### quikstart _(6)_
+### quikstart _(7)_
 
 **gem-starter-template** ★3 (9 kb)  <br>
 _gem quick starter template_  <br>
@@ -1483,6 +1544,9 @@ _gem quick starter template - classic hoe edition_  <br>
 **jekyll-starter-theme** ★3 (6 kb)  <br>
 _jekyll quick starter template / scaffold - build your own (gem-packaged) theme_  <br>
 `quik` · `jekyll`
+
+**mrhyde** ★15 (24 kb)  <br>
+_mrhyde-tools gem - static site quick starter script wizard .:. jekyll command line tool_
 
 **quik** ★34 (37 kb)  <br>
 _quik gem - ruby quick starter template script wizard .:. the missing code generator_  <br>
@@ -1518,59 +1582,67 @@ _football.db RSSSF (Rec.Sport.Soccer Statistics Foundation) Archive Data for Esp
 _football.db.rsssf web site_
 
 
-### rubycoco _(15)_
+### rubycocos _(17)_
+
+**.github** ★2 (16 kb)  <br>
+_Github Org Page for Ruby Code Commons (COCOS) Gems / Libraries_
 
 **activerecord** ★2 (78 kb)  <br>
 _activerecord (database) tools, libraries & scripts_  <br>
 `ruby` · `gems` · `activerecord`
 
-**blockchain** ★169 (1682 kb)  <br>
+**blockchain** ★201 (4191 kb)  <br>
 _blockchain (crypto) tools, libraries & scripts in ruby_  <br>
-`blockchain` · `cryptohash` · `distributed-database` · `proof-of-work` · `merkletree` · `sha256` · `tx` · `transactions` · `blockchain-lite` · `ruby` · `gems` · `hashtree` · `ledger` · `cryptoquotes` · `cryptos` · `elliptic` · `finite-fields` · `oracle`
+`blockchain` · `cryptohash` · `distributed-database` · `proof-of-work` · `merkletree` · `sha256` · `tx` · `transactions` · `blockchain-lite` · `ruby` · `gems` · `hashtree` · `ledger` · `cryptoquotes` · `cryptos` · `elliptic` · `finite-fields` · `oracle` · `solidity`
 
-**core** ★6 (158 kb)  <br>
+**cocos** ★54 (103 kb)  <br>
+_cocos (code commons) - auto-include quick-starter prelude & prolog_  <br>
+`ruby` · `gems` · `cocos` · `commons` · `prelude` · `prolog`
+
+**core** ★8 (249 kb)  <br>
 _core tools, libraries & scripts - logger, config, dates, alphabets, shell & more_  <br>
 `ruby` · `gems` · `logger` · `alphabets` · `props` · `dates`
+
+**csvreader** ★180 (468 kb)  <br>
+_csvreader library / gem -  read tabular data in the comma-separated values (csv) format the right way (uses best practices out-of-the-box with zero-configuration)_  <br>
+`csv` · `csv11` · `json` · `tab` · `tabular` · `tabular-data` · `csvhash` · `csvrecord` · `numerics` · `import` · `export`
 
 **datasets** ★1 (55 kb)  <br>
 _datasets - tools, libraries & scripts_  <br>
 `ruby` · `gems` · `datafile` · `football` · `beer` · `world`
 
-**events** ★12 (47 kb)  <br>
+**events** ★12 (57 kb)  <br>
 _events - tools, libraries & scripts, schemas & formats - (incl. whatson, rubyconf, pycon, beerfest & more)_  <br>
 `ruby` · `gems` · `eventdb` · `whatson` · `rubyconf` · `beerfest`
 
-**flow** ★3 (37 kb)  <br>
-_(work) flow command line tools, libraries & scripts_  <br>
-`flow` · `flow-lite` · `flowfile` · `ruby` · `gems`
+**feedparser** ★162 (1190 kb)  <br>
+_feedparser gem - (universal) web feed parser and normalizer (XML w/ Atom or RSS, JSON Feed, HTML w/ Microformats e.g. h-entry/h-feed or Feed.HTML, Feed.TXT w/ YAML, JSON or INI & Markdown, etc.)_  <br>
+`feed` · `atom` · `rss` · `feedparser` · `jsonfeed` · `microformats` · `hentry` · `hfeed` · `html` · `feedtxt` · `txt` · `yaml` · `json` · `markdown` · `webfeed`
 
-**git** ★16 (196 kb)  <br>
-_git (and github) command line tools, libraries & scripts_  <br>
-`git` · `git-backup` · `github` · `github-traffic` · `github-analytics` · `ruby` · `gems` · `github-api` · `github-statistics` · `git-sync` · `gitfile`
+**gems** ★5 (353 kb)  <br>
+_gems cache (& timelines)_  <br>
+`ruby` · `gems`
 
-**markdown** ★50 (205 kb)  <br>
+**git** ★16 (587 kb)  <br>
+_git (and github)  & monorepo / mono source tree command line tools, libraries & scripts_  <br>
+`git` · `git-backup` · `github` · `github-traffic` · `github-analytics` · `ruby` · `gems` · `github-api` · `github-statistics` · `git-sync` · `gitfile` · `monofile` · `monorepo` · `monorepos` · `monos`
+
+**markdown** ★52 (205 kb)  <br>
 _markdown tools, libraries & scripts_  <br>
 `ruby` · `gems` · `markdown` · `structured-text` · `text` · `markup`
 
-**monos** ★52 (83 kb)  <br>
-_monorepo / mono source tree tools, libraries & scripts_  <br>
-`monorepo` · `monorepos` · `monos` · `monofile` · `ruby` · `gems` · `git` · `git-sync`
-
-**more** ★2 (63 kb)  <br>
+**more** ★3 (90 kb)  <br>
 _more tools, libraries & scripts_  <br>
 `ruby` · `gems` · `fizzbuzz` · `almost-sinatra` · `sinatra`
 
-**programming-bits-bytes** ★11 (76 kb)  <br>
-_Programming Bits, Bytes 'n' Blocks Step-by-Step Book / Guide. Let's start with the three types of strings, that is, bytes, (string) buffers, and (frozen) strings, ..._
-
-**rubycoco.github.io** ★1 (6 kb)  <br>
-_website_
+**rubycocos.github.io** ★2 (31 kb)  <br>
+_Website Source for Ruby Code Commons (COCOS)_
 
 **text** ★3 (200 kb)  <br>
 _text tools, libraries & scripts incl. text filters, helpers, readers and more_  <br>
 `ruby` · `gems` · `text`
 
-**webclient** ★5 (45 kb)  <br>
+**webclient** ★6 (48 kb)  <br>
 _web command line tools, libraries & scripts_  <br>
 `ruby` · `gems`
 
@@ -1579,49 +1651,22 @@ _webservice gem - yet another HTTP JSON API (web service) builder_  <br>
 `ruby` · `gem`
 
 
-### s6ruby _(12)_
+### s6ruby _(4)_
 
-**ethereum-contracts** ★9 (89 kb)  <br>
+**ethereum-contracts** ★15 (89 kb)  <br>
 _Ethereum (crypto blockchain) contract / transaction scripts - ponzi & pyramid schemes, lotteries, gambling casinos and more_
 
-**pragmas** ★20 (91 kb)  <br>
-_pragmas gem / library - language syntax pragmas - turn on the future today or add your own ideas for easy (re)use for everyone - let's evolve the ruby language together by experimenting in the wild in a pragma(tic) way_
-
-**programming-crypto-contracts** ★46 (594 kb)  <br>
+**programming-crypto-contracts** ★68 (594 kb)  <br>
 _Programming Crypto Blockchain Contracts Step-by-Step Book / Guide. Let's Start with Ponzi & Pyramid Schemes. Run Your Own Lotteries, Gambling Casinos and more on the Blockchain World Computer..._  <br>
 `contracts` · `universum` · `blockchain` · `ponzis` · `pyramids` · `lotteries` · `casinos` · `casino` · `roulette` · `satoshi-dice` · `ponzi` · `ponzi-scheme` · `pyramid` · `pyramid-scheme` · `puzzle`
 
-**redpaper** ★19 (84 kb)  <br>
+**redpaper** ★20 (84 kb)  <br>
 _Red Paper ++ sruby - Small, Smart, Secure, Safe, Solid & Sound (S6) Ruby - The Ruby Programming Language for Contract / Transaction Scripts on the Blockchain World Computer - Yes, It's Just Ruby_  <br>
 `sruby` · `contract` · `contracts` · `blockchain` · `solidity` · `universum` · `yul` · `vyper`
 
-**ruby-to-michelson** ★15 (187 kb)  <br>
-_(Secure) Ruby to Liquidity w/ ReasonML Syntax / Michelson (Source-to-Source) Cross-Compiler Cheat Sheet / White Paper_  <br>
-`liquidity` · `reasonml` · `michelson` · `tezos` · `contracts` · `smartpy` · `smartml`
-
-**ruby-to-solidity** ★12 (30 kb)  <br>
-_(Secure) Ruby to Solidity (Source-to-Source) Cross-Compiler Cheat Sheet / White Paper_  <br>
-`solidity` · `contracts` · `evm` · `ethereum`
-
-**safemath** ★6 (15 kb)  <br>
-_safemath gem / library - safe math operations (with overflow 'n' underflow protection) on signed and unsigned integer number types (U8, U16, U32, U64, U256, I8, I16, I32, I64, I256)_
-
-**safestruct** ★18 (92 kb)  <br>
-_safestruct library / gem -  safe data structures (array, hash, struct) - say goodbye to null / nil (and maybe) - say hello to zero_
-
-**units-money** ★5 (79 kb)  <br>
-_units-money library / gem - units of (crypto) money (in integer) incl. ether / eth (finney, szabo, shannon, lovelace, babbage, wei), bitcoin / btc (satoshi), sol (terra, luna) and more_
-
-**units-time** ★27 (37 kb)  <br>
-_units-time library / gem - units of time (in epoch time) incl. seconds, minutes, hours, days, weeks, fortnights, years and more_
-
-**universum** ★18 (161 kb)  <br>
+**universum** ★18 (185 kb)  <br>
 _universum library / gem (ruby edition) - next generation ethereum 2.0 world computer runtime; run contract scripts / transactions (in plain vanilla / standard ruby) on the blockchain; update the (contract-protected / isolated) world states with plain vanilla / standard SQL - work-in-progress / experimental_  <br>
 `universum` · `contracts` · `transactions` · `blockchain` · `sql` · `worldstate` · `worldcomputer` · `s6ruby` · `sruby`
-
-**universum-contracts** ★14 (116 kb)  <br>
-_universum contract / transaction scripts (in plain vanilla / standard ruby) for the next generation ethereum 2.0 world computer_  <br>
-`universum` · `contracts` · `transactions` · `blockchain` · `solidity` · `vyper` · `ruby`
 
 
 ### schemadoc _(2)_
@@ -1631,12 +1676,6 @@ _schemadoc gem - document your database schemas_
 
 **schemadoc-theme** ★7 (28 kb)  <br>
 _Schema Theme - Database Docu for Tables, Fields, etc._
-
-
-### shellpress _(1)_
-
-**raspberrypi** ★1 (38238 kb)  <br>
-_Raspberry Pi Documentation (Manuscripts Edition)_
 
 
 ### slidekit _(7)_
@@ -1668,19 +1707,19 @@ _talks starter (s6 blank) - write your talks / presentations / slides in plain t
 
 ### slideshow-s9 _(9)_
 
-**awesome-slideshows** ★33 (5 kb)  <br>
+**awesome-slideshows** ★34 (5 kb)  <br>
 _Awesome Slide Shows / Presentations / Talks - Tools, Themes & Templates, Articles, etc._
 
-**demos** ★5 (10809 kb)  <br>
+**demos** ★6 (10809 kb)  <br>
 _Slide Show (S9) Demos - Generated HTML Slides Using Various Template Packs (S5, S6, Google, Deck.js, etc.)_
 
-**docs** ★8 (156 kb)  <br>
+**docs** ★10 (156 kb)  <br>
 _slide show (s9) docs_
 
 **samples** ★1 (122 kb)  <br>
 _Slide Show (S9) Sample Talks in Markdown_
 
-**slideshow** ★178 (1334 kb)  <br>
+**slideshow** ★181 (1334 kb)  <br>
 _slideshow gems - write your slides / talks / presentations in plain text with markdown formatting conventions_  <br>
 `markdown` · `kramdown` · `talks` · `slideshow` · `s9` · `s6` · `plaintext` · `keynote` · `powerpoint` · `deckjs` · `revealjs` · `impressjs` · `html` · `css` · `presentations` · `bespokejs` · `slides`
 
@@ -1721,7 +1760,7 @@ _Google I/O 2011 - Slide Show (S9) Template Pack_
 **slideshow-impress.js** ★98 (77 kb)  <br>
 _impress.js - Slide Show (S9) Template Pack_
 
-**slideshow-reveal.js** ★17 (1536 kb)  <br>
+**slideshow-reveal.js** ★18 (1536 kb)  <br>
 _reveal.js - Slide Show (S9) Template Pack_
 
 **slideshow-s5-blank** ★6 (90 kb)  <br>
@@ -1758,7 +1797,7 @@ _datasets directory - add your datasets!_
 **docs** ★4 (56 kb)  <br>
 _sport.db (incl. football.db) scripts & tools docs_
 
-**football.db** ★9 (219 kb)  <br>
+**football.db** ★8 (219 kb)  <br>
 _football.db - zero-config (pre-packaged) open football datasets / catalogs for countries, leagues & cups, clubs and more_  <br>
 `football` · `footballtxt` · `ruby` · `gems` · `sportdb` · `footballdb` · `fifa` · `sqlite` · `to-sqlite` · `datasette`
 
@@ -1766,7 +1805,7 @@ _football.db - zero-config (pre-packaged) open football datasets / catalogs for 
 _footty gem - football.db command line client for european ("euro") championship 2020 (in 2021) and more - who's playing today?_  <br>
 `worldcup` · `worldcup2018` · `russia2018` · `euro2020` · `euro2021`
 
-**sport.db** ★207 (2369 kb)  <br>
+**sport.db** ★212 (2371 kb)  <br>
 _sport.db - open sports database (e.g. football.db, formula1.db etc.) command line tool and libraries_  <br>
 `sport` · `opendata` · `football` · `ruby` · `gems`
 
@@ -1804,17 +1843,11 @@ _Football matchday widget in JavaScript using the football.db HTTP JSON(P) API_ 
 **sport.db.starter.go** ★2 (192 kb)  <br>
 _sportdb web service starter sample - build your own HTTP JSON API using the football.db, worldcup.db, ski.db, formulal1.db, etc. _
 
-**sport.db.starter.node.js** ★14 (164 kb)  <br>
+**sport.db.starter.node.js** ★17 (164 kb)  <br>
 _sportdb web service starter sample - build your own HTTP JSON API using the football.db, worldcup.db, ski.db, formulal1.db, etc._
 
 **sport.db.starter.ruby** ★15 (13 kb)  <br>
 _sportdb web service starter sample - build your own HTTP JSON API using the football.db, worldcup.db, ski.db, formulal1.db, etc._
-
-
-### sportlabs _(1)_
-
-**major-league-soccer** ★2 (819 kb)  <br>
-_scripts for major league soccer (MLS) _
 
 
 ### sportlogos _(6)_
@@ -1838,15 +1871,12 @@ _sportdb-logos gem - national team logos bundled for reuse w/ asset pipeline_
 _Sport(s) Logos Web Site_
 
 
-### staystatic _(5)_
+### staystatic _(4)_
 
-**awesome-static** ★44 (18 kb)  <br>
+**awesome-static** ★44 (22 kb)  <br>
 _A collection of awesome static website compiler / builder / generator goodies (tools, templates 'n' themes, plugins 'n' extensions, guides, services, etc.)_
 
-**quickrefs** ★3 (8 kb)  <br>
-_Quick References (Cheat Sheets)_
-
-**staystatic** ★60 (212 kb)  <br>
+**staystatic** ★59 (212 kb)  <br>
 _Stay Static - Website Compiler Showcase - One Design, Many Samples - Jekyll • Middleman • Nanoc • Webgen • Metalsmith • Gatsby • Phenomic • Cuttlebelle • Harp • Nikola • Hugo • Jigsaw - Add Your Sample!_  <br>
 `jekyll` · `middleman` · `nanoc` · `webgen` · `metalsmith` · `gatsby` · `harp` · `nikola` · `hugo` · `jigsaw` · `static` · `staystatic` · `website-compiler`
 
@@ -1872,7 +1902,7 @@ _Website and Spec(ification) - Text with Instructions (.texti) - Structured Docu
 
 ### updownpress _(2)_
 
-**markdown-lint** ★44 (49 kb)  <br>
+**markdown-lint** ★50 (49 kb)  <br>
 _Markdown Lint Tool / Checker Documentation by Mark Harrison (Manuscripts Edition)_
 
 **updownpress.github.io** ★1 (7 kb)  <br>
@@ -1881,43 +1911,25 @@ _Up & Down Press Bookshelf_
 
 ### viennacrypto _(1)_
 
-**viennacrypto.github.io** ★6 (214 kb)  <br>
-_Website Source - Vienna Crypto (Punk) Programming Meetup / Stammtisch in Austria_  <br>
+**viennacrypto.github.io** ★8 (378 kb)  <br>
+_Website Source - Vienna Crypto & D.I.Y. Punk (Pixel) Art Programming Meetup / Stammtisch in Austria_  <br>
 `austria` · `vienna` · `meetup` · `stammtisch` · `crypto` · `blockchain` · `public-key` · `private-key` · `signatures` · `consensus` · `contract-progamming` · `wien` · `punkverse` · `24px` · `cryptopunks` · `pixelart`
 
 
-### viennarb _(3)_
+### viennarb _(2)_
 
 **planet** ★1 (2917 kb)  <br>
 _Planet Vienna.rb_
 
-**questions** ★1 (24 kb)  <br>
-_Q&As - Questions & Answers Interview Series_
-
-**viennarb.github.io** ★5 (104 kb)  <br>
+**viennarb.github.io** ★6 (180 kb)  <br>
 _Website Source - Vienna.rb / Wien.rb - Ruby Meetup / Stammtisch in Vienna, Austria_  <br>
 `ruby` · `vienna` · `austria` · `meetup` · `stammtisch` · `wien` · `scripting` · `programming`
 
 
-### webstart _(6)_
+### webstart _(1)_
 
-**links** ★1 (24 kb)  <br>
-_Link Bookmarking & Voting Sample App_
-
-**manman** ★1 (132 kb)  <br>
-_manman gem - Manifest Manager in Ruby_
-
-**upman** ★1 (200 kb)  <br>
-_upman gem - Update Manager in Ruby_
-
-**upman-win** ★1 (160 kb)  <br>
-_Update Manager for Windows (in .NET)_
-
-**webstart** ★1 (2939 kb)  <br>
+**webstart** ★1 (2990 kb)  <br>
 _webstart libraries / jars incl. webstart-server.jar, etc. _
-
-**webstart.github.io** ★1 (148 kb)  <br>
-_project website_
 
 
 ### wikiscript _(4)_
@@ -1925,7 +1937,7 @@ _project website_
 **beer.json** ★1 (29 kb)  <br>
 _Beers 'n' Breweries Sourced from Wikipedia Pages Converted into JSON_
 
-**countries.json** ★7 (706 kb)  <br>
+**countries.json** ★11 (706 kb)  <br>
 _World Country Profiles Sourced from Wikipedia's Country Page Infoboxes Converted into JSON - Free Open Public Domain Data_  <br>
 `wikipedia` · `countries` · `infobox`
 
@@ -1938,18 +1950,12 @@ _wikiscript gem - scripts for wikipedia (get wikitext for page, parse tables & l
 `wikitext` · `wikiscript` · `wikitree` · `wikipedia` · `opendata` · `infobox` · `wikitable`
 
 
-### worldbook _(1)_
-
-**worldbook.github.io** ★2 (392 kb)  <br>
-_The Free World Book / Alamanc_
-
-
 ### worldclassics _(3)_
 
-**dr-jekyll-and-mr-hyde** ★7 (136 kb)  <br>
+**dr-jekyll-and-mr-hyde** ★8 (136 kb)  <br>
 _Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson_
 
-**the-trial** ★5 (185 kb)  <br>
+**the-trial** ★6 (185 kb)  <br>
 _The Trial by Franz Kafka_
 
 **worldclassics.github.io** ★4 (12 kb)  <br>
@@ -1958,7 +1964,7 @@ _World Classics Bookshelf_
 
 ### worlddb _(8)_
 
-**world.db** ★71 (385 kb)  <br>
+**world.db** ★72 (385 kb)  <br>
 _world.db - open world database (world.db) command line tool and libraries_  <br>
 `opendata` · `world` · `countries` · `provinces` · `states` · `cities` · `places` · `countrycodes`
 
@@ -1971,13 +1977,13 @@ _world.db web app sample listing the world's greatest cities_
 **world.db.codes** ★7 (161 kb)  <br>
 _world.db web app for country codes (alpha 2, alpha 3, internet top level domains, motor vehicle license plates, etc.)_
 
-**world.db.flags** ★8 (1644 kb)  <br>
+**world.db.flags** ★9 (1644 kb)  <br>
 _worlddb-flags gem - country flags (24x24, 32x32, 48x48, 64x64) bundled for reuse w/ asset pipeline_
 
 **world.db.service** ★1 (1 kb)  <br>
 _world.db HTTP JSON API (web service) scripts_
 
-**world.db.starter** ★10 (12 kb)  <br>
+**world.db.starter** ★9 (12 kb)  <br>
 _world.db web service starter sample -  build your own HTTP JSON API using the world.db_
 
 **world.lite** ★53 (190 kb)  <br>
@@ -1989,7 +1995,7 @@ _worldlite gem - lightweight public domain country data (all data included as go
 **auto** ★2 (72 kb)  <br>
 _Gem Series ++ Project Automation & Database Documentation Tools by Gerald Bauer et al - quik • hoe • schemadoc • erd • annotate • and more_
 
-**blockchains** ★56 (455 kb)  <br>
+**blockchains** ★57 (455 kb)  <br>
 _Programming Cryptocurrencies and Blockchains by Gerald Bauer et al_
 
 **examples** ★1 (28 kb)  <br>
@@ -1999,13 +2005,13 @@ _Ruby by Examples_
 _FizzBuzz by Example (Book Edition) by Tom Dalling, Paweł Świątkowski, Gerald Bauer, et al - 1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, Fizz Buzz, ... There's more than one way to do it (TMTOWTDI or TIMTOWTDI)_  <br>
 `fizzbuzz` · `tmtowtdi` · `timtowtdi`
 
-**gem-dev** ★22 (31 kb)  <br>
+**gem-dev** ★23 (31 kb)  <br>
 _Gem Developer's Guide (Book Edition) by Nick Quaranto, Eric Hodel, et al_
 
 **gem-tasks** ★16 (64 kb)  <br>
 _ Hoe Developer's Guide - Build, Package and Publish Gems with Rake Tasks - Ready-to-Use Build Scripts (Book Edition) by Ryan Davis et al_
 
-**http** ★15 (10 kb)  <br>
+**http** ★17 (10 kb)  <br>
 _Net::HTTP by Example / Net::HTTP Cheat Sheet (Book Edition) by August Lilleaas, et al_
 
 **langs** ★33 (122 kb)  <br>
@@ -2017,13 +2023,13 @@ _Gem Series ++ Web Services (HTTP JSON APIs) the Modern Micro Way by Gerald Baue
 **practices** ★2 (324 kb)  <br>
 _Ruby Best Practices by Gregory Brown_
 
-**practicing** ★56 (93 kb)  <br>
+**practicing** ★55 (93 kb)  <br>
 _Best of Practicing Ruby (Book Edition) by Gregory Brown, Luke Francl, Magnus Holm, Aaron Patterson, Solomon White et al_
 
 **sinatra-intro** ★13 (20 kb)  <br>
 _Sinatra Introduction (Book Edition) by Chris Schneider, Zachary Scott et al_
 
-**smalldata** ★3 (39 kb)  <br>
+**smalldata** ★4 (39 kb)  <br>
 _Small Data Handbook by Gerald Bauer et al - Working with (Structured) Data (in Text) the Modern Way - CSV •  INI •  TOML •  JSON •  YAML •  XML!? -  Do-It-Yourself (DIY) - Design Your Own (Structured) Data Formats_  <br>
 `csv` · `ini` · `opendata` · `frictionlessdata` · `yaml` · `json` · `rss` · `atom` · `sqlite` · `csv11` · `json5` · `hjson` · `hanson` · `toml` · `xml` · `sql` · `html` · `microformats` · `feedtxt`
 

@@ -1,3 +1,8 @@
+###################################
+# to run use:
+#   $  ruby script/reports.rb
+
+
 require_relative 'helper'
 
 
