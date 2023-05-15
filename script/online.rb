@@ -1,3 +1,9 @@
+###################################
+# to run use:
+#   $  ruby script/online.rb
+
+
+
 require_relative 'helper'
 
 
@@ -6,7 +12,8 @@ require_relative 'helper'
 ##     instead of  save_json !!!
 
 
-h = Hubba.reposet( 'geraldb', 'yorobot', cache: true )
+## h = Hubba.reposet( 'geraldb', 'yorobot', cache: true )
+h = Hubba.reposet( 'geraldb', 'yorobot' )
 pp h
 
 save_yaml( "./config/repos.yml", h )

@@ -14,3 +14,9 @@ cache/
 ################
 # ignore downloaded gems for local installs
 *.gem
+
+
+# do NOT check in dev/test enviroment variables in .env (dot env files)
+.env
+.env.yml
+.env.yaml
