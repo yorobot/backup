@@ -2,16 +2,16 @@ Auto-generated github (statistics) report;
 built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-reports).
 
 
-# Languages - 542 Repos @ 72 Orgs
+# Languages - 542 Repos @ 71 Orgs
 
 language lines in byte / language used in repos (count)
 
-1. 24402390 (47.35%) **HTML** _(151)_
-2. 8353858 (16.21%) **Ruby** _(136)_
-3. 7985015 (15.49%) **Solidity** _(10)_
-4. 7741490 (15.02%) **JavaScript** _(58)_
-5. 1536455 (2.98%) **CSS** _(105)_
-6. 654976 (1.27%) **C++** _(3)_
+1. 24433383 (47.02%) **HTML** _(154)_
+2. 8764335 (16.87%) **Ruby** _(140)_
+3. 7985015 (15.37%) **Solidity** _(10)_
+4. 7724384 (14.87%) **JavaScript** _(55)_
+5. 1536455 (2.96%) **CSS** _(105)_
+6. 654976 (1.26%) **C++** _(3)_
 7. 424285 (0.82%) **Go** _(7)_
 8. 112578 (0.22%) **Java** _(2)_
 9. 92844 (0.18%) **C#** _(3)_
@@ -35,10 +35,10 @@ language lines in byte / language used in repos (count)
 
 Languages used in repos (count):
 
-1. 151 (55.72%) **HTML** (24402390 bytes)
-2. 136 (50.18%) **Ruby** (8353858 bytes)
+1. 154 (56.83%) **HTML** (24433383 bytes)
+2. 140 (51.66%) **Ruby** (8764335 bytes)
 3. 105 (38.75%) **CSS** (1536455 bytes)
-4. 58 (21.40%) **JavaScript** (7741490 bytes)
+4. 55 (20.30%) **JavaScript** (7724384 bytes)
 5. 10 (3.69%) **Solidity** (7985015 bytes)
 6. 7 (2.58%) **Go** (424285 bytes)
 7. 7 (2.58%) **SCSS** (20935 bytes)
