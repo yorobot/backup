@@ -1,10 +1,11 @@
 ---
-geraldb (8):
+geraldb (9):
 - geraldb
 - geraldb.github.io
 - help
 - mailarchive
 - notes
+- quick
 - reddit
 - sandbox
 - talks
@@ -26,9 +27,11 @@ yorobot (17):
 - workflow
 - world.db
 - yorobot
-0xCompute (5):
+0xCompute (7):
 - punks12px
+- punks12px.vol1
 - punks12px.vol2
+- punks24px
 - rubidity
 - rubidity.review
 - rubysol.starter
@@ -63,9 +66,6 @@ book-templates (4):
 - bookfile
 - football
 - world
-bookdesigns (2):
-- book-git
-- book-rust
 chooseaconduct (1):
 - chooseaconduct.github.io
 cryptocopycats (17):
@@ -382,18 +382,17 @@ opensport (6):
 - opensport.github.io
 - rugby.db
 - ski.db
-openwine (2):
+openwine (1):
 - at-austria
-- build
 orc721 (10):
 - lostfiles.starter
 - market
 - monkes.starter
 - monkes21
+- nodepunks
 - orc721.github.io
 - orditroops.starter
 - punks12px
-- punks24px
 - rocks.starter
 - sandbox
 ordbase (11):
