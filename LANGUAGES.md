@@ -2,17 +2,17 @@ Auto-generated github (statistics) report;
 built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-reports).
 
 
-# Languages - 539 Repos @ 69 Orgs
+# Languages - 539 Repos @ 68 Orgs
 
 language lines in byte / language used in repos (count)
 
-1. 24506356 (45.41%) **HTML** _(149)_
-2. 10429679 (19.32%) **Ruby** _(149)_
-3. 8170214 (15.14%) **Solidity** _(11)_
-4. 7786253 (14.43%) **JavaScript** _(52)_
-5. 1274766 (2.36%) **CSS** _(96)_
+1. 24501128 (45.30%) **HTML** _(146)_
+2. 10555855 (19.52%) **Ruby** _(152)_
+3. 8170214 (15.11%) **Solidity** _(11)_
+4. 7786205 (14.40%) **JavaScript** _(49)_
+5. 1264343 (2.34%) **CSS** _(93)_
 6. 654976 (1.21%) **C++** _(3)_
-7. 424285 (0.79%) **Go** _(7)_
+7. 424285 (0.78%) **Go** _(7)_
 8. 280014 (0.52%) **SCSS** _(11)_
 9. 112578 (0.21%) **Java** _(2)_
 10. 92844 (0.17%) **C#** _(3)_
@@ -37,32 +37,32 @@ language lines in byte / language used in repos (count)
 
 Languages used in repos (count):
 
-1. 149 (54.58%) **HTML** (24506356 bytes)
-2. 149 (54.58%) **Ruby** (10429679 bytes)
-3. 96 (35.16%) **CSS** (1274766 bytes)
-4. 52 (19.05%) **JavaScript** (7786253 bytes)
-5. 11 (4.03%) **SCSS** (280014 bytes)
-6. 11 (4.03%) **Solidity** (8170214 bytes)
-7. 7 (2.56%) **Go** (424285 bytes)
-8. 5 (1.83%) **Python** (73076 bytes)
-9. 4 (1.47%) **Shell** (7543 bytes)
-10. 3 (1.10%) **C#** (92844 bytes)
-11. 3 (1.10%) **C++** (654976 bytes)
+1. 152 (55.47%) **Ruby** (10555855 bytes)
+2. 146 (53.28%) **HTML** (24501128 bytes)
+3. 93 (33.94%) **CSS** (1264343 bytes)
+4. 49 (17.88%) **JavaScript** (7786205 bytes)
+5. 11 (4.01%) **SCSS** (280014 bytes)
+6. 11 (4.01%) **Solidity** (8170214 bytes)
+7. 7 (2.55%) **Go** (424285 bytes)
+8. 5 (1.82%) **Python** (73076 bytes)
+9. 4 (1.46%) **Shell** (7543 bytes)
+10. 3 (1.09%) **C#** (92844 bytes)
+11. 3 (1.09%) **C++** (654976 bytes)
 12. 2 (0.73%) **Batchfile** (328 bytes)
 13. 2 (0.73%) **Java** (112578 bytes)
 14. 2 (0.73%) **Makefile** (3042 bytes)
 15. 2 (0.73%) **NewLisp** (8946 bytes)
 16. 2 (0.73%) **Perl 6** (9044 bytes)
 17. 2 (0.73%) **SystemVerilog** (10930 bytes)
-18. 1 (0.37%) **C** (310 bytes)
-19. 1 (0.37%) **Dockerfile** (168 bytes)
-20. 1 (0.37%) **Elm** (8512 bytes)
-21. 1 (0.37%) **Kotlin** (4885 bytes)
-22. 1 (0.37%) **PHP** (1445 bytes)
-23. 1 (0.37%) **Perl** (73172 bytes)
-24. 1 (0.37%) **Rust** (12744 bytes)
-25. 1 (0.37%) **Smarty** (121 bytes)
-26. 1 (0.37%) **TypeScript** (25328 bytes)
+18. 1 (0.36%) **C** (310 bytes)
+19. 1 (0.36%) **Dockerfile** (168 bytes)
+20. 1 (0.36%) **Elm** (8512 bytes)
+21. 1 (0.36%) **Kotlin** (4885 bytes)
+22. 1 (0.36%) **PHP** (1445 bytes)
+23. 1 (0.36%) **Perl** (73172 bytes)
+24. 1 (0.36%) **Rust** (12744 bytes)
+25. 1 (0.36%) **Smarty** (121 bytes)
+26. 1 (0.36%) **TypeScript** (25328 bytes)
 <!-- break -->
 
 
