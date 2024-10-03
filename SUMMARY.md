@@ -2,15 +2,15 @@ Auto-generated github (statistics) report;
 built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-reports).
 
 
-# Summary - 539 Repos @ 70 Orgs
+# Summary - 535 Repos @ 70 Orgs
 
 ### geraldb _(9)_
 
-**geraldb** ★4 (34 kb) · **geraldb.github.io** ★4 (830 kb) · **help** ★3 (25 kb) · **mailarchive** ★2 (11370 kb) · **notes** ★3 (14840 kb) · **quick** ★8 (105 kb) · **reddit** ★2 (538 kb) · **sandbox** ★3 (2782 kb) · **talks** ★217 (18488 kb)
+**geraldb** ★4 (34 kb) · **geraldb.github.io** ★4 (830 kb) · **help** ★4 (25 kb) · **mailarchive** ★2 (11370 kb) · **notes** ★3 (14840 kb) · **quick** ★8 (109 kb) · **reddit** ★2 (538 kb) · **sandbox** ★3 (2782 kb) · **talks** ★218 (18488 kb)
 
 ### 0xCompute _(6)_
 
-**ethscribe** ★1 (14665 kb) · **punks12px** ★1 (9243 kb) · **punks24px** ★4 (5386 kb) · **rubidity** ★21 (5878 kb) · **rubidity.review** ★2 (52 kb) · **rubysol.starter** ★8 (39 kb)
+**ethscribe** ★2 (14665 kb) · **punks12px** ★1 (9243 kb) · **punks24px** ★4 (5386 kb) · **rubidity** ★22 (5878 kb) · **rubidity.review** ★3 (52 kb) · **rubysol.starter** ★8 (39 kb)
 
 ### beerbook _(3)_
 
@@ -22,15 +22,15 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### bibtxt _(1)_
 
-**bibtxt.github.io** ★5 (3 kb)
+**bibtxt.github.io** ★4 (3 kb)
 
 ### bigkorupto _(3)_
 
-**awesome-nocode** ★40 (367 kb) · **mammad-kabiri-uniqa** ★13 (120 kb) · **sources** ★12 (12207 kb)
+**awesome-nocode** ★41 (367 kb) · **mammad-kabiri-uniqa** ★13 (120 kb) · **sources** ★12 (12207 kb)
 
 ### bitsblocks _(11)_
 
-**bitcoin-maximalist** ★7 (1166 kb) · **bitcoin-whitepaper** ★7 (107 kb) · **bitsblocks.github.io** ★1 (4080 kb) · **colored-coins-whitepaper** ★1 (175 kb) · **crypto-bubbles** ★2 (218 kb) · **crypto-facts** ★2 (36 kb) · **ethereum** ★4 (50 kb) · **ethereum-whitepaper** ★3 (334 kb) · **get-rich-quick-bible** ★16 (2700 kb) · **islandcoin-whitepaper** ★2 (238 kb) · **mastercoin-whitepaper** ★1 (181 kb)
+**bitcoin-maximalist** ★8 (1166 kb) · **bitcoin-whitepaper** ★10 (107 kb) · **bitsblocks.github.io** ★1 (4080 kb) · **colored-coins-whitepaper** ★1 (175 kb) · **crypto-bubbles** ★4 (218 kb) · **crypto-facts** ★2 (36 kb) · **ethereum** ★5 (50 kb) · **ethereum-whitepaper** ★4 (334 kb) · **get-rich-quick-bible** ★17 (2700 kb) · **islandcoin-whitepaper** ★2 (238 kb) · **mastercoin-whitepaper** ★2 (181 kb)
 
 ### book-templates _(4)_
 
@@ -42,15 +42,15 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### cryptocopycats _(17)_
 
-**awesome-cryptocollectibles** ★42 (706 kb) · **awesome-cryptokitties-bubble** ★522 (5085 kb) · **awesome-mooncatrescue-bubble** ★13 (8830 kb) · **cache.kitties.json** ★2 (17250 kb) · **contracts** ★21 (272 kb) · **copycats** ★29 (2675 kb) · **cryptocopycats.github.io** ★2 (13 kb) · **design.mooncats** ★6 (271 kb) · **kitties** ★13 (27043 kb) · **kittypedia** ★5 (139 kb) · **kittyverse** ★19 (515 kb) · **market.mooncatrescue** ★1 (521 kb) · **media** ★1 (6967 kb) · **mooncatrescue** ★7 (2580 kb) · **mooncats** ★14 (706 kb) · **programming-cryptokitties** ★78 (404 kb) · **programming-mooncats** ★18 (508 kb)
+**awesome-cryptocollectibles** ★42 (706 kb) · **awesome-cryptokitties-bubble** ★524 (5085 kb) · **awesome-mooncatrescue-bubble** ★14 (8830 kb) · **cache.kitties.json** ★2 (17250 kb) · **contracts** ★21 (272 kb) · **copycats** ★30 (2675 kb) · **cryptocopycats.github.io** ★3 (13 kb) · **design.mooncats** ★5 (271 kb) · **kitties** ★13 (27043 kb) · **kittypedia** ★5 (139 kb) · **kittyverse** ★19 (515 kb) · **market.mooncatrescue** ★1 (521 kb) · **media** ★1 (6967 kb) · **mooncatrescue** ★7 (2580 kb) · **mooncats** ★13 (706 kb) · **programming-cryptokitties** ★78 (404 kb) · **programming-mooncats** ★18 (508 kb)
 
 ### cryptopunksnotdead _(23)_
 
-**awesome-24px** ★33 (19543 kb) · **awesome-cryptopunks-bubble** ★120 (5987 kb) · **cryptopunks** ★39 (6305 kb) · **cryptopunksnotdead.github.io** ★9 (317 kb) · **legal** ★4 (277 kb) · **lets-go-programming-cryptopunks** ★34 (1375 kb) · **programming-cryptopunks** ★425 (4562 kb) · **punkart.sandbox** ★6 (349 kb) · **punkbase** ★23 (1883 kb) · **punks.attributes** ★63 (1067 kb) · **punks.contracts** ★27 (877 kb) · **punks.design** ★33 (573 kb) · **punks.journal** ★28 (9397 kb) · **punks.js** ★137 (1024 kb) · **punks.market** ★2 (1646 kb) · **punks.mini** ★8 (2445 kb) · **punks.readymade** ★11 (1021 kb) · **punks.research** ★11 (364 kb) · **punks.sandbox** ★89 (15744 kb) · **punks.server** ★4 (9 kb) · **punks.starter** ★199 (326 kb) · **punks.whitelabel** ★35 (965 kb) · **punkweek** ★5 (4025 kb)
+**awesome-24px** ★34 (19543 kb) · **awesome-cryptopunks-bubble** ★120 (6011 kb) · **cryptopunks** ★39 (6305 kb) · **cryptopunksnotdead.github.io** ★10 (317 kb) · **legal** ★4 (277 kb) · **lets-go-programming-cryptopunks** ★34 (1375 kb) · **programming-cryptopunks** ★421 (4562 kb) · **punkart.sandbox** ★6 (349 kb) · **punkbase** ★24 (1883 kb) · **punks.attributes** ★62 (1067 kb) · **punks.contracts** ★27 (877 kb) · **punks.design** ★32 (573 kb) · **punks.journal** ★28 (9397 kb) · **punks.js** ★138 (1024 kb) · **punks.market** ★2 (1646 kb) · **punks.mini** ★8 (2445 kb) · **punks.readymade** ★11 (1021 kb) · **punks.research** ★14 (364 kb) · **punks.sandbox** ★88 (15744 kb) · **punks.server** ★4 (9 kb) · **punks.starter** ★199 (326 kb) · **punks.whitelabel** ★35 (965 kb) · **punkweek** ★5 (4025 kb)
 
 ### csvspecs _(9)_
 
-**awesome-csv** ★49 (137 kb) · **csv-hxl** ★1 (4 kb) · **csv-json** ★8 (22 kb) · **csv-meta** ★2 (34 kb) · **csv-next** ★5 (12 kb) · **csv-numerics** ★1 (22 kb) · **csv-v10** ★2 (53 kb) · **csv-v11** ★6 (12 kb) · **csv-yaml** ★4 (10 kb)
+**awesome-csv** ★48 (137 kb) · **csv-hxl** ★1 (4 kb) · **csv-json** ★8 (22 kb) · **csv-meta** ★2 (34 kb) · **csv-next** ★5 (12 kb) · **csv-numerics** ★1 (22 kb) · **csv-v10** ★2 (53 kb) · **csv-v11** ★6 (12 kb) · **csv-yaml** ★4 (10 kb)
 
 ### dollzmania _(1)_
 
@@ -58,15 +58,15 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### drjekyllthemes _(5)_
 
-**build** ★3 (256 kb) · **drjekyll** ★41 (28 kb) · **drjekyllthemes.github.io** ★15 (3972 kb) · **test-theme** ★1 (65 kb) · **themes** ★98 (10040 kb)
+**build** ★2 (256 kb) · **drjekyll** ★41 (28 kb) · **drjekyllthemes.github.io** ★15 (3972 kb) · **test-theme** ★1 (65 kb) · **themes** ★98 (10040 kb)
 
 ### factbook _(7)_
 
-**cache.factbook.json** ★7 (125534 kb) · **country-profiles** ★8 (34879 kb) · **factbook** ★137 (872 kb) · **factbook.github.io** ★15 (34614 kb) · **factbook.json** ★959 (56199 kb) · **factbook.sql** ★43 (8 kb) · **media** ★11 (15610 kb)
+**cache.factbook.json** ★8 (150585 kb) · **country-profiles** ★10 (32514 kb) · **factbook** ★140 (872 kb) · **factbook.github.io** ★17 (34614 kb) · **factbook.json** ★994 (49236 kb) · **factbook.sql** ★46 (8 kb) · **media** ★12 (15610 kb)
 
 ### feedreader _(12)_
 
-**feedreader.github.io** ★6 (279 kb) · **jekyll.planet.sample** ★2 (44 kb) · **news.rb** ★20 (19 kb) · **planet.rb** ★32 (47 kb) · **planets** ★20 (66 kb) · **pluto** ★190 (596 kb) · **pluto.admin** ★1 (21 kb) · **pluto.live** ★8 (403 kb) · **pluto.live.starter** ★5 (19 kb) · **pluto.more.tools** ★1 (53 kb) · **pluto.starter** ★12 (38 kb) · **website.old** ★2 (366 kb)
+**feedreader.github.io** ★6 (279 kb) · **jekyll.planet.sample** ★2 (44 kb) · **news.rb** ★20 (19 kb) · **planet.rb** ★34 (47 kb) · **planets** ★20 (68 kb) · **pluto** ★191 (558 kb) · **pluto.admin** ★1 (21 kb) · **pluto.live** ★8 (403 kb) · **pluto.live.starter** ★5 (19 kb) · **pluto.more.tools** ★1 (53 kb) · **pluto.starter** ★13 (38 kb) · **website.old** ★2 (366 kb)
 
 ### footballbook _(2)_
 
@@ -74,15 +74,15 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### footballcsv _(17)_
 
-**austria** ★1 (110 kb) · **belgium** ★1 (316 kb) · **cache.footballdata** ★10 (2419 kb) · **cache.internationals** ★2 (960 kb) · **cache.leagues** ★2 (696 kb) · **cache.soccerdata** ★2 (1934 kb) · **cache.soccerverse** ★11 (2842 kb) · **cache.updates** ★4 (257 kb) · **deutschland** ★12 (1360 kb) · **england** ★151 (8633 kb) · **espana** ★23 (1120 kb) · **europe-champions-league** ★12 (538 kb) · **footballcsv.github.io** ★15 (19 kb) · **major-league-soccer** ★4 (186 kb) · **mexico** ★5 (88 kb) · **spec** ★6 (696 kb) · **world** ★3 (479 kb)
+**austria** ★1 (110 kb) · **cache.api.fbdat** ★4 (872 kb) · **cache.footballdata** ★10 (2912 kb) · **cache.footballsquads** ★1 (18029 kb) · **cache.internationals** ★2 (960 kb) · **cache.leagues** ★2 (696 kb) · **cache.soccerdata** ★3 (1934 kb) · **cache.soccerverse** ★11 (2842 kb) · **cache.wfb** ★5 (2591 kb) · **deutschland** ★12 (1360 kb) · **england** ★155 (8633 kb) · **espana** ★23 (1120 kb) · **europe-champions-league** ★12 (538 kb) · **footballcsv.github.io** ★15 (19 kb) · **major-league-soccer** ★4 (186 kb) · **spec** ★6 (696 kb) · **world** ★3 (489 kb)
 
 ### funpress _(6)_
 
-**babel** ★1 (21 kb) · **elm-by-example** ★1 (209 kb) · **es6-features** ★2 (32 kb) · **funpress.github.io** ★1 (3728 kb) · **mostly-adequate-guide-to-fp** ★17 (3620 kb) · **up-n-going** ★11 (229 kb)
+**babel** ★1 (21 kb) · **elm-by-example** ★1 (209 kb) · **es6-features** ★2 (32 kb) · **funpress.github.io** ★1 (3728 kb) · **mostly-adequate-guide-to-fp** ★18 (3620 kb) · **up-n-going** ★11 (229 kb)
 
 ### generativeartfactory _(3)_
 
-**artfactory** ★3 (46 kb) · **artfactory.sandbox** ★5 (3296 kb) · **artfactory.starter** ★2 (381 kb)
+**artfactory** ★3 (46 kb) · **artfactory.sandbox** ★6 (3296 kb) · **artfactory.starter** ★2 (381 kb)
 
 ### goodbyeaustria _(1)_
 
@@ -98,15 +98,15 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### journaltxt _(3)_
 
-**blog** ★1 (21 kb) · **journaltxt** ★27 (15 kb) · **journaltxt.github.io** ★5 (22 kb)
+**blog** ★1 (21 kb) · **journaltxt** ★28 (15 kb) · **journaltxt.github.io** ★5 (22 kb)
 
 ### json-next _(6)_
 
-**awesome-json-next** ★57 (58 kb) · **awesome-yaml** ★31 (15 kb) · **json-feed** ★1 (10 kb) · **json-next** ★32 (29 kb) · **json-next-tests** ★1 (16 kb) · **json-next.github.io** ★7 (20 kb)
+**awesome-json-next** ★60 (58 kb) · **awesome-yaml** ★32 (19 kb) · **json-feed** ★1 (10 kb) · **json-next** ★32 (29 kb) · **json-next-tests** ★1 (16 kb) · **json-next.github.io** ★6 (20 kb)
 
 ### learnpixelart _(6)_
 
-**currency.starter** ★5 (1703 kb) · **pixelart** ★67 (1419 kb) · **pixelart.go** ★3 (24 kb) · **pixelart.howto** ★337 (6913 kb) · **pixelart.js** ★13 (41 kb) · **pixelart.sandbox** ★12 (731 kb)
+**currency.starter** ★5 (1703 kb) · **pixelart** ★66 (1419 kb) · **pixelart.go** ★3 (24 kb) · **pixelart.howto** ★339 (6913 kb) · **pixelart.js** ★13 (41 kb) · **pixelart.sandbox** ★12 (731 kb)
 
 ### manuscripts _(3)_
 
@@ -122,11 +122,11 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### mundimark _(14)_
 
-**awesome-books** ★60 (204 kb) · **awesome-kramdown** ★39 (13 kb) · **awesome-markdown** ★1378 (75 kb) · **awesome-markdown-alternatives** ★76 (3 kb) · **awesome-markdown-editors** ★933 (105 kb) · **awesome-txt** ★75 (23 kb) · **markdown-can-i-use** ★7 (16 kb) · **markdown-tools** ★6 (5 kb) · **markdown-tools-books** ★9 (5 kb) · **markdown-vs-latex** ★94 (18 kb) · **markdown.pl** ★10 (108 kb) · **mundimark.github.io** ★2 (6 kb) · **quickrefs** ★16 (289 kb) · **why-text** ★5 (24 kb)
+**awesome-books** ★62 (204 kb) · **awesome-kramdown** ★40 (13 kb) · **awesome-markdown** ★1490 (75 kb) · **awesome-markdown-alternatives** ★80 (3 kb) · **awesome-markdown-editors** ★1151 (72 kb) · **awesome-txt** ★80 (23 kb) · **markdown-can-i-use** ★7 (16 kb) · **markdown-tools** ★7 (5 kb) · **markdown-tools-books** ★9 (5 kb) · **markdown-vs-latex** ★97 (18 kb) · **markdown.pl** ★10 (108 kb) · **mundimark.github.io** ★2 (6 kb) · **quickrefs** ★16 (289 kb) · **why-text** ★6 (24 kb)
 
 ### octobook _(6)_
 
-**book-2017-theme** ★4 (182 kb) · **book-2018-theme** ★3 (212 kb) · **book-blank-theme** ★1 (72 kb) · **book-classics-theme** ★6 (145 kb) · **gitbook-to-octobook-sample** ★2 (366 kb) · **octobook** ★6 (2 kb)
+**book-2017-theme** ★4 (182 kb) · **book-2018-theme** ★3 (212 kb) · **book-blank-theme** ★1 (72 kb) · **book-classics-theme** ★5 (145 kb) · **gitbook-to-octobook-sample** ★2 (366 kb) · **octobook** ★6 (2 kb)
 
 ### openbeer _(27)_
 
@@ -134,27 +134,27 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### openblockchains _(17)_
 
-**austrian-blockchain-whitepapers** ★10 (23656 kb) · **awesome-blockchains** ★3709 (2593 kb) · **awesome-coins** ★4 (921 kb) · **awesome-contracts** ★3 (661 kb) · **awesome-diem** ★61 (2286 kb) · **awesome-ico-truths** ★32 (1396 kb) · **awesome-ordinals** ★12 (247 kb) · **awesome-solidity** ★23 (101 kb) · **awesome-tetherino** ★49 (898 kb) · **bitcoin** ★5 (238 kb) · **bitcoin-ponzi** ★38 (698 kb) · **bitcon-books** ★14 (89 kb) · **blockchain-whitepapers** ★9 (27073 kb) · **crypto-books** ★55 (180 kb) · **crypto-quotes** ★13 (200 kb) · **programming-bitcoin-script** ★56 (475 kb) · **programming-blockchains** ★657 (553 kb)
+**austrian-blockchain-whitepapers** ★10 (23656 kb) · **awesome-blockchains** ★3735 (2593 kb) · **awesome-coins** ★5 (921 kb) · **awesome-contracts** ★4 (661 kb) · **awesome-diem** ★61 (2286 kb) · **awesome-ico-truths** ★32 (1396 kb) · **awesome-ordinals** ★16 (247 kb) · **awesome-solidity** ★23 (101 kb) · **awesome-tetherino** ★51 (898 kb) · **bitcoin** ★5 (238 kb) · **bitcoin-ponzi** ★38 (698 kb) · **bitcon-books** ★15 (89 kb) · **blockchain-whitepapers** ★9 (27073 kb) · **crypto-books** ★57 (180 kb) · **crypto-quotes** ★14 (200 kb) · **programming-bitcoin-script** ★64 (475 kb) · **programming-blockchains** ★666 (553 kb)
 
 ### openbookie _(3)_
 
-**market** ★3 (17 kb) · **sport.db.play** ★4 (30 kb) · **sportbook** ★142 (2929 kb)
+**market** ★3 (17 kb) · **sport.db.play** ★4 (30 kb) · **sportbook** ★146 (2929 kb)
 
-### openfootball _(43)_
+### openfootball _(38)_
 
-**africa-cup** ★5 (11 kb) · **austria** ★15 (959 kb) · **awesome-football** ★190 (33 kb) · **club-world-cup** ★3 (7 kb) · **clubs** ★49 (2596 kb) · **confed-cup** ★2 (25 kb) · **copa-america** ★4 (7 kb) · **copa-libertadores** ★4 (22 kb) · **copa-sudamericana** ★3 (3 kb) · **deutschland** ★66 (2235 kb) · **docs** ★19 (707 kb) · **england** ★402 (1657 kb) · **espana** ★65 (897 kb) · **euro** ★40 (62 kb) · **euro.json** ★4 (376 kb) · **europe** ★15 (570 kb) · **europe-champions-league** ★36 (174 kb) · **football.json** ★723 (2268 kb) · **fussball-de** ★2 (192 kb) · **futbol-es** ★2 (164 kb) · **help** ★5 (162 kb) · **italy** ★37 (694 kb) · **lang** ★2 (228 kb) · **league-starter** ★14 (62 kb) · **leagues** ★37 (782 kb) · **mexico** ★3 (120 kb) · **national-teams** ★12 (76 kb) · **north-america-champions-league** ★2 (8 kb) · **north-america-gold-cup** ★2 (18 kb) · **opendata-theme** ★1 (4 kb) · **openfootball.github.io** ★144 (1657 kb) · **players** ★27 (390 kb) · **quick-starter** ★74 (36 kb) · **schema** ★7 (7 kb) · **schema.sql** ★48 (12 kb) · **south-america** ★75 (288 kb) · **spec** ★2 (48 kb) · **stadiums** ★28 (40 kb) · **women-euro-cup** ★1 (8 kb) · **women-world-cup** ★4 (144 kb) · **world** ★4 (712 kb) · **worldcup** ★542 (692 kb) · **worldcup.json** ★177 (81 kb)
+**africa** ★5 (28 kb) · **austria** ★15 (1161 kb) · **awesome-football** ★200 (33 kb) · **champions-league** ★36 (217 kb) · **club-worldcup** ★3 (7 kb) · **clubs** ★50 (2814 kb) · **copa-america** ★7 (76 kb) · **copa-america.json** ★4 (16 kb) · **deutschland** ★68 (2394 kb) · **docs** ★19 (707 kb) · **england** ★408 (2388 kb) · **espana** ★69 (1028 kb) · **euro** ★50 (266 kb) · **euro.json** ★14 (399 kb) · **europe** ★15 (963 kb) · **football.json** ★735 (2617 kb) · **fussball-de** ★2 (192 kb) · **futbol-es** ★2 (164 kb) · **help** ★5 (162 kb) · **italy** ★37 (840 kb) · **league-starter** ★14 (59 kb) · **leagues** ★39 (745 kb) · **mexico** ★3 (190 kb) · **north-america-champions-league** ★2 (8 kb) · **north-america-gold-cup** ★2 (18 kb) · **opendata-theme** ★1 (4 kb) · **openfootball.github.io** ★143 (1661 kb) · **players** ★26 (1184 kb) · **quick-starter** ★76 (42 kb) · **sandbox** ★29 (59 kb) · **schema** ★7 (7 kb) · **schema.sql** ★48 (12 kb) · **south-america** ★77 (459 kb) · **spec** ★2 (48 kb) · **v0-format** ★4 (1266 kb) · **world** ★4 (708 kb) · **worldcup** ★545 (707 kb) · **worldcup.json** ★176 (81 kb)
 
 ### openmundi _(12)_
 
-**austria.db** ★4 (396 kb) · **datafile** ★2 (2 kb) · **deutschland.db** ★4 (212 kb) · **langs** ★1 (116 kb) · **mundo-es** ★1 (112 kb) · **notes** ★1 (132 kb) · **openmundi.github.io** ★5 (329 kb) · **welt-de** ★1 (112 kb) · **wien.db** ★1 (114 kb) · **world-heritage** ★3 (144 kb) · **world.csv** ★15 (176 kb) · **world.db** ★572 (1088 kb)
+**austria.db** ★4 (396 kb) · **datafile** ★2 (2 kb) · **deutschland.db** ★4 (212 kb) · **langs** ★1 (116 kb) · **mundo-es** ★1 (112 kb) · **notes** ★1 (132 kb) · **openmundi.github.io** ★5 (329 kb) · **welt-de** ★1 (112 kb) · **wien.db** ★1 (114 kb) · **world-heritage** ★3 (144 kb) · **world.csv** ★15 (176 kb) · **world.db** ★570 (1088 kb)
 
 ### openpunkart _(10)_
 
-**dogeart.blocks** ★16 (69 kb) · **punkart.blocks** ★72 (854 kb) · **punkart.blocks.accessories** ★2 (162 kb) · **punkart.blocks.black** ★2 (92 kb) · **punkart.blocks.bodies** ★16 (178 kb) · **punkart.blocks.hair** ★2 (282 kb) · **punkart.blocks.more** ★4 (34 kb) · **punkart.blocks.readymade** ★2 (60 kb) · **punkart.spritesheet** ★2 (124 kb) · **punkart.starter.magick** ★7 (417 kb)
+**dogeart.blocks** ★16 (69 kb) · **punkart.blocks** ★71 (854 kb) · **punkart.blocks.accessories** ★2 (162 kb) · **punkart.blocks.black** ★2 (92 kb) · **punkart.blocks.bodies** ★16 (178 kb) · **punkart.blocks.hair** ★2 (282 kb) · **punkart.blocks.more** ★4 (34 kb) · **punkart.blocks.readymade** ★2 (60 kb) · **punkart.spritesheet** ★2 (124 kb) · **punkart.starter.magick** ★7 (417 kb)
 
 ### opensport _(6)_
 
-**american-football.db** ★17 (160 kb) · **formula1.db** ★18 (204 kb) · **hockey.db** ★4 (160 kb) · **opensport.github.io** ★44 (1181 kb) · **rugby.db** ★4 (156 kb) · **ski.db** ★2 (154 kb)
+**american-football.db** ★17 (160 kb) · **formula1.db** ★18 (204 kb) · **hockey.db** ★4 (160 kb) · **opensport.github.io** ★46 (1181 kb) · **rugby.db** ★5 (156 kb) · **ski.db** ★2 (154 kb)
 
 ### openwine _(1)_
 
@@ -162,15 +162,15 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### orc721 _(10)_
 
-**lostfiles.starter** ★2 (41 kb) · **market** ★7 (3145 kb) · **monkes.starter** ★24 (382 kb) · **nodepunks** ★16 (296 kb) · **orc721.github.io** ★5 (694 kb) · **orditroops.starter** ★8 (5032 kb) · **punks12px** ★3 (8278 kb) · **punks24px** ★4 (1609 kb) · **rocks.starter** ★20 (29 kb) · **sandbox** ★18 (379 kb)
+**lostfiles.starter** ★2 (41 kb) · **market** ★8 (3145 kb) · **monkes.starter** ★24 (382 kb) · **nodepunks** ★17 (296 kb) · **orc721.github.io** ★6 (694 kb) · **orditroops.starter** ★8 (5032 kb) · **punks12px** ★3 (8278 kb) · **punks24px** ★4 (1609 kb) · **rocks.starter** ★20 (29 kb) · **sandbox** ★18 (379 kb)
 
 ### ordbase _(11)_
 
-**generative-orc-721** ★42 (4512 kb) · **letsrock** ★4 (926 kb) · **monkesee-monkedo** ★13 (20539 kb) · **ordbase** ★15 (9425 kb) · **ordbase.github.io** ★54 (8466 kb) · **ordbase.server** ★9 (270 kb) · **ordinals.cache** ★20 (8783 kb) · **ordinals.cache.more** ★2 (227 kb) · **ordinals.sandbox** ★13 (6140 kb) · **programming-ordinals** ★10 (8585 kb) · **welovepunks** ★2 (3850 kb)
+**generative-orc-721** ★44 (4512 kb) · **letsrock** ★5 (926 kb) · **monkesee-monkedo** ★14 (20539 kb) · **ordbase** ★18 (9425 kb) · **ordbase.github.io** ★55 (8466 kb) · **ordbase.server** ★10 (270 kb) · **ordinals.cache** ★22 (8783 kb) · **ordinals.cache.more** ★2 (227 kb) · **ordinals.sandbox** ★15 (6140 kb) · **programming-ordinals** ★10 (8585 kb) · **welovepunks** ★4 (3850 kb)
 
 ### ordinalpunks _(4)_
 
-**awesome-ordinalpunks** ★4 (898 kb) · **ordinalpunks.sandbox** ★5 (5516 kb) · **ordinalpunks.server** ★5 (139 kb) · **ordinalpunks.starter** ★8 (292 kb)
+**awesome-ordinalpunks** ★4 (898 kb) · **ordinalpunks.sandbox** ★5 (5516 kb) · **ordinalpunks.server** ★5 (139 kb) · **ordinalpunks.starter** ★9 (292 kb)
 
 ### ordtest _(1)_
 
@@ -178,7 +178,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### pixelartexchange _(11)_
 
-**artbase** ★13 (6125 kb) · **artbase.js** ★7 (13326 kb) · **artbase.sandbox** ★18 (92369 kb) · **artbase.sandbox.vol2** ★3 (30869 kb) · **artbase.sandbox.vol3** ★11 (4119 kb) · **artbase.server** ★77 (174 kb) · **collections** ★9 (88873 kb) · **collections.meta** ★9 (695 kb) · **moonbirds.sandbox** ★13 (22093 kb) · **opensea.cache** ★27 (1109 kb) · **opensea.sandbox** ★5 (4855 kb)
+**artbase** ★13 (6125 kb) · **artbase.js** ★7 (13326 kb) · **artbase.sandbox** ★19 (92369 kb) · **artbase.sandbox.vol2** ★3 (30869 kb) · **artbase.sandbox.vol3** ★11 (4119 kb) · **artbase.server** ★78 (174 kb) · **collections** ★10 (88873 kb) · **collections.meta** ★9 (695 kb) · **moonbirds.sandbox** ★14 (22093 kb) · **opensea.cache** ★27 (1109 kb) · **opensea.sandbox** ★5 (4855 kb)
 
 ### planet-templates _(11)_
 
@@ -190,19 +190,19 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### planetjekyll _(13)_
 
-**awesome-jekyll** ★581 (128 kb) · **awesome-jekyll-editors** ★383 (25 kb) · **awesome-jekyll-plugins** ★1277 (237 kb) · **awesome-jekyll-themes** ★492 (45 kb) · **planet** ★1 (170 kb) · **planetjekyll.github.io** ★10 (112 kb) · **quickrefs** ★85 (79 kb) · **sandbox** ★2 (81 kb) · **sandbox-collections** ★2 (11 kb) · **sandbox-github-pages** ★1 (30 kb) · **sandbox-syntax-highlighter** ★1 (12 kb) · **showcase** ★6 (2686 kb) · **snippets** ★13 (16 kb)
+**awesome-jekyll** ★585 (128 kb) · **awesome-jekyll-editors** ★396 (25 kb) · **awesome-jekyll-plugins** ★1327 (176 kb) · **awesome-jekyll-themes** ★508 (45 kb) · **planet** ★1 (170 kb) · **planetjekyll.github.io** ★10 (112 kb) · **quickrefs** ★85 (79 kb) · **sandbox** ★2 (81 kb) · **sandbox-collections** ★2 (11 kb) · **sandbox-github-pages** ★1 (30 kb) · **sandbox-syntax-highlighter** ★1 (12 kb) · **showcase** ★7 (2686 kb) · **snippets** ★14 (16 kb)
 
 ### planetopendata _(3)_
 
-**awesome-sqlite** ★283 (72 kb) · **awesome-world** ★206 (204 kb) · **planet** ★1 (206 kb)
+**awesome-sqlite** ★316 (82 kb) · **awesome-world** ★207 (204 kb) · **planet** ★1 (206 kb)
 
 ### planetruby _(15)_
 
-**apps** ★1 (161 kb) · **awesome** ★209 (165 kb) · **awesome-rubies** ★335 (180 kb) · **books** ★56 (418 kb) · **books-old** ★3 (661 kb) · **calendar-theme** ★1 (16 kb) · **changes** ★3 (155 kb) · **conferences** ★258 (1083 kb) · **gems** ★75 (3449 kb) · **hellohoe** ★3 (2 kb) · **meetups** ★13 (44 kb) · **planet** ★15 (172 kb) · **planetruby.github.io** ★2 (703 kb) · **quickrefs** ★1 (37 kb) · **quiz** ★66 (275 kb)
+**apps** ★1 (161 kb) · **awesome** ★209 (165 kb) · **awesome-rubies** ★340 (180 kb) · **books** ★57 (418 kb) · **books-old** ★3 (661 kb) · **calendar-theme** ★1 (16 kb) · **changes** ★3 (155 kb) · **conferences** ★258 (1083 kb) · **gems** ★75 (3449 kb) · **hellohoe** ★3 (2 kb) · **meetups** ★13 (59 kb) · **planet** ★15 (172 kb) · **planetruby.github.io** ★2 (703 kb) · **quickrefs** ★1 (37 kb) · **quiz** ★68 (278 kb)
 
 ### profilepic _(3)_
 
-**originals** ★26 (174 kb) · **profilepic** ★5 (159 kb) · **text-to-image** ★21 (896 kb)
+**originals** ★27 (174 kb) · **profilepic** ★5 (159 kb) · **text-to-image** ★21 (896 kb)
 
 ### punks24px _(0)_
 
@@ -214,15 +214,15 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### rsssf _(6)_
 
-**austria** ★1 (57 kb) · **brazil** ★1 (284 kb) · **deutschland** ★1 (1654 kb) · **england** ★1 (117 kb) · **espana** ★2 (264 kb) · **rsssf.github.io** ★3 (204 kb)
+**austria** ★1 (523 kb) · **brazil** ★1 (1073 kb) · **deutschland** ★1 (2939 kb) · **england** ★1 (841 kb) · **espana** ★2 (507 kb) · **rsssf.github.io** ★3 (52 kb)
 
 ### rubycocos _(17)_
 
-**.github** ★2 (16 kb) · **activerecord** ★2 (78 kb) · **blockchain** ★215 (4202 kb) · **cocos** ★53 (105 kb) · **core** ★7 (249 kb) · **csvreader** ★179 (468 kb) · **datasets** ★1 (55 kb) · **events** ★12 (57 kb) · **feedparser** ★164 (1190 kb) · **gems** ★5 (439 kb) · **git** ★19 (589 kb) · **markdown** ★52 (205 kb) · **more** ★3 (98 kb) · **rubycocos.github.io** ★2 (31 kb) · **text** ★3 (200 kb) · **webclient** ★6 (48 kb) · **webservice** ★8 (48 kb)
+**.github** ★2 (16 kb) · **activerecord** ★2 (78 kb) · **blockchain** ★222 (4202 kb) · **cocos** ★53 (111 kb) · **core** ★7 (253 kb) · **csvreader** ★178 (468 kb) · **datasets** ★1 (62 kb) · **events** ★11 (57 kb) · **feedparser** ★164 (1190 kb) · **gems** ★5 (439 kb) · **git** ★19 (589 kb) · **markdown** ★52 (186 kb) · **more** ★4 (98 kb) · **rubycocos.github.io** ★2 (31 kb) · **text** ★3 (200 kb) · **webclient** ★6 (56 kb) · **webservice** ★8 (48 kb)
 
 ### s6ruby _(4)_
 
-**ethereum-contracts** ★19 (89 kb) · **programming-crypto-contracts** ★78 (594 kb) · **redpaper** ★22 (44 kb) · **universum** ★18 (185 kb)
+**ethereum-contracts** ★22 (89 kb) · **programming-crypto-contracts** ★85 (594 kb) · **redpaper** ★23 (44 kb) · **universum** ★18 (185 kb)
 
 ### schemadoc _(2)_
 
@@ -234,19 +234,19 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### slideshow-s9 _(9)_
 
-**awesome-slideshows** ★35 (5 kb) · **demos** ★7 (10809 kb) · **docs** ★12 (156 kb) · **samples** ★2 (122 kb) · **slideshow** ★185 (1334 kb) · **slideshow-plugins** ★1 (4 kb) · **slideshow-s9.github.io** ★13 (3739 kb) · **slideshow-service** ★2 (355 kb) · **slideshow-starter** ★5 (64 kb)
+**awesome-slideshows** ★38 (5 kb) · **demos** ★7 (10809 kb) · **docs** ★12 (156 kb) · **samples** ★2 (122 kb) · **slideshow** ★186 (1334 kb) · **slideshow-plugins** ★1 (4 kb) · **slideshow-s9.github.io** ★13 (3739 kb) · **slideshow-service** ★2 (355 kb) · **slideshow-starter** ★5 (64 kb)
 
 ### slideshow-templates _(16)_
 
-**media** ★1 (51227 kb) · **slideshow-bespoke.js** ★3 (46 kb) · **slideshow-csss** ★8 (103 kb) · **slideshow-deck.js** ★14 (191 kb) · **slideshow-google-html5-slides** ★42 (3528 kb) · **slideshow-google-io-2011-slides** ★1 (555 kb) · **slideshow-impress.js** ★99 (77 kb) · **slideshow-reveal.js** ★18 (1536 kb) · **slideshow-s5-blank** ★6 (90 kb) · **slideshow-s5-themes** ★2 (160 kb) · **slideshow-s6-blank** ★6 (215 kb) · **slideshow-s6-blank-v1** ★1 (90 kb) · **slideshow-s6-syntax-highlighter** ★3 (194 kb) · **slideshow-shower** ★14 (5085 kb) · **slideshow-slidy** ★21 (300 kb) · **slideshow-templates.github.io** ★3 (31 kb)
+**media** ★1 (51227 kb) · **slideshow-bespoke.js** ★3 (46 kb) · **slideshow-csss** ★9 (103 kb) · **slideshow-deck.js** ★14 (191 kb) · **slideshow-google-html5-slides** ★42 (3528 kb) · **slideshow-google-io-2011-slides** ★1 (555 kb) · **slideshow-impress.js** ★99 (77 kb) · **slideshow-reveal.js** ★18 (1536 kb) · **slideshow-s5-blank** ★6 (90 kb) · **slideshow-s5-themes** ★2 (160 kb) · **slideshow-s6-blank** ★6 (215 kb) · **slideshow-s6-blank-v1** ★1 (90 kb) · **slideshow-s6-syntax-highlighter** ★3 (194 kb) · **slideshow-shower** ★14 (5085 kb) · **slideshow-slidy** ★21 (300 kb) · **slideshow-templates.github.io** ★3 (31 kb)
 
 ### soliscript _(2)_
 
 **soliscript** ★1 (30 kb) · **soliscript.starter** ★2 (15 kb)
 
-### sportdb _(13)_
+### sportdb _(14)_
 
-**datasets** ★4 (19 kb) · **docs** ★4 (56 kb) · **football.db** ★9 (219 kb) · **footty** ★15 (24 kb) · **sport.db** ★217 (2379 kb) · **sport.db.admin** ★17 (1719 kb) · **sport.db.service** ★2 (10 kb) · **sport.db.sources** ★9 (96 kb) · **sport.db.starter.go** ★2 (192 kb) · **sport.db.starter.js** ★6 (259 kb) · **sport.db.starter.ruby** ★15 (13 kb) · **sport.db.web** ★4 (172 kb) · **sportdb.github.io** ★1 (91 kb)
+**datasets** ★4 (19 kb) · **docs** ★5 (38 kb) · **fifa** ★12 (108 kb) · **football.db** ★9 (231 kb) · **footty** ★15 (39 kb) · **sport.db** ★222 (3463 kb) · **sport.db.admin** ★17 (1719 kb) · **sport.db.archive** ★15 (219 kb) · **sport.db.service** ★2 (10 kb) · **sport.db.sources** ★9 (215 kb) · **sport.db.starter.go** ★2 (192 kb) · **sport.db.starter.js** ★6 (259 kb) · **sport.db.web** ★4 (172 kb) · **sportdb.github.io** ★1 (91 kb)
 
 ### sportlogos _(6)_
 
@@ -254,7 +254,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### staystatic _(4)_
 
-**awesome-static** ★47 (22 kb) · **staystatic** ★60 (212 kb) · **staystatic-starter** ★3 (7 kb) · **staystatic.github.io** ★9 (1565 kb)
+**awesome-static** ★47 (25 kb) · **staystatic** ★59 (212 kb) · **staystatic-starter** ★3 (7 kb) · **staystatic.github.io** ★9 (1565 kb)
 
 ### texti _(2)_
 
@@ -262,7 +262,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### updownpress _(2)_
 
-**markdown-lint** ★55 (49 kb) · **updownpress.github.io** ★1 (7 kb)
+**markdown-lint** ★57 (48 kb) · **updownpress.github.io** ★1 (7 kb)
 
 ### webstart _(1)_
 
@@ -270,7 +270,7 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### wikiscript _(4)_
 
-**beer.json** ★1 (29 kb) · **countries.json** ★13 (706 kb) · **football.json** ★1 (484 kb) · **wikiscript** ★6 (230 kb)
+**beer.json** ★1 (29 kb) · **countries.json** ★14 (706 kb) · **football.json** ★1 (597 kb) · **wikiscript** ★6 (210 kb)
 
 ### worldclassics _(3)_
 
@@ -278,9 +278,9 @@ built with [Hubba v1.0.1](https://github.com/rubycoco/git/tree/master/hubba-repo
 
 ### worlddb _(5)_
 
-**world.db** ★73 (469 kb) · **world.db.admin** ★9 (1840 kb) · **world.db.flags** ★9 (1644 kb) · **world.db.service** ★1 (1 kb) · **world.db.starter** ★8 (29 kb)
+**world.db** ★73 (469 kb) · **world.db.admin** ★9 (1840 kb) · **world.db.flags** ★10 (1644 kb) · **world.db.service** ★1 (1 kb) · **world.db.starter** ★8 (29 kb)
 
 ### yukimotopress _(15)_
 
-**auto** ★2 (72 kb) · **blockchains** ★58 (455 kb) · **examples** ★1 (28 kb) · **fizzbuzz** ★2 (19 kb) · **gem-dev** ★23 (31 kb) · **gem-tasks** ★16 (64 kb) · **http** ★17 (10 kb) · **langs** ★33 (122 kb) · **micro** ★1 (179 kb) · **practices** ★2 (324 kb) · **practicing** ★55 (93 kb) · **sinatra-intro** ★13 (20 kb) · **smalldata** ★5 (39 kb) · **start** ★2 (165 kb) · **yukimotopress.github.io** ★10 (847 kb)
+**auto** ★2 (72 kb) · **blockchains** ★57 (455 kb) · **examples** ★1 (28 kb) · **fizzbuzz** ★2 (19 kb) · **gem-dev** ★23 (31 kb) · **gem-tasks** ★16 (64 kb) · **http** ★17 (10 kb) · **langs** ★33 (122 kb) · **micro** ★1 (179 kb) · **practices** ★2 (324 kb) · **practicing** ★56 (93 kb) · **sinatra-intro** ★13 (20 kb) · **smalldata** ★5 (39 kb) · **start** ★2 (165 kb) · **yukimotopress.github.io** ★10 (847 kb)
 
